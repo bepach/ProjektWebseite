@@ -13,4 +13,6 @@ function convertJSONTOTable(jsonData){
     document.getElementById('table-container').innerHTML = table;
 }
 
-fetch("company.json").then(response => response.json()).then(jsonData => convertJSONTOTable(jsonData));
+fetch("https://github.com/bepach/ProjektWebseite/blob/ee4f862fad8b86f1fc7f12f261d3f71161d00320/company.json")
+    .then(response => response.json())
+    .then(jsonData => convertJSONTOTable(jsonData));
