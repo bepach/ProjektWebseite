@@ -1,4501 +1,4051 @@
 [
   {
-    "company": "Russian Federation",
+    "year": 2013,
     "data": [
       {
-        "year": 2013,
-        "c02": 652
+        "company": "Waab",
+        "c02": 26
       },
       {
-        "year": 2014,
-        "c02": 530
+        "company": "Songlines",
+        "c02": 74
       },
       {
-        "year": 2015,
-        "c02": 1092
+        "company": "Vicon",
+        "c02": 81
       },
       {
-        "year": 2016,
-        "c02": 935
+        "company": "Mediot",
+        "c02": 75
       },
       {
-        "year": 2017,
-        "c02": 697
+        "company": "Vortexaco",
+        "c02": 41
       },
       {
-        "year": 2018,
-        "c02": 591
+        "company": "Maximind",
+        "c02": 97
       },
       {
-        "year": 2019,
-        "c02": 609
+        "company": "Chorizon",
+        "c02": 41
       },
       {
-        "year": 2020,
-        "c02": 674
+        "company": "Equitox",
+        "c02": 88
       },
       {
-        "year": 2021,
-        "c02": 637
+        "company": "Jamnation",
+        "c02": 34
       },
       {
-        "year": 2022,
-        "c02": 872
-      }
-    ]
-  },
-  {
-    "company": "Cocos (Keeling Islands)",
-    "data": [
+        "company": "Stucco",
+        "c02": 31
+      },
       {
-        "year": 2013,
-        "c02": 994
+        "company": "Homelux",
+        "c02": 26
       },
       {
-        "year": 2014,
-        "c02": 969
+        "company": "Silodyne",
+        "c02": 41
       },
       {
-        "year": 2015,
-        "c02": 779
+        "company": "Perkle",
+        "c02": 69
       },
       {
-        "year": 2016,
-        "c02": 447
+        "company": "Balooba",
+        "c02": 73
       },
       {
-        "year": 2017,
-        "c02": 985
+        "company": "Handshake",
+        "c02": 31
       },
       {
-        "year": 2018,
-        "c02": 635
+        "company": "Sureplex",
+        "c02": 66
       },
       {
-        "year": 2019,
-        "c02": 722
+        "company": "Kneedles",
+        "c02": 28
       },
       {
-        "year": 2020,
-        "c02": 617
+        "company": "Techade",
+        "c02": 65
       },
       {
-        "year": 2021,
-        "c02": 625
+        "company": "Accusage",
+        "c02": 87
       },
       {
-        "year": 2022,
-        "c02": 978
-      }
-    ]
-  },
-  {
-    "company": "Ukraine",
-    "data": [
+        "company": "Oulu",
+        "c02": 90
+      },
       {
-        "year": 2013,
-        "c02": 743
+        "company": "Autograte",
+        "c02": 50
       },
       {
-        "year": 2014,
-        "c02": 1099
+        "company": "Koogle",
+        "c02": 7
       },
       {
-        "year": 2015,
-        "c02": 948
+        "company": "Letpro",
+        "c02": 28
       },
       {
-        "year": 2016,
-        "c02": 876
+        "company": "Comtour",
+        "c02": 58
       },
       {
-        "year": 2017,
-        "c02": 480
+        "company": "Zuvy",
+        "c02": 14
       },
       {
-        "year": 2018,
-        "c02": 719
+        "company": "Nexgene",
+        "c02": 86
       },
       {
-        "year": 2019,
-        "c02": 1006
+        "company": "Extragen",
+        "c02": 29
       },
       {
-        "year": 2020,
-        "c02": 928
+        "company": "Netplode",
+        "c02": 45
       },
       {
-        "year": 2021,
-        "c02": 636
+        "company": "Datagene",
+        "c02": 93
       },
       {
-        "year": 2022,
-        "c02": 472
-      }
-    ]
-  },
-  {
-    "company": "Falkland Islands (Malvinas)",
-    "data": [
+        "company": "Tetak",
+        "c02": 48
+      },
       {
-        "year": 2013,
-        "c02": 444
+        "company": "Candecor",
+        "c02": 23
       },
       {
-        "year": 2014,
-        "c02": 558
+        "company": "Pyrami",
+        "c02": 7
       },
       {
-        "year": 2015,
-        "c02": 798
+        "company": "Enersave",
+        "c02": 50
       },
       {
-        "year": 2016,
-        "c02": 925
+        "company": "Bluplanet",
+        "c02": 89
       },
       {
-        "year": 2017,
-        "c02": 653
+        "company": "Quantasis",
+        "c02": 63
       },
       {
-        "year": 2018,
-        "c02": 930
+        "company": "Netagy",
+        "c02": 29
       },
       {
-        "year": 2019,
-        "c02": 977
+        "company": "Xth",
+        "c02": 59
       },
       {
-        "year": 2020,
-        "c02": 587
+        "company": "Zosis",
+        "c02": 67
       },
       {
-        "year": 2021,
-        "c02": 643
+        "company": "Voratak",
+        "c02": 62
       },
       {
-        "year": 2022,
-        "c02": 603
-      }
-    ]
-  },
-  {
-    "company": "Turkmenistan",
-    "data": [
+        "company": "Isologia",
+        "c02": 85
+      },
       {
-        "year": 2013,
-        "c02": 417
+        "company": "Xsports",
+        "c02": 86
       },
       {
-        "year": 2014,
-        "c02": 622
+        "company": "Junipoor",
+        "c02": 92
       },
       {
-        "year": 2015,
-        "c02": 829
+        "company": "Elentrix",
+        "c02": 46
       },
       {
-        "year": 2016,
-        "c02": 600
+        "company": "Assistia",
+        "c02": 53
       },
       {
-        "year": 2017,
-        "c02": 1086
+        "company": "Typhonica",
+        "c02": 15
       },
       {
-        "year": 2018,
-        "c02": 1053
+        "company": "Plutorque",
+        "c02": 29
       },
       {
-        "year": 2019,
-        "c02": 899
+        "company": "Zialactic",
+        "c02": 8
       },
       {
-        "year": 2020,
-        "c02": 980
+        "company": "Mantro",
+        "c02": 40
       },
       {
-        "year": 2021,
-        "c02": 901
+        "company": "Senmao",
+        "c02": 49
       },
       {
-        "year": 2022,
-        "c02": 537
-      }
-    ]
-  },
-  {
-    "company": "Mali",
-    "data": [
+        "company": "Lyria",
+        "c02": 40
+      },
       {
-        "year": 2013,
-        "c02": 572
+        "company": "Housedown",
+        "c02": 89
       },
       {
-        "year": 2014,
-        "c02": 1063
+        "company": "Corporana",
+        "c02": 59
       },
       {
-        "year": 2015,
-        "c02": 407
+        "company": "Isologix",
+        "c02": 41
       },
       {
-        "year": 2016,
-        "c02": 818
+        "company": "Apexia",
+        "c02": 50
       },
       {
-        "year": 2017,
-        "c02": 1061
+        "company": "Zilla",
+        "c02": 22
       },
       {
-        "year": 2018,
-        "c02": 445
+        "company": "Gogol",
+        "c02": 73
       },
       {
-        "year": 2019,
-        "c02": 651
+        "company": "Solaren",
+        "c02": 93
       },
       {
-        "year": 2020,
-        "c02": 476
+        "company": "Metroz",
+        "c02": 38
       },
       {
-        "year": 2021,
-        "c02": 476
+        "company": "Nimon",
+        "c02": 39
       },
       {
-        "year": 2022,
-        "c02": 1057
-      }
-    ]
-  },
-  {
-    "company": "Barbados",
-    "data": [
+        "company": "Satiance",
+        "c02": 89
+      },
       {
-        "year": 2013,
-        "c02": 539
+        "company": "Inrt",
+        "c02": 40
       },
       {
-        "year": 2014,
-        "c02": 518
+        "company": "Bedlam",
+        "c02": 15
       },
       {
-        "year": 2015,
-        "c02": 1006
+        "company": "Mondicil",
+        "c02": 36
       },
       {
-        "year": 2016,
-        "c02": 821
+        "company": "Artworlds",
+        "c02": 18
       },
       {
-        "year": 2017,
-        "c02": 754
+        "company": "Empirica",
+        "c02": 55
       },
       {
-        "year": 2018,
-        "c02": 762
+        "company": "Quiltigen",
+        "c02": 60
       },
       {
-        "year": 2019,
-        "c02": 653
+        "company": "Buzzopia",
+        "c02": 23
       },
       {
-        "year": 2020,
-        "c02": 638
+        "company": "Panzent",
+        "c02": 95
       },
       {
-        "year": 2021,
-        "c02": 916
+        "company": "Ronelon",
+        "c02": 24
       },
       {
-        "year": 2022,
-        "c02": 1028
-      }
-    ]
-  },
-  {
-    "company": "Libya",
-    "data": [
+        "company": "Enquility",
+        "c02": 22
+      },
       {
-        "year": 2013,
-        "c02": 1094
+        "company": "Gracker",
+        "c02": 23
       },
       {
-        "year": 2014,
-        "c02": 763
+        "company": "Melbacor",
+        "c02": 74
       },
       {
-        "year": 2015,
-        "c02": 808
+        "company": "Rubadub",
+        "c02": 39
       },
       {
-        "year": 2016,
-        "c02": 535
+        "company": "Ontagene",
+        "c02": 29
       },
       {
-        "year": 2017,
-        "c02": 1094
+        "company": "Intradisk",
+        "c02": 96
       },
       {
-        "year": 2018,
-        "c02": 844
+        "company": "Interfind",
+        "c02": 62
       },
       {
-        "year": 2019,
-        "c02": 856
+        "company": "Vinch",
+        "c02": 86
       },
       {
-        "year": 2020,
-        "c02": 579
+        "company": "Isonus",
+        "c02": 88
       },
       {
-        "year": 2021,
-        "c02": 992
+        "company": "Barkarama",
+        "c02": 37
       },
       {
-        "year": 2022,
-        "c02": 938
-      }
-    ]
-  },
-  {
-    "company": "Paraguay",
-    "data": [
+        "company": "Frenex",
+        "c02": 7
+      },
       {
-        "year": 2013,
-        "c02": 983
+        "company": "Genekom",
+        "c02": 19
       },
       {
-        "year": 2014,
-        "c02": 1088
+        "company": "Zilch",
+        "c02": 68
       },
       {
-        "year": 2015,
-        "c02": 408
+        "company": "Isologica",
+        "c02": 59
       },
       {
-        "year": 2016,
-        "c02": 783
+        "company": "Comtest",
+        "c02": 14
       },
       {
-        "year": 2017,
-        "c02": 1030
+        "company": "Bisba",
+        "c02": 77
       },
       {
-        "year": 2018,
-        "c02": 708
+        "company": "Prosely",
+        "c02": 33
       },
       {
-        "year": 2019,
-        "c02": 723
+        "company": "Quarmony",
+        "c02": 75
       },
       {
-        "year": 2020,
-        "c02": 464
+        "company": "Kog",
+        "c02": 65
       },
       {
-        "year": 2021,
-        "c02": 704
+        "company": "Navir",
+        "c02": 50
       },
       {
-        "year": 2022,
-        "c02": 990
-      }
-    ]
-  },
-  {
-    "company": "Morocco",
-    "data": [
+        "company": "Liquicom",
+        "c02": 78
+      },
       {
-        "year": 2013,
-        "c02": 658
+        "company": "Uberlux",
+        "c02": 46
       },
       {
-        "year": 2014,
-        "c02": 887
+        "company": "Calcula",
+        "c02": 43
       },
       {
-        "year": 2015,
-        "c02": 920
+        "company": "Magnina",
+        "c02": 39
       },
       {
-        "year": 2016,
-        "c02": 931
+        "company": "Norali",
+        "c02": 70
       },
       {
-        "year": 2017,
-        "c02": 915
+        "company": "Bugsall",
+        "c02": 50
       },
       {
-        "year": 2018,
-        "c02": 1033
+        "company": "Automon",
+        "c02": 45
       },
       {
-        "year": 2019,
-        "c02": 976
+        "company": "Geekosis",
+        "c02": 18
       },
       {
-        "year": 2020,
-        "c02": 796
+        "company": "Zenco",
+        "c02": 92
       },
       {
-        "year": 2021,
-        "c02": 575
+        "company": "Exospace",
+        "c02": 54
       },
       {
-        "year": 2022,
-        "c02": 1039
+        "company": "Terrasys",
+        "c02": 97
       }
     ]
   },
   {
-    "company": "Nicaragua",
+    "year": 2014,
     "data": [
       {
-        "year": 2013,
-        "c02": 925
+        "company": "Qualitex",
+        "c02": 95
       },
       {
-        "year": 2014,
-        "c02": 1092
+        "company": "Exovent",
+        "c02": 34
       },
       {
-        "year": 2015,
-        "c02": 751
+        "company": "Ecstasia",
+        "c02": 86
       },
       {
-        "year": 2016,
-        "c02": 875
+        "company": "Harmoney",
+        "c02": 97
       },
       {
-        "year": 2017,
-        "c02": 512
+        "company": "Injoy",
+        "c02": 40
       },
       {
-        "year": 2018,
-        "c02": 876
+        "company": "Tsunamia",
+        "c02": 80
       },
       {
-        "year": 2019,
-        "c02": 814
+        "company": "Boilicon",
+        "c02": 84
       },
       {
-        "year": 2020,
-        "c02": 589
+        "company": "Aeora",
+        "c02": 96
       },
       {
-        "year": 2021,
-        "c02": 760
+        "company": "Aquoavo",
+        "c02": 25
       },
       {
-        "year": 2022,
-        "c02": 900
-      }
-    ]
-  },
-  {
-    "company": "Heard and McDonald Islands",
-    "data": [
+        "company": "Hopeli",
+        "c02": 91
+      },
       {
-        "year": 2013,
-        "c02": 708
+        "company": "Comtract",
+        "c02": 71
       },
       {
-        "year": 2014,
-        "c02": 792
+        "company": "Cytrek",
+        "c02": 94
       },
       {
-        "year": 2015,
-        "c02": 1002
+        "company": "Orbixtar",
+        "c02": 42
       },
       {
-        "year": 2016,
-        "c02": 917
+        "company": "Octocore",
+        "c02": 76
       },
       {
-        "year": 2017,
-        "c02": 791
+        "company": "Acruex",
+        "c02": 3
       },
       {
-        "year": 2018,
-        "c02": 1021
+        "company": "Zensus",
+        "c02": 97
       },
       {
-        "year": 2019,
-        "c02": 726
+        "company": "Softmicro",
+        "c02": 39
       },
       {
-        "year": 2020,
-        "c02": 518
+        "company": "Anivet",
+        "c02": 76
       },
       {
-        "year": 2021,
-        "c02": 863
+        "company": "Savvy",
+        "c02": 41
       },
       {
-        "year": 2022,
-        "c02": 758
-      }
-    ]
-  },
-  {
-    "company": "Brunei Darussalam",
-    "data": [
+        "company": "Accruex",
+        "c02": 81
+      },
       {
-        "year": 2013,
-        "c02": 844
+        "company": "Marketoid",
+        "c02": 15
       },
       {
-        "year": 2014,
-        "c02": 491
+        "company": "Namegen",
+        "c02": 84
       },
       {
-        "year": 2015,
-        "c02": 574
+        "company": "Comtrek",
+        "c02": 47
       },
       {
-        "year": 2016,
-        "c02": 1077
+        "company": "Bezal",
+        "c02": 64
       },
       {
-        "year": 2017,
-        "c02": 755
+        "company": "Lingoage",
+        "c02": 18
       },
       {
-        "year": 2018,
-        "c02": 876
+        "company": "Magneato",
+        "c02": 86
       },
       {
-        "year": 2019,
-        "c02": 702
+        "company": "Isbol",
+        "c02": 9
       },
       {
-        "year": 2020,
-        "c02": 677
+        "company": "Opportech",
+        "c02": 65
       },
       {
-        "year": 2021,
-        "c02": 937
+        "company": "Kangle",
+        "c02": 88
       },
       {
-        "year": 2022,
-        "c02": 722
-      }
-    ]
-  },
-  {
-    "company": "Austria",
-    "data": [
+        "company": "Organica",
+        "c02": 37
+      },
       {
-        "year": 2013,
-        "c02": 818
+        "company": "Plasmos",
+        "c02": 7
       },
       {
-        "year": 2014,
-        "c02": 665
+        "company": "Prismatic",
+        "c02": 97
       },
       {
-        "year": 2015,
-        "c02": 943
+        "company": "Otherside",
+        "c02": 70
       },
       {
-        "year": 2016,
-        "c02": 937
+        "company": "Zentix",
+        "c02": 52
       },
       {
-        "year": 2017,
-        "c02": 729
+        "company": "Quordate",
+        "c02": 70
       },
       {
-        "year": 2018,
-        "c02": 914
+        "company": "Accel",
+        "c02": 71
       },
       {
-        "year": 2019,
-        "c02": 620
+        "company": "Temorak",
+        "c02": 51
       },
       {
-        "year": 2020,
-        "c02": 601
+        "company": "Andryx",
+        "c02": 94
       },
       {
-        "year": 2021,
-        "c02": 876
+        "company": "Momentia",
+        "c02": 71
       },
       {
-        "year": 2022,
-        "c02": 869
-      }
-    ]
-  },
-  {
-    "company": "United Kingdom",
-    "data": [
+        "company": "Accupharm",
+        "c02": 66
+      },
       {
-        "year": 2013,
-        "c02": 683
+        "company": "Daisu",
+        "c02": 42
       },
       {
-        "year": 2014,
-        "c02": 1005
+        "company": "Dogspa",
+        "c02": 56
       },
       {
-        "year": 2015,
-        "c02": 984
+        "company": "Insurety",
+        "c02": 60
       },
       {
-        "year": 2016,
-        "c02": 993
+        "company": "Egypto",
+        "c02": 70
       },
       {
-        "year": 2017,
-        "c02": 613
+        "company": "Gadtron",
+        "c02": 40
       },
       {
-        "year": 2018,
-        "c02": 1024
+        "company": "Bullzone",
+        "c02": 16
       },
       {
-        "year": 2019,
-        "c02": 415
+        "company": "Medalert",
+        "c02": 17
       },
       {
-        "year": 2020,
-        "c02": 767
+        "company": "Hyplex",
+        "c02": 80
       },
       {
-        "year": 2021,
-        "c02": 797
+        "company": "Gazak",
+        "c02": 91
       },
       {
-        "year": 2022,
-        "c02": 856
-      }
-    ]
-  },
-  {
-    "company": "Israel",
-    "data": [
+        "company": "Remold",
+        "c02": 33
+      },
       {
-        "year": 2013,
-        "c02": 1035
+        "company": "Luxuria",
+        "c02": 33
       },
       {
-        "year": 2014,
-        "c02": 710
+        "company": "Imperium",
+        "c02": 3
       },
       {
-        "year": 2015,
-        "c02": 1012
+        "company": "Affluex",
+        "c02": 90
       },
       {
-        "year": 2016,
-        "c02": 628
+        "company": "Conjurica",
+        "c02": 1
       },
       {
-        "year": 2017,
-        "c02": 865
+        "company": "Portalis",
+        "c02": 67
       },
       {
-        "year": 2018,
-        "c02": 558
+        "company": "Telpod",
+        "c02": 69
       },
       {
-        "year": 2019,
-        "c02": 512
+        "company": "Comvoy",
+        "c02": 62
       },
       {
-        "year": 2020,
-        "c02": 566
+        "company": "Zentime",
+        "c02": 71
       },
       {
-        "year": 2021,
-        "c02": 922
+        "company": "Gluid",
+        "c02": 53
       },
       {
-        "year": 2022,
-        "c02": 549
-      }
-    ]
-  },
-  {
-    "company": "Honduras",
-    "data": [
+        "company": "Zidox",
+        "c02": 73
+      },
       {
-        "year": 2013,
-        "c02": 761
+        "company": "Zoinage",
+        "c02": 28
       },
       {
-        "year": 2014,
-        "c02": 518
+        "company": "Ultrasure",
+        "c02": 97
       },
       {
-        "year": 2015,
-        "c02": 917
+        "company": "Applica",
+        "c02": 47
       },
       {
-        "year": 2016,
-        "c02": 622
+        "company": "Veraq",
+        "c02": 36
       },
       {
-        "year": 2017,
-        "c02": 986
+        "company": "Amtap",
+        "c02": 77
       },
       {
-        "year": 2018,
-        "c02": 800
+        "company": "Spacewax",
+        "c02": 94
       },
       {
-        "year": 2019,
-        "c02": 470
+        "company": "Dancity",
+        "c02": 5
       },
       {
-        "year": 2020,
-        "c02": 687
+        "company": "Zoarere",
+        "c02": 91
       },
       {
-        "year": 2021,
-        "c02": 1046
+        "company": "Phuel",
+        "c02": 77
       },
       {
-        "year": 2022,
-        "c02": 633
-      }
-    ]
-  },
-  {
-    "company": "Zambia",
-    "data": [
+        "company": "Insuron",
+        "c02": 36
+      },
       {
-        "year": 2013,
-        "c02": 777
+        "company": "Eargo",
+        "c02": 69
       },
       {
-        "year": 2014,
-        "c02": 606
+        "company": "Insuresys",
+        "c02": 46
       },
       {
-        "year": 2015,
-        "c02": 709
+        "company": "Entogrok",
+        "c02": 68
       },
       {
-        "year": 2016,
-        "c02": 745
+        "company": "Indexia",
+        "c02": 76
       },
       {
-        "year": 2017,
-        "c02": 898
+        "company": "Malathion",
+        "c02": 37
       },
       {
-        "year": 2018,
-        "c02": 573
+        "company": "Ezent",
+        "c02": 95
       },
       {
-        "year": 2019,
-        "c02": 1027
+        "company": "Collaire",
+        "c02": 32
       },
       {
-        "year": 2020,
-        "c02": 723
+        "company": "Elita",
+        "c02": 38
       },
       {
-        "year": 2021,
-        "c02": 833
+        "company": "Inquala",
+        "c02": 73
       },
       {
-        "year": 2022,
-        "c02": 678
-      }
-    ]
-  },
-  {
-    "company": "India",
-    "data": [
+        "company": "Coriander",
+        "c02": 13
+      },
       {
-        "year": 2013,
-        "c02": 1044
+        "company": "Undertap",
+        "c02": 88
       },
       {
-        "year": 2014,
-        "c02": 829
+        "company": "Geekology",
+        "c02": 81
       },
       {
-        "year": 2015,
-        "c02": 404
+        "company": "Steeltab",
+        "c02": 46
       },
       {
-        "year": 2016,
-        "c02": 515
+        "company": "Ginkle",
+        "c02": 4
       },
       {
-        "year": 2017,
-        "c02": 993
+        "company": "Tingles",
+        "c02": 17
       },
       {
-        "year": 2018,
-        "c02": 551
+        "company": "Intrawear",
+        "c02": 68
       },
       {
-        "year": 2019,
-        "c02": 983
+        "company": "Neurocell",
+        "c02": 73
       },
       {
-        "year": 2020,
-        "c02": 1027
+        "company": "Exostream",
+        "c02": 100
       },
       {
-        "year": 2021,
-        "c02": 860
+        "company": "Digial",
+        "c02": 30
       },
       {
-        "year": 2022,
-        "c02": 1055
-      }
-    ]
-  },
-  {
-    "company": "Greenland",
-    "data": [
+        "company": "Jimbies",
+        "c02": 39
+      },
       {
-        "year": 2013,
-        "c02": 487
+        "company": "Zerology",
+        "c02": 97
       },
       {
-        "year": 2014,
-        "c02": 552
+        "company": "Bluegrain",
+        "c02": 1
       },
       {
-        "year": 2015,
-        "c02": 487
+        "company": "Konnect",
+        "c02": 82
       },
       {
-        "year": 2016,
-        "c02": 811
+        "company": "Quilch",
+        "c02": 79
       },
       {
-        "year": 2017,
-        "c02": 735
+        "company": "Comtrail",
+        "c02": 42
       },
       {
-        "year": 2018,
-        "c02": 696
+        "company": "Pearlesex",
+        "c02": 80
       },
       {
-        "year": 2019,
-        "c02": 968
+        "company": "Kongle",
+        "c02": 47
       },
       {
-        "year": 2020,
-        "c02": 1084
+        "company": "Ecratic",
+        "c02": 24
       },
       {
-        "year": 2021,
-        "c02": 1081
+        "company": "Hometown",
+        "c02": 66
       },
       {
-        "year": 2022,
-        "c02": 547
+        "company": "Fibrodyne",
+        "c02": 58
       }
     ]
   },
   {
-    "company": "Virgin Islands (US)",
+    "year": 2015,
     "data": [
       {
-        "year": 2013,
-        "c02": 731
+        "company": "Zytrek",
+        "c02": 62
       },
       {
-        "year": 2014,
-        "c02": 983
+        "company": "Uni",
+        "c02": 42
       },
       {
-        "year": 2015,
-        "c02": 1047
+        "company": "Eweville",
+        "c02": 49
       },
       {
-        "year": 2016,
-        "c02": 935
+        "company": "Entality",
+        "c02": 43
       },
       {
-        "year": 2017,
-        "c02": 573
+        "company": "Newcube",
+        "c02": 54
       },
       {
-        "year": 2018,
-        "c02": 430
+        "company": "Pivitol",
+        "c02": 74
       },
       {
-        "year": 2019,
-        "c02": 604
+        "company": "Maineland",
+        "c02": 92
       },
       {
-        "year": 2020,
-        "c02": 971
+        "company": "Musaphics",
+        "c02": 18
       },
       {
-        "year": 2021,
-        "c02": 671
+        "company": "Medcom",
+        "c02": 6
       },
       {
-        "year": 2022,
-        "c02": 921
-      }
-    ]
-  },
-  {
-    "company": "Guinea-Bissau",
-    "data": [
+        "company": "Sulfax",
+        "c02": 43
+      },
       {
-        "year": 2013,
-        "c02": 1023
+        "company": "Zeam",
+        "c02": 50
       },
       {
-        "year": 2014,
-        "c02": 680
+        "company": "Olympix",
+        "c02": 24
       },
       {
-        "year": 2015,
-        "c02": 915
+        "company": "Insurity",
+        "c02": 44
       },
       {
-        "year": 2016,
-        "c02": 721
+        "company": "Zillar",
+        "c02": 76
       },
       {
-        "year": 2017,
-        "c02": 882
+        "company": "Buzzworks",
+        "c02": 51
       },
       {
-        "year": 2018,
-        "c02": 1056
+        "company": "Acium",
+        "c02": 44
       },
       {
-        "year": 2019,
-        "c02": 834
+        "company": "Imageflow",
+        "c02": 17
       },
       {
-        "year": 2020,
-        "c02": 968
+        "company": "Xeronk",
+        "c02": 49
       },
       {
-        "year": 2021,
-        "c02": 655
+        "company": "Mobildata",
+        "c02": 14
       },
       {
-        "year": 2022,
-        "c02": 754
-      }
-    ]
-  },
-  {
-    "company": "Jordan",
-    "data": [
+        "company": "Geologix",
+        "c02": 49
+      },
       {
-        "year": 2013,
-        "c02": 527
+        "company": "Corpulse",
+        "c02": 56
       },
       {
-        "year": 2014,
-        "c02": 973
+        "company": "Hydrocom",
+        "c02": 80
       },
       {
-        "year": 2015,
-        "c02": 747
+        "company": "Quinex",
+        "c02": 58
       },
       {
-        "year": 2016,
-        "c02": 844
+        "company": "Pharmacon",
+        "c02": 23
       },
       {
-        "year": 2017,
-        "c02": 737
+        "company": "Springbee",
+        "c02": 62
       },
       {
-        "year": 2018,
-        "c02": 441
+        "company": "Assitia",
+        "c02": 86
       },
       {
-        "year": 2019,
-        "c02": 1041
+        "company": "Oronoko",
+        "c02": 2
       },
       {
-        "year": 2020,
-        "c02": 642
+        "company": "Tellifly",
+        "c02": 47
       },
       {
-        "year": 2021,
-        "c02": 900
+        "company": "Fuelworks",
+        "c02": 70
       },
       {
-        "year": 2022,
-        "c02": 611
-      }
-    ]
-  },
-  {
-    "company": "Cameroon",
-    "data": [
+        "company": "Intergeek",
+        "c02": 54
+      },
       {
-        "year": 2013,
-        "c02": 422
+        "company": "Digigene",
+        "c02": 24
       },
       {
-        "year": 2014,
-        "c02": 632
+        "company": "Parleynet",
+        "c02": 73
       },
       {
-        "year": 2015,
-        "c02": 662
+        "company": "Boilcat",
+        "c02": 26
       },
       {
-        "year": 2016,
-        "c02": 512
+        "company": "Incubus",
+        "c02": 54
       },
       {
-        "year": 2017,
-        "c02": 590
+        "company": "Terragen",
+        "c02": 23
       },
       {
-        "year": 2018,
-        "c02": 735
+        "company": "Bostonic",
+        "c02": 92
       },
       {
-        "year": 2019,
-        "c02": 824
+        "company": "Tropolis",
+        "c02": 3
       },
       {
-        "year": 2020,
-        "c02": 873
+        "company": "Geofarm",
+        "c02": 25
       },
       {
-        "year": 2021,
-        "c02": 648
+        "company": "Toyletry",
+        "c02": 8
       },
       {
-        "year": 2022,
-        "c02": 639
-      }
-    ]
-  },
-  {
-    "company": "British Indian Ocean Territory",
-    "data": [
+        "company": "Moreganic",
+        "c02": 24
+      },
       {
-        "year": 2013,
-        "c02": 493
+        "company": "Sonique",
+        "c02": 64
       },
       {
-        "year": 2014,
-        "c02": 975
+        "company": "Tubesys",
+        "c02": 77
       },
       {
-        "year": 2015,
-        "c02": 903
+        "company": "Hotcakes",
+        "c02": 20
       },
       {
-        "year": 2016,
-        "c02": 699
+        "company": "Zounds",
+        "c02": 97
       },
       {
-        "year": 2017,
-        "c02": 414
+        "company": "Zork",
+        "c02": 43
       },
       {
-        "year": 2018,
-        "c02": 534
+        "company": "Zillacon",
+        "c02": 62
       },
       {
-        "year": 2019,
-        "c02": 1097
+        "company": "Biolive",
+        "c02": 41
       },
       {
-        "year": 2020,
-        "c02": 764
+        "company": "Billmed",
+        "c02": 46
       },
       {
-        "year": 2021,
-        "c02": 676
+        "company": "Terrago",
+        "c02": 76
       },
       {
-        "year": 2022,
-        "c02": 682
-      }
-    ]
-  },
-  {
-    "company": "Ireland",
-    "data": [
+        "company": "Uplinx",
+        "c02": 60
+      },
       {
-        "year": 2013,
-        "c02": 624
+        "company": "Geekus",
+        "c02": 71
       },
       {
-        "year": 2014,
-        "c02": 574
+        "company": "Gink",
+        "c02": 67
       },
       {
-        "year": 2015,
-        "c02": 713
+        "company": "Quonk",
+        "c02": 6
       },
       {
-        "year": 2016,
-        "c02": 668
+        "company": "Geekol",
+        "c02": 40
       },
       {
-        "year": 2017,
-        "c02": 999
+        "company": "Centice",
+        "c02": 88
       },
       {
-        "year": 2018,
-        "c02": 1009
+        "company": "Isotronic",
+        "c02": 10
       },
       {
-        "year": 2019,
-        "c02": 644
+        "company": "Verbus",
+        "c02": 83
       },
       {
-        "year": 2020,
-        "c02": 557
+        "company": "Imant",
+        "c02": 70
       },
       {
-        "year": 2021,
-        "c02": 474
+        "company": "Zensor",
+        "c02": 16
       },
       {
-        "year": 2022,
-        "c02": 876
-      }
-    ]
-  },
-  {
-    "company": "Italy",
-    "data": [
+        "company": "Furnitech",
+        "c02": 26
+      },
       {
-        "year": 2013,
-        "c02": 673
+        "company": "Dogtown",
+        "c02": 55
       },
       {
-        "year": 2014,
-        "c02": 724
+        "company": "Unia",
+        "c02": 79
       },
       {
-        "year": 2015,
-        "c02": 862
+        "company": "Memora",
+        "c02": 87
       },
       {
-        "year": 2016,
-        "c02": 928
+        "company": "Apex",
+        "c02": 75
       },
       {
-        "year": 2017,
-        "c02": 999
+        "company": "Oceanica",
+        "c02": 69
       },
       {
-        "year": 2018,
-        "c02": 909
+        "company": "Krog",
+        "c02": 88
       },
       {
-        "year": 2019,
-        "c02": 660
+        "company": "Maxemia",
+        "c02": 23
       },
       {
-        "year": 2020,
-        "c02": 813
+        "company": "Comstar",
+        "c02": 99
       },
       {
-        "year": 2021,
-        "c02": 1096
+        "company": "Earbang",
+        "c02": 77
       },
       {
-        "year": 2022,
-        "c02": 984
-      }
-    ]
-  },
-  {
-    "company": "Djibouti",
-    "data": [
+        "company": "Daido",
+        "c02": 73
+      },
       {
-        "year": 2013,
-        "c02": 426
+        "company": "Kegular",
+        "c02": 92
       },
       {
-        "year": 2014,
-        "c02": 548
+        "company": "Xumonk",
+        "c02": 57
       },
       {
-        "year": 2015,
-        "c02": 1015
+        "company": "Exosis",
+        "c02": 58
       },
       {
-        "year": 2016,
-        "c02": 942
+        "company": "Opticall",
+        "c02": 21
       },
       {
-        "year": 2017,
-        "c02": 464
+        "company": "Aclima",
+        "c02": 4
       },
       {
-        "year": 2018,
-        "c02": 945
+        "company": "Cowtown",
+        "c02": 18
       },
       {
-        "year": 2019,
-        "c02": 424
+        "company": "Solgan",
+        "c02": 93
       },
       {
-        "year": 2020,
-        "c02": 608
+        "company": "Ecraze",
+        "c02": 86
       },
       {
-        "year": 2021,
-        "c02": 728
+        "company": "Ludak",
+        "c02": 77
       },
       {
-        "year": 2022,
-        "c02": 408
-      }
-    ]
-  },
-  {
-    "company": "Equatorial Guinea",
-    "data": [
+        "company": "Aquasseur",
+        "c02": 86
+      },
       {
-        "year": 2013,
-        "c02": 523
+        "company": "Scentric",
+        "c02": 65
       },
       {
-        "year": 2014,
-        "c02": 613
+        "company": "Assistix",
+        "c02": 97
       },
       {
-        "year": 2015,
-        "c02": 941
+        "company": "Kage",
+        "c02": 96
       },
       {
-        "year": 2016,
-        "c02": 674
+        "company": "Xurban",
+        "c02": 5
       },
       {
-        "year": 2017,
-        "c02": 945
+        "company": "Microluxe",
+        "c02": 59
       },
       {
-        "year": 2018,
-        "c02": 586
+        "company": "Optique",
+        "c02": 37
       },
       {
-        "year": 2019,
-        "c02": 809
+        "company": "Elpro",
+        "c02": 43
       },
       {
-        "year": 2020,
-        "c02": 659
+        "company": "Isologics",
+        "c02": 97
       },
       {
-        "year": 2021,
-        "c02": 951
+        "company": "Zentility",
+        "c02": 46
       },
       {
-        "year": 2022,
-        "c02": 403
-      }
-    ]
-  },
-  {
-    "company": "Belgium",
-    "data": [
+        "company": "Furnafix",
+        "c02": 55
+      },
       {
-        "year": 2013,
-        "c02": 1080
+        "company": "Netropic",
+        "c02": 48
       },
       {
-        "year": 2014,
-        "c02": 901
+        "company": "Rotodyne",
+        "c02": 5
       },
       {
-        "year": 2015,
-        "c02": 760
+        "company": "Portico",
+        "c02": 21
       },
       {
-        "year": 2016,
-        "c02": 793
+        "company": "Quizmo",
+        "c02": 87
       },
       {
-        "year": 2017,
-        "c02": 774
+        "company": "Uniworld",
+        "c02": 89
       },
       {
-        "year": 2018,
-        "c02": 826
+        "company": "Nixelt",
+        "c02": 81
       },
       {
-        "year": 2019,
-        "c02": 455
+        "company": "Matrixity",
+        "c02": 36
       },
       {
-        "year": 2020,
-        "c02": 400
+        "company": "Enaut",
+        "c02": 19
       },
       {
-        "year": 2021,
-        "c02": 584
+        "company": "Emergent",
+        "c02": 71
       },
       {
-        "year": 2022,
-        "c02": 560
+        "company": "Ronbert",
+        "c02": 49
       }
     ]
   },
   {
-    "company": "Costa Rica",
+    "year": 2016,
     "data": [
       {
-        "year": 2013,
-        "c02": 582
+        "company": "Blanet",
+        "c02": 3
       },
       {
-        "year": 2014,
-        "c02": 1001
+        "company": "Plasmox",
+        "c02": 14
       },
       {
-        "year": 2015,
-        "c02": 966
+        "company": "Kineticut",
+        "c02": 95
       },
       {
-        "year": 2016,
-        "c02": 812
+        "company": "Premiant",
+        "c02": 88
       },
       {
-        "year": 2017,
-        "c02": 837
+        "company": "Bizmatic",
+        "c02": 24
       },
       {
-        "year": 2018,
-        "c02": 915
+        "company": "Techmania",
+        "c02": 11
       },
       {
-        "year": 2019,
-        "c02": 879
+        "company": "Yurture",
+        "c02": 76
       },
       {
-        "year": 2020,
-        "c02": 1074
+        "company": "Cipromox",
+        "c02": 45
       },
       {
-        "year": 2021,
-        "c02": 822
+        "company": "Cincyr",
+        "c02": 16
       },
       {
-        "year": 2022,
-        "c02": 453
-      }
-    ]
-  },
-  {
-    "company": "Cyprus",
-    "data": [
+        "company": "Rodeology",
+        "c02": 70
+      },
       {
-        "year": 2013,
-        "c02": 1016
+        "company": "Neptide",
+        "c02": 85
       },
       {
-        "year": 2014,
-        "c02": 935
+        "company": "Prosure",
+        "c02": 96
       },
       {
-        "year": 2015,
-        "c02": 847
+        "company": "Exoteric",
+        "c02": 82
       },
       {
-        "year": 2016,
-        "c02": 579
+        "company": "Comtent",
+        "c02": 6
       },
       {
-        "year": 2017,
-        "c02": 729
+        "company": "Sloganaut",
+        "c02": 11
       },
       {
-        "year": 2018,
-        "c02": 628
+        "company": "Translink",
+        "c02": 91
       },
       {
-        "year": 2019,
-        "c02": 426
+        "company": "Yogasm",
+        "c02": 20
       },
       {
-        "year": 2020,
-        "c02": 628
+        "company": "Futurity",
+        "c02": 90
       },
       {
-        "year": 2021,
-        "c02": 902
+        "company": "Acumentor",
+        "c02": 32
       },
       {
-        "year": 2022,
-        "c02": 427
-      }
-    ]
-  },
-  {
-    "company": "Cayman Islands",
-    "data": [
+        "company": "Visualix",
+        "c02": 18
+      },
       {
-        "year": 2013,
-        "c02": 824
+        "company": "Digique",
+        "c02": 26
       },
       {
-        "year": 2014,
-        "c02": 916
+        "company": "Quilm",
+        "c02": 17
       },
       {
-        "year": 2015,
-        "c02": 509
+        "company": "Rameon",
+        "c02": 32
       },
       {
-        "year": 2016,
-        "c02": 732
+        "company": "Kidgrease",
+        "c02": 3
       },
       {
-        "year": 2017,
-        "c02": 766
+        "company": "Eschoir",
+        "c02": 6
       },
       {
-        "year": 2018,
-        "c02": 1060
+        "company": "Papricut",
+        "c02": 55
       },
       {
-        "year": 2019,
-        "c02": 828
+        "company": "Kenegy",
+        "c02": 93
       },
       {
-        "year": 2020,
-        "c02": 712
+        "company": "Quonata",
+        "c02": 88
       },
       {
-        "year": 2021,
-        "c02": 1075
+        "company": "Opticon",
+        "c02": 68
       },
       {
-        "year": 2022,
-        "c02": 804
-      }
-    ]
-  },
-  {
-    "company": "Zimbabwe",
-    "data": [
+        "company": "Ramjob",
+        "c02": 21
+      },
       {
-        "year": 2013,
-        "c02": 1024
+        "company": "Zillan",
+        "c02": 90
       },
       {
-        "year": 2014,
-        "c02": 742
+        "company": "Dancerity",
+        "c02": 75
       },
       {
-        "year": 2015,
-        "c02": 821
+        "company": "Oatfarm",
+        "c02": 17
       },
       {
-        "year": 2016,
-        "c02": 806
+        "company": "Combot",
+        "c02": 32
       },
       {
-        "year": 2017,
-        "c02": 998
+        "company": "Cormoran",
+        "c02": 90
       },
       {
-        "year": 2018,
-        "c02": 701
+        "company": "Zentury",
+        "c02": 63
       },
       {
-        "year": 2019,
-        "c02": 799
+        "company": "Geoforma",
+        "c02": 11
       },
       {
-        "year": 2020,
-        "c02": 602
+        "company": "Waterbaby",
+        "c02": 17
       },
       {
-        "year": 2021,
-        "c02": 676
+        "company": "Comtours",
+        "c02": 53
       },
       {
-        "year": 2022,
-        "c02": 1082
-      }
-    ]
-  },
-  {
-    "company": "Tuvalu",
-    "data": [
+        "company": "Aquafire",
+        "c02": 44
+      },
       {
-        "year": 2013,
-        "c02": 657
+        "company": "Edecine",
+        "c02": 82
       },
       {
-        "year": 2014,
-        "c02": 962
+        "company": "Acrodance",
+        "c02": 40
       },
       {
-        "year": 2015,
-        "c02": 1036
+        "company": "Freakin",
+        "c02": 15
       },
       {
-        "year": 2016,
-        "c02": 706
+        "company": "Musanpoly",
+        "c02": 2
       },
       {
-        "year": 2017,
-        "c02": 976
+        "company": "Miraclis",
+        "c02": 83
       },
       {
-        "year": 2018,
-        "c02": 488
+        "company": "Hivedom",
+        "c02": 22
       },
       {
-        "year": 2019,
-        "c02": 650
+        "company": "Assurity",
+        "c02": 87
       },
       {
-        "year": 2020,
-        "c02": 547
+        "company": "Anarco",
+        "c02": 74
       },
       {
-        "year": 2021,
-        "c02": 864
+        "company": "Ozean",
+        "c02": 36
       },
       {
-        "year": 2022,
-        "c02": 606
-      }
-    ]
-  },
-  {
-    "company": "Dominica",
-    "data": [
+        "company": "Verton",
+        "c02": 73
+      },
       {
-        "year": 2013,
-        "c02": 459
+        "company": "Sultrax",
+        "c02": 16
       },
       {
-        "year": 2014,
-        "c02": 1006
+        "company": "Omnigog",
+        "c02": 25
       },
       {
-        "year": 2015,
-        "c02": 857
+        "company": "Isoternia",
+        "c02": 82
       },
       {
-        "year": 2016,
-        "c02": 1086
+        "company": "Viasia",
+        "c02": 46
       },
       {
-        "year": 2017,
-        "c02": 1009
+        "company": "Extrawear",
+        "c02": 44
       },
       {
-        "year": 2018,
-        "c02": 711
+        "company": "Flexigen",
+        "c02": 17
       },
       {
-        "year": 2019,
-        "c02": 599
+        "company": "Squish",
+        "c02": 12
       },
       {
-        "year": 2020,
-        "c02": 968
+        "company": "Cognicode",
+        "c02": 75
       },
       {
-        "year": 2021,
-        "c02": 499
+        "company": "Naxdis",
+        "c02": 79
       },
       {
-        "year": 2022,
-        "c02": 662
-      }
-    ]
-  },
-  {
-    "company": "Dominican Republic",
-    "data": [
+        "company": "Cuizine",
+        "c02": 38
+      },
       {
-        "year": 2013,
-        "c02": 1018
+        "company": "Virxo",
+        "c02": 41
       },
       {
-        "year": 2014,
-        "c02": 883
+        "company": "Zappix",
+        "c02": 47
       },
       {
-        "year": 2015,
-        "c02": 407
+        "company": "Ecosys",
+        "c02": 51
       },
       {
-        "year": 2016,
-        "c02": 1076
+        "company": "Netility",
+        "c02": 6
       },
       {
-        "year": 2017,
-        "c02": 1100
+        "company": "Izzby",
+        "c02": 72
       },
       {
-        "year": 2018,
-        "c02": 773
+        "company": "Vidto",
+        "c02": 66
       },
       {
-        "year": 2019,
-        "c02": 519
+        "company": "Comtext",
+        "c02": 64
       },
       {
-        "year": 2020,
-        "c02": 956
+        "company": "Besto",
+        "c02": 69
       },
       {
-        "year": 2021,
-        "c02": 817
+        "company": "Immunics",
+        "c02": 87
       },
       {
-        "year": 2022,
-        "c02": 854
-      }
-    ]
-  },
-  {
-    "company": "Turkey",
-    "data": [
+        "company": "Emtrak",
+        "c02": 35
+      },
       {
-        "year": 2013,
-        "c02": 436
+        "company": "Zilencio",
+        "c02": 12
       },
       {
-        "year": 2014,
-        "c02": 603
+        "company": "Genmy",
+        "c02": 4
       },
       {
-        "year": 2015,
-        "c02": 538
+        "company": "Techtrix",
+        "c02": 27
       },
       {
-        "year": 2016,
-        "c02": 501
+        "company": "Overfork",
+        "c02": 62
       },
       {
-        "year": 2017,
-        "c02": 759
+        "company": "Splinx",
+        "c02": 59
       },
       {
-        "year": 2018,
-        "c02": 838
+        "company": "Genmex",
+        "c02": 21
       },
       {
-        "year": 2019,
-        "c02": 1024
+        "company": "Quarex",
+        "c02": 7
       },
       {
-        "year": 2020,
-        "c02": 704
+        "company": "Icology",
+        "c02": 81
       },
       {
-        "year": 2021,
-        "c02": 401
+        "company": "Qiao",
+        "c02": 37
       },
       {
-        "year": 2022,
-        "c02": 653
-      }
-    ]
-  },
-  {
-    "company": "Benin",
-    "data": [
+        "company": "Geoform",
+        "c02": 21
+      },
       {
-        "year": 2013,
-        "c02": 535
+        "company": "Quantalia",
+        "c02": 55
       },
       {
-        "year": 2014,
-        "c02": 858
+        "company": "Talae",
+        "c02": 72
       },
       {
-        "year": 2015,
-        "c02": 1001
+        "company": "Gology",
+        "c02": 69
       },
       {
-        "year": 2016,
-        "c02": 953
+        "company": "Insectus",
+        "c02": 80
       },
       {
-        "year": 2017,
-        "c02": 556
+        "company": "Zenolux",
+        "c02": 66
       },
       {
-        "year": 2018,
-        "c02": 598
+        "company": "Macronaut",
+        "c02": 22
       },
       {
-        "year": 2019,
-        "c02": 502
+        "company": "Baluba",
+        "c02": 17
       },
       {
-        "year": 2020,
-        "c02": 1014
+        "company": "Comvey",
+        "c02": 13
       },
       {
-        "year": 2021,
-        "c02": 925
+        "company": "Bittor",
+        "c02": 81
       },
       {
-        "year": 2022,
-        "c02": 680
-      }
-    ]
-  },
-  {
-    "company": "Chile",
-    "data": [
+        "company": "Stralum",
+        "c02": 50
+      },
       {
-        "year": 2013,
-        "c02": 534
+        "company": "Zoid",
+        "c02": 82
       },
       {
-        "year": 2014,
-        "c02": 424
+        "company": "Idealis",
+        "c02": 92
       },
       {
-        "year": 2015,
-        "c02": 773
+        "company": "Rockabye",
+        "c02": 58
       },
       {
-        "year": 2016,
-        "c02": 610
+        "company": "Digifad",
+        "c02": 66
       },
       {
-        "year": 2017,
-        "c02": 507
+        "company": "Photobin",
+        "c02": 21
       },
       {
-        "year": 2018,
-        "c02": 706
+        "company": "Exoplode",
+        "c02": 31
       },
       {
-        "year": 2019,
-        "c02": 482
+        "company": "Beadzza",
+        "c02": 56
       },
       {
-        "year": 2020,
-        "c02": 883
+        "company": "Pharmex",
+        "c02": 18
       },
       {
-        "year": 2021,
-        "c02": 422
+        "company": "Zanity",
+        "c02": 95
       },
       {
-        "year": 2022,
-        "c02": 874
+        "company": "Zentia",
+        "c02": 61
       }
     ]
   },
   {
-    "company": "Guadeloupe",
+    "year": 2017,
     "data": [
       {
-        "year": 2013,
-        "c02": 772
+        "company": "Vurbo",
+        "c02": 68
       },
       {
-        "year": 2014,
-        "c02": 491
+        "company": "Vetron",
+        "c02": 50
       },
       {
-        "year": 2015,
-        "c02": 942
+        "company": "Slumberia",
+        "c02": 64
       },
       {
-        "year": 2016,
-        "c02": 534
+        "company": "Corecom",
+        "c02": 86
       },
       {
-        "year": 2017,
-        "c02": 403
+        "company": "Neteria",
+        "c02": 16
       },
       {
-        "year": 2018,
-        "c02": 905
+        "company": "Nurali",
+        "c02": 22
       },
       {
-        "year": 2019,
-        "c02": 873
+        "company": "Recritube",
+        "c02": 77
       },
       {
-        "year": 2020,
-        "c02": 442
+        "company": "Viagrand",
+        "c02": 84
       },
       {
-        "year": 2021,
-        "c02": 414
+        "company": "Anocha",
+        "c02": 42
       },
       {
-        "year": 2022,
-        "c02": 993
-      }
-    ]
-  },
-  {
-    "company": "Romania",
-    "data": [
+        "company": "Zilphur",
+        "c02": 75
+      },
       {
-        "year": 2013,
-        "c02": 767
+        "company": "Fanfare",
+        "c02": 6
       },
       {
-        "year": 2014,
-        "c02": 668
+        "company": "Hairport",
+        "c02": 43
       },
       {
-        "year": 2015,
-        "c02": 948
+        "company": "Bicol",
+        "c02": 19
       },
       {
-        "year": 2016,
-        "c02": 960
+        "company": "Optyk",
+        "c02": 74
       },
       {
-        "year": 2017,
-        "c02": 610
+        "company": "Zaphire",
+        "c02": 82
       },
       {
-        "year": 2018,
-        "c02": 981
+        "company": "Scenty",
+        "c02": 16
       },
       {
-        "year": 2019,
-        "c02": 437
+        "company": "Escenta",
+        "c02": 65
       },
       {
-        "year": 2020,
-        "c02": 896
+        "company": "Frosnex",
+        "c02": 18
       },
       {
-        "year": 2021,
-        "c02": 426
+        "company": "Nurplex",
+        "c02": 12
       },
       {
-        "year": 2022,
-        "c02": 710
-      }
-    ]
-  },
-  {
-    "company": "Liechtenstein",
-    "data": [
+        "company": "Ziore",
+        "c02": 4
+      },
       {
-        "year": 2013,
-        "c02": 1082
+        "company": "Bleeko",
+        "c02": 17
       },
       {
-        "year": 2014,
-        "c02": 879
+        "company": "Ebidco",
+        "c02": 86
       },
       {
-        "year": 2015,
-        "c02": 915
+        "company": "Cemention",
+        "c02": 39
       },
       {
-        "year": 2016,
-        "c02": 700
+        "company": "Orbean",
+        "c02": 54
       },
       {
-        "year": 2017,
-        "c02": 594
+        "company": "Rugstars",
+        "c02": 50
       },
       {
-        "year": 2018,
-        "c02": 554
+        "company": "Unq",
+        "c02": 68
       },
       {
-        "year": 2019,
-        "c02": 699
+        "company": "Qimonk",
+        "c02": 88
       },
       {
-        "year": 2020,
-        "c02": 750
+        "company": "Manufact",
+        "c02": 59
       },
       {
-        "year": 2021,
-        "c02": 815
+        "company": "Avenetro",
+        "c02": 15
       },
       {
-        "year": 2022,
-        "c02": 888
-      }
-    ]
-  },
-  {
-    "company": "Mozambique",
-    "data": [
+        "company": "Endicil",
+        "c02": 3
+      },
       {
-        "year": 2013,
-        "c02": 1044
+        "company": "Moltonic",
+        "c02": 37
       },
       {
-        "year": 2014,
-        "c02": 513
+        "company": "Krag",
+        "c02": 21
       },
       {
-        "year": 2015,
-        "c02": 576
+        "company": "Dyno",
+        "c02": 77
       },
       {
-        "year": 2016,
-        "c02": 910
+        "company": "Blurrybus",
+        "c02": 29
       },
       {
-        "year": 2017,
-        "c02": 759
+        "company": "Enerforce",
+        "c02": 77
       },
       {
-        "year": 2018,
-        "c02": 801
+        "company": "Helixo",
+        "c02": 86
       },
       {
-        "year": 2019,
-        "c02": 443
+        "company": "Strezzo",
+        "c02": 16
       },
       {
-        "year": 2020,
-        "c02": 910
+        "company": "Uxmox",
+        "c02": 47
       },
       {
-        "year": 2021,
-        "c02": 968
+        "company": "Eventix",
+        "c02": 57
       },
       {
-        "year": 2022,
-        "c02": 827
-      }
-    ]
-  },
-  {
-    "company": "Guyana",
-    "data": [
+        "company": "Viagreat",
+        "c02": 20
+      },
       {
-        "year": 2013,
-        "c02": 577
+        "company": "Menbrain",
+        "c02": 13
       },
       {
-        "year": 2014,
-        "c02": 689
+        "company": "Snacktion",
+        "c02": 46
       },
       {
-        "year": 2015,
-        "c02": 724
+        "company": "Snips",
+        "c02": 69
       },
       {
-        "year": 2016,
-        "c02": 796
+        "company": "Portica",
+        "c02": 43
       },
       {
-        "year": 2017,
-        "c02": 781
+        "company": "Bleendot",
+        "c02": 68
       },
       {
-        "year": 2018,
-        "c02": 590
+        "company": "Opticom",
+        "c02": 44
       },
       {
-        "year": 2019,
-        "c02": 604
+        "company": "Earthplex",
+        "c02": 11
       },
       {
-        "year": 2020,
-        "c02": 638
+        "company": "Pholio",
+        "c02": 7
       },
       {
-        "year": 2021,
-        "c02": 500
+        "company": "Elemantra",
+        "c02": 77
       },
       {
-        "year": 2022,
-        "c02": 459
-      }
-    ]
-  },
-  {
-    "company": "Macau",
-    "data": [
+        "company": "Suremax",
+        "c02": 2
+      },
       {
-        "year": 2013,
-        "c02": 679
+        "company": "Nipaz",
+        "c02": 100
       },
       {
-        "year": 2014,
-        "c02": 631
+        "company": "Ultrimax",
+        "c02": 84
       },
       {
-        "year": 2015,
-        "c02": 1095
+        "company": "Marqet",
+        "c02": 79
       },
       {
-        "year": 2016,
-        "c02": 832
+        "company": "Rocklogic",
+        "c02": 57
       },
       {
-        "year": 2017,
-        "c02": 819
+        "company": "Fossiel",
+        "c02": 70
       },
       {
-        "year": 2018,
-        "c02": 521
+        "company": "Keengen",
+        "c02": 33
       },
       {
-        "year": 2019,
-        "c02": 478
+        "company": "Shepard",
+        "c02": 83
       },
       {
-        "year": 2020,
-        "c02": 579
+        "company": "Quility",
+        "c02": 21
       },
       {
-        "year": 2021,
-        "c02": 540
+        "company": "Deviltoe",
+        "c02": 27
       },
       {
-        "year": 2022,
-        "c02": 670
-      }
-    ]
-  },
-  {
-    "company": "Antarctica",
-    "data": [
+        "company": "Evidends",
+        "c02": 94
+      },
       {
-        "year": 2013,
-        "c02": 995
+        "company": "Rodemco",
+        "c02": 19
       },
       {
-        "year": 2014,
-        "c02": 621
+        "company": "Utarian",
+        "c02": 9
       },
       {
-        "year": 2015,
-        "c02": 597
+        "company": "Golistic",
+        "c02": 75
       },
       {
-        "year": 2016,
-        "c02": 1054
+        "company": "Klugger",
+        "c02": 100
       },
       {
-        "year": 2017,
-        "c02": 1028
+        "company": "Poshome",
+        "c02": 27
       },
       {
-        "year": 2018,
-        "c02": 611
+        "company": "Recrisys",
+        "c02": 78
       },
       {
-        "year": 2019,
-        "c02": 846
+        "company": "Jasper",
+        "c02": 25
       },
       {
-        "year": 2020,
-        "c02": 950
+        "company": "Comveyor",
+        "c02": 95
       },
       {
-        "year": 2021,
-        "c02": 573
+        "company": "Glasstep",
+        "c02": 67
       },
       {
-        "year": 2022,
-        "c02": 486
-      }
-    ]
-  },
-  {
-    "company": "Venezuela",
-    "data": [
+        "company": "Aquamate",
+        "c02": 25
+      },
       {
-        "year": 2013,
-        "c02": 798
+        "company": "Bitendrex",
+        "c02": 93
       },
       {
-        "year": 2014,
-        "c02": 906
+        "company": "Cogentry",
+        "c02": 44
       },
       {
-        "year": 2015,
-        "c02": 843
+        "company": "Rooforia",
+        "c02": 73
       },
       {
-        "year": 2016,
-        "c02": 495
+        "company": "Zolarex",
+        "c02": 22
       },
       {
-        "year": 2017,
-        "c02": 1034
+        "company": "Poochies",
+        "c02": 61
       },
       {
-        "year": 2018,
-        "c02": 762
+        "company": "Slambda",
+        "c02": 61
       },
       {
-        "year": 2019,
-        "c02": 1015
+        "company": "Cofine",
+        "c02": 75
       },
       {
-        "year": 2020,
-        "c02": 957
+        "company": "Pawnagra",
+        "c02": 9
       },
       {
-        "year": 2021,
-        "c02": 989
+        "company": "Sultraxin",
+        "c02": 85
       },
       {
-        "year": 2022,
-        "c02": 893
-      }
-    ]
-  },
-  {
-    "company": "Uruguay",
-    "data": [
+        "company": "Duflex",
+        "c02": 16
+      },
       {
-        "year": 2013,
-        "c02": 879
+        "company": "Isopop",
+        "c02": 81
       },
       {
-        "year": 2014,
-        "c02": 844
+        "company": "Polaria",
+        "c02": 91
       },
       {
-        "year": 2015,
-        "c02": 849
+        "company": "Zillanet",
+        "c02": 38
       },
       {
-        "year": 2016,
-        "c02": 954
+        "company": "Envire",
+        "c02": 61
       },
       {
-        "year": 2017,
-        "c02": 925
+        "company": "Inear",
+        "c02": 84
       },
       {
-        "year": 2018,
-        "c02": 591
+        "company": "Comstruct",
+        "c02": 32
       },
       {
-        "year": 2019,
-        "c02": 735
+        "company": "Cinaster",
+        "c02": 87
       },
       {
-        "year": 2020,
-        "c02": 776
+        "company": "Pasturia",
+        "c02": 95
       },
       {
-        "year": 2021,
-        "c02": 1064
+        "company": "Medmex",
+        "c02": 22
       },
       {
-        "year": 2022,
-        "c02": 1021
-      }
-    ]
-  },
-  {
-    "company": "Gibraltar",
-    "data": [
+        "company": "Deepends",
+        "c02": 36
+      },
       {
-        "year": 2013,
-        "c02": 661
+        "company": "Corepan",
+        "c02": 9
       },
       {
-        "year": 2014,
-        "c02": 1018
+        "company": "Jumpstack",
+        "c02": 37
       },
       {
-        "year": 2015,
-        "c02": 1013
+        "company": "Nspire",
+        "c02": 13
       },
       {
-        "year": 2016,
-        "c02": 833
+        "company": "Ovium",
+        "c02": 81
       },
       {
-        "year": 2017,
-        "c02": 401
+        "company": "Uneeq",
+        "c02": 45
       },
       {
-        "year": 2018,
-        "c02": 465
+        "company": "Comtrak",
+        "c02": 80
       },
       {
-        "year": 2019,
-        "c02": 603
+        "company": "Geostele",
+        "c02": 84
       },
       {
-        "year": 2020,
-        "c02": 935
+        "company": "Orboid",
+        "c02": 57
       },
       {
-        "year": 2021,
-        "c02": 464
+        "company": "Diginetic",
+        "c02": 46
       },
       {
-        "year": 2022,
-        "c02": 501
+        "company": "Signity",
+        "c02": 49
       }
     ]
   },
   {
-    "company": "Angola",
+    "year": 2018,
     "data": [
       {
-        "year": 2013,
-        "c02": 802
+        "company": "Xymonk",
+        "c02": 57
       },
       {
-        "year": 2014,
-        "c02": 522
+        "company": "Omatom",
+        "c02": 28
       },
       {
-        "year": 2015,
-        "c02": 672
+        "company": "Ersum",
+        "c02": 54
       },
       {
-        "year": 2016,
-        "c02": 1081
+        "company": "Niquent",
+        "c02": 64
       },
       {
-        "year": 2017,
-        "c02": 510
+        "company": "Telepark",
+        "c02": 51
       },
       {
-        "year": 2018,
-        "c02": 666
+        "company": "Snorus",
+        "c02": 80
       },
       {
-        "year": 2019,
-        "c02": 917
+        "company": "Voipa",
+        "c02": 21
       },
       {
-        "year": 2020,
-        "c02": 994
+        "company": "Exodoc",
+        "c02": 88
       },
       {
-        "year": 2021,
-        "c02": 1055
+        "company": "Zilladyne",
+        "c02": 83
       },
-      {
-        "year": 2022,
-        "c02": 494
-      }
-    ]
-  },
-  {
-    "company": "Korea (North)",
-    "data": [
       {
-        "year": 2013,
-        "c02": 580
+        "company": "Atomica",
+        "c02": 87
       },
       {
-        "year": 2014,
-        "c02": 578
+        "company": "Limage",
+        "c02": 95
       },
       {
-        "year": 2015,
-        "c02": 966
+        "company": "Portaline",
+        "c02": 26
       },
       {
-        "year": 2016,
-        "c02": 718
+        "company": "Nikuda",
+        "c02": 15
       },
       {
-        "year": 2017,
-        "c02": 1017
+        "company": "Callflex",
+        "c02": 66
       },
       {
-        "year": 2018,
-        "c02": 1009
+        "company": "Infotrips",
+        "c02": 41
       },
       {
-        "year": 2019,
-        "c02": 901
+        "company": "Minga",
+        "c02": 20
       },
       {
-        "year": 2020,
-        "c02": 723
+        "company": "Endipin",
+        "c02": 58
       },
       {
-        "year": 2021,
-        "c02": 923
+        "company": "Enjola",
+        "c02": 70
       },
-      {
-        "year": 2022,
-        "c02": 1007
-      }
-    ]
-  },
-  {
-    "company": "American Samoa",
-    "data": [
       {
-        "year": 2013,
-        "c02": 784
+        "company": "Codax",
+        "c02": 26
       },
       {
-        "year": 2014,
-        "c02": 468
+        "company": "Progenex",
+        "c02": 53
       },
       {
-        "year": 2015,
-        "c02": 491
+        "company": "Maroptic",
+        "c02": 63
       },
       {
-        "year": 2016,
-        "c02": 478
+        "company": "Lotron",
+        "c02": 88
       },
       {
-        "year": 2017,
-        "c02": 746
+        "company": "Darwinium",
+        "c02": 80
       },
       {
-        "year": 2018,
-        "c02": 674
+        "company": "Andershun",
+        "c02": 24
       },
       {
-        "year": 2019,
-        "c02": 476
+        "company": "Valreda",
+        "c02": 37
       },
       {
-        "year": 2020,
-        "c02": 773
+        "company": "Orbiflex",
+        "c02": 31
       },
       {
-        "year": 2021,
-        "c02": 577
+        "company": "Vantage",
+        "c02": 73
       },
       {
-        "year": 2022,
-        "c02": 650
-      }
-    ]
-  },
-  {
-    "company": "Uganda",
-    "data": [
+        "company": "Animalia",
+        "c02": 14
+      },
       {
-        "year": 2013,
-        "c02": 602
+        "company": "Wrapture",
+        "c02": 99
       },
       {
-        "year": 2014,
-        "c02": 938
+        "company": "Senmei",
+        "c02": 55
       },
       {
-        "year": 2015,
-        "c02": 683
+        "company": "Cosmetex",
+        "c02": 72
       },
       {
-        "year": 2016,
-        "c02": 635
+        "company": "Locazone",
+        "c02": 18
       },
       {
-        "year": 2017,
-        "c02": 996
+        "company": "Interloo",
+        "c02": 82
       },
       {
-        "year": 2018,
-        "c02": 438
+        "company": "Tripsch",
+        "c02": 32
       },
       {
-        "year": 2019,
-        "c02": 752
+        "company": "Interodeo",
+        "c02": 86
       },
       {
-        "year": 2020,
-        "c02": 572
+        "company": "Steelfab",
+        "c02": 27
       },
       {
-        "year": 2021,
-        "c02": 1009
+        "company": "Uncorp",
+        "c02": 56
       },
       {
-        "year": 2022,
-        "c02": 567
-      }
-    ]
-  },
-  {
-    "company": "New Caledonia",
-    "data": [
+        "company": "Geekko",
+        "c02": 85
+      },
       {
-        "year": 2013,
-        "c02": 820
+        "company": "Zilidium",
+        "c02": 6
       },
       {
-        "year": 2014,
-        "c02": 423
+        "company": "Manglo",
+        "c02": 53
       },
       {
-        "year": 2015,
-        "c02": 484
+        "company": "Powernet",
+        "c02": 75
       },
       {
-        "year": 2016,
-        "c02": 853
+        "company": "Kinetica",
+        "c02": 75
       },
       {
-        "year": 2017,
-        "c02": 782
+        "company": "Genmom",
+        "c02": 40
       },
       {
-        "year": 2018,
-        "c02": 655
+        "company": "Twiist",
+        "c02": 71
       },
       {
-        "year": 2019,
-        "c02": 910
+        "company": "Xoggle",
+        "c02": 94
       },
       {
-        "year": 2020,
-        "c02": 958
+        "company": "Skinserve",
+        "c02": 3
       },
       {
-        "year": 2021,
-        "c02": 530
+        "company": "Fangold",
+        "c02": 66
       },
       {
-        "year": 2022,
-        "c02": 782
-      }
-    ]
-  },
-  {
-    "company": "Oman",
-    "data": [
+        "company": "Kidstock",
+        "c02": 15
+      },
       {
-        "year": 2013,
-        "c02": 647
+        "company": "Vitricomp",
+        "c02": 84
       },
       {
-        "year": 2014,
-        "c02": 997
+        "company": "Exozent",
+        "c02": 38
       },
       {
-        "year": 2015,
-        "c02": 786
+        "company": "Isodrive",
+        "c02": 32
       },
       {
-        "year": 2016,
-        "c02": 1071
+        "company": "Flyboyz",
+        "c02": 31
       },
       {
-        "year": 2017,
-        "c02": 592
+        "company": "Megall",
+        "c02": 73
       },
       {
-        "year": 2018,
-        "c02": 1055
+        "company": "Multron",
+        "c02": 63
       },
       {
-        "year": 2019,
-        "c02": 502
+        "company": "Applideck",
+        "c02": 64
       },
       {
-        "year": 2020,
-        "c02": 453
+        "company": "Mixers",
+        "c02": 6
       },
       {
-        "year": 2021,
-        "c02": 807
+        "company": "Virva",
+        "c02": 90
       },
       {
-        "year": 2022,
-        "c02": 664
-      }
-    ]
-  },
-  {
-    "company": "Netherlands Antilles",
-    "data": [
+        "company": "Qnekt",
+        "c02": 72
+      },
       {
-        "year": 2013,
-        "c02": 695
+        "company": "Biospan",
+        "c02": 13
       },
       {
-        "year": 2014,
-        "c02": 426
+        "company": "Phormula",
+        "c02": 38
       },
       {
-        "year": 2015,
-        "c02": 646
+        "company": "Delphide",
+        "c02": 2
       },
       {
-        "year": 2016,
-        "c02": 646
+        "company": "Earwax",
+        "c02": 7
       },
       {
-        "year": 2017,
-        "c02": 851
+        "company": "Rodeomad",
+        "c02": 58
       },
       {
-        "year": 2018,
-        "c02": 922
+        "company": "Sarasonic",
+        "c02": 84
       },
       {
-        "year": 2019,
-        "c02": 948
+        "company": "Xplor",
+        "c02": 6
       },
       {
-        "year": 2020,
-        "c02": 829
+        "company": "Printspan",
+        "c02": 85
       },
       {
-        "year": 2021,
-        "c02": 801
+        "company": "Norsul",
+        "c02": 62
       },
       {
-        "year": 2022,
-        "c02": 492
-      }
-    ]
-  },
-  {
-    "company": "Sudan",
-    "data": [
+        "company": "Digirang",
+        "c02": 95
+      },
       {
-        "year": 2013,
-        "c02": 936
+        "company": "Eternis",
+        "c02": 35
       },
       {
-        "year": 2014,
-        "c02": 960
+        "company": "Idego",
+        "c02": 99
       },
       {
-        "year": 2015,
-        "c02": 776
+        "company": "Enormo",
+        "c02": 43
       },
       {
-        "year": 2016,
-        "c02": 942
+        "company": "Eclipsent",
+        "c02": 25
       },
       {
-        "year": 2017,
-        "c02": 882
+        "company": "Combogene",
+        "c02": 42
       },
       {
-        "year": 2018,
-        "c02": 1074
+        "company": "Skybold",
+        "c02": 15
       },
       {
-        "year": 2019,
-        "c02": 922
+        "company": "Pyramis",
+        "c02": 87
       },
       {
-        "year": 2020,
-        "c02": 662
+        "company": "Cinesanct",
+        "c02": 37
       },
       {
-        "year": 2021,
-        "c02": 843
+        "company": "Capscreen",
+        "c02": 69
       },
       {
-        "year": 2022,
-        "c02": 894
-      }
-    ]
-  },
-  {
-    "company": "Saint Lucia",
-    "data": [
+        "company": "Suretech",
+        "c02": 19
+      },
       {
-        "year": 2013,
-        "c02": 486
+        "company": "Katakana",
+        "c02": 6
       },
       {
-        "year": 2014,
-        "c02": 862
+        "company": "Gallaxia",
+        "c02": 74
       },
       {
-        "year": 2015,
-        "c02": 556
+        "company": "Globoil",
+        "c02": 73
       },
       {
-        "year": 2016,
-        "c02": 922
+        "company": "Exoswitch",
+        "c02": 71
       },
       {
-        "year": 2017,
-        "c02": 928
+        "company": "Ovation",
+        "c02": 29
       },
       {
-        "year": 2018,
-        "c02": 913
+        "company": "Lumbrex",
+        "c02": 80
       },
       {
-        "year": 2019,
-        "c02": 943
+        "company": "Pigzart",
+        "c02": 10
       },
       {
-        "year": 2020,
-        "c02": 986
+        "company": "Circum",
+        "c02": 31
       },
       {
-        "year": 2021,
-        "c02": 428
+        "company": "Goko",
+        "c02": 88
       },
       {
-        "year": 2022,
-        "c02": 870
-      }
-    ]
-  },
-  {
-    "company": "Trinidad and Tobago",
-    "data": [
+        "company": "Renovize",
+        "c02": 7
+      },
+      {
+        "company": "Kiggle",
+        "c02": 28
+      },
+      {
+        "company": "Lyrichord",
+        "c02": 42
+      },
       {
-        "year": 2013,
-        "c02": 819
+        "company": "Limozen",
+        "c02": 10
       },
       {
-        "year": 2014,
-        "c02": 644
+        "company": "Surelogic",
+        "c02": 58
       },
       {
-        "year": 2015,
-        "c02": 870
+        "company": "Zentry",
+        "c02": 16
       },
       {
-        "year": 2016,
-        "c02": 596
+        "company": "Insource",
+        "c02": 77
       },
       {
-        "year": 2017,
-        "c02": 803
+        "company": "Ontality",
+        "c02": 7
       },
       {
-        "year": 2018,
-        "c02": 642
+        "company": "Ecolight",
+        "c02": 46
       },
       {
-        "year": 2019,
-        "c02": 708
+        "company": "Snowpoke",
+        "c02": 13
       },
       {
-        "year": 2020,
-        "c02": 1099
+        "company": "Geekfarm",
+        "c02": 69
       },
       {
-        "year": 2021,
-        "c02": 988
+        "company": "Dadabase",
+        "c02": 88
       },
       {
-        "year": 2022,
-        "c02": 742
+        "company": "Zillatide",
+        "c02": 38
       }
     ]
   },
   {
-    "company": "Mayotte",
+    "year": 2019,
     "data": [
       {
-        "year": 2013,
-        "c02": 928
+        "company": "Retrack",
+        "c02": 63
       },
       {
-        "year": 2014,
-        "c02": 941
+        "company": "Primordia",
+        "c02": 87
       },
       {
-        "year": 2015,
-        "c02": 588
+        "company": "Teraprene",
+        "c02": 93
       },
       {
-        "year": 2016,
-        "c02": 546
+        "company": "Kyaguru",
+        "c02": 93
       },
       {
-        "year": 2017,
-        "c02": 741
+        "company": "Rodeocean",
+        "c02": 100
       },
       {
-        "year": 2018,
-        "c02": 977
+        "company": "Geekola",
+        "c02": 81
       },
       {
-        "year": 2019,
-        "c02": 735
+        "company": "Asimiline",
+        "c02": 30
       },
       {
-        "year": 2020,
-        "c02": 942
+        "company": "Retrotex",
+        "c02": 99
       },
       {
-        "year": 2021,
-        "c02": 735
+        "company": "Architax",
+        "c02": 93
       },
       {
-        "year": 2022,
-        "c02": 499
-      }
-    ]
-  },
-  {
-    "company": "Indonesia",
-    "data": [
+        "company": "Zaya",
+        "c02": 69
+      },
       {
-        "year": 2013,
-        "c02": 807
+        "company": "Turnling",
+        "c02": 18
       },
       {
-        "year": 2014,
-        "c02": 595
+        "company": "Webiotic",
+        "c02": 14
       },
       {
-        "year": 2015,
-        "c02": 796
+        "company": "Cujo",
+        "c02": 2
       },
       {
-        "year": 2016,
-        "c02": 1057
+        "company": "Anacho",
+        "c02": 89
       },
       {
-        "year": 2017,
-        "c02": 909
+        "company": "Datagen",
+        "c02": 33
       },
       {
-        "year": 2018,
-        "c02": 467
+        "company": "Roughies",
+        "c02": 20
       },
       {
-        "year": 2019,
-        "c02": 1088
+        "company": "Isotrack",
+        "c02": 83
       },
       {
-        "year": 2020,
-        "c02": 526
+        "company": "Concility",
+        "c02": 15
       },
       {
-        "year": 2021,
-        "c02": 531
+        "company": "Iplax",
+        "c02": 4
       },
       {
-        "year": 2022,
-        "c02": 872
-      }
-    ]
-  },
-  {
-    "company": "France",
-    "data": [
+        "company": "Daycore",
+        "c02": 55
+      },
       {
-        "year": 2013,
-        "c02": 858
+        "company": "Synkgen",
+        "c02": 7
       },
       {
-        "year": 2014,
-        "c02": 617
+        "company": "Zytrac",
+        "c02": 84
       },
       {
-        "year": 2015,
-        "c02": 738
+        "company": "Repetwire",
+        "c02": 57
       },
       {
-        "year": 2016,
-        "c02": 787
+        "company": "Peticular",
+        "c02": 82
       },
       {
-        "year": 2017,
-        "c02": 691
+        "company": "Skyplex",
+        "c02": 1
       },
       {
-        "year": 2018,
-        "c02": 1042
+        "company": "Makingway",
+        "c02": 31
       },
       {
-        "year": 2019,
-        "c02": 622
+        "company": "Noralex",
+        "c02": 90
       },
       {
-        "year": 2020,
-        "c02": 772
+        "company": "Singavera",
+        "c02": 22
       },
       {
-        "year": 2021,
-        "c02": 876
+        "company": "Exospeed",
+        "c02": 22
       },
       {
-        "year": 2022,
-        "c02": 931
-      }
-    ]
-  },
-  {
-    "company": "Virgin Islands (British)",
-    "data": [
+        "company": "Tropoli",
+        "c02": 94
+      },
       {
-        "year": 2013,
-        "c02": 762
+        "company": "Mitroc",
+        "c02": 9
       },
       {
-        "year": 2014,
-        "c02": 473
+        "company": "Isoswitch",
+        "c02": 78
       },
       {
-        "year": 2015,
-        "c02": 1079
+        "company": "Plasmosis",
+        "c02": 54
       },
       {
-        "year": 2016,
-        "c02": 584
+        "company": "Quilk",
+        "c02": 85
       },
       {
-        "year": 2017,
-        "c02": 534
+        "company": "Nitracyr",
+        "c02": 33
       },
       {
-        "year": 2018,
-        "c02": 469
+        "company": "Idetica",
+        "c02": 77
       },
       {
-        "year": 2019,
-        "c02": 765
+        "company": "Dognost",
+        "c02": 50
       },
       {
-        "year": 2020,
-        "c02": 639
+        "company": "Accidency",
+        "c02": 17
       },
       {
-        "year": 2021,
-        "c02": 688
+        "company": "Paragonia",
+        "c02": 38
       },
       {
-        "year": 2022,
-        "c02": 896
-      }
-    ]
-  },
-  {
-    "company": "Hungary",
-    "data": [
+        "company": "Aquacine",
+        "c02": 89
+      },
       {
-        "year": 2013,
-        "c02": 718
+        "company": "Prowaste",
+        "c02": 30
       },
       {
-        "year": 2014,
-        "c02": 896
+        "company": "Spherix",
+        "c02": 8
       },
       {
-        "year": 2015,
-        "c02": 945
+        "company": "Fuelton",
+        "c02": 72
       },
       {
-        "year": 2016,
-        "c02": 599
+        "company": "Boink",
+        "c02": 6
       },
       {
-        "year": 2017,
-        "c02": 976
+        "company": "Pearlessa",
+        "c02": 57
       },
       {
-        "year": 2018,
-        "c02": 819
+        "company": "Coash",
+        "c02": 27
       },
       {
-        "year": 2019,
-        "c02": 1024
+        "company": "Tasmania",
+        "c02": 8
       },
       {
-        "year": 2020,
-        "c02": 648
+        "company": "Kozgene",
+        "c02": 28
       },
       {
-        "year": 2021,
-        "c02": 1022
+        "company": "Nutralab",
+        "c02": 41
       },
       {
-        "year": 2022,
-        "c02": 1085
-      }
-    ]
-  },
-  {
-    "company": "United Arab Emirates",
-    "data": [
+        "company": "Grainspot",
+        "c02": 61
+      },
       {
-        "year": 2013,
-        "c02": 554
+        "company": "Puria",
+        "c02": 28
       },
       {
-        "year": 2014,
-        "c02": 815
+        "company": "Biflex",
+        "c02": 6
       },
       {
-        "year": 2015,
-        "c02": 690
+        "company": "Pyramax",
+        "c02": 100
       },
       {
-        "year": 2016,
-        "c02": 596
+        "company": "Geeknet",
+        "c02": 13
       },
       {
-        "year": 2017,
-        "c02": 679
+        "company": "Euron",
+        "c02": 91
       },
       {
-        "year": 2018,
-        "c02": 604
+        "company": "Gaptec",
+        "c02": 45
       },
       {
-        "year": 2019,
-        "c02": 476
+        "company": "Brainclip",
+        "c02": 92
       },
       {
-        "year": 2020,
-        "c02": 727
+        "company": "Viocular",
+        "c02": 40
       },
       {
-        "year": 2021,
-        "c02": 1049
+        "company": "Hinway",
+        "c02": 97
       },
       {
-        "year": 2022,
-        "c02": 708
-      }
-    ]
-  },
-  {
-    "company": "Bhutan",
-    "data": [
+        "company": "Schoolio",
+        "c02": 100
+      },
       {
-        "year": 2013,
-        "c02": 925
+        "company": "Digitalus",
+        "c02": 74
       },
       {
-        "year": 2014,
-        "c02": 1032
+        "company": "Quotezart",
+        "c02": 19
       },
       {
-        "year": 2015,
-        "c02": 974
+        "company": "Quailcom",
+        "c02": 84
       },
       {
-        "year": 2016,
-        "c02": 555
+        "company": "Ecrater",
+        "c02": 83
       },
       {
-        "year": 2017,
-        "c02": 936
+        "company": "Quintity",
+        "c02": 12
       },
       {
-        "year": 2018,
-        "c02": 419
+        "company": "Proxsoft",
+        "c02": 66
       },
       {
-        "year": 2019,
-        "c02": 612
+        "company": "Gorganic",
+        "c02": 23
       },
       {
-        "year": 2020,
-        "c02": 1028
+        "company": "Halap",
+        "c02": 69
       },
       {
-        "year": 2021,
-        "c02": 586
+        "company": "Bunga",
+        "c02": 62
       },
       {
-        "year": 2022,
-        "c02": 564
-      }
-    ]
-  },
-  {
-    "company": "Syria",
-    "data": [
+        "company": "Soprano",
+        "c02": 30
+      },
       {
-        "year": 2013,
-        "c02": 611
+        "company": "Pathways",
+        "c02": 55
       },
       {
-        "year": 2014,
-        "c02": 877
+        "company": "Myopium",
+        "c02": 88
       },
       {
-        "year": 2015,
-        "c02": 772
+        "company": "Pushcart",
+        "c02": 60
       },
       {
-        "year": 2016,
-        "c02": 745
+        "company": "Exiand",
+        "c02": 78
       },
       {
-        "year": 2017,
-        "c02": 826
+        "company": "Strozen",
+        "c02": 52
       },
       {
-        "year": 2018,
-        "c02": 571
+        "company": "Centregy",
+        "c02": 83
       },
       {
-        "year": 2019,
-        "c02": 533
+        "company": "Tribalog",
+        "c02": 55
       },
       {
-        "year": 2020,
-        "c02": 1098
+        "company": "Flumbo",
+        "c02": 3
       },
       {
-        "year": 2021,
-        "c02": 935
+        "company": "Xixan",
+        "c02": 36
       },
       {
-        "year": 2022,
-        "c02": 427
-      }
-    ]
-  },
-  {
-    "company": "Ecuador",
-    "data": [
+        "company": "Isosphere",
+        "c02": 63
+      },
       {
-        "year": 2013,
-        "c02": 999
+        "company": "Shopabout",
+        "c02": 36
       },
       {
-        "year": 2014,
-        "c02": 482
+        "company": "Eclipto",
+        "c02": 86
       },
       {
-        "year": 2015,
-        "c02": 937
+        "company": "Cytrak",
+        "c02": 39
       },
       {
-        "year": 2016,
-        "c02": 559
+        "company": "Kraggle",
+        "c02": 72
       },
       {
-        "year": 2017,
-        "c02": 683
+        "company": "Miracula",
+        "c02": 46
       },
       {
-        "year": 2018,
-        "c02": 805
+        "company": "Mantrix",
+        "c02": 42
       },
       {
-        "year": 2019,
-        "c02": 1079
+        "company": "Jetsilk",
+        "c02": 1
       },
       {
-        "year": 2020,
-        "c02": 656
+        "company": "Entroflex",
+        "c02": 58
       },
       {
-        "year": 2021,
-        "c02": 797
+        "company": "Fleetmix",
+        "c02": 10
       },
       {
-        "year": 2022,
-        "c02": 760
-      }
-    ]
-  },
-  {
-    "company": "Uzbekistan",
-    "data": [
+        "company": "Kiosk",
+        "c02": 24
+      },
       {
-        "year": 2013,
-        "c02": 881
+        "company": "Slofast",
+        "c02": 2
       },
       {
-        "year": 2014,
-        "c02": 806
+        "company": "Martgo",
+        "c02": 18
       },
       {
-        "year": 2015,
-        "c02": 852
+        "company": "Irack",
+        "c02": 61
       },
       {
-        "year": 2016,
-        "c02": 523
+        "company": "Zomboid",
+        "c02": 1
       },
       {
-        "year": 2017,
-        "c02": 892
+        "company": "Amtas",
+        "c02": 11
       },
       {
-        "year": 2018,
-        "c02": 757
+        "company": "Inventure",
+        "c02": 50
       },
       {
-        "year": 2019,
-        "c02": 1006
+        "company": "Zolar",
+        "c02": 63
       },
       {
-        "year": 2020,
-        "c02": 731
+        "company": "Brainquil",
+        "c02": 84
       },
       {
-        "year": 2021,
-        "c02": 636
+        "company": "Orbin",
+        "c02": 48
       },
       {
-        "year": 2022,
-        "c02": 478
+        "company": "Neocent",
+        "c02": 51
       }
     ]
   },
   {
-    "company": "United States",
+    "year": 2020,
     "data": [
       {
-        "year": 2013,
-        "c02": 1091
+        "company": "Sybixtex",
+        "c02": 16
       },
       {
-        "year": 2014,
-        "c02": 851
+        "company": "Vixo",
+        "c02": 53
       },
       {
-        "year": 2015,
-        "c02": 870
+        "company": "Greeker",
+        "c02": 70
       },
       {
-        "year": 2016,
-        "c02": 933
+        "company": "Ohmnet",
+        "c02": 44
       },
       {
-        "year": 2017,
-        "c02": 1084
+        "company": "Zerbina",
+        "c02": 76
       },
       {
-        "year": 2018,
-        "c02": 784
+        "company": "Quizka",
+        "c02": 32
       },
       {
-        "year": 2019,
-        "c02": 466
+        "company": "Urbanshee",
+        "c02": 36
       },
       {
-        "year": 2020,
-        "c02": 745
+        "company": "Qot",
+        "c02": 71
       },
       {
-        "year": 2021,
-        "c02": 857
+        "company": "Extremo",
+        "c02": 12
       },
       {
-        "year": 2022,
-        "c02": 602
-      }
-    ]
-  },
-  {
-    "company": "Congo",
-    "data": [
+        "company": "Ovolo",
+        "c02": 30
+      },
       {
-        "year": 2013,
-        "c02": 728
+        "company": "Exoblue",
+        "c02": 33
       },
       {
-        "year": 2014,
-        "c02": 955
+        "company": "Acusage",
+        "c02": 98
       },
       {
-        "year": 2015,
-        "c02": 984
+        "company": "Frolix",
+        "c02": 95
       },
       {
-        "year": 2016,
-        "c02": 1015
+        "company": "Conferia",
+        "c02": 52
       },
       {
-        "year": 2017,
-        "c02": 946
+        "company": "Columella",
+        "c02": 83
       },
       {
-        "year": 2018,
-        "c02": 645
+        "company": "Franscene",
+        "c02": 4
       },
       {
-        "year": 2019,
-        "c02": 514
+        "company": "Zensure",
+        "c02": 29
       },
       {
-        "year": 2020,
-        "c02": 965
+        "company": "Arctiq",
+        "c02": 93
       },
       {
-        "year": 2021,
-        "c02": 479
+        "company": "Honotron",
+        "c02": 19
       },
       {
-        "year": 2022,
-        "c02": 728
-      }
-    ]
-  },
-  {
-    "company": "St. Pierre and Miquelon",
-    "data": [
+        "company": "Dragbot",
+        "c02": 43
+      },
       {
-        "year": 2013,
-        "c02": 817
+        "company": "Medicroix",
+        "c02": 25
       },
       {
-        "year": 2014,
-        "c02": 739
+        "company": "Securia",
+        "c02": 87
       },
       {
-        "year": 2015,
-        "c02": 742
+        "company": "Earthwax",
+        "c02": 65
       },
       {
-        "year": 2016,
-        "c02": 677
+        "company": "Comverges",
+        "c02": 40
       },
       {
-        "year": 2017,
-        "c02": 1065
+        "company": "Everest",
+        "c02": 55
       },
       {
-        "year": 2018,
-        "c02": 862
+        "company": "Comvene",
+        "c02": 11
       },
       {
-        "year": 2019,
-        "c02": 767
+        "company": "Turnabout",
+        "c02": 5
       },
       {
-        "year": 2020,
-        "c02": 959
+        "company": "Flum",
+        "c02": 84
       },
       {
-        "year": 2021,
-        "c02": 684
+        "company": "Eplosion",
+        "c02": 55
       },
       {
-        "year": 2022,
-        "c02": 1027
-      }
-    ]
-  },
-  {
-    "company": "Botswana",
-    "data": [
+        "company": "Cubicide",
+        "c02": 35
+      },
       {
-        "year": 2013,
-        "c02": 595
+        "company": "Buzzmaker",
+        "c02": 33
       },
       {
-        "year": 2014,
-        "c02": 978
+        "company": "Sunclipse",
+        "c02": 23
       },
       {
-        "year": 2015,
-        "c02": 858
+        "company": "Lovepad",
+        "c02": 46
       },
       {
-        "year": 2016,
-        "c02": 1001
+        "company": "Exerta",
+        "c02": 80
       },
       {
-        "year": 2017,
-        "c02": 561
+        "company": "Gushkool",
+        "c02": 2
       },
       {
-        "year": 2018,
-        "c02": 875
+        "company": "Recognia",
+        "c02": 40
       },
       {
-        "year": 2019,
-        "c02": 672
+        "company": "Ewaves",
+        "c02": 30
       },
       {
-        "year": 2020,
-        "c02": 937
+        "company": "Centrexin",
+        "c02": 84
       },
       {
-        "year": 2021,
-        "c02": 845
+        "company": "Sensate",
+        "c02": 49
       },
       {
-        "year": 2022,
-        "c02": 446
-      }
-    ]
-  },
-  {
-    "company": "Antigua and Barbuda",
-    "data": [
+        "company": "Ginkogene",
+        "c02": 68
+      },
       {
-        "year": 2013,
-        "c02": 655
+        "company": "Songbird",
+        "c02": 63
       },
       {
-        "year": 2014,
-        "c02": 449
+        "company": "Hawkster",
+        "c02": 40
       },
       {
-        "year": 2015,
-        "c02": 678
+        "company": "Talkola",
+        "c02": 58
       },
       {
-        "year": 2016,
-        "c02": 1059
+        "company": "Accuprint",
+        "c02": 71
       },
       {
-        "year": 2017,
-        "c02": 736
+        "company": "Musix",
+        "c02": 55
       },
       {
-        "year": 2018,
-        "c02": 401
+        "company": "Apextri",
+        "c02": 68
       },
       {
-        "year": 2019,
-        "c02": 796
+        "company": "Eplode",
+        "c02": 16
       },
       {
-        "year": 2020,
-        "c02": 570
+        "company": "Utara",
+        "c02": 11
       },
       {
-        "year": 2021,
-        "c02": 648
+        "company": "Grupoli",
+        "c02": 18
       },
       {
-        "year": 2022,
-        "c02": 506
-      }
-    ]
-  },
-  {
-    "company": "Lesotho",
-    "data": [
+        "company": "Plexia",
+        "c02": 73
+      },
       {
-        "year": 2013,
-        "c02": 828
+        "company": "Medifax",
+        "c02": 92
       },
       {
-        "year": 2014,
-        "c02": 955
+        "company": "Flotonic",
+        "c02": 65
       },
       {
-        "year": 2015,
-        "c02": 849
+        "company": "Petigems",
+        "c02": 24
       },
       {
-        "year": 2016,
-        "c02": 700
+        "company": "Xyqag",
+        "c02": 95
       },
       {
-        "year": 2017,
-        "c02": 1072
+        "company": "Cedward",
+        "c02": 51
       },
       {
-        "year": 2018,
-        "c02": 1087
+        "company": "Eyewax",
+        "c02": 76
       },
       {
-        "year": 2019,
-        "c02": 429
+        "company": "Norsup",
+        "c02": 95
       },
       {
-        "year": 2020,
-        "c02": 542
+        "company": "Zipak",
+        "c02": 47
       },
       {
-        "year": 2021,
-        "c02": 987
+        "company": "Zytrex",
+        "c02": 74
       },
       {
-        "year": 2022,
-        "c02": 1091
-      }
-    ]
-  },
-  {
-    "company": "Mexico",
-    "data": [
+        "company": "Orbaxter",
+        "c02": 45
+      },
       {
-        "year": 2013,
-        "c02": 564
+        "company": "Colaire",
+        "c02": 17
       },
       {
-        "year": 2014,
-        "c02": 910
+        "company": "Magmina",
+        "c02": 1
       },
       {
-        "year": 2015,
-        "c02": 416
+        "company": "Genesynk",
+        "c02": 33
       },
       {
-        "year": 2016,
-        "c02": 1096
+        "company": "Bitrex",
+        "c02": 17
       },
       {
-        "year": 2017,
-        "c02": 1098
+        "company": "Zaggle",
+        "c02": 11
       },
       {
-        "year": 2018,
-        "c02": 958
+        "company": "Codact",
+        "c02": 89
       },
       {
-        "year": 2019,
-        "c02": 619
+        "company": "Earthpure",
+        "c02": 19
       },
       {
-        "year": 2020,
-        "c02": 959
+        "company": "Tourmania",
+        "c02": 1
       },
       {
-        "year": 2021,
-        "c02": 554
+        "company": "Orbalix",
+        "c02": 38
       },
       {
-        "year": 2022,
-        "c02": 735
-      }
-    ]
-  },
-  {
-    "company": "Saudi Arabia",
-    "data": [
+        "company": "Fiberox",
+        "c02": 77
+      },
       {
-        "year": 2013,
-        "c02": 987
+        "company": "Vertide",
+        "c02": 32
       },
       {
-        "year": 2014,
-        "c02": 911
+        "company": "Zolavo",
+        "c02": 46
       },
       {
-        "year": 2015,
-        "c02": 775
+        "company": "Pulze",
+        "c02": 26
       },
       {
-        "year": 2016,
-        "c02": 894
+        "company": "Comcur",
+        "c02": 65
       },
       {
-        "year": 2017,
-        "c02": 1081
+        "company": "Netur",
+        "c02": 94
       },
       {
-        "year": 2018,
-        "c02": 718
+        "company": "Multiflex",
+        "c02": 16
       },
       {
-        "year": 2019,
-        "c02": 414
+        "company": "Ziggles",
+        "c02": 24
       },
       {
-        "year": 2020,
-        "c02": 515
+        "company": "Gynk",
+        "c02": 2
       },
       {
-        "year": 2021,
-        "c02": 468
+        "company": "Deminimum",
+        "c02": 79
       },
       {
-        "year": 2022,
-        "c02": 618
-      }
-    ]
-  },
-  {
-    "company": "Maldives",
-    "data": [
+        "company": "Zizzle",
+        "c02": 31
+      },
       {
-        "year": 2013,
-        "c02": 871
+        "company": "Kaggle",
+        "c02": 9
       },
       {
-        "year": 2014,
-        "c02": 983
+        "company": "Zanymax",
+        "c02": 63
       },
       {
-        "year": 2015,
-        "c02": 475
+        "company": "Wazzu",
+        "c02": 76
       },
       {
-        "year": 2016,
-        "c02": 690
+        "company": "Zaj",
+        "c02": 74
       },
       {
-        "year": 2017,
-        "c02": 868
+        "company": "Enthaze",
+        "c02": 83
       },
       {
-        "year": 2018,
-        "c02": 461
+        "company": "Essensia",
+        "c02": 28
       },
       {
-        "year": 2019,
-        "c02": 414
+        "company": "Syntac",
+        "c02": 17
       },
       {
-        "year": 2020,
-        "c02": 624
+        "company": "Geeketron",
+        "c02": 16
       },
       {
-        "year": 2021,
-        "c02": 1017
+        "company": "Micronaut",
+        "c02": 7
       },
       {
-        "year": 2022,
-        "c02": 724
-      }
-    ]
-  },
-  {
-    "company": "French Southern Territories",
-    "data": [
+        "company": "Zidant",
+        "c02": 95
+      },
       {
-        "year": 2013,
-        "c02": 1070
+        "company": "Cablam",
+        "c02": 59
       },
       {
-        "year": 2014,
-        "c02": 919
+        "company": "Permadyne",
+        "c02": 56
       },
       {
-        "year": 2015,
-        "c02": 835
+        "company": "Xerex",
+        "c02": 39
       },
       {
-        "year": 2016,
-        "c02": 512
+        "company": "Zyple",
+        "c02": 82
       },
       {
-        "year": 2017,
-        "c02": 666
+        "company": "Imkan",
+        "c02": 79
       },
       {
-        "year": 2018,
-        "c02": 955
+        "company": "Zedalis",
+        "c02": 40
       },
       {
-        "year": 2019,
-        "c02": 404
+        "company": "Calcu",
+        "c02": 4
       },
       {
-        "year": 2020,
-        "c02": 539
+        "company": "Filodyne",
+        "c02": 2
       },
       {
-        "year": 2021,
-        "c02": 534
+        "company": "Zorromop",
+        "c02": 20
       },
       {
-        "year": 2022,
-        "c02": 688
+        "company": "Earthmark",
+        "c02": 82
       }
     ]
   },
   {
-    "company": "Tonga",
+    "year": 2021,
     "data": [
       {
-        "year": 2013,
-        "c02": 940
+        "company": "Sportan",
+        "c02": 85
       },
       {
-        "year": 2014,
-        "c02": 924
+        "company": "Talendula",
+        "c02": 24
       },
       {
-        "year": 2015,
-        "c02": 758
+        "company": "Centree",
+        "c02": 62
       },
       {
-        "year": 2016,
-        "c02": 458
+        "company": "Centuria",
+        "c02": 76
       },
       {
-        "year": 2017,
-        "c02": 953
+        "company": "Magnemo",
+        "c02": 30
       },
       {
-        "year": 2018,
-        "c02": 852
+        "company": "Motovate",
+        "c02": 12
       },
       {
-        "year": 2019,
-        "c02": 688
+        "company": "Fortean",
+        "c02": 61
       },
       {
-        "year": 2020,
-        "c02": 735
+        "company": "Tetratrex",
+        "c02": 37
       },
       {
-        "year": 2021,
-        "c02": 992
+        "company": "Gleamink",
+        "c02": 4
       },
       {
-        "year": 2022,
-        "c02": 677
-      }
-    ]
-  },
-  {
-    "company": "Anguilla",
-    "data": [
+        "company": "Gronk",
+        "c02": 47
+      },
       {
-        "year": 2013,
-        "c02": 783
+        "company": "Pyramia",
+        "c02": 45
       },
       {
-        "year": 2014,
-        "c02": 464
+        "company": "Xanide",
+        "c02": 62
       },
       {
-        "year": 2015,
-        "c02": 537
+        "company": "Applidec",
+        "c02": 9
       },
       {
-        "year": 2016,
-        "c02": 427
+        "company": "Xelegyl",
+        "c02": 31
       },
       {
-        "year": 2017,
-        "c02": 593
+        "company": "Trasola",
+        "c02": 82
       },
       {
-        "year": 2018,
-        "c02": 919
+        "company": "Liquidoc",
+        "c02": 57
       },
       {
-        "year": 2019,
-        "c02": 643
+        "company": "Twiggery",
+        "c02": 37
       },
       {
-        "year": 2020,
-        "c02": 922
+        "company": "Extro",
+        "c02": 79
       },
       {
-        "year": 2021,
-        "c02": 849
+        "company": "Austech",
+        "c02": 59
       },
       {
-        "year": 2022,
-        "c02": 1014
-      }
-    ]
-  },
-  {
-    "company": "Lithuania",
-    "data": [
+        "company": "Thredz",
+        "c02": 35
+      },
       {
-        "year": 2013,
-        "c02": 1071
+        "company": "Zillactic",
+        "c02": 88
       },
       {
-        "year": 2014,
-        "c02": 734
+        "company": "Overplex",
+        "c02": 68
       },
       {
-        "year": 2015,
-        "c02": 571
+        "company": "Isoplex",
+        "c02": 87
       },
       {
-        "year": 2016,
-        "c02": 455
+        "company": "Cytrex",
+        "c02": 8
       },
       {
-        "year": 2017,
-        "c02": 686
+        "company": "Polarax",
+        "c02": 88
       },
       {
-        "year": 2018,
-        "c02": 452
+        "company": "Velity",
+        "c02": 68
       },
       {
-        "year": 2019,
-        "c02": 830
+        "company": "Decratex",
+        "c02": 46
       },
       {
-        "year": 2020,
-        "c02": 602
+        "company": "Zinca",
+        "c02": 19
       },
       {
-        "year": 2021,
-        "c02": 533
+        "company": "Comfirm",
+        "c02": 70
       },
       {
-        "year": 2022,
-        "c02": 833
-      }
-    ]
-  },
-  {
-    "company": "Aruba",
-    "data": [
+        "company": "Zoxy",
+        "c02": 17
+      },
       {
-        "year": 2013,
-        "c02": 878
+        "company": "Obones",
+        "c02": 90
       },
       {
-        "year": 2014,
-        "c02": 1049
+        "company": "Exotechno",
+        "c02": 94
       },
       {
-        "year": 2015,
-        "c02": 449
+        "company": "Marvane",
+        "c02": 76
       },
       {
-        "year": 2016,
-        "c02": 565
+        "company": "Roboid",
+        "c02": 29
       },
       {
-        "year": 2017,
-        "c02": 559
+        "company": "Anixang",
+        "c02": 35
       },
       {
-        "year": 2018,
-        "c02": 582
+        "company": "Quarx",
+        "c02": 40
       },
       {
-        "year": 2019,
-        "c02": 1078
+        "company": "Equitax",
+        "c02": 8
       },
       {
-        "year": 2020,
-        "c02": 919
+        "company": "Radiantix",
+        "c02": 57
       },
       {
-        "year": 2021,
-        "c02": 421
+        "company": "Austex",
+        "c02": 6
       },
       {
-        "year": 2022,
-        "c02": 814
-      }
-    ]
-  },
-  {
-    "company": "Namibia",
-    "data": [
+        "company": "Eventage",
+        "c02": 33
+      },
       {
-        "year": 2013,
-        "c02": 654
+        "company": "Emtrac",
+        "c02": 34
       },
       {
-        "year": 2014,
-        "c02": 748
+        "company": "Cosmosis",
+        "c02": 3
       },
       {
-        "year": 2015,
-        "c02": 602
+        "company": "Otherway",
+        "c02": 41
       },
       {
-        "year": 2016,
-        "c02": 1051
+        "company": "Buzzness",
+        "c02": 47
       },
       {
-        "year": 2017,
-        "c02": 497
+        "company": "Mazuda",
+        "c02": 57
       },
       {
-        "year": 2018,
-        "c02": 1042
+        "company": "Vendblend",
+        "c02": 1
       },
       {
-        "year": 2019,
-        "c02": 612
+        "company": "Knowlysis",
+        "c02": 7
       },
       {
-        "year": 2020,
-        "c02": 784
+        "company": "Valpreal",
+        "c02": 4
       },
       {
-        "year": 2021,
-        "c02": 497
+        "company": "Mangelica",
+        "c02": 44
       },
       {
-        "year": 2022,
-        "c02": 465
-      }
-    ]
-  },
-  {
-    "company": "Tajikistan",
-    "data": [
+        "company": "Trollery",
+        "c02": 30
+      },
       {
-        "year": 2013,
-        "c02": 1017
+        "company": "Sealoud",
+        "c02": 24
       },
       {
-        "year": 2014,
-        "c02": 855
+        "company": "Biohab",
+        "c02": 49
       },
       {
-        "year": 2015,
-        "c02": 1087
+        "company": "Plasto",
+        "c02": 42
       },
       {
-        "year": 2016,
-        "c02": 416
+        "company": "Exposa",
+        "c02": 46
       },
       {
-        "year": 2017,
-        "c02": 787
+        "company": "Kyagoro",
+        "c02": 54
       },
       {
-        "year": 2018,
-        "c02": 941
+        "company": "Namebox",
+        "c02": 35
       },
       {
-        "year": 2019,
-        "c02": 932
+        "company": "Zogak",
+        "c02": 73
       },
       {
-        "year": 2020,
-        "c02": 538
+        "company": "Digiprint",
+        "c02": 70
       },
       {
-        "year": 2021,
-        "c02": 845
+        "company": "Atgen",
+        "c02": 69
       },
       {
-        "year": 2022,
-        "c02": 452
-      }
-    ]
-  },
-  {
-    "company": "Macedonia",
-    "data": [
+        "company": "Medesign",
+        "c02": 46
+      },
       {
-        "year": 2013,
-        "c02": 596
+        "company": "Bulljuice",
+        "c02": 25
       },
       {
-        "year": 2014,
-        "c02": 584
+        "company": "Isostream",
+        "c02": 72
       },
       {
-        "year": 2015,
-        "c02": 542
+        "company": "Zenthall",
+        "c02": 97
       },
       {
-        "year": 2016,
-        "c02": 465
+        "company": "Zilodyne",
+        "c02": 11
       },
       {
-        "year": 2017,
-        "c02": 961
+        "company": "Sentia",
+        "c02": 10
       },
       {
-        "year": 2018,
-        "c02": 428
+        "company": "Playce",
+        "c02": 98
       },
       {
-        "year": 2019,
-        "c02": 743
+        "company": "Tersanki",
+        "c02": 75
       },
       {
-        "year": 2020,
-        "c02": 711
+        "company": "Isosure",
+        "c02": 42
       },
       {
-        "year": 2021,
-        "c02": 552
+        "company": "Netplax",
+        "c02": 99
       },
       {
-        "year": 2022,
-        "c02": 590
-      }
-    ]
-  },
-  {
-    "company": "Malaysia",
-    "data": [
+        "company": "Ezentia",
+        "c02": 53
+      },
       {
-        "year": 2013,
-        "c02": 813
+        "company": "Glukgluk",
+        "c02": 41
       },
       {
-        "year": 2014,
-        "c02": 1054
+        "company": "Signidyne",
+        "c02": 100
       },
       {
-        "year": 2015,
-        "c02": 422
+        "company": "Gynko",
+        "c02": 52
       },
       {
-        "year": 2016,
-        "c02": 684
+        "company": "Keeg",
+        "c02": 47
       },
       {
-        "year": 2017,
-        "c02": 589
+        "company": "Dymi",
+        "c02": 17
       },
       {
-        "year": 2018,
-        "c02": 961
+        "company": "Velos",
+        "c02": 95
       },
       {
-        "year": 2019,
-        "c02": 764
+        "company": "Dognosis",
+        "c02": 68
       },
       {
-        "year": 2020,
-        "c02": 594
+        "company": "Comveyer",
+        "c02": 11
       },
       {
-        "year": 2021,
-        "c02": 1081
+        "company": "Xleen",
+        "c02": 52
       },
       {
-        "year": 2022,
-        "c02": 654
-      }
-    ]
-  },
-  {
-    "company": "Central African Republic",
-    "data": [
+        "company": "Terascape",
+        "c02": 50
+      },
       {
-        "year": 2013,
-        "c02": 540
+        "company": "Chillium",
+        "c02": 94
       },
       {
-        "year": 2014,
-        "c02": 961
+        "company": "Protodyne",
+        "c02": 83
       },
       {
-        "year": 2015,
-        "c02": 510
+        "company": "Ceprene",
+        "c02": 85
       },
       {
-        "year": 2016,
-        "c02": 1093
+        "company": "Digigen",
+        "c02": 69
       },
       {
-        "year": 2017,
-        "c02": 669
+        "company": "Danja",
+        "c02": 58
       },
       {
-        "year": 2018,
-        "c02": 740
+        "company": "Reversus",
+        "c02": 34
       },
       {
-        "year": 2019,
-        "c02": 698
+        "company": "Biotica",
+        "c02": 68
       },
       {
-        "year": 2020,
-        "c02": 647
+        "company": "Telequiet",
+        "c02": 75
       },
       {
-        "year": 2021,
-        "c02": 742
+        "company": "Enomen",
+        "c02": 38
       },
       {
-        "year": 2022,
-        "c02": 900
-      }
-    ]
-  },
-  {
-    "company": "Palau",
-    "data": [
+        "company": "Unisure",
+        "c02": 89
+      },
       {
-        "year": 2013,
-        "c02": 428
+        "company": "Xinware",
+        "c02": 95
       },
       {
-        "year": 2014,
-        "c02": 911
+        "company": "Avit",
+        "c02": 26
       },
       {
-        "year": 2015,
-        "c02": 844
+        "company": "Extragene",
+        "c02": 79
       },
       {
-        "year": 2016,
-        "c02": 582
+        "company": "Magnafone",
+        "c02": 17
       },
       {
-        "year": 2017,
-        "c02": 660
+        "company": "Zepitope",
+        "c02": 37
       },
       {
-        "year": 2018,
-        "c02": 501
+        "company": "Bedder",
+        "c02": 90
       },
       {
-        "year": 2019,
-        "c02": 588
+        "company": "Eventex",
+        "c02": 84
       },
       {
-        "year": 2020,
-        "c02": 414
+        "company": "Cubix",
+        "c02": 61
       },
       {
-        "year": 2021,
-        "c02": 817
+        "company": "Straloy",
+        "c02": 64
       },
       {
-        "year": 2022,
-        "c02": 1087
+        "company": "Enersol",
+        "c02": 87
       }
     ]
   },
   {
-    "company": "Nauru",
+    "year": 2022,
     "data": [
       {
-        "year": 2013,
-        "c02": 547
+        "company": "Kengen",
+        "c02": 19
       },
       {
-        "year": 2014,
-        "c02": 589
+        "company": "Zillacom",
+        "c02": 42
       },
       {
-        "year": 2015,
-        "c02": 687
+        "company": "Crustatia",
+        "c02": 59
       },
       {
-        "year": 2016,
-        "c02": 450
+        "company": "Lunchpad",
+        "c02": 78
       },
       {
-        "year": 2017,
-        "c02": 722
+        "company": "Waretel",
+        "c02": 30
       },
       {
-        "year": 2018,
-        "c02": 781
+        "company": "Olucore",
+        "c02": 74
       },
       {
-        "year": 2019,
-        "c02": 617
+        "company": "Entropix",
+        "c02": 89
       },
       {
-        "year": 2020,
-        "c02": 819
+        "company": "Proflex",
+        "c02": 12
       },
       {
-        "year": 2021,
-        "c02": 728
+        "company": "Supremia",
+        "c02": 95
       },
       {
-        "year": 2022,
-        "c02": 668
-      }
-    ]
-  },
-  {
-    "company": "Liberia",
-    "data": [
+        "company": "Visalia",
+        "c02": 50
+      },
       {
-        "year": 2013,
-        "c02": 848
+        "company": "Furnigeer",
+        "c02": 52
       },
       {
-        "year": 2014,
-        "c02": 654
+        "company": "Sustenza",
+        "c02": 69
       },
       {
-        "year": 2015,
-        "c02": 1001
+        "company": "Geekular",
+        "c02": 87
       },
       {
-        "year": 2016,
-        "c02": 949
+        "company": "Comdom",
+        "c02": 57
       },
       {
-        "year": 2017,
-        "c02": 693
+        "company": "Farmage",
+        "c02": 51
       },
       {
-        "year": 2018,
-        "c02": 463
+        "company": "Joviold",
+        "c02": 75
       },
       {
-        "year": 2019,
-        "c02": 885
+        "company": "Canopoly",
+        "c02": 15
       },
       {
-        "year": 2020,
-        "c02": 1008
+        "company": "Rockyard",
+        "c02": 18
       },
       {
-        "year": 2021,
-        "c02": 938
+        "company": "Combogen",
+        "c02": 47
       },
       {
-        "year": 2022,
-        "c02": 708
-      }
-    ]
-  },
-  {
-    "company": "Qatar",
-    "data": [
+        "company": "Speedbolt",
+        "c02": 36
+      },
       {
-        "year": 2013,
-        "c02": 838
+        "company": "Sequitur",
+        "c02": 82
       },
       {
-        "year": 2014,
-        "c02": 665
+        "company": "Endipine",
+        "c02": 23
       },
       {
-        "year": 2015,
-        "c02": 448
+        "company": "Emoltra",
+        "c02": 99
       },
       {
-        "year": 2016,
-        "c02": 463
+        "company": "Duoflex",
+        "c02": 22
       },
       {
-        "year": 2017,
-        "c02": 441
+        "company": "Venoflex",
+        "c02": 33
       },
       {
-        "year": 2018,
-        "c02": 907
+        "company": "Qaboos",
+        "c02": 42
       },
       {
-        "year": 2019,
-        "c02": 594
+        "company": "Bovis",
+        "c02": 1
       },
       {
-        "year": 2020,
-        "c02": 561
+        "company": "Geeky",
+        "c02": 39
       },
       {
-        "year": 2021,
-        "c02": 530
+        "company": "Stelaecor",
+        "c02": 97
       },
       {
-        "year": 2022,
-        "c02": 922
-      }
-    ]
-  },
-  {
-    "company": "Swaziland",
-    "data": [
+        "company": "Cyclonica",
+        "c02": 2
+      },
       {
-        "year": 2013,
-        "c02": 800
+        "company": "Firewax",
+        "c02": 21
       },
       {
-        "year": 2014,
-        "c02": 1075
+        "company": "Podunk",
+        "c02": 28
       },
       {
-        "year": 2015,
-        "c02": 724
+        "company": "Lunchpod",
+        "c02": 95
       },
       {
-        "year": 2016,
-        "c02": 621
+        "company": "Electonic",
+        "c02": 96
       },
       {
-        "year": 2017,
-        "c02": 925
+        "company": "Grok",
+        "c02": 32
       },
       {
-        "year": 2018,
-        "c02": 912
+        "company": "Zillidium",
+        "c02": 37
       },
       {
-        "year": 2019,
-        "c02": 520
+        "company": "Zytrax",
+        "c02": 25
       },
       {
-        "year": 2020,
-        "c02": 546
+        "company": "Bolax",
+        "c02": 30
       },
       {
-        "year": 2021,
-        "c02": 904
+        "company": "Realysis",
+        "c02": 77
       },
       {
-        "year": 2022,
-        "c02": 422
-      }
-    ]
-  },
-  {
-    "company": "Niger",
-    "data": [
+        "company": "Zboo",
+        "c02": 35
+      },
       {
-        "year": 2013,
-        "c02": 659
+        "company": "Xylar",
+        "c02": 100
       },
       {
-        "year": 2014,
-        "c02": 690
+        "company": "Lexicondo",
+        "c02": 15
       },
       {
-        "year": 2015,
-        "c02": 851
+        "company": "Farmex",
+        "c02": 40
       },
       {
-        "year": 2016,
-        "c02": 818
+        "company": "Qualitern",
+        "c02": 2
       },
       {
-        "year": 2017,
-        "c02": 755
+        "company": "Equicom",
+        "c02": 92
       },
       {
-        "year": 2018,
-        "c02": 1003
+        "company": "Bytrex",
+        "c02": 59
       },
       {
-        "year": 2019,
-        "c02": 837
+        "company": "Adornica",
+        "c02": 92
       },
       {
-        "year": 2020,
-        "c02": 840
+        "company": "Stockpost",
+        "c02": 65
       },
       {
-        "year": 2021,
-        "c02": 714
+        "company": "Supportal",
+        "c02": 49
       },
       {
-        "year": 2022,
-        "c02": 708
-      }
-    ]
-  },
-  {
-    "company": "Belize",
-    "data": [
+        "company": "Eyeris",
+        "c02": 82
+      },
       {
-        "year": 2013,
-        "c02": 653
+        "company": "Bristo",
+        "c02": 47
       },
       {
-        "year": 2014,
-        "c02": 668
+        "company": "Updat",
+        "c02": 38
       },
       {
-        "year": 2015,
-        "c02": 431
+        "company": "Amril",
+        "c02": 27
       },
       {
-        "year": 2016,
-        "c02": 556
+        "company": "Confrenzy",
+        "c02": 92
       },
       {
-        "year": 2017,
-        "c02": 935
+        "company": "Obliq",
+        "c02": 19
       },
       {
-        "year": 2018,
-        "c02": 1002
+        "company": "Comvex",
+        "c02": 8
       },
       {
-        "year": 2019,
-        "c02": 788
+        "company": "Netbook",
+        "c02": 66
       },
       {
-        "year": 2020,
-        "c02": 1062
+        "company": "Aquazure",
+        "c02": 47
       },
       {
-        "year": 2021,
-        "c02": 1063
+        "company": "Polarium",
+        "c02": 41
       },
       {
-        "year": 2022,
-        "c02": 627
-      }
-    ]
-  },
-  {
-    "company": "Panama",
-    "data": [
+        "company": "Providco",
+        "c02": 42
+      },
       {
-        "year": 2013,
-        "c02": 505
+        "company": "Slax",
+        "c02": 54
       },
       {
-        "year": 2014,
-        "c02": 683
+        "company": "Aquasure",
+        "c02": 70
       },
       {
-        "year": 2015,
-        "c02": 894
+        "company": "Hatology",
+        "c02": 25
       },
       {
-        "year": 2016,
-        "c02": 860
+        "company": "Remotion",
+        "c02": 69
       },
       {
-        "year": 2017,
-        "c02": 701
+        "company": "Dentrex",
+        "c02": 17
       },
       {
-        "year": 2018,
-        "c02": 987
+        "company": "Fitcore",
+        "c02": 6
       },
       {
-        "year": 2019,
-        "c02": 658
+        "company": "Shadease",
+        "c02": 95
       },
       {
-        "year": 2020,
-        "c02": 1065
+        "company": "Nebulean",
+        "c02": 21
       },
       {
-        "year": 2021,
-        "c02": 784
+        "company": "Geekwagon",
+        "c02": 71
       },
       {
-        "year": 2022,
-        "c02": 403
-      }
-    ]
-  },
-  {
-    "company": "Korea (South)",
-    "data": [
+        "company": "Pheast",
+        "c02": 4
+      },
       {
-        "year": 2013,
-        "c02": 477
+        "company": "Realmo",
+        "c02": 47
       },
       {
-        "year": 2014,
-        "c02": 487
+        "company": "Geekmosis",
+        "c02": 23
       },
       {
-        "year": 2015,
-        "c02": 1067
+        "company": "Artiq",
+        "c02": 31
       },
       {
-        "year": 2016,
-        "c02": 695
+        "company": "Kongene",
+        "c02": 56
       },
       {
-        "year": 2017,
-        "c02": 657
+        "company": "Koffee",
+        "c02": 79
       },
       {
-        "year": 2018,
-        "c02": 569
+        "company": "Fishland",
+        "c02": 55
       },
       {
-        "year": 2019,
-        "c02": 538
+        "company": "Caxt",
+        "c02": 54
       },
       {
-        "year": 2020,
-        "c02": 1027
+        "company": "Zanilla",
+        "c02": 83
       },
       {
-        "year": 2021,
-        "c02": 638
+        "company": "Enervate",
+        "c02": 56
       },
       {
-        "year": 2022,
-        "c02": 983
-      }
-    ]
-  },
-  {
-    "company": "Iran",
-    "data": [
+        "company": "Zolarity",
+        "c02": 71
+      },
       {
-        "year": 2013,
-        "c02": 535
+        "company": "Volax",
+        "c02": 6
       },
       {
-        "year": 2014,
-        "c02": 506
+        "company": "Accufarm",
+        "c02": 20
       },
       {
-        "year": 2015,
-        "c02": 878
+        "company": "Gonkle",
+        "c02": 48
       },
       {
-        "year": 2016,
-        "c02": 1036
+        "company": "Imaginart",
+        "c02": 5
       },
       {
-        "year": 2017,
-        "c02": 969
+        "company": "Futuris",
+        "c02": 64
       },
       {
-        "year": 2018,
-        "c02": 558
+        "company": "Comcubine",
+        "c02": 70
       },
       {
-        "year": 2019,
-        "c02": 767
+        "company": "Dreamia",
+        "c02": 65
       },
       {
-        "year": 2020,
-        "c02": 506
+        "company": "Parcoe",
+        "c02": 58
       },
       {
-        "year": 2021,
-        "c02": 1086
+        "company": "Paprikut",
+        "c02": 78
       },
       {
-        "year": 2022,
-        "c02": 546
-      }
-    ]
-  },
-  {
-    "company": "Solomon Islands",
-    "data": [
+        "company": "Datacator",
+        "c02": 58
+      },
       {
-        "year": 2013,
-        "c02": 539
+        "company": "Tubalum",
+        "c02": 56
       },
       {
-        "year": 2014,
-        "c02": 690
+        "company": "Talkalot",
+        "c02": 82
       },
       {
-        "year": 2015,
-        "c02": 626
+        "company": "Zaggles",
+        "c02": 11
       },
       {
-        "year": 2016,
-        "c02": 480
+        "company": "Futurize",
+        "c02": 74
       },
       {
-        "year": 2017,
-        "c02": 659
+        "company": "Xiix",
+        "c02": 47
       },
       {
-        "year": 2018,
-        "c02": 718
+        "company": "Kindaloo",
+        "c02": 59
       },
       {
-        "year": 2019,
-        "c02": 450
+        "company": "Quadeebo",
+        "c02": 21
       },
       {
-        "year": 2020,
-        "c02": 529
+        "company": "Waab",
+        "c02": 67
       },
       {
-        "year": 2021,
-        "c02": 868
+        "company": "Songlines",
+        "c02": 87
       },
       {
-        "year": 2022,
-        "c02": 617
+        "company": "Vicon",
+        "c02": 55
       }
     ]
   }
