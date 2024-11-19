@@ -3,404 +3,404 @@
     "year": 2013,
     "data": [
       {
-        "company": "Waab",
-        "c02": 26
+        "country": "Korea (South)",
+        "c02": 346
       },
       {
-        "company": "Songlines",
-        "c02": 74
+        "country": "Tonga",
+        "c02": 1255
       },
       {
-        "company": "Vicon",
+        "country": "France, Metropolitan",
+        "c02": 867
+      },
+      {
+        "country": "Burkina Faso",
+        "c02": 20
+      },
+      {
+        "country": "Comoros",
+        "c02": 164
+      },
+      {
+        "country": "Sudan",
+        "c02": 97
+      },
+      {
+        "country": "Falkland Islands (Malvinas)",
+        "c02": 46
+      },
+      {
+        "country": "Ukraine",
+        "c02": 1246
+      },
+      {
+        "country": "Antarctica",
+        "c02": 1343
+      },
+      {
+        "country": "Austria",
+        "c02": 917
+      },
+      {
+        "country": "Brunei Darussalam",
+        "c02": 126
+      },
+      {
+        "country": "Portugal",
+        "c02": 485
+      },
+      {
+        "country": "Jordan",
+        "c02": 1032
+      },
+      {
+        "country": "Wallis and Futuna Islands",
+        "c02": 372
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "c02": 591
+      },
+      {
+        "country": "Gambia",
+        "c02": 509
+      },
+      {
+        "country": "St. Pierre and Miquelon",
+        "c02": 1046
+      },
+      {
+        "country": "Kenya",
+        "c02": 1116
+      },
+      {
+        "country": "Andorra",
+        "c02": 64
+      },
+      {
+        "country": "Cyprus",
+        "c02": 1336
+      },
+      {
+        "country": "Libya",
+        "c02": 489
+      },
+      {
+        "country": "Colombia",
+        "c02": 57
+      },
+      {
+        "country": "Burundi",
+        "c02": 477
+      },
+      {
+        "country": "Slovenia",
+        "c02": 464
+      },
+      {
+        "country": "Zimbabwe",
+        "c02": 766
+      },
+      {
+        "country": "Grenada",
+        "c02": 464
+      },
+      {
+        "country": "Hong Kong",
+        "c02": 758
+      },
+      {
+        "country": "Benin",
+        "c02": 110
+      },
+      {
+        "country": "Lebanon",
+        "c02": 1237
+      },
+      {
+        "country": "Sao Tome and Principe",
+        "c02": 693
+      },
+      {
+        "country": "Monaco",
+        "c02": 1037
+      },
+      {
+        "country": "Niger",
+        "c02": 138
+      },
+      {
+        "country": "Bolivia",
+        "c02": 1283
+      },
+      {
+        "country": "Algeria",
+        "c02": 1393
+      },
+      {
+        "country": "Paraguay",
+        "c02": 1360
+      },
+      {
+        "country": "Solomon Islands",
+        "c02": 1343
+      },
+      {
+        "country": "Puerto Rico",
+        "c02": 1075
+      },
+      {
+        "country": "United Kingdom",
+        "c02": 623
+      },
+      {
+        "country": "Tuvalu",
+        "c02": 1141
+      },
+      {
+        "country": "Turkey",
+        "c02": 736
+      },
+      {
+        "country": "French Polynesia",
+        "c02": 729
+      },
+      {
+        "country": "Croatia (Hrvatska)",
+        "c02": 1227
+      },
+      {
+        "country": "Poland",
+        "c02": 1318
+      },
+      {
+        "country": "Cameroon",
+        "c02": 536
+      },
+      {
+        "country": "Dominica",
+        "c02": 401
+      },
+      {
+        "country": "New Zealand",
+        "c02": 957
+      },
+      {
+        "country": "Nigeria",
+        "c02": 1335
+      },
+      {
+        "country": "Chile",
+        "c02": 917
+      },
+      {
+        "country": "Bahrain",
+        "c02": 216
+      },
+      {
+        "country": "Guatemala",
+        "c02": 520
+      },
+      {
+        "country": "Barbados",
+        "c02": 1010
+      },
+      {
+        "country": "Luxembourg",
+        "c02": 666
+      },
+      {
+        "country": "Turkmenistan",
+        "c02": 1302
+      },
+      {
+        "country": "Tunisia",
+        "c02": 168
+      },
+      {
+        "country": "Iran",
+        "c02": 501
+      },
+      {
+        "country": "Niue",
+        "c02": 1070
+      },
+      {
+        "country": "Reunion",
+        "c02": 1066
+      },
+      {
+        "country": "Cote D'Ivoire (Ivory Coast)",
+        "c02": 468
+      },
+      {
+        "country": "Estonia",
+        "c02": 189
+      },
+      {
+        "country": "El Salvador",
+        "c02": 545
+      },
+      {
+        "country": "Christmas Island",
+        "c02": 1263
+      },
+      {
+        "country": "Brazil",
+        "c02": 414
+      },
+      {
+        "country": "Namibia",
+        "c02": 822
+      },
+      {
+        "country": "Hungary",
+        "c02": 886
+      },
+      {
+        "country": "Mongolia",
+        "c02": 1011
+      },
+      {
+        "country": "Cook Islands",
+        "c02": 217
+      },
+      {
+        "country": "Bhutan",
+        "c02": 47
+      },
+      {
+        "country": "Afghanistan",
+        "c02": 1271
+      },
+      {
+        "country": "Tokelau",
+        "c02": 671
+      },
+      {
+        "country": "Morocco",
+        "c02": 834
+      },
+      {
+        "country": "Tanzania",
+        "c02": 426
+      },
+      {
+        "country": "Cuba",
+        "c02": 1001
+      },
+      {
+        "country": "Netherlands",
+        "c02": 155
+      },
+      {
+        "country": "Jamaica",
+        "c02": 1086
+      },
+      {
+        "country": "Malaysia",
+        "c02": 1004
+      },
+      {
+        "country": "Nepal",
+        "c02": 123
+      },
+      {
+        "country": "Montserrat",
+        "c02": 1177
+      },
+      {
+        "country": "Moldova",
+        "c02": 615
+      },
+      {
+        "country": "Papua New Guinea",
+        "c02": 1074
+      },
+      {
+        "country": "Guadeloupe",
+        "c02": 32
+      },
+      {
+        "country": "Mexico",
+        "c02": 1131
+      },
+      {
+        "country": "Oman",
+        "c02": 1139
+      },
+      {
+        "country": "Haiti",
+        "c02": 1324
+      },
+      {
+        "country": "Kyrgyzstan",
+        "c02": 141
+      },
+      {
+        "country": "Anguilla",
+        "c02": 915
+      },
+      {
+        "country": "Turks and Caicos Islands",
+        "c02": 515
+      },
+      {
+        "country": "Honduras",
+        "c02": 428
+      },
+      {
+        "country": "Czech Republic",
+        "c02": 110
+      },
+      {
+        "country": "Germany",
+        "c02": 391
+      },
+      {
+        "country": "British Indian Ocean Territory",
+        "c02": 216
+      },
+      {
+        "country": "Cambodia",
+        "c02": 196
+      },
+      {
+        "country": "Somalia",
+        "c02": 863
+      },
+      {
+        "country": "Canada",
+        "c02": 1298
+      },
+      {
+        "country": "Finland",
+        "c02": 901
+      },
+      {
+        "country": "Netherlands Antilles",
+        "c02": 544
+      },
+      {
+        "country": "Ecuador",
+        "c02": 488
+      },
+      {
+        "country": "Micronesia",
         "c02": 81
       },
       {
-        "company": "Mediot",
-        "c02": 75
+        "country": "Italy",
+        "c02": 192
       },
       {
-        "company": "Vortexaco",
-        "c02": 41
+        "country": "French Southern Territories",
+        "c02": 1018
       },
       {
-        "company": "Maximind",
-        "c02": 97
-      },
-      {
-        "company": "Chorizon",
-        "c02": 41
-      },
-      {
-        "company": "Equitox",
-        "c02": 88
-      },
-      {
-        "company": "Jamnation",
-        "c02": 34
-      },
-      {
-        "company": "Stucco",
-        "c02": 31
-      },
-      {
-        "company": "Homelux",
-        "c02": 26
-      },
-      {
-        "company": "Silodyne",
-        "c02": 41
-      },
-      {
-        "company": "Perkle",
-        "c02": 69
-      },
-      {
-        "company": "Balooba",
-        "c02": 73
-      },
-      {
-        "company": "Handshake",
-        "c02": 31
-      },
-      {
-        "company": "Sureplex",
-        "c02": 66
-      },
-      {
-        "company": "Kneedles",
-        "c02": 28
-      },
-      {
-        "company": "Techade",
-        "c02": 65
-      },
-      {
-        "company": "Accusage",
-        "c02": 87
-      },
-      {
-        "company": "Oulu",
-        "c02": 90
-      },
-      {
-        "company": "Autograte",
-        "c02": 50
-      },
-      {
-        "company": "Koogle",
-        "c02": 7
-      },
-      {
-        "company": "Letpro",
-        "c02": 28
-      },
-      {
-        "company": "Comtour",
-        "c02": 58
-      },
-      {
-        "company": "Zuvy",
-        "c02": 14
-      },
-      {
-        "company": "Nexgene",
-        "c02": 86
-      },
-      {
-        "company": "Extragen",
-        "c02": 29
-      },
-      {
-        "company": "Netplode",
-        "c02": 45
-      },
-      {
-        "company": "Datagene",
-        "c02": 93
-      },
-      {
-        "company": "Tetak",
-        "c02": 48
-      },
-      {
-        "company": "Candecor",
-        "c02": 23
-      },
-      {
-        "company": "Pyrami",
-        "c02": 7
-      },
-      {
-        "company": "Enersave",
-        "c02": 50
-      },
-      {
-        "company": "Bluplanet",
-        "c02": 89
-      },
-      {
-        "company": "Quantasis",
-        "c02": 63
-      },
-      {
-        "company": "Netagy",
-        "c02": 29
-      },
-      {
-        "company": "Xth",
-        "c02": 59
-      },
-      {
-        "company": "Zosis",
-        "c02": 67
-      },
-      {
-        "company": "Voratak",
-        "c02": 62
-      },
-      {
-        "company": "Isologia",
-        "c02": 85
-      },
-      {
-        "company": "Xsports",
-        "c02": 86
-      },
-      {
-        "company": "Junipoor",
-        "c02": 92
-      },
-      {
-        "company": "Elentrix",
-        "c02": 46
-      },
-      {
-        "company": "Assistia",
-        "c02": 53
-      },
-      {
-        "company": "Typhonica",
-        "c02": 15
-      },
-      {
-        "company": "Plutorque",
-        "c02": 29
-      },
-      {
-        "company": "Zialactic",
-        "c02": 8
-      },
-      {
-        "company": "Mantro",
-        "c02": 40
-      },
-      {
-        "company": "Senmao",
-        "c02": 49
-      },
-      {
-        "company": "Lyria",
-        "c02": 40
-      },
-      {
-        "company": "Housedown",
-        "c02": 89
-      },
-      {
-        "company": "Corporana",
-        "c02": 59
-      },
-      {
-        "company": "Isologix",
-        "c02": 41
-      },
-      {
-        "company": "Apexia",
-        "c02": 50
-      },
-      {
-        "company": "Zilla",
-        "c02": 22
-      },
-      {
-        "company": "Gogol",
-        "c02": 73
-      },
-      {
-        "company": "Solaren",
-        "c02": 93
-      },
-      {
-        "company": "Metroz",
-        "c02": 38
-      },
-      {
-        "company": "Nimon",
-        "c02": 39
-      },
-      {
-        "company": "Satiance",
-        "c02": 89
-      },
-      {
-        "company": "Inrt",
-        "c02": 40
-      },
-      {
-        "company": "Bedlam",
-        "c02": 15
-      },
-      {
-        "company": "Mondicil",
-        "c02": 36
-      },
-      {
-        "company": "Artworlds",
-        "c02": 18
-      },
-      {
-        "company": "Empirica",
-        "c02": 55
-      },
-      {
-        "company": "Quiltigen",
-        "c02": 60
-      },
-      {
-        "company": "Buzzopia",
-        "c02": 23
-      },
-      {
-        "company": "Panzent",
-        "c02": 95
-      },
-      {
-        "company": "Ronelon",
-        "c02": 24
-      },
-      {
-        "company": "Enquility",
-        "c02": 22
-      },
-      {
-        "company": "Gracker",
-        "c02": 23
-      },
-      {
-        "company": "Melbacor",
-        "c02": 74
-      },
-      {
-        "company": "Rubadub",
-        "c02": 39
-      },
-      {
-        "company": "Ontagene",
-        "c02": 29
-      },
-      {
-        "company": "Intradisk",
-        "c02": 96
-      },
-      {
-        "company": "Interfind",
-        "c02": 62
-      },
-      {
-        "company": "Vinch",
-        "c02": 86
-      },
-      {
-        "company": "Isonus",
-        "c02": 88
-      },
-      {
-        "company": "Barkarama",
-        "c02": 37
-      },
-      {
-        "company": "Frenex",
-        "c02": 7
-      },
-      {
-        "company": "Genekom",
-        "c02": 19
-      },
-      {
-        "company": "Zilch",
-        "c02": 68
-      },
-      {
-        "company": "Isologica",
-        "c02": 59
-      },
-      {
-        "company": "Comtest",
-        "c02": 14
-      },
-      {
-        "company": "Bisba",
-        "c02": 77
-      },
-      {
-        "company": "Prosely",
-        "c02": 33
-      },
-      {
-        "company": "Quarmony",
-        "c02": 75
-      },
-      {
-        "company": "Kog",
-        "c02": 65
-      },
-      {
-        "company": "Navir",
-        "c02": 50
-      },
-      {
-        "company": "Liquicom",
-        "c02": 78
-      },
-      {
-        "company": "Uberlux",
-        "c02": 46
-      },
-      {
-        "company": "Calcula",
-        "c02": 43
-      },
-      {
-        "company": "Magnina",
-        "c02": 39
-      },
-      {
-        "company": "Norali",
-        "c02": 70
-      },
-      {
-        "company": "Bugsall",
-        "c02": 50
-      },
-      {
-        "company": "Automon",
-        "c02": 45
-      },
-      {
-        "company": "Geekosis",
-        "c02": 18
-      },
-      {
-        "company": "Zenco",
-        "c02": 92
-      },
-      {
-        "company": "Exospace",
-        "c02": 54
-      },
-      {
-        "company": "Terrasys",
-        "c02": 97
+        "country": "Guam",
+        "c02": 970
       }
     ]
   },
@@ -408,404 +408,404 @@
     "year": 2014,
     "data": [
       {
-        "company": "Qualitex",
-        "c02": 95
+        "country": "Qatar",
+        "c02": 1158
       },
       {
-        "company": "Exovent",
-        "c02": 34
+        "country": "Mayotte",
+        "c02": 1070
       },
       {
-        "company": "Ecstasia",
-        "c02": 86
+        "country": "Switzerland",
+        "c02": 1028
       },
       {
-        "company": "Harmoney",
-        "c02": 97
+        "country": "Gibraltar",
+        "c02": 415
       },
       {
-        "company": "Injoy",
-        "c02": 40
+        "country": "Dominican Republic",
+        "c02": 382
       },
       {
-        "company": "Tsunamia",
-        "c02": 80
+        "country": "Guinea-Bissau",
+        "c02": 306
       },
       {
-        "company": "Boilicon",
-        "c02": 84
+        "country": "Iceland",
+        "c02": 846
       },
       {
-        "company": "Aeora",
-        "c02": 96
+        "country": "Central African Republic",
+        "c02": 491
       },
       {
-        "company": "Aquoavo",
-        "c02": 25
+        "country": "Nicaragua",
+        "c02": 1373
       },
       {
-        "company": "Hopeli",
-        "c02": 91
+        "country": "Malawi",
+        "c02": 851
       },
       {
-        "company": "Comtract",
-        "c02": 71
+        "country": "Djibouti",
+        "c02": 248
       },
       {
-        "company": "Cytrek",
-        "c02": 94
+        "country": "Bangladesh",
+        "c02": 1263
       },
       {
-        "company": "Orbixtar",
-        "c02": 42
+        "country": "Swaziland",
+        "c02": 325
       },
       {
-        "company": "Octocore",
-        "c02": 76
+        "country": "United Arab Emirates",
+        "c02": 982
       },
       {
-        "company": "Acruex",
-        "c02": 3
+        "country": "Armenia",
+        "c02": 825
       },
       {
-        "company": "Zensus",
-        "c02": 97
+        "country": "Syria",
+        "c02": 1305
       },
       {
-        "company": "Softmicro",
-        "c02": 39
+        "country": "San Marino",
+        "c02": 649
       },
       {
-        "company": "Anivet",
-        "c02": 76
+        "country": "Laos",
+        "c02": 212
       },
       {
-        "company": "Savvy",
-        "c02": 41
+        "country": "Peru",
+        "c02": 1026
       },
       {
-        "company": "Accruex",
-        "c02": 81
+        "country": "Ghana",
+        "c02": 320
       },
       {
-        "company": "Marketoid",
-        "c02": 15
+        "country": "Myanmar",
+        "c02": 787
       },
       {
-        "company": "Namegen",
-        "c02": 84
+        "country": "Bosnia and Herzegovina",
+        "c02": 1106
       },
       {
-        "company": "Comtrek",
-        "c02": 47
+        "country": "Japan",
+        "c02": 237
       },
       {
-        "company": "Bezal",
-        "c02": 64
+        "country": "Nauru",
+        "c02": 549
       },
       {
-        "company": "Lingoage",
-        "c02": 18
+        "country": "Belarus",
+        "c02": 221
       },
       {
-        "company": "Magneato",
-        "c02": 86
+        "country": "New Caledonia",
+        "c02": 929
       },
       {
-        "company": "Isbol",
+        "country": "Marshall Islands",
+        "c02": 314
+      },
+      {
+        "country": "Greece",
+        "c02": 1273
+      },
+      {
+        "country": "Singapore",
+        "c02": 583
+      },
+      {
+        "country": "Gabon",
+        "c02": 668
+      },
+      {
+        "country": "Lesotho",
+        "c02": 1019
+      },
+      {
+        "country": "Cocos (Keeling Islands)",
+        "c02": 1185
+      },
+      {
+        "country": "India",
+        "c02": 162
+      },
+      {
+        "country": "Aruba",
         "c02": 9
       },
       {
-        "company": "Opportech",
-        "c02": 65
+        "country": "Cayman Islands",
+        "c02": 304
       },
       {
-        "company": "Kangle",
-        "c02": 88
+        "country": "Taiwan",
+        "c02": 149
       },
       {
-        "company": "Organica",
-        "c02": 37
+        "country": "Mozambique",
+        "c02": 508
       },
       {
-        "company": "Plasmos",
-        "c02": 7
+        "country": "Martinique",
+        "c02": 1368
       },
       {
-        "company": "Prismatic",
-        "c02": 97
+        "country": "Saint Lucia",
+        "c02": 1164
       },
       {
-        "company": "Otherside",
-        "c02": 70
+        "country": "Malta",
+        "c02": 1289
       },
       {
-        "company": "Zentix",
-        "c02": 52
+        "country": "Norfolk Island",
+        "c02": 1048
       },
       {
-        "company": "Quordate",
-        "c02": 70
+        "country": "Zambia",
+        "c02": 296
       },
       {
-        "company": "Accel",
-        "c02": 71
+        "country": "Fiji",
+        "c02": 178
       },
       {
-        "company": "Temorak",
-        "c02": 51
+        "country": "Guinea",
+        "c02": 106
       },
       {
-        "company": "Andryx",
-        "c02": 94
+        "country": "Kazakhstan",
+        "c02": 306
       },
       {
-        "company": "Momentia",
-        "c02": 71
+        "country": "Norway",
+        "c02": 1064
       },
       {
-        "company": "Accupharm",
-        "c02": 66
+        "country": "Liberia",
+        "c02": 947
       },
       {
-        "company": "Daisu",
-        "c02": 42
+        "country": "France",
+        "c02": 123
       },
       {
-        "company": "Dogspa",
-        "c02": 56
+        "country": "China",
+        "c02": 945
       },
       {
-        "company": "Insurety",
-        "c02": 60
+        "country": "Panama",
+        "c02": 848
       },
       {
-        "company": "Egypto",
-        "c02": 70
+        "country": "Trinidad and Tobago",
+        "c02": 1285
       },
       {
-        "company": "Gadtron",
-        "c02": 40
+        "country": "Madagascar",
+        "c02": 840
       },
       {
-        "company": "Bullzone",
-        "c02": 16
+        "country": "Bermuda",
+        "c02": 1146
       },
       {
-        "company": "Medalert",
-        "c02": 17
+        "country": "Spain",
+        "c02": 221
       },
       {
-        "company": "Hyplex",
-        "c02": 80
+        "country": "Uganda",
+        "c02": 1281
       },
       {
-        "company": "Gazak",
-        "c02": 91
+        "country": "Liechtenstein",
+        "c02": 517
       },
       {
-        "company": "Remold",
+        "country": "Denmark",
+        "c02": 1278
+      },
+      {
+        "country": "Mali",
+        "c02": 812
+      },
+      {
+        "country": "Sweden",
+        "c02": 271
+      },
+      {
+        "country": "St. Helena",
+        "c02": 1290
+      },
+      {
+        "country": "Saint Vincent and The Grenadines",
+        "c02": 795
+      },
+      {
+        "country": "Indonesia",
         "c02": 33
       },
       {
-        "company": "Luxuria",
-        "c02": 33
+        "country": "Kuwait",
+        "c02": 261
       },
       {
-        "company": "Imperium",
-        "c02": 3
+        "country": "Belize",
+        "c02": 938
       },
       {
-        "company": "Affluex",
-        "c02": 90
+        "country": "Romania",
+        "c02": 652
       },
       {
-        "company": "Conjurica",
-        "c02": 1
+        "country": "Cape Verde",
+        "c02": 580
       },
       {
-        "company": "Portalis",
-        "c02": 67
+        "country": "Suriname",
+        "c02": 1056
       },
       {
-        "company": "Telpod",
-        "c02": 69
+        "country": "Northern Mariana Islands",
+        "c02": 114
       },
       {
-        "company": "Comvoy",
-        "c02": 62
+        "country": "Congo",
+        "c02": 1090
       },
       {
-        "company": "Zentime",
-        "c02": 71
+        "country": "Iraq",
+        "c02": 542
       },
       {
-        "company": "Gluid",
-        "c02": 53
+        "country": "Sri Lanka",
+        "c02": 693
       },
       {
-        "company": "Zidox",
-        "c02": 73
+        "country": "Uzbekistan",
+        "c02": 1128
       },
       {
-        "company": "Zoinage",
-        "c02": 28
+        "country": "Costa Rica",
+        "c02": 619
       },
       {
-        "company": "Ultrasure",
-        "c02": 97
+        "country": "Macau",
+        "c02": 441
       },
       {
-        "company": "Applica",
-        "c02": 47
+        "country": "Mauritius",
+        "c02": 1021
       },
       {
-        "company": "Veraq",
-        "c02": 36
+        "country": "Slovak Republic",
+        "c02": 487
       },
       {
-        "company": "Amtap",
-        "c02": 77
+        "country": "French Guiana",
+        "c02": 418
       },
       {
-        "company": "Spacewax",
-        "c02": 94
+        "country": "Seychelles",
+        "c02": 191
       },
       {
-        "company": "Dancity",
-        "c02": 5
+        "country": "Australia",
+        "c02": 1248
       },
       {
-        "company": "Zoarere",
-        "c02": 91
+        "country": "Pitcairn",
+        "c02": 959
       },
       {
-        "company": "Phuel",
-        "c02": 77
-      },
-      {
-        "company": "Insuron",
-        "c02": 36
-      },
-      {
-        "company": "Eargo",
-        "c02": 69
-      },
-      {
-        "company": "Insuresys",
-        "c02": 46
-      },
-      {
-        "company": "Entogrok",
-        "c02": 68
-      },
-      {
-        "company": "Indexia",
-        "c02": 76
-      },
-      {
-        "company": "Malathion",
-        "c02": 37
-      },
-      {
-        "company": "Ezent",
-        "c02": 95
-      },
-      {
-        "company": "Collaire",
-        "c02": 32
-      },
-      {
-        "company": "Elita",
-        "c02": 38
-      },
-      {
-        "company": "Inquala",
-        "c02": 73
-      },
-      {
-        "company": "Coriander",
-        "c02": 13
-      },
-      {
-        "company": "Undertap",
-        "c02": 88
-      },
-      {
-        "company": "Geekology",
-        "c02": 81
-      },
-      {
-        "company": "Steeltab",
-        "c02": 46
-      },
-      {
-        "company": "Ginkle",
-        "c02": 4
-      },
-      {
-        "company": "Tingles",
-        "c02": 17
-      },
-      {
-        "company": "Intrawear",
-        "c02": 68
-      },
-      {
-        "company": "Neurocell",
-        "c02": 73
-      },
-      {
-        "company": "Exostream",
-        "c02": 100
-      },
-      {
-        "company": "Digial",
-        "c02": 30
-      },
-      {
-        "company": "Jimbies",
-        "c02": 39
-      },
-      {
-        "company": "Zerology",
-        "c02": 97
-      },
-      {
-        "company": "Bluegrain",
-        "c02": 1
-      },
-      {
-        "company": "Konnect",
+        "country": "Rwanda",
         "c02": 82
       },
       {
-        "company": "Quilch",
-        "c02": 79
+        "country": "American Samoa",
+        "c02": 700
       },
       {
-        "company": "Comtrail",
-        "c02": 42
+        "country": "Virgin Islands (US)",
+        "c02": 1248
       },
       {
-        "company": "Pearlesex",
-        "c02": 80
+        "country": "Faroe Islands",
+        "c02": 1056
       },
       {
-        "company": "Kongle",
-        "c02": 47
+        "country": "Palau",
+        "c02": 418
       },
       {
-        "company": "Ecratic",
-        "c02": 24
+        "country": "Russian Federation",
+        "c02": 88
       },
       {
-        "company": "Hometown",
-        "c02": 66
+        "country": "Venezuela",
+        "c02": 662
       },
       {
-        "company": "Fibrodyne",
-        "c02": 58
+        "country": "Georgia",
+        "c02": 237
+      },
+      {
+        "country": "Sierra Leone",
+        "c02": 81
+      },
+      {
+        "country": "Greenland",
+        "c02": 525
+      },
+      {
+        "country": "Senegal",
+        "c02": 634
+      },
+      {
+        "country": "US Minor Outlying Islands",
+        "c02": 75
+      },
+      {
+        "country": "Bouvet Island",
+        "c02": 819
+      },
+      {
+        "country": "Bahamas",
+        "c02": 1173
+      },
+      {
+        "country": "Azerbaijan",
+        "c02": 353
+      },
+      {
+        "country": "Bulgaria",
+        "c02": 646
+      },
+      {
+        "country": "Philippines",
+        "c02": 1378
+      },
+      {
+        "country": "S. Georgia and S. Sandwich Isls.",
+        "c02": 1308
+      },
+      {
+        "country": "Korea (North)",
+        "c02": 151
+      },
+      {
+        "country": "Belgium",
+        "c02": 112
       }
     ]
   },
@@ -813,404 +813,404 @@
     "year": 2015,
     "data": [
       {
-        "company": "Zytrek",
-        "c02": 62
+        "country": "Botswana",
+        "c02": 404
       },
       {
-        "company": "Uni",
-        "c02": 42
+        "country": "Mauritania",
+        "c02": 676
       },
       {
-        "company": "Eweville",
-        "c02": 49
+        "country": "Vanuatu",
+        "c02": 381
       },
       {
-        "company": "Entality",
-        "c02": 43
+        "country": "Latvia",
+        "c02": 802
       },
       {
-        "company": "Newcube",
-        "c02": 54
-      },
-      {
-        "company": "Pivitol",
-        "c02": 74
-      },
-      {
-        "company": "Maineland",
-        "c02": 92
-      },
-      {
-        "company": "Musaphics",
-        "c02": 18
-      },
-      {
-        "company": "Medcom",
-        "c02": 6
-      },
-      {
-        "company": "Sulfax",
-        "c02": 43
-      },
-      {
-        "company": "Zeam",
-        "c02": 50
-      },
-      {
-        "company": "Olympix",
-        "c02": 24
-      },
-      {
-        "company": "Insurity",
-        "c02": 44
-      },
-      {
-        "company": "Zillar",
-        "c02": 76
-      },
-      {
-        "company": "Buzzworks",
-        "c02": 51
-      },
-      {
-        "company": "Acium",
-        "c02": 44
-      },
-      {
-        "company": "Imageflow",
-        "c02": 17
-      },
-      {
-        "company": "Xeronk",
-        "c02": 49
-      },
-      {
-        "company": "Mobildata",
-        "c02": 14
-      },
-      {
-        "company": "Geologix",
-        "c02": 49
-      },
-      {
-        "company": "Corpulse",
-        "c02": 56
-      },
-      {
-        "company": "Hydrocom",
-        "c02": 80
-      },
-      {
-        "company": "Quinex",
+        "country": "East Timor",
         "c02": 58
       },
       {
-        "company": "Pharmacon",
-        "c02": 23
+        "country": "Albania",
+        "c02": 1104
       },
       {
-        "company": "Springbee",
-        "c02": 62
+        "country": "Yemen",
+        "c02": 345
       },
       {
-        "company": "Assitia",
-        "c02": 86
+        "country": "Tajikistan",
+        "c02": 1377
       },
       {
-        "company": "Oronoko",
-        "c02": 2
+        "country": "Ireland",
+        "c02": 1323
       },
       {
-        "company": "Tellifly",
-        "c02": 47
+        "country": "Argentina",
+        "c02": 15
       },
       {
-        "company": "Fuelworks",
-        "c02": 70
+        "country": "Togo",
+        "c02": 1397
       },
       {
-        "company": "Intergeek",
-        "c02": 54
+        "country": "Vatican City State (Holy See)",
+        "c02": 773
       },
       {
-        "company": "Digigene",
-        "c02": 24
+        "country": "Western Sahara",
+        "c02": 596
       },
       {
-        "company": "Parleynet",
-        "c02": 73
+        "country": "Eritrea",
+        "c02": 177
       },
       {
-        "company": "Boilcat",
-        "c02": 26
+        "country": "Equatorial Guinea",
+        "c02": 694
       },
       {
-        "company": "Incubus",
-        "c02": 54
+        "country": "Zaire",
+        "c02": 293
       },
       {
-        "company": "Terragen",
-        "c02": 23
+        "country": "Chad",
+        "c02": 230
       },
       {
-        "company": "Bostonic",
-        "c02": 92
+        "country": "Virgin Islands (British)",
+        "c02": 587
       },
       {
-        "company": "Tropolis",
-        "c02": 3
+        "country": "Saudi Arabia",
+        "c02": 187
       },
       {
-        "company": "Geofarm",
-        "c02": 25
+        "country": "Israel",
+        "c02": 1285
       },
       {
-        "company": "Toyletry",
-        "c02": 8
+        "country": "Viet Nam",
+        "c02": 566
       },
       {
-        "company": "Moreganic",
-        "c02": 24
+        "country": "Heard and McDonald Islands",
+        "c02": 653
       },
       {
-        "company": "Sonique",
-        "c02": 64
+        "country": "Ethiopia",
+        "c02": 130
       },
       {
-        "company": "Tubesys",
-        "c02": 77
+        "country": "United States",
+        "c02": 722
       },
       {
-        "company": "Hotcakes",
-        "c02": 20
+        "country": "Macedonia",
+        "c02": 661
       },
       {
-        "company": "Zounds",
-        "c02": 97
+        "country": "Guyana",
+        "c02": 171
       },
       {
-        "company": "Zork",
-        "c02": 43
+        "country": "Maldives",
+        "c02": 136
       },
       {
-        "company": "Zillacon",
-        "c02": 62
+        "country": "Egypt",
+        "c02": 946
       },
       {
-        "company": "Biolive",
-        "c02": 41
+        "country": "Angola",
+        "c02": 280
       },
       {
-        "company": "Billmed",
+        "country": "South Africa",
+        "c02": 587
+      },
+      {
+        "country": "Kiribati",
         "c02": 46
       },
       {
-        "company": "Terrago",
-        "c02": 76
+        "country": "Thailand",
+        "c02": 715
       },
       {
-        "company": "Uplinx",
-        "c02": 60
+        "country": "Uruguay",
+        "c02": 808
       },
       {
-        "company": "Geekus",
-        "c02": 71
+        "country": "Samoa",
+        "c02": 1367
       },
       {
-        "company": "Gink",
-        "c02": 67
+        "country": "Antigua and Barbuda",
+        "c02": 729
       },
       {
-        "company": "Quonk",
-        "c02": 6
+        "country": "Yugoslavia",
+        "c02": 1104
       },
       {
-        "company": "Geekol",
-        "c02": 40
+        "country": "Svalbard and Jan Mayen Islands",
+        "c02": 292
       },
       {
-        "company": "Centice",
-        "c02": 88
+        "country": "Lithuania",
+        "c02": 1237
       },
       {
-        "company": "Isotronic",
-        "c02": 10
+        "country": "Korea (South)",
+        "c02": 315
       },
       {
-        "company": "Verbus",
-        "c02": 83
+        "country": "Tonga",
+        "c02": 33
       },
       {
-        "company": "Imant",
-        "c02": 70
+        "country": "France, Metropolitan",
+        "c02": 1197
       },
       {
-        "company": "Zensor",
-        "c02": 16
+        "country": "Burkina Faso",
+        "c02": 372
       },
       {
-        "company": "Furnitech",
-        "c02": 26
+        "country": "Comoros",
+        "c02": 141
       },
       {
-        "company": "Dogtown",
-        "c02": 55
+        "country": "Sudan",
+        "c02": 776
       },
       {
-        "company": "Unia",
-        "c02": 79
+        "country": "Falkland Islands (Malvinas)",
+        "c02": 561
       },
       {
-        "company": "Memora",
-        "c02": 87
+        "country": "Ukraine",
+        "c02": 690
       },
       {
-        "company": "Apex",
-        "c02": 75
+        "country": "Antarctica",
+        "c02": 1014
       },
       {
-        "company": "Oceanica",
-        "c02": 69
+        "country": "Austria",
+        "c02": 538
       },
       {
-        "company": "Krog",
-        "c02": 88
+        "country": "Brunei Darussalam",
+        "c02": 420
       },
       {
-        "company": "Maxemia",
-        "c02": 23
+        "country": "Portugal",
+        "c02": 1139
       },
       {
-        "company": "Comstar",
-        "c02": 99
+        "country": "Jordan",
+        "c02": 900
       },
       {
-        "company": "Earbang",
-        "c02": 77
+        "country": "Wallis and Futuna Islands",
+        "c02": 1028
       },
       {
-        "company": "Daido",
-        "c02": 73
+        "country": "Saint Kitts and Nevis",
+        "c02": 331
       },
       {
-        "company": "Kegular",
-        "c02": 92
+        "country": "Gambia",
+        "c02": 763
       },
       {
-        "company": "Xumonk",
-        "c02": 57
+        "country": "St. Pierre and Miquelon",
+        "c02": 513
       },
       {
-        "company": "Exosis",
-        "c02": 58
+        "country": "Kenya",
+        "c02": 567
       },
       {
-        "company": "Opticall",
-        "c02": 21
+        "country": "Andorra",
+        "c02": 323
       },
       {
-        "company": "Aclima",
-        "c02": 4
+        "country": "Cyprus",
+        "c02": 422
       },
       {
-        "company": "Cowtown",
-        "c02": 18
+        "country": "Libya",
+        "c02": 410
       },
       {
-        "company": "Solgan",
-        "c02": 93
+        "country": "Colombia",
+        "c02": 1171
       },
       {
-        "company": "Ecraze",
-        "c02": 86
+        "country": "Burundi",
+        "c02": 1150
       },
       {
-        "company": "Ludak",
-        "c02": 77
+        "country": "Slovenia",
+        "c02": 789
       },
       {
-        "company": "Aquasseur",
-        "c02": 86
+        "country": "Zimbabwe",
+        "c02": 63
       },
       {
-        "company": "Scentric",
-        "c02": 65
+        "country": "Grenada",
+        "c02": 551
       },
       {
-        "company": "Assistix",
-        "c02": 97
+        "country": "Hong Kong",
+        "c02": 668
       },
       {
-        "company": "Kage",
-        "c02": 96
+        "country": "Benin",
+        "c02": 253
       },
       {
-        "company": "Xurban",
-        "c02": 5
+        "country": "Lebanon",
+        "c02": 134
       },
       {
-        "company": "Microluxe",
-        "c02": 59
+        "country": "Sao Tome and Principe",
+        "c02": 1310
       },
       {
-        "company": "Optique",
-        "c02": 37
+        "country": "Monaco",
+        "c02": 112
       },
       {
-        "company": "Elpro",
-        "c02": 43
+        "country": "Niger",
+        "c02": 261
       },
       {
-        "company": "Isologics",
-        "c02": 97
+        "country": "Bolivia",
+        "c02": 503
       },
       {
-        "company": "Zentility",
-        "c02": 46
+        "country": "Algeria",
+        "c02": 1032
       },
       {
-        "company": "Furnafix",
-        "c02": 55
+        "country": "Paraguay",
+        "c02": 299
       },
       {
-        "company": "Netropic",
-        "c02": 48
+        "country": "Solomon Islands",
+        "c02": 219
       },
       {
-        "company": "Rotodyne",
-        "c02": 5
+        "country": "Puerto Rico",
+        "c02": 1175
       },
       {
-        "company": "Portico",
-        "c02": 21
+        "country": "United Kingdom",
+        "c02": 251
       },
       {
-        "company": "Quizmo",
-        "c02": 87
+        "country": "Tuvalu",
+        "c02": 643
       },
       {
-        "company": "Uniworld",
-        "c02": 89
+        "country": "Turkey",
+        "c02": 1127
       },
       {
-        "company": "Nixelt",
-        "c02": 81
+        "country": "French Polynesia",
+        "c02": 885
       },
       {
-        "company": "Matrixity",
-        "c02": 36
+        "country": "Croatia (Hrvatska)",
+        "c02": 687
       },
       {
-        "company": "Enaut",
-        "c02": 19
+        "country": "Poland",
+        "c02": 1161
       },
       {
-        "company": "Emergent",
-        "c02": 71
+        "country": "Cameroon",
+        "c02": 482
       },
       {
-        "company": "Ronbert",
-        "c02": 49
+        "country": "Dominica",
+        "c02": 1010
+      },
+      {
+        "country": "New Zealand",
+        "c02": 1396
+      },
+      {
+        "country": "Nigeria",
+        "c02": 452
+      },
+      {
+        "country": "Chile",
+        "c02": 267
+      },
+      {
+        "country": "Bahrain",
+        "c02": 1233
+      },
+      {
+        "country": "Guatemala",
+        "c02": 976
+      },
+      {
+        "country": "Barbados",
+        "c02": 117
+      },
+      {
+        "country": "Luxembourg",
+        "c02": 178
+      },
+      {
+        "country": "Turkmenistan",
+        "c02": 1062
+      },
+      {
+        "country": "Tunisia",
+        "c02": 529
+      },
+      {
+        "country": "Iran",
+        "c02": 874
+      },
+      {
+        "country": "Niue",
+        "c02": 1396
+      },
+      {
+        "country": "Reunion",
+        "c02": 1202
+      },
+      {
+        "country": "Cote D'Ivoire (Ivory Coast)",
+        "c02": 381
+      },
+      {
+        "country": "Estonia",
+        "c02": 771
+      },
+      {
+        "country": "El Salvador",
+        "c02": 1013
+      },
+      {
+        "country": "Christmas Island",
+        "c02": 709
+      },
+      {
+        "country": "Brazil",
+        "c02": 1296
       }
     ]
   },
@@ -1218,404 +1218,404 @@
     "year": 2016,
     "data": [
       {
-        "company": "Blanet",
-        "c02": 3
+        "country": "Namibia",
+        "c02": 1203
       },
       {
-        "company": "Plasmox",
-        "c02": 14
+        "country": "Hungary",
+        "c02": 243
       },
       {
-        "company": "Kineticut",
-        "c02": 95
+        "country": "Mongolia",
+        "c02": 1061
       },
       {
-        "company": "Premiant",
-        "c02": 88
+        "country": "Cook Islands",
+        "c02": 797
       },
       {
-        "company": "Bizmatic",
-        "c02": 24
+        "country": "Bhutan",
+        "c02": 1312
       },
       {
-        "company": "Techmania",
-        "c02": 11
+        "country": "Afghanistan",
+        "c02": 396
       },
       {
-        "company": "Yurture",
-        "c02": 76
+        "country": "Tokelau",
+        "c02": 303
       },
       {
-        "company": "Cipromox",
-        "c02": 45
+        "country": "Morocco",
+        "c02": 612
       },
       {
-        "company": "Cincyr",
-        "c02": 16
+        "country": "Tanzania",
+        "c02": 1285
       },
       {
-        "company": "Rodeology",
-        "c02": 70
+        "country": "Cuba",
+        "c02": 332
       },
       {
-        "company": "Neptide",
-        "c02": 85
+        "country": "Netherlands",
+        "c02": 748
       },
       {
-        "company": "Prosure",
-        "c02": 96
+        "country": "Jamaica",
+        "c02": 148
       },
       {
-        "company": "Exoteric",
-        "c02": 82
+        "country": "Malaysia",
+        "c02": 363
       },
       {
-        "company": "Comtent",
-        "c02": 6
+        "country": "Nepal",
+        "c02": 936
       },
       {
-        "company": "Sloganaut",
-        "c02": 11
+        "country": "Montserrat",
+        "c02": 1273
       },
       {
-        "company": "Translink",
-        "c02": 91
+        "country": "Moldova",
+        "c02": 766
       },
       {
-        "company": "Yogasm",
-        "c02": 20
+        "country": "Papua New Guinea",
+        "c02": 1237
       },
       {
-        "company": "Futurity",
-        "c02": 90
+        "country": "Guadeloupe",
+        "c02": 973
       },
       {
-        "company": "Acumentor",
-        "c02": 32
+        "country": "Mexico",
+        "c02": 812
       },
       {
-        "company": "Visualix",
-        "c02": 18
+        "country": "Oman",
+        "c02": 1144
       },
       {
-        "company": "Digique",
-        "c02": 26
+        "country": "Haiti",
+        "c02": 508
       },
       {
-        "company": "Quilm",
-        "c02": 17
+        "country": "Kyrgyzstan",
+        "c02": 640
       },
       {
-        "company": "Rameon",
-        "c02": 32
+        "country": "Anguilla",
+        "c02": 1236
       },
       {
-        "company": "Kidgrease",
-        "c02": 3
+        "country": "Turks and Caicos Islands",
+        "c02": 603
       },
       {
-        "company": "Eschoir",
-        "c02": 6
+        "country": "Honduras",
+        "c02": 514
       },
       {
-        "company": "Papricut",
-        "c02": 55
+        "country": "Czech Republic",
+        "c02": 1174
       },
       {
-        "company": "Kenegy",
-        "c02": 93
+        "country": "Germany",
+        "c02": 562
       },
       {
-        "company": "Quonata",
-        "c02": 88
+        "country": "British Indian Ocean Territory",
+        "c02": 408
       },
       {
-        "company": "Opticon",
-        "c02": 68
+        "country": "Cambodia",
+        "c02": 1307
       },
       {
-        "company": "Ramjob",
-        "c02": 21
+        "country": "Somalia",
+        "c02": 182
       },
       {
-        "company": "Zillan",
-        "c02": 90
+        "country": "Canada",
+        "c02": 375
       },
       {
-        "company": "Dancerity",
-        "c02": 75
+        "country": "Finland",
+        "c02": 682
       },
       {
-        "company": "Oatfarm",
-        "c02": 17
+        "country": "Netherlands Antilles",
+        "c02": 1041
       },
       {
-        "company": "Combot",
-        "c02": 32
+        "country": "Ecuador",
+        "c02": 732
       },
       {
-        "company": "Cormoran",
-        "c02": 90
+        "country": "Micronesia",
+        "c02": 262
       },
       {
-        "company": "Zentury",
-        "c02": 63
+        "country": "Italy",
+        "c02": 909
       },
       {
-        "company": "Geoforma",
-        "c02": 11
+        "country": "French Southern Territories",
+        "c02": 1065
       },
       {
-        "company": "Waterbaby",
-        "c02": 17
+        "country": "Guam",
+        "c02": 156
       },
       {
-        "company": "Comtours",
-        "c02": 53
+        "country": "Qatar",
+        "c02": 648
       },
       {
-        "company": "Aquafire",
-        "c02": 44
+        "country": "Mayotte",
+        "c02": 225
       },
       {
-        "company": "Edecine",
-        "c02": 82
+        "country": "Switzerland",
+        "c02": 939
       },
       {
-        "company": "Acrodance",
-        "c02": 40
+        "country": "Gibraltar",
+        "c02": 941
       },
       {
-        "company": "Freakin",
-        "c02": 15
+        "country": "Dominican Republic",
+        "c02": 144
       },
       {
-        "company": "Musanpoly",
-        "c02": 2
+        "country": "Guinea-Bissau",
+        "c02": 460
       },
       {
-        "company": "Miraclis",
-        "c02": 83
+        "country": "Iceland",
+        "c02": 255
       },
       {
-        "company": "Hivedom",
-        "c02": 22
+        "country": "Central African Republic",
+        "c02": 1052
       },
       {
-        "company": "Assurity",
-        "c02": 87
+        "country": "Nicaragua",
+        "c02": 1208
       },
       {
-        "company": "Anarco",
-        "c02": 74
+        "country": "Malawi",
+        "c02": 496
       },
       {
-        "company": "Ozean",
-        "c02": 36
+        "country": "Djibouti",
+        "c02": 137
       },
       {
-        "company": "Verton",
-        "c02": 73
+        "country": "Bangladesh",
+        "c02": 973
       },
       {
-        "company": "Sultrax",
-        "c02": 16
+        "country": "Swaziland",
+        "c02": 279
       },
       {
-        "company": "Omnigog",
-        "c02": 25
+        "country": "United Arab Emirates",
+        "c02": 160
       },
       {
-        "company": "Isoternia",
-        "c02": 82
+        "country": "Armenia",
+        "c02": 1232
       },
       {
-        "company": "Viasia",
-        "c02": 46
+        "country": "Syria",
+        "c02": 536
       },
       {
-        "company": "Extrawear",
-        "c02": 44
+        "country": "San Marino",
+        "c02": 715
       },
       {
-        "company": "Flexigen",
-        "c02": 17
+        "country": "Laos",
+        "c02": 1345
       },
       {
-        "company": "Squish",
-        "c02": 12
+        "country": "Peru",
+        "c02": 504
       },
       {
-        "company": "Cognicode",
-        "c02": 75
+        "country": "Ghana",
+        "c02": 1277
       },
       {
-        "company": "Naxdis",
-        "c02": 79
+        "country": "Myanmar",
+        "c02": 809
       },
       {
-        "company": "Cuizine",
-        "c02": 38
+        "country": "Bosnia and Herzegovina",
+        "c02": 244
       },
       {
-        "company": "Virxo",
-        "c02": 41
+        "country": "Japan",
+        "c02": 1372
       },
       {
-        "company": "Zappix",
-        "c02": 47
+        "country": "Nauru",
+        "c02": 855
       },
       {
-        "company": "Ecosys",
-        "c02": 51
+        "country": "Belarus",
+        "c02": 1387
       },
       {
-        "company": "Netility",
-        "c02": 6
+        "country": "New Caledonia",
+        "c02": 1188
       },
       {
-        "company": "Izzby",
-        "c02": 72
+        "country": "Marshall Islands",
+        "c02": 163
       },
       {
-        "company": "Vidto",
-        "c02": 66
+        "country": "Greece",
+        "c02": 929
       },
       {
-        "company": "Comtext",
-        "c02": 64
+        "country": "Singapore",
+        "c02": 806
       },
       {
-        "company": "Besto",
-        "c02": 69
+        "country": "Gabon",
+        "c02": 97
       },
       {
-        "company": "Immunics",
-        "c02": 87
+        "country": "Lesotho",
+        "c02": 476
       },
       {
-        "company": "Emtrak",
-        "c02": 35
+        "country": "Cocos (Keeling Islands)",
+        "c02": 259
       },
       {
-        "company": "Zilencio",
-        "c02": 12
+        "country": "India",
+        "c02": 1218
       },
       {
-        "company": "Genmy",
-        "c02": 4
+        "country": "Aruba",
+        "c02": 1112
       },
       {
-        "company": "Techtrix",
-        "c02": 27
+        "country": "Cayman Islands",
+        "c02": 415
       },
       {
-        "company": "Overfork",
-        "c02": 62
+        "country": "Taiwan",
+        "c02": 633
       },
       {
-        "company": "Splinx",
-        "c02": 59
+        "country": "Mozambique",
+        "c02": 1252
       },
       {
-        "company": "Genmex",
-        "c02": 21
+        "country": "Martinique",
+        "c02": 538
       },
       {
-        "company": "Quarex",
-        "c02": 7
+        "country": "Saint Lucia",
+        "c02": 391
       },
       {
-        "company": "Icology",
-        "c02": 81
+        "country": "Malta",
+        "c02": 1041
       },
       {
-        "company": "Qiao",
-        "c02": 37
+        "country": "Norfolk Island",
+        "c02": 878
       },
       {
-        "company": "Geoform",
-        "c02": 21
+        "country": "Zambia",
+        "c02": 1371
       },
       {
-        "company": "Quantalia",
-        "c02": 55
+        "country": "Fiji",
+        "c02": 686
       },
       {
-        "company": "Talae",
-        "c02": 72
+        "country": "Guinea",
+        "c02": 461
       },
       {
-        "company": "Gology",
-        "c02": 69
+        "country": "Kazakhstan",
+        "c02": 1322
       },
       {
-        "company": "Insectus",
-        "c02": 80
+        "country": "Norway",
+        "c02": 138
       },
       {
-        "company": "Zenolux",
-        "c02": 66
+        "country": "Liberia",
+        "c02": 1264
       },
       {
-        "company": "Macronaut",
-        "c02": 22
+        "country": "France",
+        "c02": 312
       },
       {
-        "company": "Baluba",
-        "c02": 17
+        "country": "China",
+        "c02": 1280
       },
       {
-        "company": "Comvey",
-        "c02": 13
+        "country": "Panama",
+        "c02": 705
       },
       {
-        "company": "Bittor",
-        "c02": 81
+        "country": "Trinidad and Tobago",
+        "c02": 1318
       },
       {
-        "company": "Stralum",
-        "c02": 50
+        "country": "Madagascar",
+        "c02": 659
       },
       {
-        "company": "Zoid",
-        "c02": 82
+        "country": "Bermuda",
+        "c02": 420
       },
       {
-        "company": "Idealis",
-        "c02": 92
+        "country": "Spain",
+        "c02": 767
       },
       {
-        "company": "Rockabye",
-        "c02": 58
+        "country": "Uganda",
+        "c02": 339
       },
       {
-        "company": "Digifad",
-        "c02": 66
+        "country": "Liechtenstein",
+        "c02": 1289
       },
       {
-        "company": "Photobin",
-        "c02": 21
+        "country": "Denmark",
+        "c02": 119
       },
       {
-        "company": "Exoplode",
-        "c02": 31
+        "country": "Mali",
+        "c02": 597
       },
       {
-        "company": "Beadzza",
-        "c02": 56
+        "country": "Sweden",
+        "c02": 893
       },
       {
-        "company": "Pharmex",
-        "c02": 18
+        "country": "St. Helena",
+        "c02": 802
       },
       {
-        "company": "Zanity",
-        "c02": 95
+        "country": "Saint Vincent and The Grenadines",
+        "c02": 600
       },
       {
-        "company": "Zentia",
-        "c02": 61
+        "country": "Indonesia",
+        "c02": 936
       }
     ]
   },
@@ -1623,404 +1623,404 @@
     "year": 2017,
     "data": [
       {
-        "company": "Vurbo",
-        "c02": 68
+        "country": "Kuwait",
+        "c02": 194
       },
       {
-        "company": "Vetron",
-        "c02": 50
+        "country": "Belize",
+        "c02": 995
       },
       {
-        "company": "Slumberia",
-        "c02": 64
+        "country": "Romania",
+        "c02": 905
       },
       {
-        "company": "Corecom",
-        "c02": 86
+        "country": "Cape Verde",
+        "c02": 1053
       },
       {
-        "company": "Neteria",
-        "c02": 16
+        "country": "Suriname",
+        "c02": 1301
       },
       {
-        "company": "Nurali",
-        "c02": 22
+        "country": "Northern Mariana Islands",
+        "c02": 846
       },
       {
-        "company": "Recritube",
-        "c02": 77
+        "country": "Congo",
+        "c02": 963
       },
       {
-        "company": "Viagrand",
-        "c02": 84
+        "country": "Iraq",
+        "c02": 1050
       },
       {
-        "company": "Anocha",
-        "c02": 42
+        "country": "Sri Lanka",
+        "c02": 651
       },
       {
-        "company": "Zilphur",
-        "c02": 75
+        "country": "Uzbekistan",
+        "c02": 58
       },
       {
-        "company": "Fanfare",
-        "c02": 6
+        "country": "Costa Rica",
+        "c02": 463
       },
       {
-        "company": "Hairport",
-        "c02": 43
+        "country": "Macau",
+        "c02": 419
       },
       {
-        "company": "Bicol",
-        "c02": 19
+        "country": "Mauritius",
+        "c02": 776
       },
       {
-        "company": "Optyk",
-        "c02": 74
+        "country": "Slovak Republic",
+        "c02": 155
       },
       {
-        "company": "Zaphire",
-        "c02": 82
+        "country": "French Guiana",
+        "c02": 927
       },
       {
-        "company": "Scenty",
-        "c02": 16
+        "country": "Seychelles",
+        "c02": 1083
       },
       {
-        "company": "Escenta",
-        "c02": 65
+        "country": "Australia",
+        "c02": 897
       },
       {
-        "company": "Frosnex",
-        "c02": 18
-      },
-      {
-        "company": "Nurplex",
-        "c02": 12
-      },
-      {
-        "company": "Ziore",
-        "c02": 4
-      },
-      {
-        "company": "Bleeko",
-        "c02": 17
-      },
-      {
-        "company": "Ebidco",
-        "c02": 86
-      },
-      {
-        "company": "Cemention",
-        "c02": 39
-      },
-      {
-        "company": "Orbean",
-        "c02": 54
-      },
-      {
-        "company": "Rugstars",
-        "c02": 50
-      },
-      {
-        "company": "Unq",
-        "c02": 68
-      },
-      {
-        "company": "Qimonk",
-        "c02": 88
-      },
-      {
-        "company": "Manufact",
-        "c02": 59
-      },
-      {
-        "company": "Avenetro",
-        "c02": 15
-      },
-      {
-        "company": "Endicil",
-        "c02": 3
-      },
-      {
-        "company": "Moltonic",
-        "c02": 37
-      },
-      {
-        "company": "Krag",
-        "c02": 21
-      },
-      {
-        "company": "Dyno",
-        "c02": 77
-      },
-      {
-        "company": "Blurrybus",
-        "c02": 29
-      },
-      {
-        "company": "Enerforce",
-        "c02": 77
-      },
-      {
-        "company": "Helixo",
-        "c02": 86
-      },
-      {
-        "company": "Strezzo",
-        "c02": 16
-      },
-      {
-        "company": "Uxmox",
-        "c02": 47
-      },
-      {
-        "company": "Eventix",
-        "c02": 57
-      },
-      {
-        "company": "Viagreat",
-        "c02": 20
-      },
-      {
-        "company": "Menbrain",
-        "c02": 13
-      },
-      {
-        "company": "Snacktion",
-        "c02": 46
-      },
-      {
-        "company": "Snips",
-        "c02": 69
-      },
-      {
-        "company": "Portica",
-        "c02": 43
-      },
-      {
-        "company": "Bleendot",
-        "c02": 68
-      },
-      {
-        "company": "Opticom",
-        "c02": 44
-      },
-      {
-        "company": "Earthplex",
-        "c02": 11
-      },
-      {
-        "company": "Pholio",
-        "c02": 7
-      },
-      {
-        "company": "Elemantra",
-        "c02": 77
-      },
-      {
-        "company": "Suremax",
-        "c02": 2
-      },
-      {
-        "company": "Nipaz",
-        "c02": 100
-      },
-      {
-        "company": "Ultrimax",
-        "c02": 84
-      },
-      {
-        "company": "Marqet",
-        "c02": 79
-      },
-      {
-        "company": "Rocklogic",
-        "c02": 57
-      },
-      {
-        "company": "Fossiel",
-        "c02": 70
-      },
-      {
-        "company": "Keengen",
-        "c02": 33
-      },
-      {
-        "company": "Shepard",
-        "c02": 83
-      },
-      {
-        "company": "Quility",
-        "c02": 21
-      },
-      {
-        "company": "Deviltoe",
-        "c02": 27
-      },
-      {
-        "company": "Evidends",
-        "c02": 94
-      },
-      {
-        "company": "Rodemco",
-        "c02": 19
-      },
-      {
-        "company": "Utarian",
-        "c02": 9
-      },
-      {
-        "company": "Golistic",
-        "c02": 75
-      },
-      {
-        "company": "Klugger",
-        "c02": 100
-      },
-      {
-        "company": "Poshome",
-        "c02": 27
-      },
-      {
-        "company": "Recrisys",
-        "c02": 78
-      },
-      {
-        "company": "Jasper",
-        "c02": 25
-      },
-      {
-        "company": "Comveyor",
-        "c02": 95
-      },
-      {
-        "company": "Glasstep",
-        "c02": 67
-      },
-      {
-        "company": "Aquamate",
-        "c02": 25
-      },
-      {
-        "company": "Bitendrex",
-        "c02": 93
-      },
-      {
-        "company": "Cogentry",
-        "c02": 44
-      },
-      {
-        "company": "Rooforia",
-        "c02": 73
-      },
-      {
-        "company": "Zolarex",
-        "c02": 22
-      },
-      {
-        "company": "Poochies",
-        "c02": 61
-      },
-      {
-        "company": "Slambda",
-        "c02": 61
-      },
-      {
-        "company": "Cofine",
-        "c02": 75
-      },
-      {
-        "company": "Pawnagra",
-        "c02": 9
-      },
-      {
-        "company": "Sultraxin",
-        "c02": 85
-      },
-      {
-        "company": "Duflex",
-        "c02": 16
-      },
-      {
-        "company": "Isopop",
-        "c02": 81
-      },
-      {
-        "company": "Polaria",
-        "c02": 91
-      },
-      {
-        "company": "Zillanet",
-        "c02": 38
-      },
-      {
-        "company": "Envire",
-        "c02": 61
-      },
-      {
-        "company": "Inear",
-        "c02": 84
-      },
-      {
-        "company": "Comstruct",
+        "country": "Pitcairn",
         "c02": 32
       },
       {
-        "company": "Cinaster",
-        "c02": 87
+        "country": "Rwanda",
+        "c02": 1108
       },
       {
-        "company": "Pasturia",
-        "c02": 95
+        "country": "American Samoa",
+        "c02": 1114
       },
       {
-        "company": "Medmex",
-        "c02": 22
+        "country": "Virgin Islands (US)",
+        "c02": 27
       },
       {
-        "company": "Deepends",
-        "c02": 36
+        "country": "Faroe Islands",
+        "c02": 1107
       },
       {
-        "company": "Corepan",
-        "c02": 9
+        "country": "Palau",
+        "c02": 1231
       },
       {
-        "company": "Jumpstack",
-        "c02": 37
+        "country": "Russian Federation",
+        "c02": 704
       },
       {
-        "company": "Nspire",
+        "country": "Venezuela",
+        "c02": 317
+      },
+      {
+        "country": "Georgia",
+        "c02": 272
+      },
+      {
+        "country": "Sierra Leone",
         "c02": 13
       },
       {
-        "company": "Ovium",
-        "c02": 81
+        "country": "Greenland",
+        "c02": 98
       },
       {
-        "company": "Uneeq",
-        "c02": 45
+        "country": "Senegal",
+        "c02": 527
       },
       {
-        "company": "Comtrak",
-        "c02": 80
+        "country": "US Minor Outlying Islands",
+        "c02": 754
       },
       {
-        "company": "Geostele",
-        "c02": 84
+        "country": "Bouvet Island",
+        "c02": 1126
       },
       {
-        "company": "Orboid",
-        "c02": 57
+        "country": "Bahamas",
+        "c02": 387
       },
       {
-        "company": "Diginetic",
-        "c02": 46
+        "country": "Azerbaijan",
+        "c02": 1172
       },
       {
-        "company": "Signity",
-        "c02": 49
+        "country": "Bulgaria",
+        "c02": 679
+      },
+      {
+        "country": "Philippines",
+        "c02": 342
+      },
+      {
+        "country": "S. Georgia and S. Sandwich Isls.",
+        "c02": 617
+      },
+      {
+        "country": "Korea (North)",
+        "c02": 176
+      },
+      {
+        "country": "Belgium",
+        "c02": 619
+      },
+      {
+        "country": "Botswana",
+        "c02": 390
+      },
+      {
+        "country": "Mauritania",
+        "c02": 1236
+      },
+      {
+        "country": "Vanuatu",
+        "c02": 1085
+      },
+      {
+        "country": "Latvia",
+        "c02": 32
+      },
+      {
+        "country": "East Timor",
+        "c02": 1166
+      },
+      {
+        "country": "Albania",
+        "c02": 399
+      },
+      {
+        "country": "Yemen",
+        "c02": 91
+      },
+      {
+        "country": "Tajikistan",
+        "c02": 1128
+      },
+      {
+        "country": "Ireland",
+        "c02": 639
+      },
+      {
+        "country": "Argentina",
+        "c02": 1212
+      },
+      {
+        "country": "Togo",
+        "c02": 1276
+      },
+      {
+        "country": "Vatican City State (Holy See)",
+        "c02": 37
+      },
+      {
+        "country": "Western Sahara",
+        "c02": 359
+      },
+      {
+        "country": "Eritrea",
+        "c02": 534
+      },
+      {
+        "country": "Equatorial Guinea",
+        "c02": 618
+      },
+      {
+        "country": "Zaire",
+        "c02": 1028
+      },
+      {
+        "country": "Chad",
+        "c02": 1252
+      },
+      {
+        "country": "Virgin Islands (British)",
+        "c02": 610
+      },
+      {
+        "country": "Saudi Arabia",
+        "c02": 148
+      },
+      {
+        "country": "Israel",
+        "c02": 1389
+      },
+      {
+        "country": "Viet Nam",
+        "c02": 508
+      },
+      {
+        "country": "Heard and McDonald Islands",
+        "c02": 751
+      },
+      {
+        "country": "Ethiopia",
+        "c02": 254
+      },
+      {
+        "country": "United States",
+        "c02": 427
+      },
+      {
+        "country": "Macedonia",
+        "c02": 873
+      },
+      {
+        "country": "Guyana",
+        "c02": 1151
+      },
+      {
+        "country": "Maldives",
+        "c02": 446
+      },
+      {
+        "country": "Egypt",
+        "c02": 42
+      },
+      {
+        "country": "Angola",
+        "c02": 1047
+      },
+      {
+        "country": "South Africa",
+        "c02": 148
+      },
+      {
+        "country": "Kiribati",
+        "c02": 512
+      },
+      {
+        "country": "Thailand",
+        "c02": 305
+      },
+      {
+        "country": "Uruguay",
+        "c02": 1320
+      },
+      {
+        "country": "Samoa",
+        "c02": 635
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "c02": 1325
+      },
+      {
+        "country": "Yugoslavia",
+        "c02": 109
+      },
+      {
+        "country": "Svalbard and Jan Mayen Islands",
+        "c02": 743
+      },
+      {
+        "country": "Lithuania",
+        "c02": 413
+      },
+      {
+        "country": "Korea (South)",
+        "c02": 1225
+      },
+      {
+        "country": "Tonga",
+        "c02": 1195
+      },
+      {
+        "country": "France, Metropolitan",
+        "c02": 561
+      },
+      {
+        "country": "Burkina Faso",
+        "c02": 30
+      },
+      {
+        "country": "Comoros",
+        "c02": 68
+      },
+      {
+        "country": "Sudan",
+        "c02": 832
+      },
+      {
+        "country": "Falkland Islands (Malvinas)",
+        "c02": 1192
+      },
+      {
+        "country": "Ukraine",
+        "c02": 1136
+      },
+      {
+        "country": "Antarctica",
+        "c02": 813
+      },
+      {
+        "country": "Austria",
+        "c02": 25
+      },
+      {
+        "country": "Brunei Darussalam",
+        "c02": 946
+      },
+      {
+        "country": "Portugal",
+        "c02": 1214
+      },
+      {
+        "country": "Jordan",
+        "c02": 1377
+      },
+      {
+        "country": "Wallis and Futuna Islands",
+        "c02": 827
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "c02": 686
+      },
+      {
+        "country": "Gambia",
+        "c02": 139
+      },
+      {
+        "country": "St. Pierre and Miquelon",
+        "c02": 38
+      },
+      {
+        "country": "Kenya",
+        "c02": 652
+      },
+      {
+        "country": "Andorra",
+        "c02": 1199
+      },
+      {
+        "country": "Cyprus",
+        "c02": 1141
+      },
+      {
+        "country": "Libya",
+        "c02": 128
+      },
+      {
+        "country": "Colombia",
+        "c02": 208
+      },
+      {
+        "country": "Burundi",
+        "c02": 88
+      },
+      {
+        "country": "Slovenia",
+        "c02": 981
       }
     ]
   },
@@ -2028,404 +2028,404 @@
     "year": 2018,
     "data": [
       {
-        "company": "Xymonk",
-        "c02": 57
+        "country": "Zimbabwe",
+        "c02": 81
       },
       {
-        "company": "Omatom",
-        "c02": 28
+        "country": "Grenada",
+        "c02": 258
       },
       {
-        "company": "Ersum",
-        "c02": 54
+        "country": "Hong Kong",
+        "c02": 433
       },
       {
-        "company": "Niquent",
-        "c02": 64
+        "country": "Benin",
+        "c02": 583
       },
       {
-        "company": "Telepark",
-        "c02": 51
+        "country": "Lebanon",
+        "c02": 113
       },
       {
-        "company": "Snorus",
-        "c02": 80
+        "country": "Sao Tome and Principe",
+        "c02": 928
       },
       {
-        "company": "Voipa",
-        "c02": 21
+        "country": "Monaco",
+        "c02": 1352
       },
       {
-        "company": "Exodoc",
-        "c02": 88
+        "country": "Niger",
+        "c02": 1219
       },
       {
-        "company": "Zilladyne",
-        "c02": 83
+        "country": "Bolivia",
+        "c02": 97
       },
       {
-        "company": "Atomica",
-        "c02": 87
+        "country": "Algeria",
+        "c02": 282
       },
       {
-        "company": "Limage",
-        "c02": 95
+        "country": "Paraguay",
+        "c02": 335
       },
       {
-        "company": "Portaline",
-        "c02": 26
+        "country": "Solomon Islands",
+        "c02": 174
       },
       {
-        "company": "Nikuda",
-        "c02": 15
+        "country": "Puerto Rico",
+        "c02": 888
       },
       {
-        "company": "Callflex",
-        "c02": 66
+        "country": "United Kingdom",
+        "c02": 1358
       },
       {
-        "company": "Infotrips",
-        "c02": 41
+        "country": "Tuvalu",
+        "c02": 957
       },
       {
-        "company": "Minga",
-        "c02": 20
+        "country": "Turkey",
+        "c02": 379
       },
       {
-        "company": "Endipin",
-        "c02": 58
+        "country": "French Polynesia",
+        "c02": 660
       },
       {
-        "company": "Enjola",
-        "c02": 70
+        "country": "Croatia (Hrvatska)",
+        "c02": 79
       },
       {
-        "company": "Codax",
-        "c02": 26
+        "country": "Poland",
+        "c02": 451
       },
       {
-        "company": "Progenex",
-        "c02": 53
+        "country": "Cameroon",
+        "c02": 328
       },
       {
-        "company": "Maroptic",
-        "c02": 63
+        "country": "Dominica",
+        "c02": 642
       },
       {
-        "company": "Lotron",
-        "c02": 88
+        "country": "New Zealand",
+        "c02": 597
       },
       {
-        "company": "Darwinium",
-        "c02": 80
+        "country": "Nigeria",
+        "c02": 388
       },
       {
-        "company": "Andershun",
-        "c02": 24
+        "country": "Chile",
+        "c02": 763
       },
       {
-        "company": "Valreda",
-        "c02": 37
+        "country": "Bahrain",
+        "c02": 1002
       },
       {
-        "company": "Orbiflex",
-        "c02": 31
+        "country": "Guatemala",
+        "c02": 1276
       },
       {
-        "company": "Vantage",
-        "c02": 73
+        "country": "Barbados",
+        "c02": 1384
       },
       {
-        "company": "Animalia",
-        "c02": 14
+        "country": "Luxembourg",
+        "c02": 546
       },
       {
-        "company": "Wrapture",
-        "c02": 99
+        "country": "Turkmenistan",
+        "c02": 768
       },
       {
-        "company": "Senmei",
-        "c02": 55
+        "country": "Tunisia",
+        "c02": 1335
       },
       {
-        "company": "Cosmetex",
-        "c02": 72
+        "country": "Iran",
+        "c02": 1002
       },
       {
-        "company": "Locazone",
-        "c02": 18
+        "country": "Niue",
+        "c02": 1007
       },
       {
-        "company": "Interloo",
-        "c02": 82
+        "country": "Reunion",
+        "c02": 471
       },
       {
-        "company": "Tripsch",
-        "c02": 32
+        "country": "Cote D'Ivoire (Ivory Coast)",
+        "c02": 517
       },
       {
-        "company": "Interodeo",
-        "c02": 86
+        "country": "Estonia",
+        "c02": 52
       },
       {
-        "company": "Steelfab",
-        "c02": 27
+        "country": "El Salvador",
+        "c02": 1227
       },
       {
-        "company": "Uncorp",
-        "c02": 56
+        "country": "Christmas Island",
+        "c02": 177
       },
       {
-        "company": "Geekko",
-        "c02": 85
+        "country": "Brazil",
+        "c02": 694
       },
       {
-        "company": "Zilidium",
-        "c02": 6
-      },
-      {
-        "company": "Manglo",
-        "c02": 53
-      },
-      {
-        "company": "Powernet",
-        "c02": 75
-      },
-      {
-        "company": "Kinetica",
-        "c02": 75
-      },
-      {
-        "company": "Genmom",
-        "c02": 40
-      },
-      {
-        "company": "Twiist",
-        "c02": 71
-      },
-      {
-        "company": "Xoggle",
-        "c02": 94
-      },
-      {
-        "company": "Skinserve",
-        "c02": 3
-      },
-      {
-        "company": "Fangold",
-        "c02": 66
-      },
-      {
-        "company": "Kidstock",
-        "c02": 15
-      },
-      {
-        "company": "Vitricomp",
-        "c02": 84
-      },
-      {
-        "company": "Exozent",
-        "c02": 38
-      },
-      {
-        "company": "Isodrive",
-        "c02": 32
-      },
-      {
-        "company": "Flyboyz",
-        "c02": 31
-      },
-      {
-        "company": "Megall",
-        "c02": 73
-      },
-      {
-        "company": "Multron",
-        "c02": 63
-      },
-      {
-        "company": "Applideck",
-        "c02": 64
-      },
-      {
-        "company": "Mixers",
-        "c02": 6
-      },
-      {
-        "company": "Virva",
-        "c02": 90
-      },
-      {
-        "company": "Qnekt",
-        "c02": 72
-      },
-      {
-        "company": "Biospan",
-        "c02": 13
-      },
-      {
-        "company": "Phormula",
-        "c02": 38
-      },
-      {
-        "company": "Delphide",
-        "c02": 2
-      },
-      {
-        "company": "Earwax",
+        "country": "Namibia",
         "c02": 7
       },
       {
-        "company": "Rodeomad",
-        "c02": 58
+        "country": "Hungary",
+        "c02": 608
       },
       {
-        "company": "Sarasonic",
-        "c02": 84
+        "country": "Mongolia",
+        "c02": 1120
       },
       {
-        "company": "Xplor",
-        "c02": 6
+        "country": "Cook Islands",
+        "c02": 1349
       },
       {
-        "company": "Printspan",
-        "c02": 85
+        "country": "Bhutan",
+        "c02": 76
       },
       {
-        "company": "Norsul",
-        "c02": 62
+        "country": "Afghanistan",
+        "c02": 1304
       },
       {
-        "company": "Digirang",
-        "c02": 95
+        "country": "Tokelau",
+        "c02": 1197
       },
       {
-        "company": "Eternis",
-        "c02": 35
+        "country": "Morocco",
+        "c02": 1025
       },
       {
-        "company": "Idego",
-        "c02": 99
+        "country": "Tanzania",
+        "c02": 648
       },
       {
-        "company": "Enormo",
-        "c02": 43
+        "country": "Cuba",
+        "c02": 232
       },
       {
-        "company": "Eclipsent",
-        "c02": 25
+        "country": "Netherlands",
+        "c02": 1274
       },
       {
-        "company": "Combogene",
-        "c02": 42
+        "country": "Jamaica",
+        "c02": 616
       },
       {
-        "company": "Skybold",
-        "c02": 15
+        "country": "Malaysia",
+        "c02": 1141
       },
       {
-        "company": "Pyramis",
-        "c02": 87
+        "country": "Nepal",
+        "c02": 1384
       },
       {
-        "company": "Cinesanct",
-        "c02": 37
+        "country": "Montserrat",
+        "c02": 1088
       },
       {
-        "company": "Capscreen",
-        "c02": 69
+        "country": "Moldova",
+        "c02": 131
       },
       {
-        "company": "Suretech",
-        "c02": 19
+        "country": "Papua New Guinea",
+        "c02": 1126
       },
       {
-        "company": "Katakana",
-        "c02": 6
+        "country": "Guadeloupe",
+        "c02": 1076
       },
       {
-        "company": "Gallaxia",
-        "c02": 74
+        "country": "Mexico",
+        "c02": 23
       },
       {
-        "company": "Globoil",
-        "c02": 73
+        "country": "Oman",
+        "c02": 994
       },
       {
-        "company": "Exoswitch",
-        "c02": 71
+        "country": "Haiti",
+        "c02": 714
       },
       {
-        "company": "Ovation",
-        "c02": 29
+        "country": "Kyrgyzstan",
+        "c02": 1358
       },
       {
-        "company": "Lumbrex",
-        "c02": 80
+        "country": "Anguilla",
+        "c02": 258
       },
       {
-        "company": "Pigzart",
-        "c02": 10
+        "country": "Turks and Caicos Islands",
+        "c02": 904
       },
       {
-        "company": "Circum",
-        "c02": 31
+        "country": "Honduras",
+        "c02": 1109
       },
       {
-        "company": "Goko",
-        "c02": 88
+        "country": "Czech Republic",
+        "c02": 475
       },
       {
-        "company": "Renovize",
-        "c02": 7
+        "country": "Germany",
+        "c02": 1211
       },
       {
-        "company": "Kiggle",
-        "c02": 28
+        "country": "British Indian Ocean Territory",
+        "c02": 987
       },
       {
-        "company": "Lyrichord",
-        "c02": 42
+        "country": "Cambodia",
+        "c02": 1148
       },
       {
-        "company": "Limozen",
-        "c02": 10
+        "country": "Somalia",
+        "c02": 1217
       },
       {
-        "company": "Surelogic",
-        "c02": 58
+        "country": "Canada",
+        "c02": 534
       },
       {
-        "company": "Zentry",
-        "c02": 16
+        "country": "Finland",
+        "c02": 616
       },
       {
-        "company": "Insource",
-        "c02": 77
+        "country": "Netherlands Antilles",
+        "c02": 1209
       },
       {
-        "company": "Ontality",
-        "c02": 7
+        "country": "Ecuador",
+        "c02": 801
       },
       {
-        "company": "Ecolight",
-        "c02": 46
+        "country": "Micronesia",
+        "c02": 884
       },
       {
-        "company": "Snowpoke",
-        "c02": 13
+        "country": "Italy",
+        "c02": 1045
       },
       {
-        "company": "Geekfarm",
-        "c02": 69
+        "country": "French Southern Territories",
+        "c02": 1111
       },
       {
-        "company": "Dadabase",
-        "c02": 88
+        "country": "Guam",
+        "c02": 473
       },
       {
-        "company": "Zillatide",
-        "c02": 38
+        "country": "Qatar",
+        "c02": 631
+      },
+      {
+        "country": "Mayotte",
+        "c02": 960
+      },
+      {
+        "country": "Switzerland",
+        "c02": 1190
+      },
+      {
+        "country": "Gibraltar",
+        "c02": 333
+      },
+      {
+        "country": "Dominican Republic",
+        "c02": 442
+      },
+      {
+        "country": "Guinea-Bissau",
+        "c02": 410
+      },
+      {
+        "country": "Iceland",
+        "c02": 668
+      },
+      {
+        "country": "Central African Republic",
+        "c02": 1185
+      },
+      {
+        "country": "Nicaragua",
+        "c02": 533
+      },
+      {
+        "country": "Malawi",
+        "c02": 120
+      },
+      {
+        "country": "Djibouti",
+        "c02": 1264
+      },
+      {
+        "country": "Bangladesh",
+        "c02": 691
+      },
+      {
+        "country": "Swaziland",
+        "c02": 167
+      },
+      {
+        "country": "United Arab Emirates",
+        "c02": 165
+      },
+      {
+        "country": "Armenia",
+        "c02": 1265
+      },
+      {
+        "country": "Syria",
+        "c02": 1210
+      },
+      {
+        "country": "San Marino",
+        "c02": 1067
+      },
+      {
+        "country": "Laos",
+        "c02": 198
+      },
+      {
+        "country": "Peru",
+        "c02": 1058
+      },
+      {
+        "country": "Ghana",
+        "c02": 852
+      },
+      {
+        "country": "Myanmar",
+        "c02": 953
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "c02": 341
+      },
+      {
+        "country": "Japan",
+        "c02": 193
+      },
+      {
+        "country": "Nauru",
+        "c02": 223
       }
     ]
   },
@@ -2433,404 +2433,404 @@
     "year": 2019,
     "data": [
       {
-        "company": "Retrack",
-        "c02": 63
+        "country": "Belarus",
+        "c02": 1359
       },
       {
-        "company": "Primordia",
-        "c02": 87
+        "country": "New Caledonia",
+        "c02": 582
       },
       {
-        "company": "Teraprene",
-        "c02": 93
+        "country": "Marshall Islands",
+        "c02": 813
       },
       {
-        "company": "Kyaguru",
-        "c02": 93
+        "country": "Greece",
+        "c02": 723
       },
       {
-        "company": "Rodeocean",
-        "c02": 100
+        "country": "Singapore",
+        "c02": 692
       },
       {
-        "company": "Geekola",
-        "c02": 81
+        "country": "Gabon",
+        "c02": 425
       },
       {
-        "company": "Asimiline",
-        "c02": 30
+        "country": "Lesotho",
+        "c02": 439
       },
       {
-        "company": "Retrotex",
-        "c02": 99
+        "country": "Cocos (Keeling Islands)",
+        "c02": 673
       },
       {
-        "company": "Architax",
-        "c02": 93
+        "country": "India",
+        "c02": 463
       },
       {
-        "company": "Zaya",
-        "c02": 69
+        "country": "Aruba",
+        "c02": 1171
       },
       {
-        "company": "Turnling",
-        "c02": 18
+        "country": "Cayman Islands",
+        "c02": 110
       },
       {
-        "company": "Webiotic",
-        "c02": 14
+        "country": "Taiwan",
+        "c02": 687
       },
       {
-        "company": "Cujo",
-        "c02": 2
+        "country": "Mozambique",
+        "c02": 854
       },
       {
-        "company": "Anacho",
-        "c02": 89
+        "country": "Martinique",
+        "c02": 1253
       },
       {
-        "company": "Datagen",
-        "c02": 33
+        "country": "Saint Lucia",
+        "c02": 704
       },
       {
-        "company": "Roughies",
-        "c02": 20
+        "country": "Malta",
+        "c02": 775
       },
       {
-        "company": "Isotrack",
-        "c02": 83
+        "country": "Norfolk Island",
+        "c02": 330
       },
       {
-        "company": "Concility",
-        "c02": 15
+        "country": "Zambia",
+        "c02": 1114
       },
       {
-        "company": "Iplax",
-        "c02": 4
+        "country": "Fiji",
+        "c02": 1373
       },
       {
-        "company": "Daycore",
-        "c02": 55
+        "country": "Guinea",
+        "c02": 1080
       },
       {
-        "company": "Synkgen",
-        "c02": 7
+        "country": "Kazakhstan",
+        "c02": 743
       },
       {
-        "company": "Zytrac",
-        "c02": 84
+        "country": "Norway",
+        "c02": 1025
       },
       {
-        "company": "Repetwire",
-        "c02": 57
+        "country": "Liberia",
+        "c02": 1036
       },
       {
-        "company": "Peticular",
-        "c02": 82
+        "country": "France",
+        "c02": 184
       },
       {
-        "company": "Skyplex",
-        "c02": 1
+        "country": "China",
+        "c02": 1156
       },
       {
-        "company": "Makingway",
+        "country": "Panama",
         "c02": 31
       },
       {
-        "company": "Noralex",
-        "c02": 90
+        "country": "Trinidad and Tobago",
+        "c02": 185
       },
       {
-        "company": "Singavera",
-        "c02": 22
+        "country": "Madagascar",
+        "c02": 1178
       },
       {
-        "company": "Exospeed",
-        "c02": 22
+        "country": "Bermuda",
+        "c02": 530
       },
       {
-        "company": "Tropoli",
-        "c02": 94
+        "country": "Spain",
+        "c02": 174
       },
       {
-        "company": "Mitroc",
-        "c02": 9
+        "country": "Uganda",
+        "c02": 618
       },
       {
-        "company": "Isoswitch",
-        "c02": 78
+        "country": "Liechtenstein",
+        "c02": 196
       },
       {
-        "company": "Plasmosis",
-        "c02": 54
+        "country": "Denmark",
+        "c02": 934
       },
       {
-        "company": "Quilk",
-        "c02": 85
+        "country": "Mali",
+        "c02": 358
       },
       {
-        "company": "Nitracyr",
-        "c02": 33
-      },
-      {
-        "company": "Idetica",
-        "c02": 77
-      },
-      {
-        "company": "Dognost",
-        "c02": 50
-      },
-      {
-        "company": "Accidency",
-        "c02": 17
-      },
-      {
-        "company": "Paragonia",
-        "c02": 38
-      },
-      {
-        "company": "Aquacine",
-        "c02": 89
-      },
-      {
-        "company": "Prowaste",
-        "c02": 30
-      },
-      {
-        "company": "Spherix",
-        "c02": 8
-      },
-      {
-        "company": "Fuelton",
-        "c02": 72
-      },
-      {
-        "company": "Boink",
-        "c02": 6
-      },
-      {
-        "company": "Pearlessa",
-        "c02": 57
-      },
-      {
-        "company": "Coash",
-        "c02": 27
-      },
-      {
-        "company": "Tasmania",
-        "c02": 8
-      },
-      {
-        "company": "Kozgene",
-        "c02": 28
-      },
-      {
-        "company": "Nutralab",
-        "c02": 41
-      },
-      {
-        "company": "Grainspot",
-        "c02": 61
-      },
-      {
-        "company": "Puria",
-        "c02": 28
-      },
-      {
-        "company": "Biflex",
-        "c02": 6
-      },
-      {
-        "company": "Pyramax",
-        "c02": 100
-      },
-      {
-        "company": "Geeknet",
-        "c02": 13
-      },
-      {
-        "company": "Euron",
-        "c02": 91
-      },
-      {
-        "company": "Gaptec",
-        "c02": 45
-      },
-      {
-        "company": "Brainclip",
-        "c02": 92
-      },
-      {
-        "company": "Viocular",
-        "c02": 40
-      },
-      {
-        "company": "Hinway",
-        "c02": 97
-      },
-      {
-        "company": "Schoolio",
-        "c02": 100
-      },
-      {
-        "company": "Digitalus",
-        "c02": 74
-      },
-      {
-        "company": "Quotezart",
-        "c02": 19
-      },
-      {
-        "company": "Quailcom",
-        "c02": 84
-      },
-      {
-        "company": "Ecrater",
-        "c02": 83
-      },
-      {
-        "company": "Quintity",
-        "c02": 12
-      },
-      {
-        "company": "Proxsoft",
-        "c02": 66
-      },
-      {
-        "company": "Gorganic",
-        "c02": 23
-      },
-      {
-        "company": "Halap",
-        "c02": 69
-      },
-      {
-        "company": "Bunga",
-        "c02": 62
-      },
-      {
-        "company": "Soprano",
-        "c02": 30
-      },
-      {
-        "company": "Pathways",
-        "c02": 55
-      },
-      {
-        "company": "Myopium",
-        "c02": 88
-      },
-      {
-        "company": "Pushcart",
-        "c02": 60
-      },
-      {
-        "company": "Exiand",
-        "c02": 78
-      },
-      {
-        "company": "Strozen",
-        "c02": 52
-      },
-      {
-        "company": "Centregy",
-        "c02": 83
-      },
-      {
-        "company": "Tribalog",
-        "c02": 55
-      },
-      {
-        "company": "Flumbo",
-        "c02": 3
-      },
-      {
-        "company": "Xixan",
-        "c02": 36
-      },
-      {
-        "company": "Isosphere",
-        "c02": 63
-      },
-      {
-        "company": "Shopabout",
-        "c02": 36
-      },
-      {
-        "company": "Eclipto",
-        "c02": 86
-      },
-      {
-        "company": "Cytrak",
+        "country": "Sweden",
         "c02": 39
       },
       {
-        "company": "Kraggle",
-        "c02": 72
+        "country": "St. Helena",
+        "c02": 486
       },
       {
-        "company": "Miracula",
-        "c02": 46
+        "country": "Saint Vincent and The Grenadines",
+        "c02": 743
       },
       {
-        "company": "Mantrix",
-        "c02": 42
+        "country": "Indonesia",
+        "c02": 1305
       },
       {
-        "company": "Jetsilk",
-        "c02": 1
+        "country": "Kuwait",
+        "c02": 758
       },
       {
-        "company": "Entroflex",
-        "c02": 58
+        "country": "Belize",
+        "c02": 286
       },
       {
-        "company": "Fleetmix",
-        "c02": 10
+        "country": "Romania",
+        "c02": 1014
       },
       {
-        "company": "Kiosk",
-        "c02": 24
+        "country": "Cape Verde",
+        "c02": 964
       },
       {
-        "company": "Slofast",
-        "c02": 2
+        "country": "Suriname",
+        "c02": 584
       },
       {
-        "company": "Martgo",
-        "c02": 18
+        "country": "Northern Mariana Islands",
+        "c02": 628
       },
       {
-        "company": "Irack",
-        "c02": 61
+        "country": "Congo",
+        "c02": 909
       },
       {
-        "company": "Zomboid",
-        "c02": 1
+        "country": "Iraq",
+        "c02": 1277
       },
       {
-        "company": "Amtas",
-        "c02": 11
+        "country": "Sri Lanka",
+        "c02": 801
       },
       {
-        "company": "Inventure",
-        "c02": 50
+        "country": "Uzbekistan",
+        "c02": 918
       },
       {
-        "company": "Zolar",
-        "c02": 63
+        "country": "Costa Rica",
+        "c02": 1120
       },
       {
-        "company": "Brainquil",
-        "c02": 84
+        "country": "Macau",
+        "c02": 741
       },
       {
-        "company": "Orbin",
-        "c02": 48
+        "country": "Mauritius",
+        "c02": 292
       },
       {
-        "company": "Neocent",
-        "c02": 51
+        "country": "Slovak Republic",
+        "c02": 589
+      },
+      {
+        "country": "French Guiana",
+        "c02": 1338
+      },
+      {
+        "country": "Seychelles",
+        "c02": 370
+      },
+      {
+        "country": "Australia",
+        "c02": 420
+      },
+      {
+        "country": "Pitcairn",
+        "c02": 1245
+      },
+      {
+        "country": "Rwanda",
+        "c02": 800
+      },
+      {
+        "country": "American Samoa",
+        "c02": 401
+      },
+      {
+        "country": "Virgin Islands (US)",
+        "c02": 398
+      },
+      {
+        "country": "Faroe Islands",
+        "c02": 781
+      },
+      {
+        "country": "Palau",
+        "c02": 197
+      },
+      {
+        "country": "Russian Federation",
+        "c02": 613
+      },
+      {
+        "country": "Venezuela",
+        "c02": 752
+      },
+      {
+        "country": "Georgia",
+        "c02": 749
+      },
+      {
+        "country": "Sierra Leone",
+        "c02": 1035
+      },
+      {
+        "country": "Greenland",
+        "c02": 561
+      },
+      {
+        "country": "Senegal",
+        "c02": 33
+      },
+      {
+        "country": "US Minor Outlying Islands",
+        "c02": 1287
+      },
+      {
+        "country": "Bouvet Island",
+        "c02": 909
+      },
+      {
+        "country": "Bahamas",
+        "c02": 997
+      },
+      {
+        "country": "Azerbaijan",
+        "c02": 692
+      },
+      {
+        "country": "Bulgaria",
+        "c02": 713
+      },
+      {
+        "country": "Philippines",
+        "c02": 709
+      },
+      {
+        "country": "S. Georgia and S. Sandwich Isls.",
+        "c02": 837
+      },
+      {
+        "country": "Korea (North)",
+        "c02": 689
+      },
+      {
+        "country": "Belgium",
+        "c02": 1156
+      },
+      {
+        "country": "Botswana",
+        "c02": 1303
+      },
+      {
+        "country": "Mauritania",
+        "c02": 419
+      },
+      {
+        "country": "Vanuatu",
+        "c02": 758
+      },
+      {
+        "country": "Latvia",
+        "c02": 1255
+      },
+      {
+        "country": "East Timor",
+        "c02": 1180
+      },
+      {
+        "country": "Albania",
+        "c02": 1311
+      },
+      {
+        "country": "Yemen",
+        "c02": 1176
+      },
+      {
+        "country": "Tajikistan",
+        "c02": 921
+      },
+      {
+        "country": "Ireland",
+        "c02": 189
+      },
+      {
+        "country": "Argentina",
+        "c02": 1334
+      },
+      {
+        "country": "Togo",
+        "c02": 336
+      },
+      {
+        "country": "Vatican City State (Holy See)",
+        "c02": 25
+      },
+      {
+        "country": "Western Sahara",
+        "c02": 246
+      },
+      {
+        "country": "Eritrea",
+        "c02": 365
+      },
+      {
+        "country": "Equatorial Guinea",
+        "c02": 1181
+      },
+      {
+        "country": "Zaire",
+        "c02": 411
+      },
+      {
+        "country": "Chad",
+        "c02": 150
+      },
+      {
+        "country": "Virgin Islands (British)",
+        "c02": 886
+      },
+      {
+        "country": "Saudi Arabia",
+        "c02": 1243
+      },
+      {
+        "country": "Israel",
+        "c02": 335
+      },
+      {
+        "country": "Viet Nam",
+        "c02": 782
+      },
+      {
+        "country": "Heard and McDonald Islands",
+        "c02": 649
+      },
+      {
+        "country": "Ethiopia",
+        "c02": 1057
+      },
+      {
+        "country": "United States",
+        "c02": 512
       }
     ]
   },
@@ -2838,404 +2838,404 @@
     "year": 2020,
     "data": [
       {
-        "company": "Sybixtex",
-        "c02": 16
+        "country": "Macedonia",
+        "c02": 1157
       },
       {
-        "company": "Vixo",
-        "c02": 53
+        "country": "Guyana",
+        "c02": 928
       },
       {
-        "company": "Greeker",
-        "c02": 70
+        "country": "Maldives",
+        "c02": 610
       },
       {
-        "company": "Ohmnet",
-        "c02": 44
+        "country": "Egypt",
+        "c02": 576
       },
       {
-        "company": "Zerbina",
-        "c02": 76
+        "country": "Angola",
+        "c02": 524
       },
       {
-        "company": "Quizka",
-        "c02": 32
+        "country": "South Africa",
+        "c02": 1256
       },
       {
-        "company": "Urbanshee",
+        "country": "Kiribati",
+        "c02": 564
+      },
+      {
+        "country": "Thailand",
+        "c02": 1072
+      },
+      {
+        "country": "Uruguay",
+        "c02": 1049
+      },
+      {
+        "country": "Samoa",
+        "c02": 583
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "c02": 1286
+      },
+      {
+        "country": "Yugoslavia",
+        "c02": 856
+      },
+      {
+        "country": "Svalbard and Jan Mayen Islands",
+        "c02": 1279
+      },
+      {
+        "country": "Lithuania",
+        "c02": 224
+      },
+      {
+        "country": "Korea (South)",
+        "c02": 363
+      },
+      {
+        "country": "Tonga",
         "c02": 36
       },
       {
-        "company": "Qot",
-        "c02": 71
+        "country": "France, Metropolitan",
+        "c02": 199
       },
       {
-        "company": "Extremo",
-        "c02": 12
+        "country": "Burkina Faso",
+        "c02": 566
       },
       {
-        "company": "Ovolo",
-        "c02": 30
+        "country": "Comoros",
+        "c02": 1305
       },
       {
-        "company": "Exoblue",
-        "c02": 33
+        "country": "Sudan",
+        "c02": 1299
       },
       {
-        "company": "Acusage",
-        "c02": 98
+        "country": "Falkland Islands (Malvinas)",
+        "c02": 1287
       },
       {
-        "company": "Frolix",
-        "c02": 95
+        "country": "Ukraine",
+        "c02": 1310
       },
       {
-        "company": "Conferia",
-        "c02": 52
+        "country": "Antarctica",
+        "c02": 622
       },
       {
-        "company": "Columella",
-        "c02": 83
+        "country": "Austria",
+        "c02": 1204
       },
       {
-        "company": "Franscene",
-        "c02": 4
+        "country": "Brunei Darussalam",
+        "c02": 687
       },
       {
-        "company": "Zensure",
-        "c02": 29
-      },
-      {
-        "company": "Arctiq",
-        "c02": 93
-      },
-      {
-        "company": "Honotron",
-        "c02": 19
-      },
-      {
-        "company": "Dragbot",
-        "c02": 43
-      },
-      {
-        "company": "Medicroix",
-        "c02": 25
-      },
-      {
-        "company": "Securia",
-        "c02": 87
-      },
-      {
-        "company": "Earthwax",
-        "c02": 65
-      },
-      {
-        "company": "Comverges",
-        "c02": 40
-      },
-      {
-        "company": "Everest",
-        "c02": 55
-      },
-      {
-        "company": "Comvene",
-        "c02": 11
-      },
-      {
-        "company": "Turnabout",
-        "c02": 5
-      },
-      {
-        "company": "Flum",
-        "c02": 84
-      },
-      {
-        "company": "Eplosion",
-        "c02": 55
-      },
-      {
-        "company": "Cubicide",
-        "c02": 35
-      },
-      {
-        "company": "Buzzmaker",
-        "c02": 33
-      },
-      {
-        "company": "Sunclipse",
-        "c02": 23
-      },
-      {
-        "company": "Lovepad",
-        "c02": 46
-      },
-      {
-        "company": "Exerta",
-        "c02": 80
-      },
-      {
-        "company": "Gushkool",
-        "c02": 2
-      },
-      {
-        "company": "Recognia",
-        "c02": 40
-      },
-      {
-        "company": "Ewaves",
-        "c02": 30
-      },
-      {
-        "company": "Centrexin",
-        "c02": 84
-      },
-      {
-        "company": "Sensate",
-        "c02": 49
-      },
-      {
-        "company": "Ginkogene",
-        "c02": 68
-      },
-      {
-        "company": "Songbird",
-        "c02": 63
-      },
-      {
-        "company": "Hawkster",
-        "c02": 40
-      },
-      {
-        "company": "Talkola",
-        "c02": 58
-      },
-      {
-        "company": "Accuprint",
-        "c02": 71
-      },
-      {
-        "company": "Musix",
-        "c02": 55
-      },
-      {
-        "company": "Apextri",
-        "c02": 68
-      },
-      {
-        "company": "Eplode",
-        "c02": 16
-      },
-      {
-        "company": "Utara",
-        "c02": 11
-      },
-      {
-        "company": "Grupoli",
-        "c02": 18
-      },
-      {
-        "company": "Plexia",
-        "c02": 73
-      },
-      {
-        "company": "Medifax",
-        "c02": 92
-      },
-      {
-        "company": "Flotonic",
-        "c02": 65
-      },
-      {
-        "company": "Petigems",
-        "c02": 24
-      },
-      {
-        "company": "Xyqag",
-        "c02": 95
-      },
-      {
-        "company": "Cedward",
-        "c02": 51
-      },
-      {
-        "company": "Eyewax",
-        "c02": 76
-      },
-      {
-        "company": "Norsup",
-        "c02": 95
-      },
-      {
-        "company": "Zipak",
-        "c02": 47
-      },
-      {
-        "company": "Zytrex",
-        "c02": 74
-      },
-      {
-        "company": "Orbaxter",
-        "c02": 45
-      },
-      {
-        "company": "Colaire",
-        "c02": 17
-      },
-      {
-        "company": "Magmina",
-        "c02": 1
-      },
-      {
-        "company": "Genesynk",
-        "c02": 33
-      },
-      {
-        "company": "Bitrex",
-        "c02": 17
-      },
-      {
-        "company": "Zaggle",
-        "c02": 11
-      },
-      {
-        "company": "Codact",
-        "c02": 89
-      },
-      {
-        "company": "Earthpure",
-        "c02": 19
-      },
-      {
-        "company": "Tourmania",
-        "c02": 1
-      },
-      {
-        "company": "Orbalix",
-        "c02": 38
-      },
-      {
-        "company": "Fiberox",
-        "c02": 77
-      },
-      {
-        "company": "Vertide",
-        "c02": 32
-      },
-      {
-        "company": "Zolavo",
-        "c02": 46
-      },
-      {
-        "company": "Pulze",
+        "country": "Portugal",
         "c02": 26
       },
       {
-        "company": "Comcur",
-        "c02": 65
+        "country": "Jordan",
+        "c02": 752
       },
       {
-        "company": "Netur",
-        "c02": 94
+        "country": "Wallis and Futuna Islands",
+        "c02": 708
       },
       {
-        "company": "Multiflex",
-        "c02": 16
+        "country": "Saint Kitts and Nevis",
+        "c02": 366
       },
       {
-        "company": "Ziggles",
-        "c02": 24
+        "country": "Gambia",
+        "c02": 455
       },
       {
-        "company": "Gynk",
-        "c02": 2
+        "country": "St. Pierre and Miquelon",
+        "c02": 650
       },
       {
-        "company": "Deminimum",
-        "c02": 79
+        "country": "Kenya",
+        "c02": 477
       },
       {
-        "company": "Zizzle",
-        "c02": 31
+        "country": "Andorra",
+        "c02": 68
       },
       {
-        "company": "Kaggle",
-        "c02": 9
+        "country": "Cyprus",
+        "c02": 563
       },
       {
-        "company": "Zanymax",
-        "c02": 63
+        "country": "Libya",
+        "c02": 182
       },
       {
-        "company": "Wazzu",
-        "c02": 76
+        "country": "Colombia",
+        "c02": 132
       },
       {
-        "company": "Zaj",
-        "c02": 74
+        "country": "Burundi",
+        "c02": 252
       },
       {
-        "company": "Enthaze",
-        "c02": 83
+        "country": "Slovenia",
+        "c02": 195
       },
       {
-        "company": "Essensia",
-        "c02": 28
+        "country": "Zimbabwe",
+        "c02": 29
       },
       {
-        "company": "Syntac",
-        "c02": 17
+        "country": "Grenada",
+        "c02": 425
       },
       {
-        "company": "Geeketron",
-        "c02": 16
+        "country": "Hong Kong",
+        "c02": 540
       },
       {
-        "company": "Micronaut",
-        "c02": 7
+        "country": "Benin",
+        "c02": 1372
       },
       {
-        "company": "Zidant",
-        "c02": 95
+        "country": "Lebanon",
+        "c02": 1133
       },
       {
-        "company": "Cablam",
-        "c02": 59
+        "country": "Sao Tome and Principe",
+        "c02": 1277
       },
       {
-        "company": "Permadyne",
-        "c02": 56
+        "country": "Monaco",
+        "c02": 118
       },
       {
-        "company": "Xerex",
-        "c02": 39
+        "country": "Niger",
+        "c02": 322
       },
       {
-        "company": "Zyple",
-        "c02": 82
+        "country": "Bolivia",
+        "c02": 280
       },
       {
-        "company": "Imkan",
-        "c02": 79
+        "country": "Algeria",
+        "c02": 1335
       },
       {
-        "company": "Zedalis",
-        "c02": 40
+        "country": "Paraguay",
+        "c02": 1341
       },
       {
-        "company": "Calcu",
-        "c02": 4
+        "country": "Solomon Islands",
+        "c02": 1242
       },
       {
-        "company": "Filodyne",
-        "c02": 2
+        "country": "Puerto Rico",
+        "c02": 743
       },
       {
-        "company": "Zorromop",
-        "c02": 20
+        "country": "United Kingdom",
+        "c02": 188
       },
       {
-        "company": "Earthmark",
-        "c02": 82
+        "country": "Tuvalu",
+        "c02": 548
+      },
+      {
+        "country": "Turkey",
+        "c02": 425
+      },
+      {
+        "country": "French Polynesia",
+        "c02": 826
+      },
+      {
+        "country": "Croatia (Hrvatska)",
+        "c02": 89
+      },
+      {
+        "country": "Poland",
+        "c02": 238
+      },
+      {
+        "country": "Cameroon",
+        "c02": 258
+      },
+      {
+        "country": "Dominica",
+        "c02": 423
+      },
+      {
+        "country": "New Zealand",
+        "c02": 111
+      },
+      {
+        "country": "Nigeria",
+        "c02": 206
+      },
+      {
+        "country": "Chile",
+        "c02": 1002
+      },
+      {
+        "country": "Bahrain",
+        "c02": 544
+      },
+      {
+        "country": "Guatemala",
+        "c02": 206
+      },
+      {
+        "country": "Barbados",
+        "c02": 1260
+      },
+      {
+        "country": "Luxembourg",
+        "c02": 570
+      },
+      {
+        "country": "Turkmenistan",
+        "c02": 398
+      },
+      {
+        "country": "Tunisia",
+        "c02": 452
+      },
+      {
+        "country": "Iran",
+        "c02": 23
+      },
+      {
+        "country": "Niue",
+        "c02": 549
+      },
+      {
+        "country": "Reunion",
+        "c02": 608
+      },
+      {
+        "country": "Cote D'Ivoire (Ivory Coast)",
+        "c02": 1214
+      },
+      {
+        "country": "Estonia",
+        "c02": 1087
+      },
+      {
+        "country": "El Salvador",
+        "c02": 442
+      },
+      {
+        "country": "Christmas Island",
+        "c02": 1012
+      },
+      {
+        "country": "Brazil",
+        "c02": 690
+      },
+      {
+        "country": "Namibia",
+        "c02": 861
+      },
+      {
+        "country": "Hungary",
+        "c02": 282
+      },
+      {
+        "country": "Mongolia",
+        "c02": 812
+      },
+      {
+        "country": "Cook Islands",
+        "c02": 1324
+      },
+      {
+        "country": "Bhutan",
+        "c02": 1393
+      },
+      {
+        "country": "Afghanistan",
+        "c02": 611
+      },
+      {
+        "country": "Tokelau",
+        "c02": 847
+      },
+      {
+        "country": "Morocco",
+        "c02": 1241
+      },
+      {
+        "country": "Tanzania",
+        "c02": 534
+      },
+      {
+        "country": "Cuba",
+        "c02": 1273
+      },
+      {
+        "country": "Netherlands",
+        "c02": 1083
+      },
+      {
+        "country": "Jamaica",
+        "c02": 456
+      },
+      {
+        "country": "Malaysia",
+        "c02": 246
+      },
+      {
+        "country": "Nepal",
+        "c02": 1017
+      },
+      {
+        "country": "Montserrat",
+        "c02": 1116
+      },
+      {
+        "country": "Moldova",
+        "c02": 834
+      },
+      {
+        "country": "Papua New Guinea",
+        "c02": 970
+      },
+      {
+        "country": "Guadeloupe",
+        "c02": 1115
+      },
+      {
+        "country": "Mexico",
+        "c02": 1053
+      },
+      {
+        "country": "Oman",
+        "c02": 1209
+      },
+      {
+        "country": "Haiti",
+        "c02": 513
+      },
+      {
+        "country": "Kyrgyzstan",
+        "c02": 220
+      },
+      {
+        "country": "Anguilla",
+        "c02": 382
+      },
+      {
+        "country": "Turks and Caicos Islands",
+        "c02": 525
       }
     ]
   },
@@ -3243,404 +3243,404 @@
     "year": 2021,
     "data": [
       {
-        "company": "Sportan",
-        "c02": 85
+        "country": "Honduras",
+        "c02": 52
       },
       {
-        "company": "Talendula",
-        "c02": 24
+        "country": "Czech Republic",
+        "c02": 881
       },
       {
-        "company": "Centree",
-        "c02": 62
+        "country": "Germany",
+        "c02": 683
       },
       {
-        "company": "Centuria",
-        "c02": 76
+        "country": "British Indian Ocean Territory",
+        "c02": 638
       },
       {
-        "company": "Magnemo",
-        "c02": 30
+        "country": "Cambodia",
+        "c02": 278
       },
       {
-        "company": "Motovate",
-        "c02": 12
+        "country": "Somalia",
+        "c02": 914
       },
       {
-        "company": "Fortean",
-        "c02": 61
+        "country": "Canada",
+        "c02": 1010
       },
       {
-        "company": "Tetratrex",
-        "c02": 37
+        "country": "Finland",
+        "c02": 362
       },
       {
-        "company": "Gleamink",
-        "c02": 4
+        "country": "Netherlands Antilles",
+        "c02": 77
       },
       {
-        "company": "Gronk",
-        "c02": 47
+        "country": "Ecuador",
+        "c02": 435
       },
       {
-        "company": "Pyramia",
-        "c02": 45
-      },
-      {
-        "company": "Xanide",
-        "c02": 62
-      },
-      {
-        "company": "Applidec",
-        "c02": 9
-      },
-      {
-        "company": "Xelegyl",
-        "c02": 31
-      },
-      {
-        "company": "Trasola",
-        "c02": 82
-      },
-      {
-        "company": "Liquidoc",
-        "c02": 57
-      },
-      {
-        "company": "Twiggery",
-        "c02": 37
-      },
-      {
-        "company": "Extro",
-        "c02": 79
-      },
-      {
-        "company": "Austech",
+        "country": "Micronesia",
         "c02": 59
       },
       {
-        "company": "Thredz",
-        "c02": 35
+        "country": "Italy",
+        "c02": 678
       },
       {
-        "company": "Zillactic",
-        "c02": 88
+        "country": "French Southern Territories",
+        "c02": 1397
       },
       {
-        "company": "Overplex",
-        "c02": 68
+        "country": "Guam",
+        "c02": 1241
       },
       {
-        "company": "Isoplex",
-        "c02": 87
+        "country": "Qatar",
+        "c02": 1226
       },
       {
-        "company": "Cytrex",
-        "c02": 8
+        "country": "Mayotte",
+        "c02": 1178
       },
       {
-        "company": "Polarax",
-        "c02": 88
+        "country": "Switzerland",
+        "c02": 267
       },
       {
-        "company": "Velity",
-        "c02": 68
+        "country": "Gibraltar",
+        "c02": 870
       },
       {
-        "company": "Decratex",
-        "c02": 46
+        "country": "Dominican Republic",
+        "c02": 1009
       },
       {
-        "company": "Zinca",
-        "c02": 19
+        "country": "Guinea-Bissau",
+        "c02": 1235
       },
       {
-        "company": "Comfirm",
-        "c02": 70
+        "country": "Iceland",
+        "c02": 635
       },
       {
-        "company": "Zoxy",
-        "c02": 17
+        "country": "Central African Republic",
+        "c02": 1104
       },
       {
-        "company": "Obones",
-        "c02": 90
+        "country": "Nicaragua",
+        "c02": 95
       },
       {
-        "company": "Exotechno",
-        "c02": 94
+        "country": "Malawi",
+        "c02": 1351
       },
       {
-        "company": "Marvane",
-        "c02": 76
+        "country": "Djibouti",
+        "c02": 489
       },
       {
-        "company": "Roboid",
-        "c02": 29
+        "country": "Bangladesh",
+        "c02": 1208
       },
       {
-        "company": "Anixang",
-        "c02": 35
+        "country": "Swaziland",
+        "c02": 119
       },
       {
-        "company": "Quarx",
-        "c02": 40
+        "country": "United Arab Emirates",
+        "c02": 1104
       },
       {
-        "company": "Equitax",
-        "c02": 8
+        "country": "Armenia",
+        "c02": 434
       },
       {
-        "company": "Radiantix",
-        "c02": 57
+        "country": "Syria",
+        "c02": 214
       },
       {
-        "company": "Austex",
-        "c02": 6
+        "country": "San Marino",
+        "c02": 1279
       },
       {
-        "company": "Eventage",
-        "c02": 33
+        "country": "Laos",
+        "c02": 319
       },
       {
-        "company": "Emtrac",
-        "c02": 34
+        "country": "Peru",
+        "c02": 695
       },
       {
-        "company": "Cosmosis",
-        "c02": 3
+        "country": "Ghana",
+        "c02": 217
       },
       {
-        "company": "Otherway",
-        "c02": 41
+        "country": "Myanmar",
+        "c02": 303
       },
       {
-        "company": "Buzzness",
-        "c02": 47
+        "country": "Bosnia and Herzegovina",
+        "c02": 78
       },
       {
-        "company": "Mazuda",
-        "c02": 57
+        "country": "Japan",
+        "c02": 887
       },
       {
-        "company": "Vendblend",
-        "c02": 1
+        "country": "Nauru",
+        "c02": 1016
       },
       {
-        "company": "Knowlysis",
-        "c02": 7
+        "country": "Belarus",
+        "c02": 678
       },
       {
-        "company": "Valpreal",
-        "c02": 4
+        "country": "New Caledonia",
+        "c02": 570
       },
       {
-        "company": "Mangelica",
+        "country": "Marshall Islands",
+        "c02": 1119
+      },
+      {
+        "country": "Greece",
+        "c02": 900
+      },
+      {
+        "country": "Singapore",
+        "c02": 529
+      },
+      {
+        "country": "Gabon",
+        "c02": 153
+      },
+      {
+        "country": "Lesotho",
+        "c02": 1136
+      },
+      {
+        "country": "Cocos (Keeling Islands)",
+        "c02": 983
+      },
+      {
+        "country": "India",
+        "c02": 1066
+      },
+      {
+        "country": "Aruba",
+        "c02": 764
+      },
+      {
+        "country": "Cayman Islands",
+        "c02": 343
+      },
+      {
+        "country": "Taiwan",
+        "c02": 418
+      },
+      {
+        "country": "Mozambique",
+        "c02": 912
+      },
+      {
+        "country": "Martinique",
+        "c02": 579
+      },
+      {
+        "country": "Saint Lucia",
+        "c02": 120
+      },
+      {
+        "country": "Malta",
+        "c02": 606
+      },
+      {
+        "country": "Norfolk Island",
+        "c02": 1191
+      },
+      {
+        "country": "Zambia",
+        "c02": 909
+      },
+      {
+        "country": "Fiji",
+        "c02": 755
+      },
+      {
+        "country": "Guinea",
+        "c02": 666
+      },
+      {
+        "country": "Kazakhstan",
+        "c02": 564
+      },
+      {
+        "country": "Norway",
+        "c02": 453
+      },
+      {
+        "country": "Liberia",
+        "c02": 203
+      },
+      {
+        "country": "France",
+        "c02": 939
+      },
+      {
+        "country": "China",
+        "c02": 150
+      },
+      {
+        "country": "Panama",
+        "c02": 771
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "c02": 665
+      },
+      {
+        "country": "Madagascar",
+        "c02": 155
+      },
+      {
+        "country": "Bermuda",
+        "c02": 617
+      },
+      {
+        "country": "Spain",
+        "c02": 12
+      },
+      {
+        "country": "Uganda",
         "c02": 44
       },
       {
-        "company": "Trollery",
-        "c02": 30
+        "country": "Liechtenstein",
+        "c02": 1027
       },
       {
-        "company": "Sealoud",
-        "c02": 24
+        "country": "Denmark",
+        "c02": 996
       },
       {
-        "company": "Biohab",
-        "c02": 49
+        "country": "Mali",
+        "c02": 562
       },
       {
-        "company": "Plasto",
-        "c02": 42
+        "country": "Sweden",
+        "c02": 509
       },
       {
-        "company": "Exposa",
-        "c02": 46
+        "country": "St. Helena",
+        "c02": 445
       },
       {
-        "company": "Kyagoro",
-        "c02": 54
+        "country": "Saint Vincent and The Grenadines",
+        "c02": 387
       },
       {
-        "company": "Namebox",
-        "c02": 35
+        "country": "Indonesia",
+        "c02": 1094
       },
       {
-        "company": "Zogak",
-        "c02": 73
+        "country": "Kuwait",
+        "c02": 667
       },
       {
-        "company": "Digiprint",
-        "c02": 70
+        "country": "Belize",
+        "c02": 166
       },
       {
-        "company": "Atgen",
-        "c02": 69
+        "country": "Romania",
+        "c02": 1257
       },
       {
-        "company": "Medesign",
-        "c02": 46
+        "country": "Cape Verde",
+        "c02": 721
       },
       {
-        "company": "Bulljuice",
-        "c02": 25
+        "country": "Suriname",
+        "c02": 459
       },
       {
-        "company": "Isostream",
-        "c02": 72
+        "country": "Northern Mariana Islands",
+        "c02": 1318
       },
       {
-        "company": "Zenthall",
-        "c02": 97
+        "country": "Congo",
+        "c02": 1399
       },
       {
-        "company": "Zilodyne",
-        "c02": 11
+        "country": "Iraq",
+        "c02": 805
       },
       {
-        "company": "Sentia",
-        "c02": 10
+        "country": "Sri Lanka",
+        "c02": 668
       },
       {
-        "company": "Playce",
-        "c02": 98
+        "country": "Uzbekistan",
+        "c02": 133
       },
       {
-        "company": "Tersanki",
-        "c02": 75
+        "country": "Costa Rica",
+        "c02": 1129
       },
       {
-        "company": "Isosure",
-        "c02": 42
+        "country": "Macau",
+        "c02": 527
       },
       {
-        "company": "Netplax",
-        "c02": 99
+        "country": "Mauritius",
+        "c02": 809
       },
       {
-        "company": "Ezentia",
-        "c02": 53
+        "country": "Slovak Republic",
+        "c02": 368
       },
       {
-        "company": "Glukgluk",
-        "c02": 41
+        "country": "French Guiana",
+        "c02": 106
       },
       {
-        "company": "Signidyne",
-        "c02": 100
+        "country": "Seychelles",
+        "c02": 663
       },
       {
-        "company": "Gynko",
-        "c02": 52
+        "country": "Australia",
+        "c02": 152
       },
       {
-        "company": "Keeg",
-        "c02": 47
+        "country": "Pitcairn",
+        "c02": 266
       },
       {
-        "company": "Dymi",
-        "c02": 17
+        "country": "Rwanda",
+        "c02": 1266
       },
       {
-        "company": "Velos",
-        "c02": 95
+        "country": "American Samoa",
+        "c02": 366
       },
       {
-        "company": "Dognosis",
-        "c02": 68
+        "country": "Virgin Islands (US)",
+        "c02": 847
       },
       {
-        "company": "Comveyer",
-        "c02": 11
+        "country": "Faroe Islands",
+        "c02": 177
       },
       {
-        "company": "Xleen",
-        "c02": 52
+        "country": "Palau",
+        "c02": 127
       },
       {
-        "company": "Terascape",
-        "c02": 50
-      },
-      {
-        "company": "Chillium",
-        "c02": 94
-      },
-      {
-        "company": "Protodyne",
-        "c02": 83
-      },
-      {
-        "company": "Ceprene",
-        "c02": 85
-      },
-      {
-        "company": "Digigen",
-        "c02": 69
-      },
-      {
-        "company": "Danja",
-        "c02": 58
-      },
-      {
-        "company": "Reversus",
-        "c02": 34
-      },
-      {
-        "company": "Biotica",
-        "c02": 68
-      },
-      {
-        "company": "Telequiet",
-        "c02": 75
-      },
-      {
-        "company": "Enomen",
-        "c02": 38
-      },
-      {
-        "company": "Unisure",
-        "c02": 89
-      },
-      {
-        "company": "Xinware",
-        "c02": 95
-      },
-      {
-        "company": "Avit",
-        "c02": 26
-      },
-      {
-        "company": "Extragene",
-        "c02": 79
-      },
-      {
-        "company": "Magnafone",
-        "c02": 17
-      },
-      {
-        "company": "Zepitope",
-        "c02": 37
-      },
-      {
-        "company": "Bedder",
-        "c02": 90
-      },
-      {
-        "company": "Eventex",
-        "c02": 84
-      },
-      {
-        "company": "Cubix",
-        "c02": 61
-      },
-      {
-        "company": "Straloy",
-        "c02": 64
-      },
-      {
-        "company": "Enersol",
-        "c02": 87
+        "country": "Russian Federation",
+        "c02": 78
       }
     ]
   },
@@ -3648,404 +3648,404 @@
     "year": 2022,
     "data": [
       {
-        "company": "Kengen",
-        "c02": 19
+        "country": "Venezuela",
+        "c02": 886
       },
       {
-        "company": "Zillacom",
-        "c02": 42
+        "country": "Georgia",
+        "c02": 1101
       },
       {
-        "company": "Crustatia",
-        "c02": 59
+        "country": "Sierra Leone",
+        "c02": 1349
       },
       {
-        "company": "Lunchpad",
-        "c02": 78
+        "country": "Greenland",
+        "c02": 513
       },
       {
-        "company": "Waretel",
-        "c02": 30
+        "country": "Senegal",
+        "c02": 858
       },
       {
-        "company": "Olucore",
-        "c02": 74
+        "country": "US Minor Outlying Islands",
+        "c02": 377
       },
       {
-        "company": "Entropix",
-        "c02": 89
+        "country": "Bouvet Island",
+        "c02": 547
       },
       {
-        "company": "Proflex",
-        "c02": 12
+        "country": "Bahamas",
+        "c02": 600
       },
       {
-        "company": "Supremia",
-        "c02": 95
+        "country": "Azerbaijan",
+        "c02": 647
       },
       {
-        "company": "Visalia",
-        "c02": 50
+        "country": "Bulgaria",
+        "c02": 1319
       },
       {
-        "company": "Furnigeer",
-        "c02": 52
+        "country": "Philippines",
+        "c02": 825
       },
       {
-        "company": "Sustenza",
-        "c02": 69
+        "country": "S. Georgia and S. Sandwich Isls.",
+        "c02": 984
       },
       {
-        "company": "Geekular",
-        "c02": 87
+        "country": "Korea (North)",
+        "c02": 985
       },
       {
-        "company": "Comdom",
-        "c02": 57
+        "country": "Belgium",
+        "c02": 10
       },
       {
-        "company": "Farmage",
+        "country": "Botswana",
+        "c02": 721
+      },
+      {
+        "country": "Mauritania",
+        "c02": 542
+      },
+      {
+        "country": "Vanuatu",
+        "c02": 671
+      },
+      {
+        "country": "Latvia",
+        "c02": 257
+      },
+      {
+        "country": "East Timor",
+        "c02": 1152
+      },
+      {
+        "country": "Albania",
+        "c02": 1080
+      },
+      {
+        "country": "Yemen",
+        "c02": 720
+      },
+      {
+        "country": "Tajikistan",
+        "c02": 1082
+      },
+      {
+        "country": "Ireland",
+        "c02": 1252
+      },
+      {
+        "country": "Argentina",
+        "c02": 1162
+      },
+      {
+        "country": "Togo",
         "c02": 51
       },
       {
-        "company": "Joviold",
-        "c02": 75
+        "country": "Vatican City State (Holy See)",
+        "c02": 846
       },
       {
-        "company": "Canopoly",
-        "c02": 15
+        "country": "Western Sahara",
+        "c02": 1216
       },
       {
-        "company": "Rockyard",
-        "c02": 18
+        "country": "Eritrea",
+        "c02": 559
       },
       {
-        "company": "Combogen",
-        "c02": 47
+        "country": "Equatorial Guinea",
+        "c02": 336
       },
       {
-        "company": "Speedbolt",
-        "c02": 36
+        "country": "Zaire",
+        "c02": 1396
       },
       {
-        "company": "Sequitur",
-        "c02": 82
+        "country": "Chad",
+        "c02": 470
       },
       {
-        "company": "Endipine",
-        "c02": 23
+        "country": "Virgin Islands (British)",
+        "c02": 200
       },
       {
-        "company": "Emoltra",
-        "c02": 99
+        "country": "Saudi Arabia",
+        "c02": 320
       },
       {
-        "company": "Duoflex",
-        "c02": 22
+        "country": "Israel",
+        "c02": 196
       },
       {
-        "company": "Venoflex",
-        "c02": 33
+        "country": "Viet Nam",
+        "c02": 806
       },
       {
-        "company": "Qaboos",
-        "c02": 42
+        "country": "Heard and McDonald Islands",
+        "c02": 751
       },
       {
-        "company": "Bovis",
-        "c02": 1
+        "country": "Ethiopia",
+        "c02": 305
       },
       {
-        "company": "Geeky",
-        "c02": 39
+        "country": "United States",
+        "c02": 760
       },
       {
-        "company": "Stelaecor",
-        "c02": 97
+        "country": "Macedonia",
+        "c02": 868
       },
       {
-        "company": "Cyclonica",
-        "c02": 2
+        "country": "Guyana",
+        "c02": 1352
       },
       {
-        "company": "Firewax",
-        "c02": 21
+        "country": "Maldives",
+        "c02": 1179
       },
       {
-        "company": "Podunk",
-        "c02": 28
+        "country": "Egypt",
+        "c02": 1301
       },
       {
-        "company": "Lunchpod",
-        "c02": 95
+        "country": "Angola",
+        "c02": 1164
       },
       {
-        "company": "Electonic",
-        "c02": 96
+        "country": "South Africa",
+        "c02": 1371
       },
       {
-        "company": "Grok",
-        "c02": 32
+        "country": "Kiribati",
+        "c02": 450
       },
       {
-        "company": "Zillidium",
-        "c02": 37
+        "country": "Thailand",
+        "c02": 544
       },
       {
-        "company": "Zytrax",
-        "c02": 25
+        "country": "Uruguay",
+        "c02": 1348
       },
       {
-        "company": "Bolax",
-        "c02": 30
+        "country": "Samoa",
+        "c02": 762
       },
       {
-        "company": "Realysis",
-        "c02": 77
+        "country": "Antigua and Barbuda",
+        "c02": 908
       },
       {
-        "company": "Zboo",
-        "c02": 35
+        "country": "Yugoslavia",
+        "c02": 808
       },
       {
-        "company": "Xylar",
-        "c02": 100
+        "country": "Svalbard and Jan Mayen Islands",
+        "c02": 1038
       },
       {
-        "company": "Lexicondo",
-        "c02": 15
+        "country": "Lithuania",
+        "c02": 250
       },
       {
-        "company": "Farmex",
-        "c02": 40
+        "country": "Korea (South)",
+        "c02": 107
       },
       {
-        "company": "Qualitern",
-        "c02": 2
+        "country": "Tonga",
+        "c02": 323
       },
       {
-        "company": "Equicom",
-        "c02": 92
+        "country": "France, Metropolitan",
+        "c02": 308
       },
       {
-        "company": "Bytrex",
-        "c02": 59
+        "country": "Burkina Faso",
+        "c02": 953
       },
       {
-        "company": "Adornica",
-        "c02": 92
+        "country": "Comoros",
+        "c02": 685
       },
       {
-        "company": "Stockpost",
-        "c02": 65
+        "country": "Sudan",
+        "c02": 680
       },
       {
-        "company": "Supportal",
-        "c02": 49
+        "country": "Falkland Islands (Malvinas)",
+        "c02": 1010
       },
       {
-        "company": "Eyeris",
-        "c02": 82
+        "country": "Ukraine",
+        "c02": 648
       },
       {
-        "company": "Bristo",
-        "c02": 47
+        "country": "Antarctica",
+        "c02": 575
       },
       {
-        "company": "Updat",
-        "c02": 38
+        "country": "Austria",
+        "c02": 952
       },
       {
-        "company": "Amril",
-        "c02": 27
+        "country": "Brunei Darussalam",
+        "c02": 435
       },
       {
-        "company": "Confrenzy",
-        "c02": 92
+        "country": "Portugal",
+        "c02": 1273
       },
       {
-        "company": "Obliq",
-        "c02": 19
+        "country": "Jordan",
+        "c02": 1335
       },
       {
-        "company": "Comvex",
-        "c02": 8
+        "country": "Wallis and Futuna Islands",
+        "c02": 162
       },
       {
-        "company": "Netbook",
-        "c02": 66
+        "country": "Saint Kitts and Nevis",
+        "c02": 105
       },
       {
-        "company": "Aquazure",
-        "c02": 47
+        "country": "Gambia",
+        "c02": 158
       },
       {
-        "company": "Polarium",
-        "c02": 41
+        "country": "St. Pierre and Miquelon",
+        "c02": 1262
       },
       {
-        "company": "Providco",
-        "c02": 42
+        "country": "Kenya",
+        "c02": 1039
       },
       {
-        "company": "Slax",
-        "c02": 54
+        "country": "Andorra",
+        "c02": 293
       },
       {
-        "company": "Aquasure",
-        "c02": 70
+        "country": "Cyprus",
+        "c02": 135
       },
       {
-        "company": "Hatology",
-        "c02": 25
+        "country": "Libya",
+        "c02": 844
       },
       {
-        "company": "Remotion",
-        "c02": 69
+        "country": "Colombia",
+        "c02": 554
       },
       {
-        "company": "Dentrex",
-        "c02": 17
+        "country": "Burundi",
+        "c02": 438
       },
       {
-        "company": "Fitcore",
-        "c02": 6
+        "country": "Slovenia",
+        "c02": 89
       },
       {
-        "company": "Shadease",
-        "c02": 95
+        "country": "Zimbabwe",
+        "c02": 760
       },
       {
-        "company": "Nebulean",
-        "c02": 21
+        "country": "Grenada",
+        "c02": 312
       },
       {
-        "company": "Geekwagon",
-        "c02": 71
+        "country": "Hong Kong",
+        "c02": 1339
       },
       {
-        "company": "Pheast",
-        "c02": 4
+        "country": "Benin",
+        "c02": 296
       },
       {
-        "company": "Realmo",
-        "c02": 47
+        "country": "Lebanon",
+        "c02": 1281
       },
       {
-        "company": "Geekmosis",
-        "c02": 23
+        "country": "Sao Tome and Principe",
+        "c02": 482
       },
       {
-        "company": "Artiq",
-        "c02": 31
+        "country": "Monaco",
+        "c02": 221
       },
       {
-        "company": "Kongene",
-        "c02": 56
+        "country": "Niger",
+        "c02": 623
       },
       {
-        "company": "Koffee",
-        "c02": 79
-      },
-      {
-        "company": "Fishland",
-        "c02": 55
-      },
-      {
-        "company": "Caxt",
-        "c02": 54
-      },
-      {
-        "company": "Zanilla",
-        "c02": 83
-      },
-      {
-        "company": "Enervate",
-        "c02": 56
-      },
-      {
-        "company": "Zolarity",
-        "c02": 71
-      },
-      {
-        "company": "Volax",
-        "c02": 6
-      },
-      {
-        "company": "Accufarm",
-        "c02": 20
-      },
-      {
-        "company": "Gonkle",
-        "c02": 48
-      },
-      {
-        "company": "Imaginart",
-        "c02": 5
-      },
-      {
-        "company": "Futuris",
+        "country": "Bolivia",
         "c02": 64
       },
       {
-        "company": "Comcubine",
-        "c02": 70
+        "country": "Algeria",
+        "c02": 970
       },
       {
-        "company": "Dreamia",
-        "c02": 65
+        "country": "Paraguay",
+        "c02": 695
       },
       {
-        "company": "Parcoe",
-        "c02": 58
+        "country": "Solomon Islands",
+        "c02": 1207
       },
       {
-        "company": "Paprikut",
-        "c02": 78
+        "country": "Puerto Rico",
+        "c02": 701
       },
       {
-        "company": "Datacator",
-        "c02": 58
-      },
-      {
-        "company": "Tubalum",
+        "country": "United Kingdom",
         "c02": 56
       },
       {
-        "company": "Talkalot",
-        "c02": 82
+        "country": "Tuvalu",
+        "c02": 1324
       },
       {
-        "company": "Zaggles",
-        "c02": 11
+        "country": "Turkey",
+        "c02": 346
       },
       {
-        "company": "Futurize",
-        "c02": 74
+        "country": "French Polynesia",
+        "c02": 1248
       },
       {
-        "company": "Xiix",
-        "c02": 47
+        "country": "Croatia (Hrvatska)",
+        "c02": 1170
       },
       {
-        "company": "Kindaloo",
-        "c02": 59
+        "country": "Poland",
+        "c02": 1084
       },
       {
-        "company": "Quadeebo",
-        "c02": 21
+        "country": "Cameroon",
+        "c02": 220
       },
       {
-        "company": "Waab",
-        "c02": 67
+        "country": "Dominica",
+        "c02": 60
       },
       {
-        "company": "Songlines",
-        "c02": 87
+        "country": "New Zealand",
+        "c02": 1309
       },
       {
-        "company": "Vicon",
-        "c02": 55
+        "country": "Nigeria",
+        "c02": 428
+      },
+      {
+        "country": "Chile",
+        "c02": 1088
       }
     ]
   }
