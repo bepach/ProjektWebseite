@@ -1,1216 +1,406 @@
 [
   {
-    "year": 2013,
-    "data": [
-      {
-        "country": "Korea (South)",
-        "c02": 346
-      },
-      {
-        "country": "Tonga",
-        "c02": 1255
-      },
-      {
-        "country": "France, Metropolitan",
-        "c02": 867
-      },
-      {
-        "country": "Burkina Faso",
-        "c02": 20
-      },
-      {
-        "country": "Comoros",
-        "c02": 164
-      },
-      {
-        "country": "Sudan",
-        "c02": 97
-      },
-      {
-        "country": "Falkland Islands (Malvinas)",
-        "c02": 46
-      },
-      {
-        "country": "Ukraine",
-        "c02": 1246
-      },
-      {
-        "country": "Antarctica",
-        "c02": 1343
-      },
-      {
-        "country": "Austria",
-        "c02": 917
-      },
-      {
-        "country": "Brunei Darussalam",
-        "c02": 126
-      },
-      {
-        "country": "Portugal",
-        "c02": 485
-      },
-      {
-        "country": "Jordan",
-        "c02": 1032
-      },
-      {
-        "country": "Wallis and Futuna Islands",
-        "c02": 372
-      },
-      {
-        "country": "Saint Kitts and Nevis",
-        "c02": 591
-      },
-      {
-        "country": "Gambia",
-        "c02": 509
-      },
-      {
-        "country": "St. Pierre and Miquelon",
-        "c02": 1046
-      },
-      {
-        "country": "Kenya",
-        "c02": 1116
-      },
-      {
-        "country": "Andorra",
-        "c02": 64
-      },
-      {
-        "country": "Cyprus",
-        "c02": 1336
-      },
-      {
-        "country": "Libya",
-        "c02": 489
-      },
-      {
-        "country": "Colombia",
-        "c02": 57
-      },
-      {
-        "country": "Burundi",
-        "c02": 477
-      },
-      {
-        "country": "Slovenia",
-        "c02": 464
-      },
-      {
-        "country": "Zimbabwe",
-        "c02": 766
-      },
-      {
-        "country": "Grenada",
-        "c02": 464
-      },
-      {
-        "country": "Hong Kong",
-        "c02": 758
-      },
-      {
-        "country": "Benin",
-        "c02": 110
-      },
-      {
-        "country": "Lebanon",
-        "c02": 1237
-      },
-      {
-        "country": "Sao Tome and Principe",
-        "c02": 693
-      },
-      {
-        "country": "Monaco",
-        "c02": 1037
-      },
-      {
-        "country": "Niger",
-        "c02": 138
-      },
-      {
-        "country": "Bolivia",
-        "c02": 1283
-      },
-      {
-        "country": "Algeria",
-        "c02": 1393
-      },
-      {
-        "country": "Paraguay",
-        "c02": 1360
-      },
-      {
-        "country": "Solomon Islands",
-        "c02": 1343
-      },
-      {
-        "country": "Puerto Rico",
-        "c02": 1075
-      },
-      {
-        "country": "United Kingdom",
-        "c02": 623
-      },
-      {
-        "country": "Tuvalu",
-        "c02": 1141
-      },
-      {
-        "country": "Turkey",
-        "c02": 736
-      },
-      {
-        "country": "French Polynesia",
-        "c02": 729
-      },
-      {
-        "country": "Croatia (Hrvatska)",
-        "c02": 1227
-      },
-      {
-        "country": "Poland",
-        "c02": 1318
-      },
-      {
-        "country": "Cameroon",
-        "c02": 536
-      },
-      {
-        "country": "Dominica",
-        "c02": 401
-      },
-      {
-        "country": "New Zealand",
-        "c02": 957
-      },
-      {
-        "country": "Nigeria",
-        "c02": 1335
-      },
-      {
-        "country": "Chile",
-        "c02": 917
-      },
-      {
-        "country": "Bahrain",
-        "c02": 216
-      },
-      {
-        "country": "Guatemala",
-        "c02": 520
-      },
-      {
-        "country": "Barbados",
-        "c02": 1010
-      },
-      {
-        "country": "Luxembourg",
-        "c02": 666
-      },
-      {
-        "country": "Turkmenistan",
-        "c02": 1302
-      },
-      {
-        "country": "Tunisia",
-        "c02": 168
-      },
-      {
-        "country": "Iran",
-        "c02": 501
-      },
-      {
-        "country": "Niue",
-        "c02": 1070
-      },
-      {
-        "country": "Reunion",
-        "c02": 1066
-      },
-      {
-        "country": "Cote D'Ivoire (Ivory Coast)",
-        "c02": 468
-      },
-      {
-        "country": "Estonia",
-        "c02": 189
-      },
-      {
-        "country": "El Salvador",
-        "c02": 545
-      },
-      {
-        "country": "Christmas Island",
-        "c02": 1263
-      },
-      {
-        "country": "Brazil",
-        "c02": 414
-      },
-      {
-        "country": "Namibia",
-        "c02": 822
-      },
-      {
-        "country": "Hungary",
-        "c02": 886
-      },
-      {
-        "country": "Mongolia",
-        "c02": 1011
-      },
-      {
-        "country": "Cook Islands",
-        "c02": 217
-      },
-      {
-        "country": "Bhutan",
-        "c02": 47
-      },
-      {
-        "country": "Afghanistan",
-        "c02": 1271
-      },
-      {
-        "country": "Tokelau",
-        "c02": 671
-      },
-      {
-        "country": "Morocco",
-        "c02": 834
-      },
-      {
-        "country": "Tanzania",
-        "c02": 426
-      },
-      {
-        "country": "Cuba",
-        "c02": 1001
-      },
-      {
-        "country": "Netherlands",
-        "c02": 155
-      },
-      {
-        "country": "Jamaica",
-        "c02": 1086
-      },
-      {
-        "country": "Malaysia",
-        "c02": 1004
-      },
-      {
-        "country": "Nepal",
-        "c02": 123
-      },
-      {
-        "country": "Montserrat",
-        "c02": 1177
-      },
-      {
-        "country": "Moldova",
-        "c02": 615
-      },
-      {
-        "country": "Papua New Guinea",
-        "c02": 1074
-      },
-      {
-        "country": "Guadeloupe",
-        "c02": 32
-      },
-      {
-        "country": "Mexico",
-        "c02": 1131
-      },
-      {
-        "country": "Oman",
-        "c02": 1139
-      },
-      {
-        "country": "Haiti",
-        "c02": 1324
-      },
-      {
-        "country": "Kyrgyzstan",
-        "c02": 141
-      },
-      {
-        "country": "Anguilla",
-        "c02": 915
-      },
-      {
-        "country": "Turks and Caicos Islands",
-        "c02": 515
-      },
-      {
-        "country": "Honduras",
-        "c02": 428
-      },
-      {
-        "country": "Czech Republic",
-        "c02": 110
-      },
-      {
-        "country": "Germany",
-        "c02": 391
-      },
-      {
-        "country": "British Indian Ocean Territory",
-        "c02": 216
-      },
-      {
-        "country": "Cambodia",
-        "c02": 196
-      },
-      {
-        "country": "Somalia",
-        "c02": 863
-      },
-      {
-        "country": "Canada",
-        "c02": 1298
-      },
-      {
-        "country": "Finland",
-        "c02": 901
-      },
-      {
-        "country": "Netherlands Antilles",
-        "c02": 544
-      },
-      {
-        "country": "Ecuador",
-        "c02": 488
-      },
-      {
-        "country": "Micronesia",
-        "c02": 81
-      },
-      {
-        "country": "Italy",
-        "c02": 192
-      },
-      {
-        "country": "French Southern Territories",
-        "c02": 1018
-      },
-      {
-        "country": "Guam",
-        "c02": 970
-      }
-    ]
-  },
-  {
-    "year": 2014,
-    "data": [
-      {
-        "country": "Qatar",
-        "c02": 1158
-      },
-      {
-        "country": "Mayotte",
-        "c02": 1070
-      },
-      {
-        "country": "Switzerland",
-        "c02": 1028
-      },
-      {
-        "country": "Gibraltar",
-        "c02": 415
-      },
-      {
-        "country": "Dominican Republic",
-        "c02": 382
-      },
-      {
-        "country": "Guinea-Bissau",
-        "c02": 306
-      },
-      {
-        "country": "Iceland",
-        "c02": 846
-      },
-      {
-        "country": "Central African Republic",
-        "c02": 491
-      },
-      {
-        "country": "Nicaragua",
-        "c02": 1373
-      },
-      {
-        "country": "Malawi",
-        "c02": 851
-      },
-      {
-        "country": "Djibouti",
-        "c02": 248
-      },
-      {
-        "country": "Bangladesh",
-        "c02": 1263
-      },
-      {
-        "country": "Swaziland",
-        "c02": 325
-      },
-      {
-        "country": "United Arab Emirates",
-        "c02": 982
-      },
-      {
-        "country": "Armenia",
-        "c02": 825
-      },
-      {
-        "country": "Syria",
-        "c02": 1305
-      },
-      {
-        "country": "San Marino",
-        "c02": 649
-      },
-      {
-        "country": "Laos",
-        "c02": 212
-      },
-      {
-        "country": "Peru",
-        "c02": 1026
-      },
-      {
-        "country": "Ghana",
-        "c02": 320
-      },
-      {
-        "country": "Myanmar",
-        "c02": 787
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "c02": 1106
-      },
-      {
-        "country": "Japan",
-        "c02": 237
-      },
-      {
-        "country": "Nauru",
-        "c02": 549
-      },
-      {
-        "country": "Belarus",
-        "c02": 221
-      },
-      {
-        "country": "New Caledonia",
-        "c02": 929
-      },
-      {
-        "country": "Marshall Islands",
-        "c02": 314
-      },
-      {
-        "country": "Greece",
-        "c02": 1273
-      },
-      {
-        "country": "Singapore",
-        "c02": 583
-      },
-      {
-        "country": "Gabon",
-        "c02": 668
-      },
-      {
-        "country": "Lesotho",
-        "c02": 1019
-      },
-      {
-        "country": "Cocos (Keeling Islands)",
-        "c02": 1185
-      },
-      {
-        "country": "India",
-        "c02": 162
-      },
-      {
-        "country": "Aruba",
-        "c02": 9
-      },
-      {
-        "country": "Cayman Islands",
-        "c02": 304
-      },
-      {
-        "country": "Taiwan",
-        "c02": 149
-      },
-      {
-        "country": "Mozambique",
-        "c02": 508
-      },
-      {
-        "country": "Martinique",
-        "c02": 1368
-      },
-      {
-        "country": "Saint Lucia",
-        "c02": 1164
-      },
-      {
-        "country": "Malta",
-        "c02": 1289
-      },
-      {
-        "country": "Norfolk Island",
-        "c02": 1048
-      },
-      {
-        "country": "Zambia",
-        "c02": 296
-      },
-      {
-        "country": "Fiji",
-        "c02": 178
-      },
-      {
-        "country": "Guinea",
-        "c02": 106
-      },
-      {
-        "country": "Kazakhstan",
-        "c02": 306
-      },
-      {
-        "country": "Norway",
-        "c02": 1064
-      },
-      {
-        "country": "Liberia",
-        "c02": 947
-      },
-      {
-        "country": "France",
-        "c02": 123
-      },
-      {
-        "country": "China",
-        "c02": 945
-      },
-      {
-        "country": "Panama",
-        "c02": 848
-      },
-      {
-        "country": "Trinidad and Tobago",
-        "c02": 1285
-      },
-      {
-        "country": "Madagascar",
-        "c02": 840
-      },
-      {
-        "country": "Bermuda",
-        "c02": 1146
-      },
-      {
-        "country": "Spain",
-        "c02": 221
-      },
-      {
-        "country": "Uganda",
-        "c02": 1281
-      },
-      {
-        "country": "Liechtenstein",
-        "c02": 517
-      },
-      {
-        "country": "Denmark",
-        "c02": 1278
-      },
-      {
-        "country": "Mali",
-        "c02": 812
-      },
-      {
-        "country": "Sweden",
-        "c02": 271
-      },
-      {
-        "country": "St. Helena",
-        "c02": 1290
-      },
-      {
-        "country": "Saint Vincent and The Grenadines",
-        "c02": 795
-      },
-      {
-        "country": "Indonesia",
-        "c02": 33
-      },
-      {
-        "country": "Kuwait",
-        "c02": 261
-      },
-      {
-        "country": "Belize",
-        "c02": 938
-      },
-      {
-        "country": "Romania",
-        "c02": 652
-      },
-      {
-        "country": "Cape Verde",
-        "c02": 580
-      },
-      {
-        "country": "Suriname",
-        "c02": 1056
-      },
-      {
-        "country": "Northern Mariana Islands",
-        "c02": 114
-      },
-      {
-        "country": "Congo",
-        "c02": 1090
-      },
-      {
-        "country": "Iraq",
-        "c02": 542
-      },
-      {
-        "country": "Sri Lanka",
-        "c02": 693
-      },
-      {
-        "country": "Uzbekistan",
-        "c02": 1128
-      },
-      {
-        "country": "Costa Rica",
-        "c02": 619
-      },
-      {
-        "country": "Macau",
-        "c02": 441
-      },
-      {
-        "country": "Mauritius",
-        "c02": 1021
-      },
-      {
-        "country": "Slovak Republic",
-        "c02": 487
-      },
-      {
-        "country": "French Guiana",
-        "c02": 418
-      },
-      {
-        "country": "Seychelles",
-        "c02": 191
-      },
-      {
-        "country": "Australia",
-        "c02": 1248
-      },
-      {
-        "country": "Pitcairn",
-        "c02": 959
-      },
-      {
-        "country": "Rwanda",
-        "c02": 82
-      },
-      {
-        "country": "American Samoa",
-        "c02": 700
-      },
-      {
-        "country": "Virgin Islands (US)",
-        "c02": 1248
-      },
-      {
-        "country": "Faroe Islands",
-        "c02": 1056
-      },
-      {
-        "country": "Palau",
-        "c02": 418
-      },
-      {
-        "country": "Russian Federation",
-        "c02": 88
-      },
-      {
-        "country": "Venezuela",
-        "c02": 662
-      },
-      {
-        "country": "Georgia",
-        "c02": 237
-      },
-      {
-        "country": "Sierra Leone",
-        "c02": 81
-      },
-      {
-        "country": "Greenland",
-        "c02": 525
-      },
-      {
-        "country": "Senegal",
-        "c02": 634
-      },
-      {
-        "country": "US Minor Outlying Islands",
-        "c02": 75
-      },
-      {
-        "country": "Bouvet Island",
-        "c02": 819
-      },
-      {
-        "country": "Bahamas",
-        "c02": 1173
-      },
-      {
-        "country": "Azerbaijan",
-        "c02": 353
-      },
-      {
-        "country": "Bulgaria",
-        "c02": 646
-      },
-      {
-        "country": "Philippines",
-        "c02": 1378
-      },
-      {
-        "country": "S. Georgia and S. Sandwich Isls.",
-        "c02": 1308
-      },
-      {
-        "country": "Korea (North)",
-        "c02": 151
-      },
-      {
-        "country": "Belgium",
-        "c02": 112
-      }
-    ]
-  },
-  {
     "year": 2015,
     "data": [
       {
-        "country": "Botswana",
-        "c02": 404
+        "object": "Korea (South)",
+        "c02": 346
       },
       {
-        "country": "Mauritania",
-        "c02": 676
+        "object": "Tonga",
+        "c02": 1255
       },
       {
-        "country": "Vanuatu",
-        "c02": 381
+        "object": "France, Metropolitan",
+        "c02": 867
       },
       {
-        "country": "Latvia",
-        "c02": 802
+        "object": "Burkina Faso",
+        "c02": 20
       },
       {
-        "country": "East Timor",
-        "c02": 58
+        "object": "Comoros",
+        "c02": 164
       },
       {
-        "country": "Albania",
-        "c02": 1104
+        "object": "Sudan",
+        "c02": 97
       },
       {
-        "country": "Yemen",
-        "c02": 345
-      },
-      {
-        "country": "Tajikistan",
-        "c02": 1377
-      },
-      {
-        "country": "Ireland",
-        "c02": 1323
-      },
-      {
-        "country": "Argentina",
-        "c02": 15
-      },
-      {
-        "country": "Togo",
-        "c02": 1397
-      },
-      {
-        "country": "Vatican City State (Holy See)",
-        "c02": 773
-      },
-      {
-        "country": "Western Sahara",
-        "c02": 596
-      },
-      {
-        "country": "Eritrea",
-        "c02": 177
-      },
-      {
-        "country": "Equatorial Guinea",
-        "c02": 694
-      },
-      {
-        "country": "Zaire",
-        "c02": 293
-      },
-      {
-        "country": "Chad",
-        "c02": 230
-      },
-      {
-        "country": "Virgin Islands (British)",
-        "c02": 587
-      },
-      {
-        "country": "Saudi Arabia",
-        "c02": 187
-      },
-      {
-        "country": "Israel",
-        "c02": 1285
-      },
-      {
-        "country": "Viet Nam",
-        "c02": 566
-      },
-      {
-        "country": "Heard and McDonald Islands",
-        "c02": 653
-      },
-      {
-        "country": "Ethiopia",
-        "c02": 130
-      },
-      {
-        "country": "United States",
-        "c02": 722
-      },
-      {
-        "country": "Macedonia",
-        "c02": 661
-      },
-      {
-        "country": "Guyana",
-        "c02": 171
-      },
-      {
-        "country": "Maldives",
-        "c02": 136
-      },
-      {
-        "country": "Egypt",
-        "c02": 946
-      },
-      {
-        "country": "Angola",
-        "c02": 280
-      },
-      {
-        "country": "South Africa",
-        "c02": 587
-      },
-      {
-        "country": "Kiribati",
+        "object": "Falkland Islands (Malvinas)",
         "c02": 46
       },
       {
-        "country": "Thailand",
-        "c02": 715
+        "object": "Ukraine",
+        "c02": 1246
       },
       {
-        "country": "Uruguay",
-        "c02": 808
+        "object": "Antarctica",
+        "c02": 1343
       },
       {
-        "country": "Samoa",
-        "c02": 1367
+        "object": "Austria",
+        "c02": 917
       },
       {
-        "country": "Antigua and Barbuda",
-        "c02": 729
+        "object": "Brunei Darussalam",
+        "c02": 126
       },
       {
-        "country": "Yugoslavia",
-        "c02": 1104
+        "object": "Portugal",
+        "c02": 485
       },
       {
-        "country": "Svalbard and Jan Mayen Islands",
-        "c02": 292
-      },
-      {
-        "country": "Lithuania",
-        "c02": 1237
-      },
-      {
-        "country": "Korea (South)",
-        "c02": 315
-      },
-      {
-        "country": "Tonga",
-        "c02": 33
-      },
-      {
-        "country": "France, Metropolitan",
-        "c02": 1197
-      },
-      {
-        "country": "Burkina Faso",
-        "c02": 372
-      },
-      {
-        "country": "Comoros",
-        "c02": 141
-      },
-      {
-        "country": "Sudan",
-        "c02": 776
-      },
-      {
-        "country": "Falkland Islands (Malvinas)",
-        "c02": 561
-      },
-      {
-        "country": "Ukraine",
-        "c02": 690
-      },
-      {
-        "country": "Antarctica",
-        "c02": 1014
-      },
-      {
-        "country": "Austria",
-        "c02": 538
-      },
-      {
-        "country": "Brunei Darussalam",
-        "c02": 420
-      },
-      {
-        "country": "Portugal",
-        "c02": 1139
-      },
-      {
-        "country": "Jordan",
-        "c02": 900
-      },
-      {
-        "country": "Wallis and Futuna Islands",
-        "c02": 1028
-      },
-      {
-        "country": "Saint Kitts and Nevis",
-        "c02": 331
-      },
-      {
-        "country": "Gambia",
-        "c02": 763
-      },
-      {
-        "country": "St. Pierre and Miquelon",
-        "c02": 513
-      },
-      {
-        "country": "Kenya",
-        "c02": 567
-      },
-      {
-        "country": "Andorra",
-        "c02": 323
-      },
-      {
-        "country": "Cyprus",
-        "c02": 422
-      },
-      {
-        "country": "Libya",
-        "c02": 410
-      },
-      {
-        "country": "Colombia",
-        "c02": 1171
-      },
-      {
-        "country": "Burundi",
-        "c02": 1150
-      },
-      {
-        "country": "Slovenia",
-        "c02": 789
-      },
-      {
-        "country": "Zimbabwe",
-        "c02": 63
-      },
-      {
-        "country": "Grenada",
-        "c02": 551
-      },
-      {
-        "country": "Hong Kong",
-        "c02": 668
-      },
-      {
-        "country": "Benin",
-        "c02": 253
-      },
-      {
-        "country": "Lebanon",
-        "c02": 134
-      },
-      {
-        "country": "Sao Tome and Principe",
-        "c02": 1310
-      },
-      {
-        "country": "Monaco",
-        "c02": 112
-      },
-      {
-        "country": "Niger",
-        "c02": 261
-      },
-      {
-        "country": "Bolivia",
-        "c02": 503
-      },
-      {
-        "country": "Algeria",
+        "object": "Jordan",
         "c02": 1032
       },
       {
-        "country": "Paraguay",
-        "c02": 299
+        "object": "Wallis and Futuna Islands",
+        "c02": 372
       },
       {
-        "country": "Solomon Islands",
-        "c02": 219
+        "object": "Saint Kitts and Nevis",
+        "c02": 591
       },
       {
-        "country": "Puerto Rico",
-        "c02": 1175
+        "object": "Gambia",
+        "c02": 509
       },
       {
-        "country": "United Kingdom",
-        "c02": 251
+        "object": "St. Pierre and Miquelon",
+        "c02": 1046
       },
       {
-        "country": "Tuvalu",
-        "c02": 643
+        "object": "Kenya",
+        "c02": 1116
       },
       {
-        "country": "Turkey",
-        "c02": 1127
+        "object": "Andorra",
+        "c02": 64
       },
       {
-        "country": "French Polynesia",
-        "c02": 885
+        "object": "Cyprus",
+        "c02": 1336
       },
       {
-        "country": "Croatia (Hrvatska)",
-        "c02": 687
+        "object": "Libya",
+        "c02": 489
       },
       {
-        "country": "Poland",
-        "c02": 1161
+        "object": "Colombia",
+        "c02": 57
       },
       {
-        "country": "Cameroon",
-        "c02": 482
+        "object": "Burundi",
+        "c02": 477
       },
       {
-        "country": "Dominica",
+        "object": "Slovenia",
+        "c02": 464
+      },
+      {
+        "object": "Zimbabwe",
+        "c02": 766
+      },
+      {
+        "object": "Grenada",
+        "c02": 464
+      },
+      {
+        "object": "Hong Kong",
+        "c02": 758
+      },
+      {
+        "object": "Benin",
+        "c02": 110
+      },
+      {
+        "object": "Lebanon",
+        "c02": 1237
+      },
+      {
+        "object": "Sao Tome and Principe",
+        "c02": 693
+      },
+      {
+        "object": "Monaco",
+        "c02": 1037
+      },
+      {
+        "object": "Niger",
+        "c02": 138
+      },
+      {
+        "object": "Bolivia",
+        "c02": 1283
+      },
+      {
+        "object": "Algeria",
+        "c02": 1393
+      },
+      {
+        "object": "Paraguay",
+        "c02": 1360
+      },
+      {
+        "object": "Solomon Islands",
+        "c02": 1343
+      },
+      {
+        "object": "Puerto Rico",
+        "c02": 1075
+      },
+      {
+        "object": "United Kingdom",
+        "c02": 623
+      },
+      {
+        "object": "Tuvalu",
+        "c02": 1141
+      },
+      {
+        "object": "Turkey",
+        "c02": 736
+      },
+      {
+        "object": "French Polynesia",
+        "c02": 729
+      },
+      {
+        "object": "Croatia (Hrvatska)",
+        "c02": 1227
+      },
+      {
+        "object": "Poland",
+        "c02": 1318
+      },
+      {
+        "object": "Cameroon",
+        "c02": 536
+      },
+      {
+        "object": "Dominica",
+        "c02": 401
+      },
+      {
+        "object": "New Zealand",
+        "c02": 957
+      },
+      {
+        "object": "Nigeria",
+        "c02": 1335
+      },
+      {
+        "object": "Chile",
+        "c02": 917
+      },
+      {
+        "object": "Bahrain",
+        "c02": 216
+      },
+      {
+        "object": "Guatemala",
+        "c02": 520
+      },
+      {
+        "object": "Barbados",
         "c02": 1010
       },
       {
-        "country": "New Zealand",
-        "c02": 1396
+        "object": "Luxembourg",
+        "c02": 666
       },
       {
-        "country": "Nigeria",
-        "c02": 452
+        "object": "Turkmenistan",
+        "c02": 1302
       },
       {
-        "country": "Chile",
-        "c02": 267
+        "object": "Tunisia",
+        "c02": 168
       },
       {
-        "country": "Bahrain",
-        "c02": 1233
+        "object": "Iran",
+        "c02": 501
       },
       {
-        "country": "Guatemala",
-        "c02": 976
+        "object": "Niue",
+        "c02": 1070
       },
       {
-        "country": "Barbados",
-        "c02": 117
+        "object": "Reunion",
+        "c02": 1066
       },
       {
-        "country": "Luxembourg",
-        "c02": 178
+        "object": "Cote D'Ivoire (Ivory Coast)",
+        "c02": 468
       },
       {
-        "country": "Turkmenistan",
-        "c02": 1062
+        "object": "Estonia",
+        "c02": 189
       },
       {
-        "country": "Tunisia",
-        "c02": 529
+        "object": "El Salvador",
+        "c02": 545
       },
       {
-        "country": "Iran",
-        "c02": 874
+        "object": "Christmas Island",
+        "c02": 1263
       },
       {
-        "country": "Niue",
-        "c02": 1396
+        "object": "Brazil",
+        "c02": 414
       },
       {
-        "country": "Reunion",
-        "c02": 1202
+        "object": "Namibia",
+        "c02": 822
       },
       {
-        "country": "Cote D'Ivoire (Ivory Coast)",
-        "c02": 381
+        "object": "Hungary",
+        "c02": 886
       },
       {
-        "country": "Estonia",
-        "c02": 771
+        "object": "Mongolia",
+        "c02": 1011
       },
       {
-        "country": "El Salvador",
-        "c02": 1013
+        "object": "Cook Islands",
+        "c02": 217
       },
       {
-        "country": "Christmas Island",
-        "c02": 709
+        "object": "Bhutan",
+        "c02": 47
       },
       {
-        "country": "Brazil",
-        "c02": 1296
+        "object": "Afghanistan",
+        "c02": 1271
+      },
+      {
+        "object": "Tokelau",
+        "c02": 671
+      },
+      {
+        "object": "Morocco",
+        "c02": 834
+      },
+      {
+        "object": "Tanzania",
+        "c02": 426
+      },
+      {
+        "object": "Cuba",
+        "c02": 1001
+      },
+      {
+        "object": "Netherlands",
+        "c02": 155
+      },
+      {
+        "object": "Jamaica",
+        "c02": 1086
+      },
+      {
+        "object": "Malaysia",
+        "c02": 1004
+      },
+      {
+        "object": "Nepal",
+        "c02": 123
+      },
+      {
+        "object": "Montserrat",
+        "c02": 1177
+      },
+      {
+        "object": "Moldova",
+        "c02": 615
+      },
+      {
+        "object": "Papua New Guinea",
+        "c02": 1074
+      },
+      {
+        "object": "Guadeloupe",
+        "c02": 32
+      },
+      {
+        "object": "Mexico",
+        "c02": 1131
+      },
+      {
+        "object": "Oman",
+        "c02": 1139
+      },
+      {
+        "object": "Haiti",
+        "c02": 1324
+      },
+      {
+        "object": "Kyrgyzstan",
+        "c02": 141
+      },
+      {
+        "object": "Anguilla",
+        "c02": 915
+      },
+      {
+        "object": "Turks and Caicos Islands",
+        "c02": 515
+      },
+      {
+        "object": "Honduras",
+        "c02": 428
+      },
+      {
+        "object": "Czech Republic",
+        "c02": 110
+      },
+      {
+        "object": "Germany",
+        "c02": 391
+      },
+      {
+        "object": "British Indian Ocean Territory",
+        "c02": 216
+      },
+      {
+        "object": "Cambodia",
+        "c02": 196
+      },
+      {
+        "object": "Somalia",
+        "c02": 863
+      },
+      {
+        "object": "Canada",
+        "c02": 1298
+      },
+      {
+        "object": "Finland",
+        "c02": 901
+      },
+      {
+        "object": "Netherlands Antilles",
+        "c02": 544
+      },
+      {
+        "object": "Ecuador",
+        "c02": 488
+      },
+      {
+        "object": "Micronesia",
+        "c02": 81
+      },
+      {
+        "object": "Italy",
+        "c02": 192
+      },
+      {
+        "object": "French Southern Territories",
+        "c02": 1018
+      },
+      {
+        "object": "Guam",
+        "c02": 970
       }
     ]
   },
@@ -1218,404 +408,404 @@
     "year": 2016,
     "data": [
       {
-        "country": "Namibia",
-        "c02": 1203
+        "object": "Qatar",
+        "c02": 1158
       },
       {
-        "country": "Hungary",
-        "c02": 243
+        "object": "Mayotte",
+        "c02": 1070
       },
       {
-        "country": "Mongolia",
-        "c02": 1061
+        "object": "Switzerland",
+        "c02": 1028
       },
       {
-        "country": "Cook Islands",
-        "c02": 797
-      },
-      {
-        "country": "Bhutan",
-        "c02": 1312
-      },
-      {
-        "country": "Afghanistan",
-        "c02": 396
-      },
-      {
-        "country": "Tokelau",
-        "c02": 303
-      },
-      {
-        "country": "Morocco",
-        "c02": 612
-      },
-      {
-        "country": "Tanzania",
-        "c02": 1285
-      },
-      {
-        "country": "Cuba",
-        "c02": 332
-      },
-      {
-        "country": "Netherlands",
-        "c02": 748
-      },
-      {
-        "country": "Jamaica",
-        "c02": 148
-      },
-      {
-        "country": "Malaysia",
-        "c02": 363
-      },
-      {
-        "country": "Nepal",
-        "c02": 936
-      },
-      {
-        "country": "Montserrat",
-        "c02": 1273
-      },
-      {
-        "country": "Moldova",
-        "c02": 766
-      },
-      {
-        "country": "Papua New Guinea",
-        "c02": 1237
-      },
-      {
-        "country": "Guadeloupe",
-        "c02": 973
-      },
-      {
-        "country": "Mexico",
-        "c02": 812
-      },
-      {
-        "country": "Oman",
-        "c02": 1144
-      },
-      {
-        "country": "Haiti",
-        "c02": 508
-      },
-      {
-        "country": "Kyrgyzstan",
-        "c02": 640
-      },
-      {
-        "country": "Anguilla",
-        "c02": 1236
-      },
-      {
-        "country": "Turks and Caicos Islands",
-        "c02": 603
-      },
-      {
-        "country": "Honduras",
-        "c02": 514
-      },
-      {
-        "country": "Czech Republic",
-        "c02": 1174
-      },
-      {
-        "country": "Germany",
-        "c02": 562
-      },
-      {
-        "country": "British Indian Ocean Territory",
-        "c02": 408
-      },
-      {
-        "country": "Cambodia",
-        "c02": 1307
-      },
-      {
-        "country": "Somalia",
-        "c02": 182
-      },
-      {
-        "country": "Canada",
-        "c02": 375
-      },
-      {
-        "country": "Finland",
-        "c02": 682
-      },
-      {
-        "country": "Netherlands Antilles",
-        "c02": 1041
-      },
-      {
-        "country": "Ecuador",
-        "c02": 732
-      },
-      {
-        "country": "Micronesia",
-        "c02": 262
-      },
-      {
-        "country": "Italy",
-        "c02": 909
-      },
-      {
-        "country": "French Southern Territories",
-        "c02": 1065
-      },
-      {
-        "country": "Guam",
-        "c02": 156
-      },
-      {
-        "country": "Qatar",
-        "c02": 648
-      },
-      {
-        "country": "Mayotte",
-        "c02": 225
-      },
-      {
-        "country": "Switzerland",
-        "c02": 939
-      },
-      {
-        "country": "Gibraltar",
-        "c02": 941
-      },
-      {
-        "country": "Dominican Republic",
-        "c02": 144
-      },
-      {
-        "country": "Guinea-Bissau",
-        "c02": 460
-      },
-      {
-        "country": "Iceland",
-        "c02": 255
-      },
-      {
-        "country": "Central African Republic",
-        "c02": 1052
-      },
-      {
-        "country": "Nicaragua",
-        "c02": 1208
-      },
-      {
-        "country": "Malawi",
-        "c02": 496
-      },
-      {
-        "country": "Djibouti",
-        "c02": 137
-      },
-      {
-        "country": "Bangladesh",
-        "c02": 973
-      },
-      {
-        "country": "Swaziland",
-        "c02": 279
-      },
-      {
-        "country": "United Arab Emirates",
-        "c02": 160
-      },
-      {
-        "country": "Armenia",
-        "c02": 1232
-      },
-      {
-        "country": "Syria",
-        "c02": 536
-      },
-      {
-        "country": "San Marino",
-        "c02": 715
-      },
-      {
-        "country": "Laos",
-        "c02": 1345
-      },
-      {
-        "country": "Peru",
-        "c02": 504
-      },
-      {
-        "country": "Ghana",
-        "c02": 1277
-      },
-      {
-        "country": "Myanmar",
-        "c02": 809
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "c02": 244
-      },
-      {
-        "country": "Japan",
-        "c02": 1372
-      },
-      {
-        "country": "Nauru",
-        "c02": 855
-      },
-      {
-        "country": "Belarus",
-        "c02": 1387
-      },
-      {
-        "country": "New Caledonia",
-        "c02": 1188
-      },
-      {
-        "country": "Marshall Islands",
-        "c02": 163
-      },
-      {
-        "country": "Greece",
-        "c02": 929
-      },
-      {
-        "country": "Singapore",
-        "c02": 806
-      },
-      {
-        "country": "Gabon",
-        "c02": 97
-      },
-      {
-        "country": "Lesotho",
-        "c02": 476
-      },
-      {
-        "country": "Cocos (Keeling Islands)",
-        "c02": 259
-      },
-      {
-        "country": "India",
-        "c02": 1218
-      },
-      {
-        "country": "Aruba",
-        "c02": 1112
-      },
-      {
-        "country": "Cayman Islands",
+        "object": "Gibraltar",
         "c02": 415
       },
       {
-        "country": "Taiwan",
-        "c02": 633
+        "object": "Dominican Republic",
+        "c02": 382
       },
       {
-        "country": "Mozambique",
-        "c02": 1252
+        "object": "Guinea-Bissau",
+        "c02": 306
       },
       {
-        "country": "Martinique",
-        "c02": 538
+        "object": "Iceland",
+        "c02": 846
       },
       {
-        "country": "Saint Lucia",
-        "c02": 391
+        "object": "Central African Republic",
+        "c02": 491
       },
       {
-        "country": "Malta",
-        "c02": 1041
+        "object": "Nicaragua",
+        "c02": 1373
       },
       {
-        "country": "Norfolk Island",
-        "c02": 878
+        "object": "Malawi",
+        "c02": 851
       },
       {
-        "country": "Zambia",
-        "c02": 1371
+        "object": "Djibouti",
+        "c02": 248
       },
       {
-        "country": "Fiji",
-        "c02": 686
+        "object": "Bangladesh",
+        "c02": 1263
       },
       {
-        "country": "Guinea",
-        "c02": 461
+        "object": "Swaziland",
+        "c02": 325
       },
       {
-        "country": "Kazakhstan",
-        "c02": 1322
+        "object": "United Arab Emirates",
+        "c02": 982
       },
       {
-        "country": "Norway",
-        "c02": 138
+        "object": "Armenia",
+        "c02": 825
       },
       {
-        "country": "Liberia",
-        "c02": 1264
+        "object": "Syria",
+        "c02": 1305
       },
       {
-        "country": "France",
-        "c02": 312
+        "object": "San Marino",
+        "c02": 649
       },
       {
-        "country": "China",
-        "c02": 1280
+        "object": "Laos",
+        "c02": 212
       },
       {
-        "country": "Panama",
-        "c02": 705
+        "object": "Peru",
+        "c02": 1026
       },
       {
-        "country": "Trinidad and Tobago",
-        "c02": 1318
+        "object": "Ghana",
+        "c02": 320
       },
       {
-        "country": "Madagascar",
-        "c02": 659
+        "object": "Myanmar",
+        "c02": 787
       },
       {
-        "country": "Bermuda",
-        "c02": 420
+        "object": "Bosnia and Herzegovina",
+        "c02": 1106
       },
       {
-        "country": "Spain",
-        "c02": 767
+        "object": "Japan",
+        "c02": 237
       },
       {
-        "country": "Uganda",
-        "c02": 339
+        "object": "Nauru",
+        "c02": 549
       },
       {
-        "country": "Liechtenstein",
+        "object": "Belarus",
+        "c02": 221
+      },
+      {
+        "object": "New Caledonia",
+        "c02": 929
+      },
+      {
+        "object": "Marshall Islands",
+        "c02": 314
+      },
+      {
+        "object": "Greece",
+        "c02": 1273
+      },
+      {
+        "object": "Singapore",
+        "c02": 583
+      },
+      {
+        "object": "Gabon",
+        "c02": 668
+      },
+      {
+        "object": "Lesotho",
+        "c02": 1019
+      },
+      {
+        "object": "Cocos (Keeling Islands)",
+        "c02": 1185
+      },
+      {
+        "object": "India",
+        "c02": 162
+      },
+      {
+        "object": "Aruba",
+        "c02": 9
+      },
+      {
+        "object": "Cayman Islands",
+        "c02": 304
+      },
+      {
+        "object": "Taiwan",
+        "c02": 149
+      },
+      {
+        "object": "Mozambique",
+        "c02": 508
+      },
+      {
+        "object": "Martinique",
+        "c02": 1368
+      },
+      {
+        "object": "Saint Lucia",
+        "c02": 1164
+      },
+      {
+        "object": "Malta",
         "c02": 1289
       },
       {
-        "country": "Denmark",
-        "c02": 119
+        "object": "Norfolk Island",
+        "c02": 1048
       },
       {
-        "country": "Mali",
-        "c02": 597
+        "object": "Zambia",
+        "c02": 296
       },
       {
-        "country": "Sweden",
-        "c02": 893
+        "object": "Fiji",
+        "c02": 178
       },
       {
-        "country": "St. Helena",
-        "c02": 802
+        "object": "Guinea",
+        "c02": 106
       },
       {
-        "country": "Saint Vincent and The Grenadines",
-        "c02": 600
+        "object": "Kazakhstan",
+        "c02": 306
       },
       {
-        "country": "Indonesia",
-        "c02": 936
+        "object": "Norway",
+        "c02": 1064
+      },
+      {
+        "object": "Liberia",
+        "c02": 947
+      },
+      {
+        "object": "France",
+        "c02": 123
+      },
+      {
+        "object": "China",
+        "c02": 945
+      },
+      {
+        "object": "Panama",
+        "c02": 848
+      },
+      {
+        "object": "Trinidad and Tobago",
+        "c02": 1285
+      },
+      {
+        "object": "Madagascar",
+        "c02": 840
+      },
+      {
+        "object": "Bermuda",
+        "c02": 1146
+      },
+      {
+        "object": "Spain",
+        "c02": 221
+      },
+      {
+        "object": "Uganda",
+        "c02": 1281
+      },
+      {
+        "object": "Liechtenstein",
+        "c02": 517
+      },
+      {
+        "object": "Denmark",
+        "c02": 1278
+      },
+      {
+        "object": "Mali",
+        "c02": 812
+      },
+      {
+        "object": "Sweden",
+        "c02": 271
+      },
+      {
+        "object": "St. Helena",
+        "c02": 1290
+      },
+      {
+        "object": "Saint Vincent and The Grenadines",
+        "c02": 795
+      },
+      {
+        "object": "Indonesia",
+        "c02": 33
+      },
+      {
+        "object": "Kuwait",
+        "c02": 261
+      },
+      {
+        "object": "Belize",
+        "c02": 938
+      },
+      {
+        "object": "Romania",
+        "c02": 652
+      },
+      {
+        "object": "Cape Verde",
+        "c02": 580
+      },
+      {
+        "object": "Suriname",
+        "c02": 1056
+      },
+      {
+        "object": "Northern Mariana Islands",
+        "c02": 114
+      },
+      {
+        "object": "Congo",
+        "c02": 1090
+      },
+      {
+        "object": "Iraq",
+        "c02": 542
+      },
+      {
+        "object": "Sri Lanka",
+        "c02": 693
+      },
+      {
+        "object": "Uzbekistan",
+        "c02": 1128
+      },
+      {
+        "object": "Costa Rica",
+        "c02": 619
+      },
+      {
+        "object": "Macau",
+        "c02": 441
+      },
+      {
+        "object": "Mauritius",
+        "c02": 1021
+      },
+      {
+        "object": "Slovak Republic",
+        "c02": 487
+      },
+      {
+        "object": "French Guiana",
+        "c02": 418
+      },
+      {
+        "object": "Seychelles",
+        "c02": 191
+      },
+      {
+        "object": "Australia",
+        "c02": 1248
+      },
+      {
+        "object": "Pitcairn",
+        "c02": 959
+      },
+      {
+        "object": "Rwanda",
+        "c02": 82
+      },
+      {
+        "object": "American Samoa",
+        "c02": 700
+      },
+      {
+        "object": "Virgin Islands (US)",
+        "c02": 1248
+      },
+      {
+        "object": "Faroe Islands",
+        "c02": 1056
+      },
+      {
+        "object": "Palau",
+        "c02": 418
+      },
+      {
+        "object": "Russian Federation",
+        "c02": 88
+      },
+      {
+        "object": "Venezuela",
+        "c02": 662
+      },
+      {
+        "object": "Georgia",
+        "c02": 237
+      },
+      {
+        "object": "Sierra Leone",
+        "c02": 81
+      },
+      {
+        "object": "Greenland",
+        "c02": 525
+      },
+      {
+        "object": "Senegal",
+        "c02": 634
+      },
+      {
+        "object": "US Minor Outlying Islands",
+        "c02": 75
+      },
+      {
+        "object": "Bouvet Island",
+        "c02": 819
+      },
+      {
+        "object": "Bahamas",
+        "c02": 1173
+      },
+      {
+        "object": "Azerbaijan",
+        "c02": 353
+      },
+      {
+        "object": "Bulgaria",
+        "c02": 646
+      },
+      {
+        "object": "Philippines",
+        "c02": 1378
+      },
+      {
+        "object": "S. Georgia and S. Sandwich Isls.",
+        "c02": 1308
+      },
+      {
+        "object": "Korea (North)",
+        "c02": 151
+      },
+      {
+        "object": "Belgium",
+        "c02": 112
       }
     ]
   },
@@ -1623,404 +813,404 @@
     "year": 2017,
     "data": [
       {
-        "country": "Kuwait",
-        "c02": 194
+        "object": "Botswana",
+        "c02": 404
       },
       {
-        "country": "Belize",
-        "c02": 995
+        "object": "Mauritania",
+        "c02": 676
       },
       {
-        "country": "Romania",
-        "c02": 905
+        "object": "Vanuatu",
+        "c02": 381
       },
       {
-        "country": "Cape Verde",
-        "c02": 1053
+        "object": "Latvia",
+        "c02": 802
       },
       {
-        "country": "Suriname",
-        "c02": 1301
-      },
-      {
-        "country": "Northern Mariana Islands",
-        "c02": 846
-      },
-      {
-        "country": "Congo",
-        "c02": 963
-      },
-      {
-        "country": "Iraq",
-        "c02": 1050
-      },
-      {
-        "country": "Sri Lanka",
-        "c02": 651
-      },
-      {
-        "country": "Uzbekistan",
+        "object": "East Timor",
         "c02": 58
       },
       {
-        "country": "Costa Rica",
-        "c02": 463
+        "object": "Albania",
+        "c02": 1104
       },
       {
-        "country": "Macau",
-        "c02": 419
+        "object": "Yemen",
+        "c02": 345
       },
       {
-        "country": "Mauritius",
-        "c02": 776
-      },
-      {
-        "country": "Slovak Republic",
-        "c02": 155
-      },
-      {
-        "country": "French Guiana",
-        "c02": 927
-      },
-      {
-        "country": "Seychelles",
-        "c02": 1083
-      },
-      {
-        "country": "Australia",
-        "c02": 897
-      },
-      {
-        "country": "Pitcairn",
-        "c02": 32
-      },
-      {
-        "country": "Rwanda",
-        "c02": 1108
-      },
-      {
-        "country": "American Samoa",
-        "c02": 1114
-      },
-      {
-        "country": "Virgin Islands (US)",
-        "c02": 27
-      },
-      {
-        "country": "Faroe Islands",
-        "c02": 1107
-      },
-      {
-        "country": "Palau",
-        "c02": 1231
-      },
-      {
-        "country": "Russian Federation",
-        "c02": 704
-      },
-      {
-        "country": "Venezuela",
-        "c02": 317
-      },
-      {
-        "country": "Georgia",
-        "c02": 272
-      },
-      {
-        "country": "Sierra Leone",
-        "c02": 13
-      },
-      {
-        "country": "Greenland",
-        "c02": 98
-      },
-      {
-        "country": "Senegal",
-        "c02": 527
-      },
-      {
-        "country": "US Minor Outlying Islands",
-        "c02": 754
-      },
-      {
-        "country": "Bouvet Island",
-        "c02": 1126
-      },
-      {
-        "country": "Bahamas",
-        "c02": 387
-      },
-      {
-        "country": "Azerbaijan",
-        "c02": 1172
-      },
-      {
-        "country": "Bulgaria",
-        "c02": 679
-      },
-      {
-        "country": "Philippines",
-        "c02": 342
-      },
-      {
-        "country": "S. Georgia and S. Sandwich Isls.",
-        "c02": 617
-      },
-      {
-        "country": "Korea (North)",
-        "c02": 176
-      },
-      {
-        "country": "Belgium",
-        "c02": 619
-      },
-      {
-        "country": "Botswana",
-        "c02": 390
-      },
-      {
-        "country": "Mauritania",
-        "c02": 1236
-      },
-      {
-        "country": "Vanuatu",
-        "c02": 1085
-      },
-      {
-        "country": "Latvia",
-        "c02": 32
-      },
-      {
-        "country": "East Timor",
-        "c02": 1166
-      },
-      {
-        "country": "Albania",
-        "c02": 399
-      },
-      {
-        "country": "Yemen",
-        "c02": 91
-      },
-      {
-        "country": "Tajikistan",
-        "c02": 1128
-      },
-      {
-        "country": "Ireland",
-        "c02": 639
-      },
-      {
-        "country": "Argentina",
-        "c02": 1212
-      },
-      {
-        "country": "Togo",
-        "c02": 1276
-      },
-      {
-        "country": "Vatican City State (Holy See)",
-        "c02": 37
-      },
-      {
-        "country": "Western Sahara",
-        "c02": 359
-      },
-      {
-        "country": "Eritrea",
-        "c02": 534
-      },
-      {
-        "country": "Equatorial Guinea",
-        "c02": 618
-      },
-      {
-        "country": "Zaire",
-        "c02": 1028
-      },
-      {
-        "country": "Chad",
-        "c02": 1252
-      },
-      {
-        "country": "Virgin Islands (British)",
-        "c02": 610
-      },
-      {
-        "country": "Saudi Arabia",
-        "c02": 148
-      },
-      {
-        "country": "Israel",
-        "c02": 1389
-      },
-      {
-        "country": "Viet Nam",
-        "c02": 508
-      },
-      {
-        "country": "Heard and McDonald Islands",
-        "c02": 751
-      },
-      {
-        "country": "Ethiopia",
-        "c02": 254
-      },
-      {
-        "country": "United States",
-        "c02": 427
-      },
-      {
-        "country": "Macedonia",
-        "c02": 873
-      },
-      {
-        "country": "Guyana",
-        "c02": 1151
-      },
-      {
-        "country": "Maldives",
-        "c02": 446
-      },
-      {
-        "country": "Egypt",
-        "c02": 42
-      },
-      {
-        "country": "Angola",
-        "c02": 1047
-      },
-      {
-        "country": "South Africa",
-        "c02": 148
-      },
-      {
-        "country": "Kiribati",
-        "c02": 512
-      },
-      {
-        "country": "Thailand",
-        "c02": 305
-      },
-      {
-        "country": "Uruguay",
-        "c02": 1320
-      },
-      {
-        "country": "Samoa",
-        "c02": 635
-      },
-      {
-        "country": "Antigua and Barbuda",
-        "c02": 1325
-      },
-      {
-        "country": "Yugoslavia",
-        "c02": 109
-      },
-      {
-        "country": "Svalbard and Jan Mayen Islands",
-        "c02": 743
-      },
-      {
-        "country": "Lithuania",
-        "c02": 413
-      },
-      {
-        "country": "Korea (South)",
-        "c02": 1225
-      },
-      {
-        "country": "Tonga",
-        "c02": 1195
-      },
-      {
-        "country": "France, Metropolitan",
-        "c02": 561
-      },
-      {
-        "country": "Burkina Faso",
-        "c02": 30
-      },
-      {
-        "country": "Comoros",
-        "c02": 68
-      },
-      {
-        "country": "Sudan",
-        "c02": 832
-      },
-      {
-        "country": "Falkland Islands (Malvinas)",
-        "c02": 1192
-      },
-      {
-        "country": "Ukraine",
-        "c02": 1136
-      },
-      {
-        "country": "Antarctica",
-        "c02": 813
-      },
-      {
-        "country": "Austria",
-        "c02": 25
-      },
-      {
-        "country": "Brunei Darussalam",
-        "c02": 946
-      },
-      {
-        "country": "Portugal",
-        "c02": 1214
-      },
-      {
-        "country": "Jordan",
+        "object": "Tajikistan",
         "c02": 1377
       },
       {
-        "country": "Wallis and Futuna Islands",
-        "c02": 827
+        "object": "Ireland",
+        "c02": 1323
       },
       {
-        "country": "Saint Kitts and Nevis",
-        "c02": 686
+        "object": "Argentina",
+        "c02": 15
       },
       {
-        "country": "Gambia",
-        "c02": 139
+        "object": "Togo",
+        "c02": 1397
       },
       {
-        "country": "St. Pierre and Miquelon",
-        "c02": 38
+        "object": "Vatican City State (Holy See)",
+        "c02": 773
       },
       {
-        "country": "Kenya",
-        "c02": 652
+        "object": "Western Sahara",
+        "c02": 596
       },
       {
-        "country": "Andorra",
-        "c02": 1199
+        "object": "Eritrea",
+        "c02": 177
       },
       {
-        "country": "Cyprus",
-        "c02": 1141
+        "object": "Equatorial Guinea",
+        "c02": 694
       },
       {
-        "country": "Libya",
-        "c02": 128
+        "object": "Zaire",
+        "c02": 293
       },
       {
-        "country": "Colombia",
-        "c02": 208
+        "object": "Chad",
+        "c02": 230
       },
       {
-        "country": "Burundi",
-        "c02": 88
+        "object": "Virgin Islands (British)",
+        "c02": 587
       },
       {
-        "country": "Slovenia",
-        "c02": 981
+        "object": "Saudi Arabia",
+        "c02": 187
+      },
+      {
+        "object": "Israel",
+        "c02": 1285
+      },
+      {
+        "object": "Viet Nam",
+        "c02": 566
+      },
+      {
+        "object": "Heard and McDonald Islands",
+        "c02": 653
+      },
+      {
+        "object": "Ethiopia",
+        "c02": 130
+      },
+      {
+        "object": "United States",
+        "c02": 722
+      },
+      {
+        "object": "Macedonia",
+        "c02": 661
+      },
+      {
+        "object": "Guyana",
+        "c02": 171
+      },
+      {
+        "object": "Maldives",
+        "c02": 136
+      },
+      {
+        "object": "Egypt",
+        "c02": 946
+      },
+      {
+        "object": "Angola",
+        "c02": 280
+      },
+      {
+        "object": "South Africa",
+        "c02": 587
+      },
+      {
+        "object": "Kiribati",
+        "c02": 46
+      },
+      {
+        "object": "Thailand",
+        "c02": 715
+      },
+      {
+        "object": "Uruguay",
+        "c02": 808
+      },
+      {
+        "object": "Samoa",
+        "c02": 1367
+      },
+      {
+        "object": "Antigua and Barbuda",
+        "c02": 729
+      },
+      {
+        "object": "Yugoslavia",
+        "c02": 1104
+      },
+      {
+        "object": "Svalbard and Jan Mayen Islands",
+        "c02": 292
+      },
+      {
+        "object": "Lithuania",
+        "c02": 1237
+      },
+      {
+        "object": "Korea (South)",
+        "c02": 315
+      },
+      {
+        "object": "Tonga",
+        "c02": 33
+      },
+      {
+        "object": "France, Metropolitan",
+        "c02": 1197
+      },
+      {
+        "object": "Burkina Faso",
+        "c02": 372
+      },
+      {
+        "object": "Comoros",
+        "c02": 141
+      },
+      {
+        "object": "Sudan",
+        "c02": 776
+      },
+      {
+        "object": "Falkland Islands (Malvinas)",
+        "c02": 561
+      },
+      {
+        "object": "Ukraine",
+        "c02": 690
+      },
+      {
+        "object": "Antarctica",
+        "c02": 1014
+      },
+      {
+        "object": "Austria",
+        "c02": 538
+      },
+      {
+        "object": "Brunei Darussalam",
+        "c02": 420
+      },
+      {
+        "object": "Portugal",
+        "c02": 1139
+      },
+      {
+        "object": "Jordan",
+        "c02": 900
+      },
+      {
+        "object": "Wallis and Futuna Islands",
+        "c02": 1028
+      },
+      {
+        "object": "Saint Kitts and Nevis",
+        "c02": 331
+      },
+      {
+        "object": "Gambia",
+        "c02": 763
+      },
+      {
+        "object": "St. Pierre and Miquelon",
+        "c02": 513
+      },
+      {
+        "object": "Kenya",
+        "c02": 567
+      },
+      {
+        "object": "Andorra",
+        "c02": 323
+      },
+      {
+        "object": "Cyprus",
+        "c02": 422
+      },
+      {
+        "object": "Libya",
+        "c02": 410
+      },
+      {
+        "object": "Colombia",
+        "c02": 1171
+      },
+      {
+        "object": "Burundi",
+        "c02": 1150
+      },
+      {
+        "object": "Slovenia",
+        "c02": 789
+      },
+      {
+        "object": "Zimbabwe",
+        "c02": 63
+      },
+      {
+        "object": "Grenada",
+        "c02": 551
+      },
+      {
+        "object": "Hong Kong",
+        "c02": 668
+      },
+      {
+        "object": "Benin",
+        "c02": 253
+      },
+      {
+        "object": "Lebanon",
+        "c02": 134
+      },
+      {
+        "object": "Sao Tome and Principe",
+        "c02": 1310
+      },
+      {
+        "object": "Monaco",
+        "c02": 112
+      },
+      {
+        "object": "Niger",
+        "c02": 261
+      },
+      {
+        "object": "Bolivia",
+        "c02": 503
+      },
+      {
+        "object": "Algeria",
+        "c02": 1032
+      },
+      {
+        "object": "Paraguay",
+        "c02": 299
+      },
+      {
+        "object": "Solomon Islands",
+        "c02": 219
+      },
+      {
+        "object": "Puerto Rico",
+        "c02": 1175
+      },
+      {
+        "object": "United Kingdom",
+        "c02": 251
+      },
+      {
+        "object": "Tuvalu",
+        "c02": 643
+      },
+      {
+        "object": "Turkey",
+        "c02": 1127
+      },
+      {
+        "object": "French Polynesia",
+        "c02": 885
+      },
+      {
+        "object": "Croatia (Hrvatska)",
+        "c02": 687
+      },
+      {
+        "object": "Poland",
+        "c02": 1161
+      },
+      {
+        "object": "Cameroon",
+        "c02": 482
+      },
+      {
+        "object": "Dominica",
+        "c02": 1010
+      },
+      {
+        "object": "New Zealand",
+        "c02": 1396
+      },
+      {
+        "object": "Nigeria",
+        "c02": 452
+      },
+      {
+        "object": "Chile",
+        "c02": 267
+      },
+      {
+        "object": "Bahrain",
+        "c02": 1233
+      },
+      {
+        "object": "Guatemala",
+        "c02": 976
+      },
+      {
+        "object": "Barbados",
+        "c02": 117
+      },
+      {
+        "object": "Luxembourg",
+        "c02": 178
+      },
+      {
+        "object": "Turkmenistan",
+        "c02": 1062
+      },
+      {
+        "object": "Tunisia",
+        "c02": 529
+      },
+      {
+        "object": "Iran",
+        "c02": 874
+      },
+      {
+        "object": "Niue",
+        "c02": 1396
+      },
+      {
+        "object": "Reunion",
+        "c02": 1202
+      },
+      {
+        "object": "Cote D'Ivoire (Ivory Coast)",
+        "c02": 381
+      },
+      {
+        "object": "Estonia",
+        "c02": 771
+      },
+      {
+        "object": "El Salvador",
+        "c02": 1013
+      },
+      {
+        "object": "Christmas Island",
+        "c02": 709
+      },
+      {
+        "object": "Brazil",
+        "c02": 1296
       }
     ]
   },
@@ -2028,404 +1218,404 @@
     "year": 2018,
     "data": [
       {
-        "country": "Zimbabwe",
-        "c02": 81
+        "object": "Namibia",
+        "c02": 1203
       },
       {
-        "country": "Grenada",
-        "c02": 258
+        "object": "Hungary",
+        "c02": 243
       },
       {
-        "country": "Hong Kong",
-        "c02": 433
+        "object": "Mongolia",
+        "c02": 1061
       },
       {
-        "country": "Benin",
-        "c02": 583
+        "object": "Cook Islands",
+        "c02": 797
       },
       {
-        "country": "Lebanon",
-        "c02": 113
+        "object": "Bhutan",
+        "c02": 1312
       },
       {
-        "country": "Sao Tome and Principe",
-        "c02": 928
+        "object": "Afghanistan",
+        "c02": 396
       },
       {
-        "country": "Monaco",
-        "c02": 1352
+        "object": "Tokelau",
+        "c02": 303
       },
       {
-        "country": "Niger",
-        "c02": 1219
+        "object": "Morocco",
+        "c02": 612
       },
       {
-        "country": "Bolivia",
-        "c02": 97
+        "object": "Tanzania",
+        "c02": 1285
       },
       {
-        "country": "Algeria",
-        "c02": 282
+        "object": "Cuba",
+        "c02": 332
       },
       {
-        "country": "Paraguay",
-        "c02": 335
+        "object": "Netherlands",
+        "c02": 748
       },
       {
-        "country": "Solomon Islands",
-        "c02": 174
+        "object": "Jamaica",
+        "c02": 148
       },
       {
-        "country": "Puerto Rico",
-        "c02": 888
+        "object": "Malaysia",
+        "c02": 363
       },
       {
-        "country": "United Kingdom",
-        "c02": 1358
+        "object": "Nepal",
+        "c02": 936
       },
       {
-        "country": "Tuvalu",
-        "c02": 957
+        "object": "Montserrat",
+        "c02": 1273
       },
       {
-        "country": "Turkey",
-        "c02": 379
+        "object": "Moldova",
+        "c02": 766
       },
       {
-        "country": "French Polynesia",
-        "c02": 660
+        "object": "Papua New Guinea",
+        "c02": 1237
       },
       {
-        "country": "Croatia (Hrvatska)",
-        "c02": 79
+        "object": "Guadeloupe",
+        "c02": 973
       },
       {
-        "country": "Poland",
-        "c02": 451
+        "object": "Mexico",
+        "c02": 812
       },
       {
-        "country": "Cameroon",
-        "c02": 328
+        "object": "Oman",
+        "c02": 1144
       },
       {
-        "country": "Dominica",
-        "c02": 642
+        "object": "Haiti",
+        "c02": 508
       },
       {
-        "country": "New Zealand",
-        "c02": 597
+        "object": "Kyrgyzstan",
+        "c02": 640
       },
       {
-        "country": "Nigeria",
-        "c02": 388
+        "object": "Anguilla",
+        "c02": 1236
       },
       {
-        "country": "Chile",
-        "c02": 763
+        "object": "Turks and Caicos Islands",
+        "c02": 603
       },
       {
-        "country": "Bahrain",
-        "c02": 1002
+        "object": "Honduras",
+        "c02": 514
       },
       {
-        "country": "Guatemala",
-        "c02": 1276
+        "object": "Czech Republic",
+        "c02": 1174
       },
       {
-        "country": "Barbados",
-        "c02": 1384
+        "object": "Germany",
+        "c02": 562
       },
       {
-        "country": "Luxembourg",
-        "c02": 546
+        "object": "British Indian Ocean Territory",
+        "c02": 408
       },
       {
-        "country": "Turkmenistan",
-        "c02": 768
+        "object": "Cambodia",
+        "c02": 1307
       },
       {
-        "country": "Tunisia",
-        "c02": 1335
+        "object": "Somalia",
+        "c02": 182
       },
       {
-        "country": "Iran",
-        "c02": 1002
+        "object": "Canada",
+        "c02": 375
       },
       {
-        "country": "Niue",
-        "c02": 1007
+        "object": "Finland",
+        "c02": 682
       },
       {
-        "country": "Reunion",
-        "c02": 471
+        "object": "Netherlands Antilles",
+        "c02": 1041
       },
       {
-        "country": "Cote D'Ivoire (Ivory Coast)",
-        "c02": 517
+        "object": "Ecuador",
+        "c02": 732
       },
       {
-        "country": "Estonia",
-        "c02": 52
+        "object": "Micronesia",
+        "c02": 262
       },
       {
-        "country": "El Salvador",
-        "c02": 1227
+        "object": "Italy",
+        "c02": 909
       },
       {
-        "country": "Christmas Island",
-        "c02": 177
+        "object": "French Southern Territories",
+        "c02": 1065
       },
       {
-        "country": "Brazil",
-        "c02": 694
+        "object": "Guam",
+        "c02": 156
       },
       {
-        "country": "Namibia",
-        "c02": 7
-      },
-      {
-        "country": "Hungary",
-        "c02": 608
-      },
-      {
-        "country": "Mongolia",
-        "c02": 1120
-      },
-      {
-        "country": "Cook Islands",
-        "c02": 1349
-      },
-      {
-        "country": "Bhutan",
-        "c02": 76
-      },
-      {
-        "country": "Afghanistan",
-        "c02": 1304
-      },
-      {
-        "country": "Tokelau",
-        "c02": 1197
-      },
-      {
-        "country": "Morocco",
-        "c02": 1025
-      },
-      {
-        "country": "Tanzania",
+        "object": "Qatar",
         "c02": 648
       },
       {
-        "country": "Cuba",
-        "c02": 232
+        "object": "Mayotte",
+        "c02": 225
       },
       {
-        "country": "Netherlands",
-        "c02": 1274
+        "object": "Switzerland",
+        "c02": 939
       },
       {
-        "country": "Jamaica",
-        "c02": 616
+        "object": "Gibraltar",
+        "c02": 941
       },
       {
-        "country": "Malaysia",
-        "c02": 1141
+        "object": "Dominican Republic",
+        "c02": 144
       },
       {
-        "country": "Nepal",
-        "c02": 1384
+        "object": "Guinea-Bissau",
+        "c02": 460
       },
       {
-        "country": "Montserrat",
-        "c02": 1088
+        "object": "Iceland",
+        "c02": 255
       },
       {
-        "country": "Moldova",
-        "c02": 131
+        "object": "Central African Republic",
+        "c02": 1052
       },
       {
-        "country": "Papua New Guinea",
-        "c02": 1126
+        "object": "Nicaragua",
+        "c02": 1208
       },
       {
-        "country": "Guadeloupe",
-        "c02": 1076
+        "object": "Malawi",
+        "c02": 496
       },
       {
-        "country": "Mexico",
-        "c02": 23
+        "object": "Djibouti",
+        "c02": 137
       },
       {
-        "country": "Oman",
-        "c02": 994
+        "object": "Bangladesh",
+        "c02": 973
       },
       {
-        "country": "Haiti",
-        "c02": 714
+        "object": "Swaziland",
+        "c02": 279
       },
       {
-        "country": "Kyrgyzstan",
-        "c02": 1358
+        "object": "United Arab Emirates",
+        "c02": 160
       },
       {
-        "country": "Anguilla",
-        "c02": 258
+        "object": "Armenia",
+        "c02": 1232
       },
       {
-        "country": "Turks and Caicos Islands",
-        "c02": 904
+        "object": "Syria",
+        "c02": 536
       },
       {
-        "country": "Honduras",
-        "c02": 1109
+        "object": "San Marino",
+        "c02": 715
       },
       {
-        "country": "Czech Republic",
-        "c02": 475
+        "object": "Laos",
+        "c02": 1345
       },
       {
-        "country": "Germany",
-        "c02": 1211
+        "object": "Peru",
+        "c02": 504
       },
       {
-        "country": "British Indian Ocean Territory",
-        "c02": 987
+        "object": "Ghana",
+        "c02": 1277
       },
       {
-        "country": "Cambodia",
-        "c02": 1148
+        "object": "Myanmar",
+        "c02": 809
       },
       {
-        "country": "Somalia",
-        "c02": 1217
+        "object": "Bosnia and Herzegovina",
+        "c02": 244
       },
       {
-        "country": "Canada",
-        "c02": 534
+        "object": "Japan",
+        "c02": 1372
       },
       {
-        "country": "Finland",
-        "c02": 616
+        "object": "Nauru",
+        "c02": 855
       },
       {
-        "country": "Netherlands Antilles",
-        "c02": 1209
+        "object": "Belarus",
+        "c02": 1387
       },
       {
-        "country": "Ecuador",
-        "c02": 801
+        "object": "New Caledonia",
+        "c02": 1188
       },
       {
-        "country": "Micronesia",
-        "c02": 884
+        "object": "Marshall Islands",
+        "c02": 163
       },
       {
-        "country": "Italy",
-        "c02": 1045
+        "object": "Greece",
+        "c02": 929
       },
       {
-        "country": "French Southern Territories",
-        "c02": 1111
+        "object": "Singapore",
+        "c02": 806
       },
       {
-        "country": "Guam",
-        "c02": 473
+        "object": "Gabon",
+        "c02": 97
       },
       {
-        "country": "Qatar",
-        "c02": 631
+        "object": "Lesotho",
+        "c02": 476
       },
       {
-        "country": "Mayotte",
-        "c02": 960
+        "object": "Cocos (Keeling Islands)",
+        "c02": 259
       },
       {
-        "country": "Switzerland",
-        "c02": 1190
+        "object": "India",
+        "c02": 1218
       },
       {
-        "country": "Gibraltar",
-        "c02": 333
+        "object": "Aruba",
+        "c02": 1112
       },
       {
-        "country": "Dominican Republic",
-        "c02": 442
+        "object": "Cayman Islands",
+        "c02": 415
       },
       {
-        "country": "Guinea-Bissau",
-        "c02": 410
+        "object": "Taiwan",
+        "c02": 633
       },
       {
-        "country": "Iceland",
-        "c02": 668
+        "object": "Mozambique",
+        "c02": 1252
       },
       {
-        "country": "Central African Republic",
-        "c02": 1185
+        "object": "Martinique",
+        "c02": 538
       },
       {
-        "country": "Nicaragua",
-        "c02": 533
+        "object": "Saint Lucia",
+        "c02": 391
       },
       {
-        "country": "Malawi",
-        "c02": 120
+        "object": "Malta",
+        "c02": 1041
       },
       {
-        "country": "Djibouti",
+        "object": "Norfolk Island",
+        "c02": 878
+      },
+      {
+        "object": "Zambia",
+        "c02": 1371
+      },
+      {
+        "object": "Fiji",
+        "c02": 686
+      },
+      {
+        "object": "Guinea",
+        "c02": 461
+      },
+      {
+        "object": "Kazakhstan",
+        "c02": 1322
+      },
+      {
+        "object": "Norway",
+        "c02": 138
+      },
+      {
+        "object": "Liberia",
         "c02": 1264
       },
       {
-        "country": "Bangladesh",
-        "c02": 691
+        "object": "France",
+        "c02": 312
       },
       {
-        "country": "Swaziland",
-        "c02": 167
+        "object": "China",
+        "c02": 1280
       },
       {
-        "country": "United Arab Emirates",
-        "c02": 165
+        "object": "Panama",
+        "c02": 705
       },
       {
-        "country": "Armenia",
-        "c02": 1265
+        "object": "Trinidad and Tobago",
+        "c02": 1318
       },
       {
-        "country": "Syria",
-        "c02": 1210
+        "object": "Madagascar",
+        "c02": 659
       },
       {
-        "country": "San Marino",
-        "c02": 1067
+        "object": "Bermuda",
+        "c02": 420
       },
       {
-        "country": "Laos",
-        "c02": 198
+        "object": "Spain",
+        "c02": 767
       },
       {
-        "country": "Peru",
-        "c02": 1058
+        "object": "Uganda",
+        "c02": 339
       },
       {
-        "country": "Ghana",
-        "c02": 852
+        "object": "Liechtenstein",
+        "c02": 1289
       },
       {
-        "country": "Myanmar",
-        "c02": 953
+        "object": "Denmark",
+        "c02": 119
       },
       {
-        "country": "Bosnia and Herzegovina",
-        "c02": 341
+        "object": "Mali",
+        "c02": 597
       },
       {
-        "country": "Japan",
-        "c02": 193
+        "object": "Sweden",
+        "c02": 893
       },
       {
-        "country": "Nauru",
-        "c02": 223
+        "object": "St. Helena",
+        "c02": 802
+      },
+      {
+        "object": "Saint Vincent and The Grenadines",
+        "c02": 600
+      },
+      {
+        "object": "Indonesia",
+        "c02": 936
       }
     ]
   },
@@ -2433,404 +1623,404 @@
     "year": 2019,
     "data": [
       {
-        "country": "Belarus",
-        "c02": 1359
+        "object": "Kuwait",
+        "c02": 194
       },
       {
-        "country": "New Caledonia",
-        "c02": 582
+        "object": "Belize",
+        "c02": 995
       },
       {
-        "country": "Marshall Islands",
-        "c02": 813
+        "object": "Romania",
+        "c02": 905
       },
       {
-        "country": "Greece",
-        "c02": 723
+        "object": "Cape Verde",
+        "c02": 1053
       },
       {
-        "country": "Singapore",
-        "c02": 692
+        "object": "Suriname",
+        "c02": 1301
       },
       {
-        "country": "Gabon",
-        "c02": 425
+        "object": "Northern Mariana Islands",
+        "c02": 846
       },
       {
-        "country": "Lesotho",
-        "c02": 439
+        "object": "Congo",
+        "c02": 963
       },
       {
-        "country": "Cocos (Keeling Islands)",
-        "c02": 673
+        "object": "Iraq",
+        "c02": 1050
       },
       {
-        "country": "India",
+        "object": "Sri Lanka",
+        "c02": 651
+      },
+      {
+        "object": "Uzbekistan",
+        "c02": 58
+      },
+      {
+        "object": "Costa Rica",
         "c02": 463
       },
       {
-        "country": "Aruba",
-        "c02": 1171
-      },
-      {
-        "country": "Cayman Islands",
-        "c02": 110
-      },
-      {
-        "country": "Taiwan",
-        "c02": 687
-      },
-      {
-        "country": "Mozambique",
-        "c02": 854
-      },
-      {
-        "country": "Martinique",
-        "c02": 1253
-      },
-      {
-        "country": "Saint Lucia",
-        "c02": 704
-      },
-      {
-        "country": "Malta",
-        "c02": 775
-      },
-      {
-        "country": "Norfolk Island",
-        "c02": 330
-      },
-      {
-        "country": "Zambia",
-        "c02": 1114
-      },
-      {
-        "country": "Fiji",
-        "c02": 1373
-      },
-      {
-        "country": "Guinea",
-        "c02": 1080
-      },
-      {
-        "country": "Kazakhstan",
-        "c02": 743
-      },
-      {
-        "country": "Norway",
-        "c02": 1025
-      },
-      {
-        "country": "Liberia",
-        "c02": 1036
-      },
-      {
-        "country": "France",
-        "c02": 184
-      },
-      {
-        "country": "China",
-        "c02": 1156
-      },
-      {
-        "country": "Panama",
-        "c02": 31
-      },
-      {
-        "country": "Trinidad and Tobago",
-        "c02": 185
-      },
-      {
-        "country": "Madagascar",
-        "c02": 1178
-      },
-      {
-        "country": "Bermuda",
-        "c02": 530
-      },
-      {
-        "country": "Spain",
-        "c02": 174
-      },
-      {
-        "country": "Uganda",
-        "c02": 618
-      },
-      {
-        "country": "Liechtenstein",
-        "c02": 196
-      },
-      {
-        "country": "Denmark",
-        "c02": 934
-      },
-      {
-        "country": "Mali",
-        "c02": 358
-      },
-      {
-        "country": "Sweden",
-        "c02": 39
-      },
-      {
-        "country": "St. Helena",
-        "c02": 486
-      },
-      {
-        "country": "Saint Vincent and The Grenadines",
-        "c02": 743
-      },
-      {
-        "country": "Indonesia",
-        "c02": 1305
-      },
-      {
-        "country": "Kuwait",
-        "c02": 758
-      },
-      {
-        "country": "Belize",
-        "c02": 286
-      },
-      {
-        "country": "Romania",
-        "c02": 1014
-      },
-      {
-        "country": "Cape Verde",
-        "c02": 964
-      },
-      {
-        "country": "Suriname",
-        "c02": 584
-      },
-      {
-        "country": "Northern Mariana Islands",
-        "c02": 628
-      },
-      {
-        "country": "Congo",
-        "c02": 909
-      },
-      {
-        "country": "Iraq",
-        "c02": 1277
-      },
-      {
-        "country": "Sri Lanka",
-        "c02": 801
-      },
-      {
-        "country": "Uzbekistan",
-        "c02": 918
-      },
-      {
-        "country": "Costa Rica",
-        "c02": 1120
-      },
-      {
-        "country": "Macau",
-        "c02": 741
-      },
-      {
-        "country": "Mauritius",
-        "c02": 292
-      },
-      {
-        "country": "Slovak Republic",
-        "c02": 589
-      },
-      {
-        "country": "French Guiana",
-        "c02": 1338
-      },
-      {
-        "country": "Seychelles",
-        "c02": 370
-      },
-      {
-        "country": "Australia",
-        "c02": 420
-      },
-      {
-        "country": "Pitcairn",
-        "c02": 1245
-      },
-      {
-        "country": "Rwanda",
-        "c02": 800
-      },
-      {
-        "country": "American Samoa",
-        "c02": 401
-      },
-      {
-        "country": "Virgin Islands (US)",
-        "c02": 398
-      },
-      {
-        "country": "Faroe Islands",
-        "c02": 781
-      },
-      {
-        "country": "Palau",
-        "c02": 197
-      },
-      {
-        "country": "Russian Federation",
-        "c02": 613
-      },
-      {
-        "country": "Venezuela",
-        "c02": 752
-      },
-      {
-        "country": "Georgia",
-        "c02": 749
-      },
-      {
-        "country": "Sierra Leone",
-        "c02": 1035
-      },
-      {
-        "country": "Greenland",
-        "c02": 561
-      },
-      {
-        "country": "Senegal",
-        "c02": 33
-      },
-      {
-        "country": "US Minor Outlying Islands",
-        "c02": 1287
-      },
-      {
-        "country": "Bouvet Island",
-        "c02": 909
-      },
-      {
-        "country": "Bahamas",
-        "c02": 997
-      },
-      {
-        "country": "Azerbaijan",
-        "c02": 692
-      },
-      {
-        "country": "Bulgaria",
-        "c02": 713
-      },
-      {
-        "country": "Philippines",
-        "c02": 709
-      },
-      {
-        "country": "S. Georgia and S. Sandwich Isls.",
-        "c02": 837
-      },
-      {
-        "country": "Korea (North)",
-        "c02": 689
-      },
-      {
-        "country": "Belgium",
-        "c02": 1156
-      },
-      {
-        "country": "Botswana",
-        "c02": 1303
-      },
-      {
-        "country": "Mauritania",
+        "object": "Macau",
         "c02": 419
       },
       {
-        "country": "Vanuatu",
-        "c02": 758
+        "object": "Mauritius",
+        "c02": 776
       },
       {
-        "country": "Latvia",
-        "c02": 1255
+        "object": "Slovak Republic",
+        "c02": 155
       },
       {
-        "country": "East Timor",
-        "c02": 1180
+        "object": "French Guiana",
+        "c02": 927
       },
       {
-        "country": "Albania",
-        "c02": 1311
+        "object": "Seychelles",
+        "c02": 1083
       },
       {
-        "country": "Yemen",
-        "c02": 1176
+        "object": "Australia",
+        "c02": 897
       },
       {
-        "country": "Tajikistan",
-        "c02": 921
+        "object": "Pitcairn",
+        "c02": 32
       },
       {
-        "country": "Ireland",
-        "c02": 189
+        "object": "Rwanda",
+        "c02": 1108
       },
       {
-        "country": "Argentina",
-        "c02": 1334
+        "object": "American Samoa",
+        "c02": 1114
       },
       {
-        "country": "Togo",
-        "c02": 336
+        "object": "Virgin Islands (US)",
+        "c02": 27
       },
       {
-        "country": "Vatican City State (Holy See)",
+        "object": "Faroe Islands",
+        "c02": 1107
+      },
+      {
+        "object": "Palau",
+        "c02": 1231
+      },
+      {
+        "object": "Russian Federation",
+        "c02": 704
+      },
+      {
+        "object": "Venezuela",
+        "c02": 317
+      },
+      {
+        "object": "Georgia",
+        "c02": 272
+      },
+      {
+        "object": "Sierra Leone",
+        "c02": 13
+      },
+      {
+        "object": "Greenland",
+        "c02": 98
+      },
+      {
+        "object": "Senegal",
+        "c02": 527
+      },
+      {
+        "object": "US Minor Outlying Islands",
+        "c02": 754
+      },
+      {
+        "object": "Bouvet Island",
+        "c02": 1126
+      },
+      {
+        "object": "Bahamas",
+        "c02": 387
+      },
+      {
+        "object": "Azerbaijan",
+        "c02": 1172
+      },
+      {
+        "object": "Bulgaria",
+        "c02": 679
+      },
+      {
+        "object": "Philippines",
+        "c02": 342
+      },
+      {
+        "object": "S. Georgia and S. Sandwich Isls.",
+        "c02": 617
+      },
+      {
+        "object": "Korea (North)",
+        "c02": 176
+      },
+      {
+        "object": "Belgium",
+        "c02": 619
+      },
+      {
+        "object": "Botswana",
+        "c02": 390
+      },
+      {
+        "object": "Mauritania",
+        "c02": 1236
+      },
+      {
+        "object": "Vanuatu",
+        "c02": 1085
+      },
+      {
+        "object": "Latvia",
+        "c02": 32
+      },
+      {
+        "object": "East Timor",
+        "c02": 1166
+      },
+      {
+        "object": "Albania",
+        "c02": 399
+      },
+      {
+        "object": "Yemen",
+        "c02": 91
+      },
+      {
+        "object": "Tajikistan",
+        "c02": 1128
+      },
+      {
+        "object": "Ireland",
+        "c02": 639
+      },
+      {
+        "object": "Argentina",
+        "c02": 1212
+      },
+      {
+        "object": "Togo",
+        "c02": 1276
+      },
+      {
+        "object": "Vatican City State (Holy See)",
+        "c02": 37
+      },
+      {
+        "object": "Western Sahara",
+        "c02": 359
+      },
+      {
+        "object": "Eritrea",
+        "c02": 534
+      },
+      {
+        "object": "Equatorial Guinea",
+        "c02": 618
+      },
+      {
+        "object": "Zaire",
+        "c02": 1028
+      },
+      {
+        "object": "Chad",
+        "c02": 1252
+      },
+      {
+        "object": "Virgin Islands (British)",
+        "c02": 610
+      },
+      {
+        "object": "Saudi Arabia",
+        "c02": 148
+      },
+      {
+        "object": "Israel",
+        "c02": 1389
+      },
+      {
+        "object": "Viet Nam",
+        "c02": 508
+      },
+      {
+        "object": "Heard and McDonald Islands",
+        "c02": 751
+      },
+      {
+        "object": "Ethiopia",
+        "c02": 254
+      },
+      {
+        "object": "United States",
+        "c02": 427
+      },
+      {
+        "object": "Macedonia",
+        "c02": 873
+      },
+      {
+        "object": "Guyana",
+        "c02": 1151
+      },
+      {
+        "object": "Maldives",
+        "c02": 446
+      },
+      {
+        "object": "Egypt",
+        "c02": 42
+      },
+      {
+        "object": "Angola",
+        "c02": 1047
+      },
+      {
+        "object": "South Africa",
+        "c02": 148
+      },
+      {
+        "object": "Kiribati",
+        "c02": 512
+      },
+      {
+        "object": "Thailand",
+        "c02": 305
+      },
+      {
+        "object": "Uruguay",
+        "c02": 1320
+      },
+      {
+        "object": "Samoa",
+        "c02": 635
+      },
+      {
+        "object": "Antigua and Barbuda",
+        "c02": 1325
+      },
+      {
+        "object": "Yugoslavia",
+        "c02": 109
+      },
+      {
+        "object": "Svalbard and Jan Mayen Islands",
+        "c02": 743
+      },
+      {
+        "object": "Lithuania",
+        "c02": 413
+      },
+      {
+        "object": "Korea (South)",
+        "c02": 1225
+      },
+      {
+        "object": "Tonga",
+        "c02": 1195
+      },
+      {
+        "object": "France, Metropolitan",
+        "c02": 561
+      },
+      {
+        "object": "Burkina Faso",
+        "c02": 30
+      },
+      {
+        "object": "Comoros",
+        "c02": 68
+      },
+      {
+        "object": "Sudan",
+        "c02": 832
+      },
+      {
+        "object": "Falkland Islands (Malvinas)",
+        "c02": 1192
+      },
+      {
+        "object": "Ukraine",
+        "c02": 1136
+      },
+      {
+        "object": "Antarctica",
+        "c02": 813
+      },
+      {
+        "object": "Austria",
         "c02": 25
       },
       {
-        "country": "Western Sahara",
-        "c02": 246
+        "object": "Brunei Darussalam",
+        "c02": 946
       },
       {
-        "country": "Eritrea",
-        "c02": 365
+        "object": "Portugal",
+        "c02": 1214
       },
       {
-        "country": "Equatorial Guinea",
-        "c02": 1181
+        "object": "Jordan",
+        "c02": 1377
       },
       {
-        "country": "Zaire",
-        "c02": 411
+        "object": "Wallis and Futuna Islands",
+        "c02": 827
       },
       {
-        "country": "Chad",
-        "c02": 150
+        "object": "Saint Kitts and Nevis",
+        "c02": 686
       },
       {
-        "country": "Virgin Islands (British)",
-        "c02": 886
+        "object": "Gambia",
+        "c02": 139
       },
       {
-        "country": "Saudi Arabia",
-        "c02": 1243
+        "object": "St. Pierre and Miquelon",
+        "c02": 38
       },
       {
-        "country": "Israel",
-        "c02": 335
+        "object": "Kenya",
+        "c02": 652
       },
       {
-        "country": "Viet Nam",
-        "c02": 782
+        "object": "Andorra",
+        "c02": 1199
       },
       {
-        "country": "Heard and McDonald Islands",
-        "c02": 649
+        "object": "Cyprus",
+        "c02": 1141
       },
       {
-        "country": "Ethiopia",
-        "c02": 1057
+        "object": "Libya",
+        "c02": 128
       },
       {
-        "country": "United States",
-        "c02": 512
+        "object": "Colombia",
+        "c02": 208
+      },
+      {
+        "object": "Burundi",
+        "c02": 88
+      },
+      {
+        "object": "Slovenia",
+        "c02": 981
       }
     ]
   },
@@ -2838,404 +2028,404 @@
     "year": 2020,
     "data": [
       {
-        "country": "Macedonia",
-        "c02": 1157
+        "object": "Zimbabwe",
+        "c02": 81
       },
       {
-        "country": "Guyana",
-        "c02": 928
-      },
-      {
-        "country": "Maldives",
-        "c02": 610
-      },
-      {
-        "country": "Egypt",
-        "c02": 576
-      },
-      {
-        "country": "Angola",
-        "c02": 524
-      },
-      {
-        "country": "South Africa",
-        "c02": 1256
-      },
-      {
-        "country": "Kiribati",
-        "c02": 564
-      },
-      {
-        "country": "Thailand",
-        "c02": 1072
-      },
-      {
-        "country": "Uruguay",
-        "c02": 1049
-      },
-      {
-        "country": "Samoa",
-        "c02": 583
-      },
-      {
-        "country": "Antigua and Barbuda",
-        "c02": 1286
-      },
-      {
-        "country": "Yugoslavia",
-        "c02": 856
-      },
-      {
-        "country": "Svalbard and Jan Mayen Islands",
-        "c02": 1279
-      },
-      {
-        "country": "Lithuania",
-        "c02": 224
-      },
-      {
-        "country": "Korea (South)",
-        "c02": 363
-      },
-      {
-        "country": "Tonga",
-        "c02": 36
-      },
-      {
-        "country": "France, Metropolitan",
-        "c02": 199
-      },
-      {
-        "country": "Burkina Faso",
-        "c02": 566
-      },
-      {
-        "country": "Comoros",
-        "c02": 1305
-      },
-      {
-        "country": "Sudan",
-        "c02": 1299
-      },
-      {
-        "country": "Falkland Islands (Malvinas)",
-        "c02": 1287
-      },
-      {
-        "country": "Ukraine",
-        "c02": 1310
-      },
-      {
-        "country": "Antarctica",
-        "c02": 622
-      },
-      {
-        "country": "Austria",
-        "c02": 1204
-      },
-      {
-        "country": "Brunei Darussalam",
-        "c02": 687
-      },
-      {
-        "country": "Portugal",
-        "c02": 26
-      },
-      {
-        "country": "Jordan",
-        "c02": 752
-      },
-      {
-        "country": "Wallis and Futuna Islands",
-        "c02": 708
-      },
-      {
-        "country": "Saint Kitts and Nevis",
-        "c02": 366
-      },
-      {
-        "country": "Gambia",
-        "c02": 455
-      },
-      {
-        "country": "St. Pierre and Miquelon",
-        "c02": 650
-      },
-      {
-        "country": "Kenya",
-        "c02": 477
-      },
-      {
-        "country": "Andorra",
-        "c02": 68
-      },
-      {
-        "country": "Cyprus",
-        "c02": 563
-      },
-      {
-        "country": "Libya",
-        "c02": 182
-      },
-      {
-        "country": "Colombia",
-        "c02": 132
-      },
-      {
-        "country": "Burundi",
-        "c02": 252
-      },
-      {
-        "country": "Slovenia",
-        "c02": 195
-      },
-      {
-        "country": "Zimbabwe",
-        "c02": 29
-      },
-      {
-        "country": "Grenada",
-        "c02": 425
-      },
-      {
-        "country": "Hong Kong",
-        "c02": 540
-      },
-      {
-        "country": "Benin",
-        "c02": 1372
-      },
-      {
-        "country": "Lebanon",
-        "c02": 1133
-      },
-      {
-        "country": "Sao Tome and Principe",
-        "c02": 1277
-      },
-      {
-        "country": "Monaco",
-        "c02": 118
-      },
-      {
-        "country": "Niger",
-        "c02": 322
-      },
-      {
-        "country": "Bolivia",
-        "c02": 280
-      },
-      {
-        "country": "Algeria",
-        "c02": 1335
-      },
-      {
-        "country": "Paraguay",
-        "c02": 1341
-      },
-      {
-        "country": "Solomon Islands",
-        "c02": 1242
-      },
-      {
-        "country": "Puerto Rico",
-        "c02": 743
-      },
-      {
-        "country": "United Kingdom",
-        "c02": 188
-      },
-      {
-        "country": "Tuvalu",
-        "c02": 548
-      },
-      {
-        "country": "Turkey",
-        "c02": 425
-      },
-      {
-        "country": "French Polynesia",
-        "c02": 826
-      },
-      {
-        "country": "Croatia (Hrvatska)",
-        "c02": 89
-      },
-      {
-        "country": "Poland",
-        "c02": 238
-      },
-      {
-        "country": "Cameroon",
+        "object": "Grenada",
         "c02": 258
       },
       {
-        "country": "Dominica",
-        "c02": 423
+        "object": "Hong Kong",
+        "c02": 433
       },
       {
-        "country": "New Zealand",
-        "c02": 111
+        "object": "Benin",
+        "c02": 583
       },
       {
-        "country": "Nigeria",
-        "c02": 206
+        "object": "Lebanon",
+        "c02": 113
       },
       {
-        "country": "Chile",
-        "c02": 1002
+        "object": "Sao Tome and Principe",
+        "c02": 928
       },
       {
-        "country": "Bahrain",
-        "c02": 544
+        "object": "Monaco",
+        "c02": 1352
       },
       {
-        "country": "Guatemala",
-        "c02": 206
+        "object": "Niger",
+        "c02": 1219
       },
       {
-        "country": "Barbados",
-        "c02": 1260
+        "object": "Bolivia",
+        "c02": 97
       },
       {
-        "country": "Luxembourg",
-        "c02": 570
-      },
-      {
-        "country": "Turkmenistan",
-        "c02": 398
-      },
-      {
-        "country": "Tunisia",
-        "c02": 452
-      },
-      {
-        "country": "Iran",
-        "c02": 23
-      },
-      {
-        "country": "Niue",
-        "c02": 549
-      },
-      {
-        "country": "Reunion",
-        "c02": 608
-      },
-      {
-        "country": "Cote D'Ivoire (Ivory Coast)",
-        "c02": 1214
-      },
-      {
-        "country": "Estonia",
-        "c02": 1087
-      },
-      {
-        "country": "El Salvador",
-        "c02": 442
-      },
-      {
-        "country": "Christmas Island",
-        "c02": 1012
-      },
-      {
-        "country": "Brazil",
-        "c02": 690
-      },
-      {
-        "country": "Namibia",
-        "c02": 861
-      },
-      {
-        "country": "Hungary",
+        "object": "Algeria",
         "c02": 282
       },
       {
-        "country": "Mongolia",
-        "c02": 812
+        "object": "Paraguay",
+        "c02": 335
       },
       {
-        "country": "Cook Islands",
-        "c02": 1324
+        "object": "Solomon Islands",
+        "c02": 174
       },
       {
-        "country": "Bhutan",
-        "c02": 1393
+        "object": "Puerto Rico",
+        "c02": 888
       },
       {
-        "country": "Afghanistan",
-        "c02": 611
+        "object": "United Kingdom",
+        "c02": 1358
       },
       {
-        "country": "Tokelau",
-        "c02": 847
+        "object": "Tuvalu",
+        "c02": 957
       },
       {
-        "country": "Morocco",
-        "c02": 1241
+        "object": "Turkey",
+        "c02": 379
       },
       {
-        "country": "Tanzania",
+        "object": "French Polynesia",
+        "c02": 660
+      },
+      {
+        "object": "Croatia (Hrvatska)",
+        "c02": 79
+      },
+      {
+        "object": "Poland",
+        "c02": 451
+      },
+      {
+        "object": "Cameroon",
+        "c02": 328
+      },
+      {
+        "object": "Dominica",
+        "c02": 642
+      },
+      {
+        "object": "New Zealand",
+        "c02": 597
+      },
+      {
+        "object": "Nigeria",
+        "c02": 388
+      },
+      {
+        "object": "Chile",
+        "c02": 763
+      },
+      {
+        "object": "Bahrain",
+        "c02": 1002
+      },
+      {
+        "object": "Guatemala",
+        "c02": 1276
+      },
+      {
+        "object": "Barbados",
+        "c02": 1384
+      },
+      {
+        "object": "Luxembourg",
+        "c02": 546
+      },
+      {
+        "object": "Turkmenistan",
+        "c02": 768
+      },
+      {
+        "object": "Tunisia",
+        "c02": 1335
+      },
+      {
+        "object": "Iran",
+        "c02": 1002
+      },
+      {
+        "object": "Niue",
+        "c02": 1007
+      },
+      {
+        "object": "Reunion",
+        "c02": 471
+      },
+      {
+        "object": "Cote D'Ivoire (Ivory Coast)",
+        "c02": 517
+      },
+      {
+        "object": "Estonia",
+        "c02": 52
+      },
+      {
+        "object": "El Salvador",
+        "c02": 1227
+      },
+      {
+        "object": "Christmas Island",
+        "c02": 177
+      },
+      {
+        "object": "Brazil",
+        "c02": 694
+      },
+      {
+        "object": "Namibia",
+        "c02": 7
+      },
+      {
+        "object": "Hungary",
+        "c02": 608
+      },
+      {
+        "object": "Mongolia",
+        "c02": 1120
+      },
+      {
+        "object": "Cook Islands",
+        "c02": 1349
+      },
+      {
+        "object": "Bhutan",
+        "c02": 76
+      },
+      {
+        "object": "Afghanistan",
+        "c02": 1304
+      },
+      {
+        "object": "Tokelau",
+        "c02": 1197
+      },
+      {
+        "object": "Morocco",
+        "c02": 1025
+      },
+      {
+        "object": "Tanzania",
+        "c02": 648
+      },
+      {
+        "object": "Cuba",
+        "c02": 232
+      },
+      {
+        "object": "Netherlands",
+        "c02": 1274
+      },
+      {
+        "object": "Jamaica",
+        "c02": 616
+      },
+      {
+        "object": "Malaysia",
+        "c02": 1141
+      },
+      {
+        "object": "Nepal",
+        "c02": 1384
+      },
+      {
+        "object": "Montserrat",
+        "c02": 1088
+      },
+      {
+        "object": "Moldova",
+        "c02": 131
+      },
+      {
+        "object": "Papua New Guinea",
+        "c02": 1126
+      },
+      {
+        "object": "Guadeloupe",
+        "c02": 1076
+      },
+      {
+        "object": "Mexico",
+        "c02": 23
+      },
+      {
+        "object": "Oman",
+        "c02": 994
+      },
+      {
+        "object": "Haiti",
+        "c02": 714
+      },
+      {
+        "object": "Kyrgyzstan",
+        "c02": 1358
+      },
+      {
+        "object": "Anguilla",
+        "c02": 258
+      },
+      {
+        "object": "Turks and Caicos Islands",
+        "c02": 904
+      },
+      {
+        "object": "Honduras",
+        "c02": 1109
+      },
+      {
+        "object": "Czech Republic",
+        "c02": 475
+      },
+      {
+        "object": "Germany",
+        "c02": 1211
+      },
+      {
+        "object": "British Indian Ocean Territory",
+        "c02": 987
+      },
+      {
+        "object": "Cambodia",
+        "c02": 1148
+      },
+      {
+        "object": "Somalia",
+        "c02": 1217
+      },
+      {
+        "object": "Canada",
         "c02": 534
       },
       {
-        "country": "Cuba",
-        "c02": 1273
+        "object": "Finland",
+        "c02": 616
       },
       {
-        "country": "Netherlands",
-        "c02": 1083
-      },
-      {
-        "country": "Jamaica",
-        "c02": 456
-      },
-      {
-        "country": "Malaysia",
-        "c02": 246
-      },
-      {
-        "country": "Nepal",
-        "c02": 1017
-      },
-      {
-        "country": "Montserrat",
-        "c02": 1116
-      },
-      {
-        "country": "Moldova",
-        "c02": 834
-      },
-      {
-        "country": "Papua New Guinea",
-        "c02": 970
-      },
-      {
-        "country": "Guadeloupe",
-        "c02": 1115
-      },
-      {
-        "country": "Mexico",
-        "c02": 1053
-      },
-      {
-        "country": "Oman",
+        "object": "Netherlands Antilles",
         "c02": 1209
       },
       {
-        "country": "Haiti",
-        "c02": 513
+        "object": "Ecuador",
+        "c02": 801
       },
       {
-        "country": "Kyrgyzstan",
-        "c02": 220
+        "object": "Micronesia",
+        "c02": 884
       },
       {
-        "country": "Anguilla",
-        "c02": 382
+        "object": "Italy",
+        "c02": 1045
       },
       {
-        "country": "Turks and Caicos Islands",
-        "c02": 525
+        "object": "French Southern Territories",
+        "c02": 1111
+      },
+      {
+        "object": "Guam",
+        "c02": 473
+      },
+      {
+        "object": "Qatar",
+        "c02": 631
+      },
+      {
+        "object": "Mayotte",
+        "c02": 960
+      },
+      {
+        "object": "Switzerland",
+        "c02": 1190
+      },
+      {
+        "object": "Gibraltar",
+        "c02": 333
+      },
+      {
+        "object": "Dominican Republic",
+        "c02": 442
+      },
+      {
+        "object": "Guinea-Bissau",
+        "c02": 410
+      },
+      {
+        "object": "Iceland",
+        "c02": 668
+      },
+      {
+        "object": "Central African Republic",
+        "c02": 1185
+      },
+      {
+        "object": "Nicaragua",
+        "c02": 533
+      },
+      {
+        "object": "Malawi",
+        "c02": 120
+      },
+      {
+        "object": "Djibouti",
+        "c02": 1264
+      },
+      {
+        "object": "Bangladesh",
+        "c02": 691
+      },
+      {
+        "object": "Swaziland",
+        "c02": 167
+      },
+      {
+        "object": "United Arab Emirates",
+        "c02": 165
+      },
+      {
+        "object": "Armenia",
+        "c02": 1265
+      },
+      {
+        "object": "Syria",
+        "c02": 1210
+      },
+      {
+        "object": "San Marino",
+        "c02": 1067
+      },
+      {
+        "object": "Laos",
+        "c02": 198
+      },
+      {
+        "object": "Peru",
+        "c02": 1058
+      },
+      {
+        "object": "Ghana",
+        "c02": 852
+      },
+      {
+        "object": "Myanmar",
+        "c02": 953
+      },
+      {
+        "object": "Bosnia and Herzegovina",
+        "c02": 341
+      },
+      {
+        "object": "Japan",
+        "c02": 193
+      },
+      {
+        "object": "Nauru",
+        "c02": 223
       }
     ]
   },
@@ -3243,404 +2433,404 @@
     "year": 2021,
     "data": [
       {
-        "country": "Honduras",
-        "c02": 52
+        "object": "Belarus",
+        "c02": 1359
       },
       {
-        "country": "Czech Republic",
-        "c02": 881
+        "object": "New Caledonia",
+        "c02": 582
       },
       {
-        "country": "Germany",
-        "c02": 683
+        "object": "Marshall Islands",
+        "c02": 813
       },
       {
-        "country": "British Indian Ocean Territory",
-        "c02": 638
+        "object": "Greece",
+        "c02": 723
       },
       {
-        "country": "Cambodia",
-        "c02": 278
+        "object": "Singapore",
+        "c02": 692
       },
       {
-        "country": "Somalia",
-        "c02": 914
+        "object": "Gabon",
+        "c02": 425
       },
       {
-        "country": "Canada",
-        "c02": 1010
+        "object": "Lesotho",
+        "c02": 439
       },
       {
-        "country": "Finland",
-        "c02": 362
+        "object": "Cocos (Keeling Islands)",
+        "c02": 673
       },
       {
-        "country": "Netherlands Antilles",
-        "c02": 77
+        "object": "India",
+        "c02": 463
       },
       {
-        "country": "Ecuador",
-        "c02": 435
+        "object": "Aruba",
+        "c02": 1171
       },
       {
-        "country": "Micronesia",
-        "c02": 59
+        "object": "Cayman Islands",
+        "c02": 110
       },
       {
-        "country": "Italy",
-        "c02": 678
+        "object": "Taiwan",
+        "c02": 687
       },
       {
-        "country": "French Southern Territories",
-        "c02": 1397
+        "object": "Mozambique",
+        "c02": 854
       },
       {
-        "country": "Guam",
-        "c02": 1241
+        "object": "Martinique",
+        "c02": 1253
       },
       {
-        "country": "Qatar",
-        "c02": 1226
+        "object": "Saint Lucia",
+        "c02": 704
       },
       {
-        "country": "Mayotte",
+        "object": "Malta",
+        "c02": 775
+      },
+      {
+        "object": "Norfolk Island",
+        "c02": 330
+      },
+      {
+        "object": "Zambia",
+        "c02": 1114
+      },
+      {
+        "object": "Fiji",
+        "c02": 1373
+      },
+      {
+        "object": "Guinea",
+        "c02": 1080
+      },
+      {
+        "object": "Kazakhstan",
+        "c02": 743
+      },
+      {
+        "object": "Norway",
+        "c02": 1025
+      },
+      {
+        "object": "Liberia",
+        "c02": 1036
+      },
+      {
+        "object": "France",
+        "c02": 184
+      },
+      {
+        "object": "China",
+        "c02": 1156
+      },
+      {
+        "object": "Panama",
+        "c02": 31
+      },
+      {
+        "object": "Trinidad and Tobago",
+        "c02": 185
+      },
+      {
+        "object": "Madagascar",
         "c02": 1178
       },
       {
-        "country": "Switzerland",
-        "c02": 267
+        "object": "Bermuda",
+        "c02": 530
       },
       {
-        "country": "Gibraltar",
-        "c02": 870
+        "object": "Spain",
+        "c02": 174
       },
       {
-        "country": "Dominican Republic",
-        "c02": 1009
+        "object": "Uganda",
+        "c02": 618
       },
       {
-        "country": "Guinea-Bissau",
-        "c02": 1235
+        "object": "Liechtenstein",
+        "c02": 196
       },
       {
-        "country": "Iceland",
-        "c02": 635
+        "object": "Denmark",
+        "c02": 934
       },
       {
-        "country": "Central African Republic",
-        "c02": 1104
+        "object": "Mali",
+        "c02": 358
       },
       {
-        "country": "Nicaragua",
-        "c02": 95
+        "object": "Sweden",
+        "c02": 39
       },
       {
-        "country": "Malawi",
-        "c02": 1351
+        "object": "St. Helena",
+        "c02": 486
       },
       {
-        "country": "Djibouti",
-        "c02": 489
+        "object": "Saint Vincent and The Grenadines",
+        "c02": 743
       },
       {
-        "country": "Bangladesh",
-        "c02": 1208
+        "object": "Indonesia",
+        "c02": 1305
       },
       {
-        "country": "Swaziland",
-        "c02": 119
+        "object": "Kuwait",
+        "c02": 758
       },
       {
-        "country": "United Arab Emirates",
-        "c02": 1104
+        "object": "Belize",
+        "c02": 286
       },
       {
-        "country": "Armenia",
-        "c02": 434
+        "object": "Romania",
+        "c02": 1014
       },
       {
-        "country": "Syria",
-        "c02": 214
+        "object": "Cape Verde",
+        "c02": 964
       },
       {
-        "country": "San Marino",
-        "c02": 1279
+        "object": "Suriname",
+        "c02": 584
       },
       {
-        "country": "Laos",
-        "c02": 319
+        "object": "Northern Mariana Islands",
+        "c02": 628
       },
       {
-        "country": "Peru",
-        "c02": 695
-      },
-      {
-        "country": "Ghana",
-        "c02": 217
-      },
-      {
-        "country": "Myanmar",
-        "c02": 303
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "c02": 78
-      },
-      {
-        "country": "Japan",
-        "c02": 887
-      },
-      {
-        "country": "Nauru",
-        "c02": 1016
-      },
-      {
-        "country": "Belarus",
-        "c02": 678
-      },
-      {
-        "country": "New Caledonia",
-        "c02": 570
-      },
-      {
-        "country": "Marshall Islands",
-        "c02": 1119
-      },
-      {
-        "country": "Greece",
-        "c02": 900
-      },
-      {
-        "country": "Singapore",
-        "c02": 529
-      },
-      {
-        "country": "Gabon",
-        "c02": 153
-      },
-      {
-        "country": "Lesotho",
-        "c02": 1136
-      },
-      {
-        "country": "Cocos (Keeling Islands)",
-        "c02": 983
-      },
-      {
-        "country": "India",
-        "c02": 1066
-      },
-      {
-        "country": "Aruba",
-        "c02": 764
-      },
-      {
-        "country": "Cayman Islands",
-        "c02": 343
-      },
-      {
-        "country": "Taiwan",
-        "c02": 418
-      },
-      {
-        "country": "Mozambique",
-        "c02": 912
-      },
-      {
-        "country": "Martinique",
-        "c02": 579
-      },
-      {
-        "country": "Saint Lucia",
-        "c02": 120
-      },
-      {
-        "country": "Malta",
-        "c02": 606
-      },
-      {
-        "country": "Norfolk Island",
-        "c02": 1191
-      },
-      {
-        "country": "Zambia",
+        "object": "Congo",
         "c02": 909
       },
       {
-        "country": "Fiji",
-        "c02": 755
+        "object": "Iraq",
+        "c02": 1277
       },
       {
-        "country": "Guinea",
-        "c02": 666
+        "object": "Sri Lanka",
+        "c02": 801
       },
       {
-        "country": "Kazakhstan",
-        "c02": 564
+        "object": "Uzbekistan",
+        "c02": 918
       },
       {
-        "country": "Norway",
-        "c02": 453
+        "object": "Costa Rica",
+        "c02": 1120
       },
       {
-        "country": "Liberia",
-        "c02": 203
+        "object": "Macau",
+        "c02": 741
       },
       {
-        "country": "France",
-        "c02": 939
+        "object": "Mauritius",
+        "c02": 292
       },
       {
-        "country": "China",
+        "object": "Slovak Republic",
+        "c02": 589
+      },
+      {
+        "object": "French Guiana",
+        "c02": 1338
+      },
+      {
+        "object": "Seychelles",
+        "c02": 370
+      },
+      {
+        "object": "Australia",
+        "c02": 420
+      },
+      {
+        "object": "Pitcairn",
+        "c02": 1245
+      },
+      {
+        "object": "Rwanda",
+        "c02": 800
+      },
+      {
+        "object": "American Samoa",
+        "c02": 401
+      },
+      {
+        "object": "Virgin Islands (US)",
+        "c02": 398
+      },
+      {
+        "object": "Faroe Islands",
+        "c02": 781
+      },
+      {
+        "object": "Palau",
+        "c02": 197
+      },
+      {
+        "object": "Russian Federation",
+        "c02": 613
+      },
+      {
+        "object": "Venezuela",
+        "c02": 752
+      },
+      {
+        "object": "Georgia",
+        "c02": 749
+      },
+      {
+        "object": "Sierra Leone",
+        "c02": 1035
+      },
+      {
+        "object": "Greenland",
+        "c02": 561
+      },
+      {
+        "object": "Senegal",
+        "c02": 33
+      },
+      {
+        "object": "US Minor Outlying Islands",
+        "c02": 1287
+      },
+      {
+        "object": "Bouvet Island",
+        "c02": 909
+      },
+      {
+        "object": "Bahamas",
+        "c02": 997
+      },
+      {
+        "object": "Azerbaijan",
+        "c02": 692
+      },
+      {
+        "object": "Bulgaria",
+        "c02": 713
+      },
+      {
+        "object": "Philippines",
+        "c02": 709
+      },
+      {
+        "object": "S. Georgia and S. Sandwich Isls.",
+        "c02": 837
+      },
+      {
+        "object": "Korea (North)",
+        "c02": 689
+      },
+      {
+        "object": "Belgium",
+        "c02": 1156
+      },
+      {
+        "object": "Botswana",
+        "c02": 1303
+      },
+      {
+        "object": "Mauritania",
+        "c02": 419
+      },
+      {
+        "object": "Vanuatu",
+        "c02": 758
+      },
+      {
+        "object": "Latvia",
+        "c02": 1255
+      },
+      {
+        "object": "East Timor",
+        "c02": 1180
+      },
+      {
+        "object": "Albania",
+        "c02": 1311
+      },
+      {
+        "object": "Yemen",
+        "c02": 1176
+      },
+      {
+        "object": "Tajikistan",
+        "c02": 921
+      },
+      {
+        "object": "Ireland",
+        "c02": 189
+      },
+      {
+        "object": "Argentina",
+        "c02": 1334
+      },
+      {
+        "object": "Togo",
+        "c02": 336
+      },
+      {
+        "object": "Vatican City State (Holy See)",
+        "c02": 25
+      },
+      {
+        "object": "Western Sahara",
+        "c02": 246
+      },
+      {
+        "object": "Eritrea",
+        "c02": 365
+      },
+      {
+        "object": "Equatorial Guinea",
+        "c02": 1181
+      },
+      {
+        "object": "Zaire",
+        "c02": 411
+      },
+      {
+        "object": "Chad",
         "c02": 150
       },
       {
-        "country": "Panama",
-        "c02": 771
+        "object": "Virgin Islands (British)",
+        "c02": 886
       },
       {
-        "country": "Trinidad and Tobago",
-        "c02": 665
+        "object": "Saudi Arabia",
+        "c02": 1243
       },
       {
-        "country": "Madagascar",
-        "c02": 155
+        "object": "Israel",
+        "c02": 335
       },
       {
-        "country": "Bermuda",
-        "c02": 617
+        "object": "Viet Nam",
+        "c02": 782
       },
       {
-        "country": "Spain",
-        "c02": 12
+        "object": "Heard and McDonald Islands",
+        "c02": 649
       },
       {
-        "country": "Uganda",
-        "c02": 44
+        "object": "Ethiopia",
+        "c02": 1057
       },
       {
-        "country": "Liechtenstein",
-        "c02": 1027
-      },
-      {
-        "country": "Denmark",
-        "c02": 996
-      },
-      {
-        "country": "Mali",
-        "c02": 562
-      },
-      {
-        "country": "Sweden",
-        "c02": 509
-      },
-      {
-        "country": "St. Helena",
-        "c02": 445
-      },
-      {
-        "country": "Saint Vincent and The Grenadines",
-        "c02": 387
-      },
-      {
-        "country": "Indonesia",
-        "c02": 1094
-      },
-      {
-        "country": "Kuwait",
-        "c02": 667
-      },
-      {
-        "country": "Belize",
-        "c02": 166
-      },
-      {
-        "country": "Romania",
-        "c02": 1257
-      },
-      {
-        "country": "Cape Verde",
-        "c02": 721
-      },
-      {
-        "country": "Suriname",
-        "c02": 459
-      },
-      {
-        "country": "Northern Mariana Islands",
-        "c02": 1318
-      },
-      {
-        "country": "Congo",
-        "c02": 1399
-      },
-      {
-        "country": "Iraq",
-        "c02": 805
-      },
-      {
-        "country": "Sri Lanka",
-        "c02": 668
-      },
-      {
-        "country": "Uzbekistan",
-        "c02": 133
-      },
-      {
-        "country": "Costa Rica",
-        "c02": 1129
-      },
-      {
-        "country": "Macau",
-        "c02": 527
-      },
-      {
-        "country": "Mauritius",
-        "c02": 809
-      },
-      {
-        "country": "Slovak Republic",
-        "c02": 368
-      },
-      {
-        "country": "French Guiana",
-        "c02": 106
-      },
-      {
-        "country": "Seychelles",
-        "c02": 663
-      },
-      {
-        "country": "Australia",
-        "c02": 152
-      },
-      {
-        "country": "Pitcairn",
-        "c02": 266
-      },
-      {
-        "country": "Rwanda",
-        "c02": 1266
-      },
-      {
-        "country": "American Samoa",
-        "c02": 366
-      },
-      {
-        "country": "Virgin Islands (US)",
-        "c02": 847
-      },
-      {
-        "country": "Faroe Islands",
-        "c02": 177
-      },
-      {
-        "country": "Palau",
-        "c02": 127
-      },
-      {
-        "country": "Russian Federation",
-        "c02": 78
+        "object": "United States",
+        "c02": 512
       }
     ]
   },
@@ -3648,403 +2838,1213 @@
     "year": 2022,
     "data": [
       {
-        "country": "Venezuela",
-        "c02": 886
+        "object": "Macedonia",
+        "c02": 1157
       },
       {
-        "country": "Georgia",
-        "c02": 1101
+        "object": "Guyana",
+        "c02": 928
       },
       {
-        "country": "Sierra Leone",
-        "c02": 1349
+        "object": "Maldives",
+        "c02": 610
       },
       {
-        "country": "Greenland",
-        "c02": 513
+        "object": "Egypt",
+        "c02": 576
       },
       {
-        "country": "Senegal",
-        "c02": 858
+        "object": "Angola",
+        "c02": 524
       },
       {
-        "country": "US Minor Outlying Islands",
-        "c02": 377
+        "object": "South Africa",
+        "c02": 1256
       },
       {
-        "country": "Bouvet Island",
-        "c02": 547
+        "object": "Kiribati",
+        "c02": 564
       },
       {
-        "country": "Bahamas",
-        "c02": 600
+        "object": "Thailand",
+        "c02": 1072
       },
       {
-        "country": "Azerbaijan",
-        "c02": 647
+        "object": "Uruguay",
+        "c02": 1049
       },
       {
-        "country": "Bulgaria",
-        "c02": 1319
+        "object": "Samoa",
+        "c02": 583
       },
       {
-        "country": "Philippines",
-        "c02": 825
+        "object": "Antigua and Barbuda",
+        "c02": 1286
       },
       {
-        "country": "S. Georgia and S. Sandwich Isls.",
-        "c02": 984
+        "object": "Yugoslavia",
+        "c02": 856
       },
       {
-        "country": "Korea (North)",
-        "c02": 985
+        "object": "Svalbard and Jan Mayen Islands",
+        "c02": 1279
       },
       {
-        "country": "Belgium",
-        "c02": 10
+        "object": "Lithuania",
+        "c02": 224
       },
       {
-        "country": "Botswana",
-        "c02": 721
+        "object": "Korea (South)",
+        "c02": 363
       },
       {
-        "country": "Mauritania",
-        "c02": 542
+        "object": "Tonga",
+        "c02": 36
       },
       {
-        "country": "Vanuatu",
-        "c02": 671
+        "object": "France, Metropolitan",
+        "c02": 199
       },
       {
-        "country": "Latvia",
-        "c02": 257
+        "object": "Burkina Faso",
+        "c02": 566
       },
       {
-        "country": "East Timor",
-        "c02": 1152
+        "object": "Comoros",
+        "c02": 1305
       },
       {
-        "country": "Albania",
-        "c02": 1080
+        "object": "Sudan",
+        "c02": 1299
       },
       {
-        "country": "Yemen",
-        "c02": 720
+        "object": "Falkland Islands (Malvinas)",
+        "c02": 1287
       },
       {
-        "country": "Tajikistan",
-        "c02": 1082
+        "object": "Ukraine",
+        "c02": 1310
       },
       {
-        "country": "Ireland",
-        "c02": 1252
+        "object": "Antarctica",
+        "c02": 622
       },
       {
-        "country": "Argentina",
-        "c02": 1162
+        "object": "Austria",
+        "c02": 1204
       },
       {
-        "country": "Togo",
-        "c02": 51
+        "object": "Brunei Darussalam",
+        "c02": 687
       },
       {
-        "country": "Vatican City State (Holy See)",
-        "c02": 846
+        "object": "Portugal",
+        "c02": 26
       },
       {
-        "country": "Western Sahara",
-        "c02": 1216
+        "object": "Jordan",
+        "c02": 752
       },
       {
-        "country": "Eritrea",
-        "c02": 559
+        "object": "Wallis and Futuna Islands",
+        "c02": 708
       },
       {
-        "country": "Equatorial Guinea",
-        "c02": 336
+        "object": "Saint Kitts and Nevis",
+        "c02": 366
       },
       {
-        "country": "Zaire",
-        "c02": 1396
+        "object": "Gambia",
+        "c02": 455
       },
       {
-        "country": "Chad",
-        "c02": 470
+        "object": "St. Pierre and Miquelon",
+        "c02": 650
       },
       {
-        "country": "Virgin Islands (British)",
-        "c02": 200
+        "object": "Kenya",
+        "c02": 477
       },
       {
-        "country": "Saudi Arabia",
-        "c02": 320
+        "object": "Andorra",
+        "c02": 68
       },
       {
-        "country": "Israel",
-        "c02": 196
+        "object": "Cyprus",
+        "c02": 563
       },
       {
-        "country": "Viet Nam",
-        "c02": 806
+        "object": "Libya",
+        "c02": 182
       },
       {
-        "country": "Heard and McDonald Islands",
-        "c02": 751
+        "object": "Colombia",
+        "c02": 132
       },
       {
-        "country": "Ethiopia",
-        "c02": 305
+        "object": "Burundi",
+        "c02": 252
       },
       {
-        "country": "United States",
-        "c02": 760
+        "object": "Slovenia",
+        "c02": 195
       },
       {
-        "country": "Macedonia",
-        "c02": 868
+        "object": "Zimbabwe",
+        "c02": 29
       },
       {
-        "country": "Guyana",
-        "c02": 1352
+        "object": "Grenada",
+        "c02": 425
       },
       {
-        "country": "Maldives",
-        "c02": 1179
+        "object": "Hong Kong",
+        "c02": 540
       },
       {
-        "country": "Egypt",
-        "c02": 1301
+        "object": "Benin",
+        "c02": 1372
       },
       {
-        "country": "Angola",
-        "c02": 1164
+        "object": "Lebanon",
+        "c02": 1133
       },
       {
-        "country": "South Africa",
-        "c02": 1371
+        "object": "Sao Tome and Principe",
+        "c02": 1277
       },
       {
-        "country": "Kiribati",
-        "c02": 450
+        "object": "Monaco",
+        "c02": 118
       },
       {
-        "country": "Thailand",
-        "c02": 544
+        "object": "Niger",
+        "c02": 322
       },
       {
-        "country": "Uruguay",
-        "c02": 1348
+        "object": "Bolivia",
+        "c02": 280
       },
       {
-        "country": "Samoa",
-        "c02": 762
-      },
-      {
-        "country": "Antigua and Barbuda",
-        "c02": 908
-      },
-      {
-        "country": "Yugoslavia",
-        "c02": 808
-      },
-      {
-        "country": "Svalbard and Jan Mayen Islands",
-        "c02": 1038
-      },
-      {
-        "country": "Lithuania",
-        "c02": 250
-      },
-      {
-        "country": "Korea (South)",
-        "c02": 107
-      },
-      {
-        "country": "Tonga",
-        "c02": 323
-      },
-      {
-        "country": "France, Metropolitan",
-        "c02": 308
-      },
-      {
-        "country": "Burkina Faso",
-        "c02": 953
-      },
-      {
-        "country": "Comoros",
-        "c02": 685
-      },
-      {
-        "country": "Sudan",
-        "c02": 680
-      },
-      {
-        "country": "Falkland Islands (Malvinas)",
-        "c02": 1010
-      },
-      {
-        "country": "Ukraine",
-        "c02": 648
-      },
-      {
-        "country": "Antarctica",
-        "c02": 575
-      },
-      {
-        "country": "Austria",
-        "c02": 952
-      },
-      {
-        "country": "Brunei Darussalam",
-        "c02": 435
-      },
-      {
-        "country": "Portugal",
-        "c02": 1273
-      },
-      {
-        "country": "Jordan",
+        "object": "Algeria",
         "c02": 1335
       },
       {
-        "country": "Wallis and Futuna Islands",
-        "c02": 162
+        "object": "Paraguay",
+        "c02": 1341
       },
       {
-        "country": "Saint Kitts and Nevis",
-        "c02": 105
+        "object": "Solomon Islands",
+        "c02": 1242
       },
       {
-        "country": "Gambia",
-        "c02": 158
+        "object": "Puerto Rico",
+        "c02": 743
       },
       {
-        "country": "St. Pierre and Miquelon",
-        "c02": 1262
+        "object": "United Kingdom",
+        "c02": 188
       },
       {
-        "country": "Kenya",
-        "c02": 1039
+        "object": "Tuvalu",
+        "c02": 548
       },
       {
-        "country": "Andorra",
-        "c02": 293
+        "object": "Turkey",
+        "c02": 425
       },
       {
-        "country": "Cyprus",
-        "c02": 135
+        "object": "French Polynesia",
+        "c02": 826
       },
       {
-        "country": "Libya",
-        "c02": 844
-      },
-      {
-        "country": "Colombia",
-        "c02": 554
-      },
-      {
-        "country": "Burundi",
-        "c02": 438
-      },
-      {
-        "country": "Slovenia",
+        "object": "Croatia (Hrvatska)",
         "c02": 89
       },
       {
-        "country": "Zimbabwe",
-        "c02": 760
+        "object": "Poland",
+        "c02": 238
       },
       {
-        "country": "Grenada",
-        "c02": 312
+        "object": "Cameroon",
+        "c02": 258
       },
       {
-        "country": "Hong Kong",
-        "c02": 1339
+        "object": "Dominica",
+        "c02": 423
       },
       {
-        "country": "Benin",
-        "c02": 296
+        "object": "New Zealand",
+        "c02": 111
       },
       {
-        "country": "Lebanon",
-        "c02": 1281
+        "object": "Nigeria",
+        "c02": 206
       },
       {
-        "country": "Sao Tome and Principe",
-        "c02": 482
+        "object": "Chile",
+        "c02": 1002
       },
       {
-        "country": "Monaco",
-        "c02": 221
+        "object": "Bahrain",
+        "c02": 544
       },
       {
-        "country": "Niger",
-        "c02": 623
+        "object": "Guatemala",
+        "c02": 206
       },
       {
-        "country": "Bolivia",
-        "c02": 64
+        "object": "Barbados",
+        "c02": 1260
       },
       {
-        "country": "Algeria",
-        "c02": 970
+        "object": "Luxembourg",
+        "c02": 570
       },
       {
-        "country": "Paraguay",
-        "c02": 695
+        "object": "Turkmenistan",
+        "c02": 398
       },
       {
-        "country": "Solomon Islands",
-        "c02": 1207
+        "object": "Tunisia",
+        "c02": 452
       },
       {
-        "country": "Puerto Rico",
-        "c02": 701
+        "object": "Iran",
+        "c02": 23
       },
       {
-        "country": "United Kingdom",
-        "c02": 56
+        "object": "Niue",
+        "c02": 549
       },
       {
-        "country": "Tuvalu",
+        "object": "Reunion",
+        "c02": 608
+      },
+      {
+        "object": "Cote D'Ivoire (Ivory Coast)",
+        "c02": 1214
+      },
+      {
+        "object": "Estonia",
+        "c02": 1087
+      },
+      {
+        "object": "El Salvador",
+        "c02": 442
+      },
+      {
+        "object": "Christmas Island",
+        "c02": 1012
+      },
+      {
+        "object": "Brazil",
+        "c02": 690
+      },
+      {
+        "object": "Namibia",
+        "c02": 861
+      },
+      {
+        "object": "Hungary",
+        "c02": 282
+      },
+      {
+        "object": "Mongolia",
+        "c02": 812
+      },
+      {
+        "object": "Cook Islands",
         "c02": 1324
       },
       {
-        "country": "Turkey",
-        "c02": 346
+        "object": "Bhutan",
+        "c02": 1393
       },
       {
-        "country": "French Polynesia",
-        "c02": 1248
+        "object": "Afghanistan",
+        "c02": 611
       },
       {
-        "country": "Croatia (Hrvatska)",
-        "c02": 1170
+        "object": "Tokelau",
+        "c02": 847
       },
       {
-        "country": "Poland",
-        "c02": 1084
+        "object": "Morocco",
+        "c02": 1241
       },
       {
-        "country": "Cameroon",
+        "object": "Tanzania",
+        "c02": 534
+      },
+      {
+        "object": "Cuba",
+        "c02": 1273
+      },
+      {
+        "object": "Netherlands",
+        "c02": 1083
+      },
+      {
+        "object": "Jamaica",
+        "c02": 456
+      },
+      {
+        "object": "Malaysia",
+        "c02": 246
+      },
+      {
+        "object": "Nepal",
+        "c02": 1017
+      },
+      {
+        "object": "Montserrat",
+        "c02": 1116
+      },
+      {
+        "object": "Moldova",
+        "c02": 834
+      },
+      {
+        "object": "Papua New Guinea",
+        "c02": 970
+      },
+      {
+        "object": "Guadeloupe",
+        "c02": 1115
+      },
+      {
+        "object": "Mexico",
+        "c02": 1053
+      },
+      {
+        "object": "Oman",
+        "c02": 1209
+      },
+      {
+        "object": "Haiti",
+        "c02": 513
+      },
+      {
+        "object": "Kyrgyzstan",
         "c02": 220
       },
       {
-        "country": "Dominica",
+        "object": "Anguilla",
+        "c02": 382
+      },
+      {
+        "object": "Turks and Caicos Islands",
+        "c02": 525
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "data": [
+      {
+        "object": "Honduras",
+        "c02": 52
+      },
+      {
+        "object": "Czech Republic",
+        "c02": 881
+      },
+      {
+        "object": "Germany",
+        "c02": 683
+      },
+      {
+        "object": "British Indian Ocean Territory",
+        "c02": 638
+      },
+      {
+        "object": "Cambodia",
+        "c02": 278
+      },
+      {
+        "object": "Somalia",
+        "c02": 914
+      },
+      {
+        "object": "Canada",
+        "c02": 1010
+      },
+      {
+        "object": "Finland",
+        "c02": 362
+      },
+      {
+        "object": "Netherlands Antilles",
+        "c02": 77
+      },
+      {
+        "object": "Ecuador",
+        "c02": 435
+      },
+      {
+        "object": "Micronesia",
+        "c02": 59
+      },
+      {
+        "object": "Italy",
+        "c02": 678
+      },
+      {
+        "object": "French Southern Territories",
+        "c02": 1397
+      },
+      {
+        "object": "Guam",
+        "c02": 1241
+      },
+      {
+        "object": "Qatar",
+        "c02": 1226
+      },
+      {
+        "object": "Mayotte",
+        "c02": 1178
+      },
+      {
+        "object": "Switzerland",
+        "c02": 267
+      },
+      {
+        "object": "Gibraltar",
+        "c02": 870
+      },
+      {
+        "object": "Dominican Republic",
+        "c02": 1009
+      },
+      {
+        "object": "Guinea-Bissau",
+        "c02": 1235
+      },
+      {
+        "object": "Iceland",
+        "c02": 635
+      },
+      {
+        "object": "Central African Republic",
+        "c02": 1104
+      },
+      {
+        "object": "Nicaragua",
+        "c02": 95
+      },
+      {
+        "object": "Malawi",
+        "c02": 1351
+      },
+      {
+        "object": "Djibouti",
+        "c02": 489
+      },
+      {
+        "object": "Bangladesh",
+        "c02": 1208
+      },
+      {
+        "object": "Swaziland",
+        "c02": 119
+      },
+      {
+        "object": "United Arab Emirates",
+        "c02": 1104
+      },
+      {
+        "object": "Armenia",
+        "c02": 434
+      },
+      {
+        "object": "Syria",
+        "c02": 214
+      },
+      {
+        "object": "San Marino",
+        "c02": 1279
+      },
+      {
+        "object": "Laos",
+        "c02": 319
+      },
+      {
+        "object": "Peru",
+        "c02": 695
+      },
+      {
+        "object": "Ghana",
+        "c02": 217
+      },
+      {
+        "object": "Myanmar",
+        "c02": 303
+      },
+      {
+        "object": "Bosnia and Herzegovina",
+        "c02": 78
+      },
+      {
+        "object": "Japan",
+        "c02": 887
+      },
+      {
+        "object": "Nauru",
+        "c02": 1016
+      },
+      {
+        "object": "Belarus",
+        "c02": 678
+      },
+      {
+        "object": "New Caledonia",
+        "c02": 570
+      },
+      {
+        "object": "Marshall Islands",
+        "c02": 1119
+      },
+      {
+        "object": "Greece",
+        "c02": 900
+      },
+      {
+        "object": "Singapore",
+        "c02": 529
+      },
+      {
+        "object": "Gabon",
+        "c02": 153
+      },
+      {
+        "object": "Lesotho",
+        "c02": 1136
+      },
+      {
+        "object": "Cocos (Keeling Islands)",
+        "c02": 983
+      },
+      {
+        "object": "India",
+        "c02": 1066
+      },
+      {
+        "object": "Aruba",
+        "c02": 764
+      },
+      {
+        "object": "Cayman Islands",
+        "c02": 343
+      },
+      {
+        "object": "Taiwan",
+        "c02": 418
+      },
+      {
+        "object": "Mozambique",
+        "c02": 912
+      },
+      {
+        "object": "Martinique",
+        "c02": 579
+      },
+      {
+        "object": "Saint Lucia",
+        "c02": 120
+      },
+      {
+        "object": "Malta",
+        "c02": 606
+      },
+      {
+        "object": "Norfolk Island",
+        "c02": 1191
+      },
+      {
+        "object": "Zambia",
+        "c02": 909
+      },
+      {
+        "object": "Fiji",
+        "c02": 755
+      },
+      {
+        "object": "Guinea",
+        "c02": 666
+      },
+      {
+        "object": "Kazakhstan",
+        "c02": 564
+      },
+      {
+        "object": "Norway",
+        "c02": 453
+      },
+      {
+        "object": "Liberia",
+        "c02": 203
+      },
+      {
+        "object": "France",
+        "c02": 939
+      },
+      {
+        "object": "China",
+        "c02": 150
+      },
+      {
+        "object": "Panama",
+        "c02": 771
+      },
+      {
+        "object": "Trinidad and Tobago",
+        "c02": 665
+      },
+      {
+        "object": "Madagascar",
+        "c02": 155
+      },
+      {
+        "object": "Bermuda",
+        "c02": 617
+      },
+      {
+        "object": "Spain",
+        "c02": 12
+      },
+      {
+        "object": "Uganda",
+        "c02": 44
+      },
+      {
+        "object": "Liechtenstein",
+        "c02": 1027
+      },
+      {
+        "object": "Denmark",
+        "c02": 996
+      },
+      {
+        "object": "Mali",
+        "c02": 562
+      },
+      {
+        "object": "Sweden",
+        "c02": 509
+      },
+      {
+        "object": "St. Helena",
+        "c02": 445
+      },
+      {
+        "object": "Saint Vincent and The Grenadines",
+        "c02": 387
+      },
+      {
+        "object": "Indonesia",
+        "c02": 1094
+      },
+      {
+        "object": "Kuwait",
+        "c02": 667
+      },
+      {
+        "object": "Belize",
+        "c02": 166
+      },
+      {
+        "object": "Romania",
+        "c02": 1257
+      },
+      {
+        "object": "Cape Verde",
+        "c02": 721
+      },
+      {
+        "object": "Suriname",
+        "c02": 459
+      },
+      {
+        "object": "Northern Mariana Islands",
+        "c02": 1318
+      },
+      {
+        "object": "Congo",
+        "c02": 1399
+      },
+      {
+        "object": "Iraq",
+        "c02": 805
+      },
+      {
+        "object": "Sri Lanka",
+        "c02": 668
+      },
+      {
+        "object": "Uzbekistan",
+        "c02": 133
+      },
+      {
+        "object": "Costa Rica",
+        "c02": 1129
+      },
+      {
+        "object": "Macau",
+        "c02": 527
+      },
+      {
+        "object": "Mauritius",
+        "c02": 809
+      },
+      {
+        "object": "Slovak Republic",
+        "c02": 368
+      },
+      {
+        "object": "French Guiana",
+        "c02": 106
+      },
+      {
+        "object": "Seychelles",
+        "c02": 663
+      },
+      {
+        "object": "Australia",
+        "c02": 152
+      },
+      {
+        "object": "Pitcairn",
+        "c02": 266
+      },
+      {
+        "object": "Rwanda",
+        "c02": 1266
+      },
+      {
+        "object": "American Samoa",
+        "c02": 366
+      },
+      {
+        "object": "Virgin Islands (US)",
+        "c02": 847
+      },
+      {
+        "object": "Faroe Islands",
+        "c02": 177
+      },
+      {
+        "object": "Palau",
+        "c02": 127
+      },
+      {
+        "object": "Russian Federation",
+        "c02": 78
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "data": [
+      {
+        "object": "Venezuela",
+        "c02": 886
+      },
+      {
+        "object": "Georgia",
+        "c02": 1101
+      },
+      {
+        "object": "Sierra Leone",
+        "c02": 1349
+      },
+      {
+        "object": "Greenland",
+        "c02": 513
+      },
+      {
+        "object": "Senegal",
+        "c02": 858
+      },
+      {
+        "object": "US Minor Outlying Islands",
+        "c02": 377
+      },
+      {
+        "object": "Bouvet Island",
+        "c02": 547
+      },
+      {
+        "object": "Bahamas",
+        "c02": 600
+      },
+      {
+        "object": "Azerbaijan",
+        "c02": 647
+      },
+      {
+        "object": "Bulgaria",
+        "c02": 1319
+      },
+      {
+        "object": "Philippines",
+        "c02": 825
+      },
+      {
+        "object": "S. Georgia and S. Sandwich Isls.",
+        "c02": 984
+      },
+      {
+        "object": "Korea (North)",
+        "c02": 985
+      },
+      {
+        "object": "Belgium",
+        "c02": 10
+      },
+      {
+        "object": "Botswana",
+        "c02": 721
+      },
+      {
+        "object": "Mauritania",
+        "c02": 542
+      },
+      {
+        "object": "Vanuatu",
+        "c02": 671
+      },
+      {
+        "object": "Latvia",
+        "c02": 257
+      },
+      {
+        "object": "East Timor",
+        "c02": 1152
+      },
+      {
+        "object": "Albania",
+        "c02": 1080
+      },
+      {
+        "object": "Yemen",
+        "c02": 720
+      },
+      {
+        "object": "Tajikistan",
+        "c02": 1082
+      },
+      {
+        "object": "Ireland",
+        "c02": 1252
+      },
+      {
+        "object": "Argentina",
+        "c02": 1162
+      },
+      {
+        "object": "Togo",
+        "c02": 51
+      },
+      {
+        "object": "Vatican City State (Holy See)",
+        "c02": 846
+      },
+      {
+        "object": "Western Sahara",
+        "c02": 1216
+      },
+      {
+        "object": "Eritrea",
+        "c02": 559
+      },
+      {
+        "object": "Equatorial Guinea",
+        "c02": 336
+      },
+      {
+        "object": "Zaire",
+        "c02": 1396
+      },
+      {
+        "object": "Chad",
+        "c02": 470
+      },
+      {
+        "object": "Virgin Islands (British)",
+        "c02": 200
+      },
+      {
+        "object": "Saudi Arabia",
+        "c02": 320
+      },
+      {
+        "object": "Israel",
+        "c02": 196
+      },
+      {
+        "object": "Viet Nam",
+        "c02": 806
+      },
+      {
+        "object": "Heard and McDonald Islands",
+        "c02": 751
+      },
+      {
+        "object": "Ethiopia",
+        "c02": 305
+      },
+      {
+        "object": "United States",
+        "c02": 760
+      },
+      {
+        "object": "Macedonia",
+        "c02": 868
+      },
+      {
+        "object": "Guyana",
+        "c02": 1352
+      },
+      {
+        "object": "Maldives",
+        "c02": 1179
+      },
+      {
+        "object": "Egypt",
+        "c02": 1301
+      },
+      {
+        "object": "Angola",
+        "c02": 1164
+      },
+      {
+        "object": "South Africa",
+        "c02": 1371
+      },
+      {
+        "object": "Kiribati",
+        "c02": 450
+      },
+      {
+        "object": "Thailand",
+        "c02": 544
+      },
+      {
+        "object": "Uruguay",
+        "c02": 1348
+      },
+      {
+        "object": "Samoa",
+        "c02": 762
+      },
+      {
+        "object": "Antigua and Barbuda",
+        "c02": 908
+      },
+      {
+        "object": "Yugoslavia",
+        "c02": 808
+      },
+      {
+        "object": "Svalbard and Jan Mayen Islands",
+        "c02": 1038
+      },
+      {
+        "object": "Lithuania",
+        "c02": 250
+      },
+      {
+        "object": "Korea (South)",
+        "c02": 107
+      },
+      {
+        "object": "Tonga",
+        "c02": 323
+      },
+      {
+        "object": "France, Metropolitan",
+        "c02": 308
+      },
+      {
+        "object": "Burkina Faso",
+        "c02": 953
+      },
+      {
+        "object": "Comoros",
+        "c02": 685
+      },
+      {
+        "object": "Sudan",
+        "c02": 680
+      },
+      {
+        "object": "Falkland Islands (Malvinas)",
+        "c02": 1010
+      },
+      {
+        "object": "Ukraine",
+        "c02": 648
+      },
+      {
+        "object": "Antarctica",
+        "c02": 575
+      },
+      {
+        "object": "Austria",
+        "c02": 952
+      },
+      {
+        "object": "Brunei Darussalam",
+        "c02": 435
+      },
+      {
+        "object": "Portugal",
+        "c02": 1273
+      },
+      {
+        "object": "Jordan",
+        "c02": 1335
+      },
+      {
+        "object": "Wallis and Futuna Islands",
+        "c02": 162
+      },
+      {
+        "object": "Saint Kitts and Nevis",
+        "c02": 105
+      },
+      {
+        "object": "Gambia",
+        "c02": 158
+      },
+      {
+        "object": "St. Pierre and Miquelon",
+        "c02": 1262
+      },
+      {
+        "object": "Kenya",
+        "c02": 1039
+      },
+      {
+        "object": "Andorra",
+        "c02": 293
+      },
+      {
+        "object": "Cyprus",
+        "c02": 135
+      },
+      {
+        "object": "Libya",
+        "c02": 844
+      },
+      {
+        "object": "Colombia",
+        "c02": 554
+      },
+      {
+        "object": "Burundi",
+        "c02": 438
+      },
+      {
+        "object": "Slovenia",
+        "c02": 89
+      },
+      {
+        "object": "Zimbabwe",
+        "c02": 760
+      },
+      {
+        "object": "Grenada",
+        "c02": 312
+      },
+      {
+        "object": "Hong Kong",
+        "c02": 1339
+      },
+      {
+        "object": "Benin",
+        "c02": 296
+      },
+      {
+        "object": "Lebanon",
+        "c02": 1281
+      },
+      {
+        "object": "Sao Tome and Principe",
+        "c02": 482
+      },
+      {
+        "object": "Monaco",
+        "c02": 221
+      },
+      {
+        "object": "Niger",
+        "c02": 623
+      },
+      {
+        "object": "Bolivia",
+        "c02": 64
+      },
+      {
+        "object": "Algeria",
+        "c02": 970
+      },
+      {
+        "object": "Paraguay",
+        "c02": 695
+      },
+      {
+        "object": "Solomon Islands",
+        "c02": 1207
+      },
+      {
+        "object": "Puerto Rico",
+        "c02": 701
+      },
+      {
+        "object": "United Kingdom",
+        "c02": 56
+      },
+      {
+        "object": "Tuvalu",
+        "c02": 1324
+      },
+      {
+        "object": "Turkey",
+        "c02": 346
+      },
+      {
+        "object": "French Polynesia",
+        "c02": 1248
+      },
+      {
+        "object": "Croatia (Hrvatska)",
+        "c02": 1170
+      },
+      {
+        "object": "Poland",
+        "c02": 1084
+      },
+      {
+        "object": "Cameroon",
+        "c02": 220
+      },
+      {
+        "object": "Dominica",
         "c02": 60
       },
       {
-        "country": "New Zealand",
+        "object": "New Zealand",
         "c02": 1309
       },
       {
-        "country": "Nigeria",
+        "object": "Nigeria",
         "c02": 428
       },
       {
-        "country": "Chile",
+        "object": "Chile",
         "c02": 1088
       }
     ]
