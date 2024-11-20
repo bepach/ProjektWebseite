@@ -1,1216 +1,406 @@
 [
   {
-    "year": 2013,
-    "data": [
-      {
-        "company": "Waab",
-        "c02": 26
-      },
-      {
-        "company": "Songlines",
-        "c02": 74
-      },
-      {
-        "company": "Vicon",
-        "c02": 81
-      },
-      {
-        "company": "Mediot",
-        "c02": 75
-      },
-      {
-        "company": "Vortexaco",
-        "c02": 41
-      },
-      {
-        "company": "Maximind",
-        "c02": 97
-      },
-      {
-        "company": "Chorizon",
-        "c02": 41
-      },
-      {
-        "company": "Equitox",
-        "c02": 88
-      },
-      {
-        "company": "Jamnation",
-        "c02": 34
-      },
-      {
-        "company": "Stucco",
-        "c02": 31
-      },
-      {
-        "company": "Homelux",
-        "c02": 26
-      },
-      {
-        "company": "Silodyne",
-        "c02": 41
-      },
-      {
-        "company": "Perkle",
-        "c02": 69
-      },
-      {
-        "company": "Balooba",
-        "c02": 73
-      },
-      {
-        "company": "Handshake",
-        "c02": 31
-      },
-      {
-        "company": "Sureplex",
-        "c02": 66
-      },
-      {
-        "company": "Kneedles",
-        "c02": 28
-      },
-      {
-        "company": "Techade",
-        "c02": 65
-      },
-      {
-        "company": "Accusage",
-        "c02": 87
-      },
-      {
-        "company": "Oulu",
-        "c02": 90
-      },
-      {
-        "company": "Autograte",
-        "c02": 50
-      },
-      {
-        "company": "Koogle",
-        "c02": 7
-      },
-      {
-        "company": "Letpro",
-        "c02": 28
-      },
-      {
-        "company": "Comtour",
-        "c02": 58
-      },
-      {
-        "company": "Zuvy",
-        "c02": 14
-      },
-      {
-        "company": "Nexgene",
-        "c02": 86
-      },
-      {
-        "company": "Extragen",
-        "c02": 29
-      },
-      {
-        "company": "Netplode",
-        "c02": 45
-      },
-      {
-        "company": "Datagene",
-        "c02": 93
-      },
-      {
-        "company": "Tetak",
-        "c02": 48
-      },
-      {
-        "company": "Candecor",
-        "c02": 23
-      },
-      {
-        "company": "Pyrami",
-        "c02": 7
-      },
-      {
-        "company": "Enersave",
-        "c02": 50
-      },
-      {
-        "company": "Bluplanet",
-        "c02": 89
-      },
-      {
-        "company": "Quantasis",
-        "c02": 63
-      },
-      {
-        "company": "Netagy",
-        "c02": 29
-      },
-      {
-        "company": "Xth",
-        "c02": 59
-      },
-      {
-        "company": "Zosis",
-        "c02": 67
-      },
-      {
-        "company": "Voratak",
-        "c02": 62
-      },
-      {
-        "company": "Isologia",
-        "c02": 85
-      },
-      {
-        "company": "Xsports",
-        "c02": 86
-      },
-      {
-        "company": "Junipoor",
-        "c02": 92
-      },
-      {
-        "company": "Elentrix",
-        "c02": 46
-      },
-      {
-        "company": "Assistia",
-        "c02": 53
-      },
-      {
-        "company": "Typhonica",
-        "c02": 15
-      },
-      {
-        "company": "Plutorque",
-        "c02": 29
-      },
-      {
-        "company": "Zialactic",
-        "c02": 8
-      },
-      {
-        "company": "Mantro",
-        "c02": 40
-      },
-      {
-        "company": "Senmao",
-        "c02": 49
-      },
-      {
-        "company": "Lyria",
-        "c02": 40
-      },
-      {
-        "company": "Housedown",
-        "c02": 89
-      },
-      {
-        "company": "Corporana",
-        "c02": 59
-      },
-      {
-        "company": "Isologix",
-        "c02": 41
-      },
-      {
-        "company": "Apexia",
-        "c02": 50
-      },
-      {
-        "company": "Zilla",
-        "c02": 22
-      },
-      {
-        "company": "Gogol",
-        "c02": 73
-      },
-      {
-        "company": "Solaren",
-        "c02": 93
-      },
-      {
-        "company": "Metroz",
-        "c02": 38
-      },
-      {
-        "company": "Nimon",
-        "c02": 39
-      },
-      {
-        "company": "Satiance",
-        "c02": 89
-      },
-      {
-        "company": "Inrt",
-        "c02": 40
-      },
-      {
-        "company": "Bedlam",
-        "c02": 15
-      },
-      {
-        "company": "Mondicil",
-        "c02": 36
-      },
-      {
-        "company": "Artworlds",
-        "c02": 18
-      },
-      {
-        "company": "Empirica",
-        "c02": 55
-      },
-      {
-        "company": "Quiltigen",
-        "c02": 60
-      },
-      {
-        "company": "Buzzopia",
-        "c02": 23
-      },
-      {
-        "company": "Panzent",
-        "c02": 95
-      },
-      {
-        "company": "Ronelon",
-        "c02": 24
-      },
-      {
-        "company": "Enquility",
-        "c02": 22
-      },
-      {
-        "company": "Gracker",
-        "c02": 23
-      },
-      {
-        "company": "Melbacor",
-        "c02": 74
-      },
-      {
-        "company": "Rubadub",
-        "c02": 39
-      },
-      {
-        "company": "Ontagene",
-        "c02": 29
-      },
-      {
-        "company": "Intradisk",
-        "c02": 96
-      },
-      {
-        "company": "Interfind",
-        "c02": 62
-      },
-      {
-        "company": "Vinch",
-        "c02": 86
-      },
-      {
-        "company": "Isonus",
-        "c02": 88
-      },
-      {
-        "company": "Barkarama",
-        "c02": 37
-      },
-      {
-        "company": "Frenex",
-        "c02": 7
-      },
-      {
-        "company": "Genekom",
-        "c02": 19
-      },
-      {
-        "company": "Zilch",
-        "c02": 68
-      },
-      {
-        "company": "Isologica",
-        "c02": 59
-      },
-      {
-        "company": "Comtest",
-        "c02": 14
-      },
-      {
-        "company": "Bisba",
-        "c02": 77
-      },
-      {
-        "company": "Prosely",
-        "c02": 33
-      },
-      {
-        "company": "Quarmony",
-        "c02": 75
-      },
-      {
-        "company": "Kog",
-        "c02": 65
-      },
-      {
-        "company": "Navir",
-        "c02": 50
-      },
-      {
-        "company": "Liquicom",
-        "c02": 78
-      },
-      {
-        "company": "Uberlux",
-        "c02": 46
-      },
-      {
-        "company": "Calcula",
-        "c02": 43
-      },
-      {
-        "company": "Magnina",
-        "c02": 39
-      },
-      {
-        "company": "Norali",
-        "c02": 70
-      },
-      {
-        "company": "Bugsall",
-        "c02": 50
-      },
-      {
-        "company": "Automon",
-        "c02": 45
-      },
-      {
-        "company": "Geekosis",
-        "c02": 18
-      },
-      {
-        "company": "Zenco",
-        "c02": 92
-      },
-      {
-        "company": "Exospace",
-        "c02": 54
-      },
-      {
-        "company": "Terrasys",
-        "c02": 97
-      }
-    ]
-  },
-  {
-    "year": 2014,
-    "data": [
-      {
-        "company": "Qualitex",
-        "c02": 95
-      },
-      {
-        "company": "Exovent",
-        "c02": 34
-      },
-      {
-        "company": "Ecstasia",
-        "c02": 86
-      },
-      {
-        "company": "Harmoney",
-        "c02": 97
-      },
-      {
-        "company": "Injoy",
-        "c02": 40
-      },
-      {
-        "company": "Tsunamia",
-        "c02": 80
-      },
-      {
-        "company": "Boilicon",
-        "c02": 84
-      },
-      {
-        "company": "Aeora",
-        "c02": 96
-      },
-      {
-        "company": "Aquoavo",
-        "c02": 25
-      },
-      {
-        "company": "Hopeli",
-        "c02": 91
-      },
-      {
-        "company": "Comtract",
-        "c02": 71
-      },
-      {
-        "company": "Cytrek",
-        "c02": 94
-      },
-      {
-        "company": "Orbixtar",
-        "c02": 42
-      },
-      {
-        "company": "Octocore",
-        "c02": 76
-      },
-      {
-        "company": "Acruex",
-        "c02": 3
-      },
-      {
-        "company": "Zensus",
-        "c02": 97
-      },
-      {
-        "company": "Softmicro",
-        "c02": 39
-      },
-      {
-        "company": "Anivet",
-        "c02": 76
-      },
-      {
-        "company": "Savvy",
-        "c02": 41
-      },
-      {
-        "company": "Accruex",
-        "c02": 81
-      },
-      {
-        "company": "Marketoid",
-        "c02": 15
-      },
-      {
-        "company": "Namegen",
-        "c02": 84
-      },
-      {
-        "company": "Comtrek",
-        "c02": 47
-      },
-      {
-        "company": "Bezal",
-        "c02": 64
-      },
-      {
-        "company": "Lingoage",
-        "c02": 18
-      },
-      {
-        "company": "Magneato",
-        "c02": 86
-      },
-      {
-        "company": "Isbol",
-        "c02": 9
-      },
-      {
-        "company": "Opportech",
-        "c02": 65
-      },
-      {
-        "company": "Kangle",
-        "c02": 88
-      },
-      {
-        "company": "Organica",
-        "c02": 37
-      },
-      {
-        "company": "Plasmos",
-        "c02": 7
-      },
-      {
-        "company": "Prismatic",
-        "c02": 97
-      },
-      {
-        "company": "Otherside",
-        "c02": 70
-      },
-      {
-        "company": "Zentix",
-        "c02": 52
-      },
-      {
-        "company": "Quordate",
-        "c02": 70
-      },
-      {
-        "company": "Accel",
-        "c02": 71
-      },
-      {
-        "company": "Temorak",
-        "c02": 51
-      },
-      {
-        "company": "Andryx",
-        "c02": 94
-      },
-      {
-        "company": "Momentia",
-        "c02": 71
-      },
-      {
-        "company": "Accupharm",
-        "c02": 66
-      },
-      {
-        "company": "Daisu",
-        "c02": 42
-      },
-      {
-        "company": "Dogspa",
-        "c02": 56
-      },
-      {
-        "company": "Insurety",
-        "c02": 60
-      },
-      {
-        "company": "Egypto",
-        "c02": 70
-      },
-      {
-        "company": "Gadtron",
-        "c02": 40
-      },
-      {
-        "company": "Bullzone",
-        "c02": 16
-      },
-      {
-        "company": "Medalert",
-        "c02": 17
-      },
-      {
-        "company": "Hyplex",
-        "c02": 80
-      },
-      {
-        "company": "Gazak",
-        "c02": 91
-      },
-      {
-        "company": "Remold",
-        "c02": 33
-      },
-      {
-        "company": "Luxuria",
-        "c02": 33
-      },
-      {
-        "company": "Imperium",
-        "c02": 3
-      },
-      {
-        "company": "Affluex",
-        "c02": 90
-      },
-      {
-        "company": "Conjurica",
-        "c02": 1
-      },
-      {
-        "company": "Portalis",
-        "c02": 67
-      },
-      {
-        "company": "Telpod",
-        "c02": 69
-      },
-      {
-        "company": "Comvoy",
-        "c02": 62
-      },
-      {
-        "company": "Zentime",
-        "c02": 71
-      },
-      {
-        "company": "Gluid",
-        "c02": 53
-      },
-      {
-        "company": "Zidox",
-        "c02": 73
-      },
-      {
-        "company": "Zoinage",
-        "c02": 28
-      },
-      {
-        "company": "Ultrasure",
-        "c02": 97
-      },
-      {
-        "company": "Applica",
-        "c02": 47
-      },
-      {
-        "company": "Veraq",
-        "c02": 36
-      },
-      {
-        "company": "Amtap",
-        "c02": 77
-      },
-      {
-        "company": "Spacewax",
-        "c02": 94
-      },
-      {
-        "company": "Dancity",
-        "c02": 5
-      },
-      {
-        "company": "Zoarere",
-        "c02": 91
-      },
-      {
-        "company": "Phuel",
-        "c02": 77
-      },
-      {
-        "company": "Insuron",
-        "c02": 36
-      },
-      {
-        "company": "Eargo",
-        "c02": 69
-      },
-      {
-        "company": "Insuresys",
-        "c02": 46
-      },
-      {
-        "company": "Entogrok",
-        "c02": 68
-      },
-      {
-        "company": "Indexia",
-        "c02": 76
-      },
-      {
-        "company": "Malathion",
-        "c02": 37
-      },
-      {
-        "company": "Ezent",
-        "c02": 95
-      },
-      {
-        "company": "Collaire",
-        "c02": 32
-      },
-      {
-        "company": "Elita",
-        "c02": 38
-      },
-      {
-        "company": "Inquala",
-        "c02": 73
-      },
-      {
-        "company": "Coriander",
-        "c02": 13
-      },
-      {
-        "company": "Undertap",
-        "c02": 88
-      },
-      {
-        "company": "Geekology",
-        "c02": 81
-      },
-      {
-        "company": "Steeltab",
-        "c02": 46
-      },
-      {
-        "company": "Ginkle",
-        "c02": 4
-      },
-      {
-        "company": "Tingles",
-        "c02": 17
-      },
-      {
-        "company": "Intrawear",
-        "c02": 68
-      },
-      {
-        "company": "Neurocell",
-        "c02": 73
-      },
-      {
-        "company": "Exostream",
-        "c02": 100
-      },
-      {
-        "company": "Digial",
-        "c02": 30
-      },
-      {
-        "company": "Jimbies",
-        "c02": 39
-      },
-      {
-        "company": "Zerology",
-        "c02": 97
-      },
-      {
-        "company": "Bluegrain",
-        "c02": 1
-      },
-      {
-        "company": "Konnect",
-        "c02": 82
-      },
-      {
-        "company": "Quilch",
-        "c02": 79
-      },
-      {
-        "company": "Comtrail",
-        "c02": 42
-      },
-      {
-        "company": "Pearlesex",
-        "c02": 80
-      },
-      {
-        "company": "Kongle",
-        "c02": 47
-      },
-      {
-        "company": "Ecratic",
-        "c02": 24
-      },
-      {
-        "company": "Hometown",
-        "c02": 66
-      },
-      {
-        "company": "Fibrodyne",
-        "c02": 58
-      }
-    ]
-  },
-  {
     "year": 2015,
     "data": [
       {
-        "company": "Zytrek",
-        "c02": 62
+        "object": "Waab",
+        "c02": 26
       },
       {
-        "company": "Uni",
-        "c02": 42
-      },
-      {
-        "company": "Eweville",
-        "c02": 49
-      },
-      {
-        "company": "Entality",
-        "c02": 43
-      },
-      {
-        "company": "Newcube",
-        "c02": 54
-      },
-      {
-        "company": "Pivitol",
+        "object": "Songlines",
         "c02": 74
       },
       {
-        "company": "Maineland",
-        "c02": 92
-      },
-      {
-        "company": "Musaphics",
-        "c02": 18
-      },
-      {
-        "company": "Medcom",
-        "c02": 6
-      },
-      {
-        "company": "Sulfax",
-        "c02": 43
-      },
-      {
-        "company": "Zeam",
-        "c02": 50
-      },
-      {
-        "company": "Olympix",
-        "c02": 24
-      },
-      {
-        "company": "Insurity",
-        "c02": 44
-      },
-      {
-        "company": "Zillar",
-        "c02": 76
-      },
-      {
-        "company": "Buzzworks",
-        "c02": 51
-      },
-      {
-        "company": "Acium",
-        "c02": 44
-      },
-      {
-        "company": "Imageflow",
-        "c02": 17
-      },
-      {
-        "company": "Xeronk",
-        "c02": 49
-      },
-      {
-        "company": "Mobildata",
-        "c02": 14
-      },
-      {
-        "company": "Geologix",
-        "c02": 49
-      },
-      {
-        "company": "Corpulse",
-        "c02": 56
-      },
-      {
-        "company": "Hydrocom",
-        "c02": 80
-      },
-      {
-        "company": "Quinex",
-        "c02": 58
-      },
-      {
-        "company": "Pharmacon",
-        "c02": 23
-      },
-      {
-        "company": "Springbee",
-        "c02": 62
-      },
-      {
-        "company": "Assitia",
-        "c02": 86
-      },
-      {
-        "company": "Oronoko",
-        "c02": 2
-      },
-      {
-        "company": "Tellifly",
-        "c02": 47
-      },
-      {
-        "company": "Fuelworks",
-        "c02": 70
-      },
-      {
-        "company": "Intergeek",
-        "c02": 54
-      },
-      {
-        "company": "Digigene",
-        "c02": 24
-      },
-      {
-        "company": "Parleynet",
-        "c02": 73
-      },
-      {
-        "company": "Boilcat",
-        "c02": 26
-      },
-      {
-        "company": "Incubus",
-        "c02": 54
-      },
-      {
-        "company": "Terragen",
-        "c02": 23
-      },
-      {
-        "company": "Bostonic",
-        "c02": 92
-      },
-      {
-        "company": "Tropolis",
-        "c02": 3
-      },
-      {
-        "company": "Geofarm",
-        "c02": 25
-      },
-      {
-        "company": "Toyletry",
-        "c02": 8
-      },
-      {
-        "company": "Moreganic",
-        "c02": 24
-      },
-      {
-        "company": "Sonique",
-        "c02": 64
-      },
-      {
-        "company": "Tubesys",
-        "c02": 77
-      },
-      {
-        "company": "Hotcakes",
-        "c02": 20
-      },
-      {
-        "company": "Zounds",
-        "c02": 97
-      },
-      {
-        "company": "Zork",
-        "c02": 43
-      },
-      {
-        "company": "Zillacon",
-        "c02": 62
-      },
-      {
-        "company": "Biolive",
-        "c02": 41
-      },
-      {
-        "company": "Billmed",
-        "c02": 46
-      },
-      {
-        "company": "Terrago",
-        "c02": 76
-      },
-      {
-        "company": "Uplinx",
-        "c02": 60
-      },
-      {
-        "company": "Geekus",
-        "c02": 71
-      },
-      {
-        "company": "Gink",
-        "c02": 67
-      },
-      {
-        "company": "Quonk",
-        "c02": 6
-      },
-      {
-        "company": "Geekol",
-        "c02": 40
-      },
-      {
-        "company": "Centice",
-        "c02": 88
-      },
-      {
-        "company": "Isotronic",
-        "c02": 10
-      },
-      {
-        "company": "Verbus",
-        "c02": 83
-      },
-      {
-        "company": "Imant",
-        "c02": 70
-      },
-      {
-        "company": "Zensor",
-        "c02": 16
-      },
-      {
-        "company": "Furnitech",
-        "c02": 26
-      },
-      {
-        "company": "Dogtown",
-        "c02": 55
-      },
-      {
-        "company": "Unia",
-        "c02": 79
-      },
-      {
-        "company": "Memora",
-        "c02": 87
-      },
-      {
-        "company": "Apex",
-        "c02": 75
-      },
-      {
-        "company": "Oceanica",
-        "c02": 69
-      },
-      {
-        "company": "Krog",
-        "c02": 88
-      },
-      {
-        "company": "Maxemia",
-        "c02": 23
-      },
-      {
-        "company": "Comstar",
-        "c02": 99
-      },
-      {
-        "company": "Earbang",
-        "c02": 77
-      },
-      {
-        "company": "Daido",
-        "c02": 73
-      },
-      {
-        "company": "Kegular",
-        "c02": 92
-      },
-      {
-        "company": "Xumonk",
-        "c02": 57
-      },
-      {
-        "company": "Exosis",
-        "c02": 58
-      },
-      {
-        "company": "Opticall",
-        "c02": 21
-      },
-      {
-        "company": "Aclima",
-        "c02": 4
-      },
-      {
-        "company": "Cowtown",
-        "c02": 18
-      },
-      {
-        "company": "Solgan",
-        "c02": 93
-      },
-      {
-        "company": "Ecraze",
-        "c02": 86
-      },
-      {
-        "company": "Ludak",
-        "c02": 77
-      },
-      {
-        "company": "Aquasseur",
-        "c02": 86
-      },
-      {
-        "company": "Scentric",
-        "c02": 65
-      },
-      {
-        "company": "Assistix",
-        "c02": 97
-      },
-      {
-        "company": "Kage",
-        "c02": 96
-      },
-      {
-        "company": "Xurban",
-        "c02": 5
-      },
-      {
-        "company": "Microluxe",
-        "c02": 59
-      },
-      {
-        "company": "Optique",
-        "c02": 37
-      },
-      {
-        "company": "Elpro",
-        "c02": 43
-      },
-      {
-        "company": "Isologics",
-        "c02": 97
-      },
-      {
-        "company": "Zentility",
-        "c02": 46
-      },
-      {
-        "company": "Furnafix",
-        "c02": 55
-      },
-      {
-        "company": "Netropic",
-        "c02": 48
-      },
-      {
-        "company": "Rotodyne",
-        "c02": 5
-      },
-      {
-        "company": "Portico",
-        "c02": 21
-      },
-      {
-        "company": "Quizmo",
-        "c02": 87
-      },
-      {
-        "company": "Uniworld",
-        "c02": 89
-      },
-      {
-        "company": "Nixelt",
+        "object": "Vicon",
         "c02": 81
       },
       {
-        "company": "Matrixity",
+        "object": "Mediot",
+        "c02": 75
+      },
+      {
+        "object": "Vortexaco",
+        "c02": 41
+      },
+      {
+        "object": "Maximind",
+        "c02": 97
+      },
+      {
+        "object": "Chorizon",
+        "c02": 41
+      },
+      {
+        "object": "Equitox",
+        "c02": 88
+      },
+      {
+        "object": "Jamnation",
+        "c02": 34
+      },
+      {
+        "object": "Stucco",
+        "c02": 31
+      },
+      {
+        "object": "Homelux",
+        "c02": 26
+      },
+      {
+        "object": "Silodyne",
+        "c02": 41
+      },
+      {
+        "object": "Perkle",
+        "c02": 69
+      },
+      {
+        "object": "Balooba",
+        "c02": 73
+      },
+      {
+        "object": "Handshake",
+        "c02": 31
+      },
+      {
+        "object": "Sureplex",
+        "c02": 66
+      },
+      {
+        "object": "Kneedles",
+        "c02": 28
+      },
+      {
+        "object": "Techade",
+        "c02": 65
+      },
+      {
+        "object": "Accusage",
+        "c02": 87
+      },
+      {
+        "object": "Oulu",
+        "c02": 90
+      },
+      {
+        "object": "Autograte",
+        "c02": 50
+      },
+      {
+        "object": "Koogle",
+        "c02": 7
+      },
+      {
+        "object": "Letpro",
+        "c02": 28
+      },
+      {
+        "object": "Comtour",
+        "c02": 58
+      },
+      {
+        "object": "Zuvy",
+        "c02": 14
+      },
+      {
+        "object": "Nexgene",
+        "c02": 86
+      },
+      {
+        "object": "Extragen",
+        "c02": 29
+      },
+      {
+        "object": "Netplode",
+        "c02": 45
+      },
+      {
+        "object": "Datagene",
+        "c02": 93
+      },
+      {
+        "object": "Tetak",
+        "c02": 48
+      },
+      {
+        "object": "Candecor",
+        "c02": 23
+      },
+      {
+        "object": "Pyrami",
+        "c02": 7
+      },
+      {
+        "object": "Enersave",
+        "c02": 50
+      },
+      {
+        "object": "Bluplanet",
+        "c02": 89
+      },
+      {
+        "object": "Quantasis",
+        "c02": 63
+      },
+      {
+        "object": "Netagy",
+        "c02": 29
+      },
+      {
+        "object": "Xth",
+        "c02": 59
+      },
+      {
+        "object": "Zosis",
+        "c02": 67
+      },
+      {
+        "object": "Voratak",
+        "c02": 62
+      },
+      {
+        "object": "Isologia",
+        "c02": 85
+      },
+      {
+        "object": "Xsports",
+        "c02": 86
+      },
+      {
+        "object": "Junipoor",
+        "c02": 92
+      },
+      {
+        "object": "Elentrix",
+        "c02": 46
+      },
+      {
+        "object": "Assistia",
+        "c02": 53
+      },
+      {
+        "object": "Typhonica",
+        "c02": 15
+      },
+      {
+        "object": "Plutorque",
+        "c02": 29
+      },
+      {
+        "object": "Zialactic",
+        "c02": 8
+      },
+      {
+        "object": "Mantro",
+        "c02": 40
+      },
+      {
+        "object": "Senmao",
+        "c02": 49
+      },
+      {
+        "object": "Lyria",
+        "c02": 40
+      },
+      {
+        "object": "Housedown",
+        "c02": 89
+      },
+      {
+        "object": "Corporana",
+        "c02": 59
+      },
+      {
+        "object": "Isologix",
+        "c02": 41
+      },
+      {
+        "object": "Apexia",
+        "c02": 50
+      },
+      {
+        "object": "Zilla",
+        "c02": 22
+      },
+      {
+        "object": "Gogol",
+        "c02": 73
+      },
+      {
+        "object": "Solaren",
+        "c02": 93
+      },
+      {
+        "object": "Metroz",
+        "c02": 38
+      },
+      {
+        "object": "Nimon",
+        "c02": 39
+      },
+      {
+        "object": "Satiance",
+        "c02": 89
+      },
+      {
+        "object": "Inrt",
+        "c02": 40
+      },
+      {
+        "object": "Bedlam",
+        "c02": 15
+      },
+      {
+        "object": "Mondicil",
         "c02": 36
       },
       {
-        "company": "Enaut",
+        "object": "Artworlds",
+        "c02": 18
+      },
+      {
+        "object": "Empirica",
+        "c02": 55
+      },
+      {
+        "object": "Quiltigen",
+        "c02": 60
+      },
+      {
+        "object": "Buzzopia",
+        "c02": 23
+      },
+      {
+        "object": "Panzent",
+        "c02": 95
+      },
+      {
+        "object": "Ronelon",
+        "c02": 24
+      },
+      {
+        "object": "Enquility",
+        "c02": 22
+      },
+      {
+        "object": "Gracker",
+        "c02": 23
+      },
+      {
+        "object": "Melbacor",
+        "c02": 74
+      },
+      {
+        "object": "Rubadub",
+        "c02": 39
+      },
+      {
+        "object": "Ontagene",
+        "c02": 29
+      },
+      {
+        "object": "Intradisk",
+        "c02": 96
+      },
+      {
+        "object": "Interfind",
+        "c02": 62
+      },
+      {
+        "object": "Vinch",
+        "c02": 86
+      },
+      {
+        "object": "Isonus",
+        "c02": 88
+      },
+      {
+        "object": "Barkarama",
+        "c02": 37
+      },
+      {
+        "object": "Frenex",
+        "c02": 7
+      },
+      {
+        "object": "Genekom",
         "c02": 19
       },
       {
-        "company": "Emergent",
-        "c02": 71
+        "object": "Zilch",
+        "c02": 68
       },
       {
-        "company": "Ronbert",
-        "c02": 49
+        "object": "Isologica",
+        "c02": 59
+      },
+      {
+        "object": "Comtest",
+        "c02": 14
+      },
+      {
+        "object": "Bisba",
+        "c02": 77
+      },
+      {
+        "object": "Prosely",
+        "c02": 33
+      },
+      {
+        "object": "Quarmony",
+        "c02": 75
+      },
+      {
+        "object": "Kog",
+        "c02": 65
+      },
+      {
+        "object": "Navir",
+        "c02": 50
+      },
+      {
+        "object": "Liquicom",
+        "c02": 78
+      },
+      {
+        "object": "Uberlux",
+        "c02": 46
+      },
+      {
+        "object": "Calcula",
+        "c02": 43
+      },
+      {
+        "object": "Magnina",
+        "c02": 39
+      },
+      {
+        "object": "Norali",
+        "c02": 70
+      },
+      {
+        "object": "Bugsall",
+        "c02": 50
+      },
+      {
+        "object": "Automon",
+        "c02": 45
+      },
+      {
+        "object": "Geekosis",
+        "c02": 18
+      },
+      {
+        "object": "Zenco",
+        "c02": 92
+      },
+      {
+        "object": "Exospace",
+        "c02": 54
+      },
+      {
+        "object": "Terrasys",
+        "c02": 97
       }
     ]
   },
@@ -1218,404 +408,404 @@
     "year": 2016,
     "data": [
       {
-        "company": "Blanet",
-        "c02": 3
-      },
-      {
-        "company": "Plasmox",
-        "c02": 14
-      },
-      {
-        "company": "Kineticut",
+        "object": "Qualitex",
         "c02": 95
       },
       {
-        "company": "Premiant",
-        "c02": 88
+        "object": "Exovent",
+        "c02": 34
       },
       {
-        "company": "Bizmatic",
-        "c02": 24
+        "object": "Ecstasia",
+        "c02": 86
       },
       {
-        "company": "Techmania",
-        "c02": 11
+        "object": "Harmoney",
+        "c02": 97
       },
       {
-        "company": "Yurture",
-        "c02": 76
-      },
-      {
-        "company": "Cipromox",
-        "c02": 45
-      },
-      {
-        "company": "Cincyr",
-        "c02": 16
-      },
-      {
-        "company": "Rodeology",
-        "c02": 70
-      },
-      {
-        "company": "Neptide",
-        "c02": 85
-      },
-      {
-        "company": "Prosure",
-        "c02": 96
-      },
-      {
-        "company": "Exoteric",
-        "c02": 82
-      },
-      {
-        "company": "Comtent",
-        "c02": 6
-      },
-      {
-        "company": "Sloganaut",
-        "c02": 11
-      },
-      {
-        "company": "Translink",
-        "c02": 91
-      },
-      {
-        "company": "Yogasm",
-        "c02": 20
-      },
-      {
-        "company": "Futurity",
-        "c02": 90
-      },
-      {
-        "company": "Acumentor",
-        "c02": 32
-      },
-      {
-        "company": "Visualix",
-        "c02": 18
-      },
-      {
-        "company": "Digique",
-        "c02": 26
-      },
-      {
-        "company": "Quilm",
-        "c02": 17
-      },
-      {
-        "company": "Rameon",
-        "c02": 32
-      },
-      {
-        "company": "Kidgrease",
-        "c02": 3
-      },
-      {
-        "company": "Eschoir",
-        "c02": 6
-      },
-      {
-        "company": "Papricut",
-        "c02": 55
-      },
-      {
-        "company": "Kenegy",
-        "c02": 93
-      },
-      {
-        "company": "Quonata",
-        "c02": 88
-      },
-      {
-        "company": "Opticon",
-        "c02": 68
-      },
-      {
-        "company": "Ramjob",
-        "c02": 21
-      },
-      {
-        "company": "Zillan",
-        "c02": 90
-      },
-      {
-        "company": "Dancerity",
-        "c02": 75
-      },
-      {
-        "company": "Oatfarm",
-        "c02": 17
-      },
-      {
-        "company": "Combot",
-        "c02": 32
-      },
-      {
-        "company": "Cormoran",
-        "c02": 90
-      },
-      {
-        "company": "Zentury",
-        "c02": 63
-      },
-      {
-        "company": "Geoforma",
-        "c02": 11
-      },
-      {
-        "company": "Waterbaby",
-        "c02": 17
-      },
-      {
-        "company": "Comtours",
-        "c02": 53
-      },
-      {
-        "company": "Aquafire",
-        "c02": 44
-      },
-      {
-        "company": "Edecine",
-        "c02": 82
-      },
-      {
-        "company": "Acrodance",
+        "object": "Injoy",
         "c02": 40
       },
       {
-        "company": "Freakin",
-        "c02": 15
-      },
-      {
-        "company": "Musanpoly",
-        "c02": 2
-      },
-      {
-        "company": "Miraclis",
-        "c02": 83
-      },
-      {
-        "company": "Hivedom",
-        "c02": 22
-      },
-      {
-        "company": "Assurity",
-        "c02": 87
-      },
-      {
-        "company": "Anarco",
-        "c02": 74
-      },
-      {
-        "company": "Ozean",
-        "c02": 36
-      },
-      {
-        "company": "Verton",
-        "c02": 73
-      },
-      {
-        "company": "Sultrax",
-        "c02": 16
-      },
-      {
-        "company": "Omnigog",
-        "c02": 25
-      },
-      {
-        "company": "Isoternia",
-        "c02": 82
-      },
-      {
-        "company": "Viasia",
-        "c02": 46
-      },
-      {
-        "company": "Extrawear",
-        "c02": 44
-      },
-      {
-        "company": "Flexigen",
-        "c02": 17
-      },
-      {
-        "company": "Squish",
-        "c02": 12
-      },
-      {
-        "company": "Cognicode",
-        "c02": 75
-      },
-      {
-        "company": "Naxdis",
-        "c02": 79
-      },
-      {
-        "company": "Cuizine",
-        "c02": 38
-      },
-      {
-        "company": "Virxo",
-        "c02": 41
-      },
-      {
-        "company": "Zappix",
-        "c02": 47
-      },
-      {
-        "company": "Ecosys",
-        "c02": 51
-      },
-      {
-        "company": "Netility",
-        "c02": 6
-      },
-      {
-        "company": "Izzby",
-        "c02": 72
-      },
-      {
-        "company": "Vidto",
-        "c02": 66
-      },
-      {
-        "company": "Comtext",
-        "c02": 64
-      },
-      {
-        "company": "Besto",
-        "c02": 69
-      },
-      {
-        "company": "Immunics",
-        "c02": 87
-      },
-      {
-        "company": "Emtrak",
-        "c02": 35
-      },
-      {
-        "company": "Zilencio",
-        "c02": 12
-      },
-      {
-        "company": "Genmy",
-        "c02": 4
-      },
-      {
-        "company": "Techtrix",
-        "c02": 27
-      },
-      {
-        "company": "Overfork",
-        "c02": 62
-      },
-      {
-        "company": "Splinx",
-        "c02": 59
-      },
-      {
-        "company": "Genmex",
-        "c02": 21
-      },
-      {
-        "company": "Quarex",
-        "c02": 7
-      },
-      {
-        "company": "Icology",
-        "c02": 81
-      },
-      {
-        "company": "Qiao",
-        "c02": 37
-      },
-      {
-        "company": "Geoform",
-        "c02": 21
-      },
-      {
-        "company": "Quantalia",
-        "c02": 55
-      },
-      {
-        "company": "Talae",
-        "c02": 72
-      },
-      {
-        "company": "Gology",
-        "c02": 69
-      },
-      {
-        "company": "Insectus",
+        "object": "Tsunamia",
         "c02": 80
       },
       {
-        "company": "Zenolux",
-        "c02": 66
+        "object": "Boilicon",
+        "c02": 84
       },
       {
-        "company": "Macronaut",
-        "c02": 22
+        "object": "Aeora",
+        "c02": 96
       },
       {
-        "company": "Baluba",
-        "c02": 17
+        "object": "Aquoavo",
+        "c02": 25
       },
       {
-        "company": "Comvey",
-        "c02": 13
+        "object": "Hopeli",
+        "c02": 91
       },
       {
-        "company": "Bittor",
+        "object": "Comtract",
+        "c02": 71
+      },
+      {
+        "object": "Cytrek",
+        "c02": 94
+      },
+      {
+        "object": "Orbixtar",
+        "c02": 42
+      },
+      {
+        "object": "Octocore",
+        "c02": 76
+      },
+      {
+        "object": "Acruex",
+        "c02": 3
+      },
+      {
+        "object": "Zensus",
+        "c02": 97
+      },
+      {
+        "object": "Softmicro",
+        "c02": 39
+      },
+      {
+        "object": "Anivet",
+        "c02": 76
+      },
+      {
+        "object": "Savvy",
+        "c02": 41
+      },
+      {
+        "object": "Accruex",
         "c02": 81
       },
       {
-        "company": "Stralum",
-        "c02": 50
+        "object": "Marketoid",
+        "c02": 15
       },
       {
-        "company": "Zoid",
-        "c02": 82
+        "object": "Namegen",
+        "c02": 84
       },
       {
-        "company": "Idealis",
-        "c02": 92
+        "object": "Comtrek",
+        "c02": 47
       },
       {
-        "company": "Rockabye",
-        "c02": 58
+        "object": "Bezal",
+        "c02": 64
       },
       {
-        "company": "Digifad",
-        "c02": 66
-      },
-      {
-        "company": "Photobin",
-        "c02": 21
-      },
-      {
-        "company": "Exoplode",
-        "c02": 31
-      },
-      {
-        "company": "Beadzza",
-        "c02": 56
-      },
-      {
-        "company": "Pharmex",
+        "object": "Lingoage",
         "c02": 18
       },
       {
-        "company": "Zanity",
+        "object": "Magneato",
+        "c02": 86
+      },
+      {
+        "object": "Isbol",
+        "c02": 9
+      },
+      {
+        "object": "Opportech",
+        "c02": 65
+      },
+      {
+        "object": "Kangle",
+        "c02": 88
+      },
+      {
+        "object": "Organica",
+        "c02": 37
+      },
+      {
+        "object": "Plasmos",
+        "c02": 7
+      },
+      {
+        "object": "Prismatic",
+        "c02": 97
+      },
+      {
+        "object": "Otherside",
+        "c02": 70
+      },
+      {
+        "object": "Zentix",
+        "c02": 52
+      },
+      {
+        "object": "Quordate",
+        "c02": 70
+      },
+      {
+        "object": "Accel",
+        "c02": 71
+      },
+      {
+        "object": "Temorak",
+        "c02": 51
+      },
+      {
+        "object": "Andryx",
+        "c02": 94
+      },
+      {
+        "object": "Momentia",
+        "c02": 71
+      },
+      {
+        "object": "Accupharm",
+        "c02": 66
+      },
+      {
+        "object": "Daisu",
+        "c02": 42
+      },
+      {
+        "object": "Dogspa",
+        "c02": 56
+      },
+      {
+        "object": "Insurety",
+        "c02": 60
+      },
+      {
+        "object": "Egypto",
+        "c02": 70
+      },
+      {
+        "object": "Gadtron",
+        "c02": 40
+      },
+      {
+        "object": "Bullzone",
+        "c02": 16
+      },
+      {
+        "object": "Medalert",
+        "c02": 17
+      },
+      {
+        "object": "Hyplex",
+        "c02": 80
+      },
+      {
+        "object": "Gazak",
+        "c02": 91
+      },
+      {
+        "object": "Remold",
+        "c02": 33
+      },
+      {
+        "object": "Luxuria",
+        "c02": 33
+      },
+      {
+        "object": "Imperium",
+        "c02": 3
+      },
+      {
+        "object": "Affluex",
+        "c02": 90
+      },
+      {
+        "object": "Conjurica",
+        "c02": 1
+      },
+      {
+        "object": "Portalis",
+        "c02": 67
+      },
+      {
+        "object": "Telpod",
+        "c02": 69
+      },
+      {
+        "object": "Comvoy",
+        "c02": 62
+      },
+      {
+        "object": "Zentime",
+        "c02": 71
+      },
+      {
+        "object": "Gluid",
+        "c02": 53
+      },
+      {
+        "object": "Zidox",
+        "c02": 73
+      },
+      {
+        "object": "Zoinage",
+        "c02": 28
+      },
+      {
+        "object": "Ultrasure",
+        "c02": 97
+      },
+      {
+        "object": "Applica",
+        "c02": 47
+      },
+      {
+        "object": "Veraq",
+        "c02": 36
+      },
+      {
+        "object": "Amtap",
+        "c02": 77
+      },
+      {
+        "object": "Spacewax",
+        "c02": 94
+      },
+      {
+        "object": "Dancity",
+        "c02": 5
+      },
+      {
+        "object": "Zoarere",
+        "c02": 91
+      },
+      {
+        "object": "Phuel",
+        "c02": 77
+      },
+      {
+        "object": "Insuron",
+        "c02": 36
+      },
+      {
+        "object": "Eargo",
+        "c02": 69
+      },
+      {
+        "object": "Insuresys",
+        "c02": 46
+      },
+      {
+        "object": "Entogrok",
+        "c02": 68
+      },
+      {
+        "object": "Indexia",
+        "c02": 76
+      },
+      {
+        "object": "Malathion",
+        "c02": 37
+      },
+      {
+        "object": "Ezent",
         "c02": 95
       },
       {
-        "company": "Zentia",
-        "c02": 61
+        "object": "Collaire",
+        "c02": 32
+      },
+      {
+        "object": "Elita",
+        "c02": 38
+      },
+      {
+        "object": "Inquala",
+        "c02": 73
+      },
+      {
+        "object": "Coriander",
+        "c02": 13
+      },
+      {
+        "object": "Undertap",
+        "c02": 88
+      },
+      {
+        "object": "Geekology",
+        "c02": 81
+      },
+      {
+        "object": "Steeltab",
+        "c02": 46
+      },
+      {
+        "object": "Ginkle",
+        "c02": 4
+      },
+      {
+        "object": "Tingles",
+        "c02": 17
+      },
+      {
+        "object": "Intrawear",
+        "c02": 68
+      },
+      {
+        "object": "Neurocell",
+        "c02": 73
+      },
+      {
+        "object": "Exostream",
+        "c02": 100
+      },
+      {
+        "object": "Digial",
+        "c02": 30
+      },
+      {
+        "object": "Jimbies",
+        "c02": 39
+      },
+      {
+        "object": "Zerology",
+        "c02": 97
+      },
+      {
+        "object": "Bluegrain",
+        "c02": 1
+      },
+      {
+        "object": "Konnect",
+        "c02": 82
+      },
+      {
+        "object": "Quilch",
+        "c02": 79
+      },
+      {
+        "object": "Comtrail",
+        "c02": 42
+      },
+      {
+        "object": "Pearlesex",
+        "c02": 80
+      },
+      {
+        "object": "Kongle",
+        "c02": 47
+      },
+      {
+        "object": "Ecratic",
+        "c02": 24
+      },
+      {
+        "object": "Hometown",
+        "c02": 66
+      },
+      {
+        "object": "Fibrodyne",
+        "c02": 58
       }
     ]
   },
@@ -1623,403 +813,403 @@
     "year": 2017,
     "data": [
       {
-        "company": "Vurbo",
-        "c02": 68
+        "object": "Zytrek",
+        "c02": 62
       },
       {
-        "company": "Vetron",
-        "c02": 50
-      },
-      {
-        "company": "Slumberia",
-        "c02": 64
-      },
-      {
-        "company": "Corecom",
-        "c02": 86
-      },
-      {
-        "company": "Neteria",
-        "c02": 16
-      },
-      {
-        "company": "Nurali",
-        "c02": 22
-      },
-      {
-        "company": "Recritube",
-        "c02": 77
-      },
-      {
-        "company": "Viagrand",
-        "c02": 84
-      },
-      {
-        "company": "Anocha",
+        "object": "Uni",
         "c02": 42
       },
       {
-        "company": "Zilphur",
-        "c02": 75
+        "object": "Eweville",
+        "c02": 49
       },
       {
-        "company": "Fanfare",
-        "c02": 6
-      },
-      {
-        "company": "Hairport",
+        "object": "Entality",
         "c02": 43
       },
       {
-        "company": "Bicol",
-        "c02": 19
-      },
-      {
-        "company": "Optyk",
-        "c02": 74
-      },
-      {
-        "company": "Zaphire",
-        "c02": 82
-      },
-      {
-        "company": "Scenty",
-        "c02": 16
-      },
-      {
-        "company": "Escenta",
-        "c02": 65
-      },
-      {
-        "company": "Frosnex",
-        "c02": 18
-      },
-      {
-        "company": "Nurplex",
-        "c02": 12
-      },
-      {
-        "company": "Ziore",
-        "c02": 4
-      },
-      {
-        "company": "Bleeko",
-        "c02": 17
-      },
-      {
-        "company": "Ebidco",
-        "c02": 86
-      },
-      {
-        "company": "Cemention",
-        "c02": 39
-      },
-      {
-        "company": "Orbean",
+        "object": "Newcube",
         "c02": 54
       },
       {
-        "company": "Rugstars",
-        "c02": 50
+        "object": "Pivitol",
+        "c02": 74
       },
       {
-        "company": "Unq",
-        "c02": 68
+        "object": "Maineland",
+        "c02": 92
       },
       {
-        "company": "Qimonk",
-        "c02": 88
+        "object": "Musaphics",
+        "c02": 18
       },
       {
-        "company": "Manufact",
-        "c02": 59
+        "object": "Medcom",
+        "c02": 6
       },
       {
-        "company": "Avenetro",
-        "c02": 15
-      },
-      {
-        "company": "Endicil",
-        "c02": 3
-      },
-      {
-        "company": "Moltonic",
-        "c02": 37
-      },
-      {
-        "company": "Krag",
-        "c02": 21
-      },
-      {
-        "company": "Dyno",
-        "c02": 77
-      },
-      {
-        "company": "Blurrybus",
-        "c02": 29
-      },
-      {
-        "company": "Enerforce",
-        "c02": 77
-      },
-      {
-        "company": "Helixo",
-        "c02": 86
-      },
-      {
-        "company": "Strezzo",
-        "c02": 16
-      },
-      {
-        "company": "Uxmox",
-        "c02": 47
-      },
-      {
-        "company": "Eventix",
-        "c02": 57
-      },
-      {
-        "company": "Viagreat",
-        "c02": 20
-      },
-      {
-        "company": "Menbrain",
-        "c02": 13
-      },
-      {
-        "company": "Snacktion",
-        "c02": 46
-      },
-      {
-        "company": "Snips",
-        "c02": 69
-      },
-      {
-        "company": "Portica",
+        "object": "Sulfax",
         "c02": 43
       },
       {
-        "company": "Bleendot",
-        "c02": 68
+        "object": "Zeam",
+        "c02": 50
       },
       {
-        "company": "Opticom",
+        "object": "Olympix",
+        "c02": 24
+      },
+      {
+        "object": "Insurity",
         "c02": 44
       },
       {
-        "company": "Earthplex",
-        "c02": 11
+        "object": "Zillar",
+        "c02": 76
       },
       {
-        "company": "Pholio",
-        "c02": 7
+        "object": "Buzzworks",
+        "c02": 51
       },
       {
-        "company": "Elemantra",
-        "c02": 77
-      },
-      {
-        "company": "Suremax",
-        "c02": 2
-      },
-      {
-        "company": "Nipaz",
-        "c02": 100
-      },
-      {
-        "company": "Ultrimax",
-        "c02": 84
-      },
-      {
-        "company": "Marqet",
-        "c02": 79
-      },
-      {
-        "company": "Rocklogic",
-        "c02": 57
-      },
-      {
-        "company": "Fossiel",
-        "c02": 70
-      },
-      {
-        "company": "Keengen",
-        "c02": 33
-      },
-      {
-        "company": "Shepard",
-        "c02": 83
-      },
-      {
-        "company": "Quility",
-        "c02": 21
-      },
-      {
-        "company": "Deviltoe",
-        "c02": 27
-      },
-      {
-        "company": "Evidends",
-        "c02": 94
-      },
-      {
-        "company": "Rodemco",
-        "c02": 19
-      },
-      {
-        "company": "Utarian",
-        "c02": 9
-      },
-      {
-        "company": "Golistic",
-        "c02": 75
-      },
-      {
-        "company": "Klugger",
-        "c02": 100
-      },
-      {
-        "company": "Poshome",
-        "c02": 27
-      },
-      {
-        "company": "Recrisys",
-        "c02": 78
-      },
-      {
-        "company": "Jasper",
-        "c02": 25
-      },
-      {
-        "company": "Comveyor",
-        "c02": 95
-      },
-      {
-        "company": "Glasstep",
-        "c02": 67
-      },
-      {
-        "company": "Aquamate",
-        "c02": 25
-      },
-      {
-        "company": "Bitendrex",
-        "c02": 93
-      },
-      {
-        "company": "Cogentry",
+        "object": "Acium",
         "c02": 44
       },
       {
-        "company": "Rooforia",
-        "c02": 73
+        "object": "Imageflow",
+        "c02": 17
       },
       {
-        "company": "Zolarex",
-        "c02": 22
+        "object": "Xeronk",
+        "c02": 49
       },
       {
-        "company": "Poochies",
-        "c02": 61
+        "object": "Mobildata",
+        "c02": 14
       },
       {
-        "company": "Slambda",
-        "c02": 61
+        "object": "Geologix",
+        "c02": 49
       },
       {
-        "company": "Cofine",
-        "c02": 75
+        "object": "Corpulse",
+        "c02": 56
       },
       {
-        "company": "Pawnagra",
-        "c02": 9
-      },
-      {
-        "company": "Sultraxin",
-        "c02": 85
-      },
-      {
-        "company": "Duflex",
-        "c02": 16
-      },
-      {
-        "company": "Isopop",
-        "c02": 81
-      },
-      {
-        "company": "Polaria",
-        "c02": 91
-      },
-      {
-        "company": "Zillanet",
-        "c02": 38
-      },
-      {
-        "company": "Envire",
-        "c02": 61
-      },
-      {
-        "company": "Inear",
-        "c02": 84
-      },
-      {
-        "company": "Comstruct",
-        "c02": 32
-      },
-      {
-        "company": "Cinaster",
-        "c02": 87
-      },
-      {
-        "company": "Pasturia",
-        "c02": 95
-      },
-      {
-        "company": "Medmex",
-        "c02": 22
-      },
-      {
-        "company": "Deepends",
-        "c02": 36
-      },
-      {
-        "company": "Corepan",
-        "c02": 9
-      },
-      {
-        "company": "Jumpstack",
-        "c02": 37
-      },
-      {
-        "company": "Nspire",
-        "c02": 13
-      },
-      {
-        "company": "Ovium",
-        "c02": 81
-      },
-      {
-        "company": "Uneeq",
-        "c02": 45
-      },
-      {
-        "company": "Comtrak",
+        "object": "Hydrocom",
         "c02": 80
       },
       {
-        "company": "Geostele",
-        "c02": 84
+        "object": "Quinex",
+        "c02": 58
       },
       {
-        "company": "Orboid",
-        "c02": 57
+        "object": "Pharmacon",
+        "c02": 23
       },
       {
-        "company": "Diginetic",
+        "object": "Springbee",
+        "c02": 62
+      },
+      {
+        "object": "Assitia",
+        "c02": 86
+      },
+      {
+        "object": "Oronoko",
+        "c02": 2
+      },
+      {
+        "object": "Tellifly",
+        "c02": 47
+      },
+      {
+        "object": "Fuelworks",
+        "c02": 70
+      },
+      {
+        "object": "Intergeek",
+        "c02": 54
+      },
+      {
+        "object": "Digigene",
+        "c02": 24
+      },
+      {
+        "object": "Parleynet",
+        "c02": 73
+      },
+      {
+        "object": "Boilcat",
+        "c02": 26
+      },
+      {
+        "object": "Incubus",
+        "c02": 54
+      },
+      {
+        "object": "Terragen",
+        "c02": 23
+      },
+      {
+        "object": "Bostonic",
+        "c02": 92
+      },
+      {
+        "object": "Tropolis",
+        "c02": 3
+      },
+      {
+        "object": "Geofarm",
+        "c02": 25
+      },
+      {
+        "object": "Toyletry",
+        "c02": 8
+      },
+      {
+        "object": "Moreganic",
+        "c02": 24
+      },
+      {
+        "object": "Sonique",
+        "c02": 64
+      },
+      {
+        "object": "Tubesys",
+        "c02": 77
+      },
+      {
+        "object": "Hotcakes",
+        "c02": 20
+      },
+      {
+        "object": "Zounds",
+        "c02": 97
+      },
+      {
+        "object": "Zork",
+        "c02": 43
+      },
+      {
+        "object": "Zillacon",
+        "c02": 62
+      },
+      {
+        "object": "Biolive",
+        "c02": 41
+      },
+      {
+        "object": "Billmed",
         "c02": 46
       },
       {
-        "company": "Signity",
+        "object": "Terrago",
+        "c02": 76
+      },
+      {
+        "object": "Uplinx",
+        "c02": 60
+      },
+      {
+        "object": "Geekus",
+        "c02": 71
+      },
+      {
+        "object": "Gink",
+        "c02": 67
+      },
+      {
+        "object": "Quonk",
+        "c02": 6
+      },
+      {
+        "object": "Geekol",
+        "c02": 40
+      },
+      {
+        "object": "Centice",
+        "c02": 88
+      },
+      {
+        "object": "Isotronic",
+        "c02": 10
+      },
+      {
+        "object": "Verbus",
+        "c02": 83
+      },
+      {
+        "object": "Imant",
+        "c02": 70
+      },
+      {
+        "object": "Zensor",
+        "c02": 16
+      },
+      {
+        "object": "Furnitech",
+        "c02": 26
+      },
+      {
+        "object": "Dogtown",
+        "c02": 55
+      },
+      {
+        "object": "Unia",
+        "c02": 79
+      },
+      {
+        "object": "Memora",
+        "c02": 87
+      },
+      {
+        "object": "Apex",
+        "c02": 75
+      },
+      {
+        "object": "Oceanica",
+        "c02": 69
+      },
+      {
+        "object": "Krog",
+        "c02": 88
+      },
+      {
+        "object": "Maxemia",
+        "c02": 23
+      },
+      {
+        "object": "Comstar",
+        "c02": 99
+      },
+      {
+        "object": "Earbang",
+        "c02": 77
+      },
+      {
+        "object": "Daido",
+        "c02": 73
+      },
+      {
+        "object": "Kegular",
+        "c02": 92
+      },
+      {
+        "object": "Xumonk",
+        "c02": 57
+      },
+      {
+        "object": "Exosis",
+        "c02": 58
+      },
+      {
+        "object": "Opticall",
+        "c02": 21
+      },
+      {
+        "object": "Aclima",
+        "c02": 4
+      },
+      {
+        "object": "Cowtown",
+        "c02": 18
+      },
+      {
+        "object": "Solgan",
+        "c02": 93
+      },
+      {
+        "object": "Ecraze",
+        "c02": 86
+      },
+      {
+        "object": "Ludak",
+        "c02": 77
+      },
+      {
+        "object": "Aquasseur",
+        "c02": 86
+      },
+      {
+        "object": "Scentric",
+        "c02": 65
+      },
+      {
+        "object": "Assistix",
+        "c02": 97
+      },
+      {
+        "object": "Kage",
+        "c02": 96
+      },
+      {
+        "object": "Xurban",
+        "c02": 5
+      },
+      {
+        "object": "Microluxe",
+        "c02": 59
+      },
+      {
+        "object": "Optique",
+        "c02": 37
+      },
+      {
+        "object": "Elpro",
+        "c02": 43
+      },
+      {
+        "object": "Isologics",
+        "c02": 97
+      },
+      {
+        "object": "Zentility",
+        "c02": 46
+      },
+      {
+        "object": "Furnafix",
+        "c02": 55
+      },
+      {
+        "object": "Netropic",
+        "c02": 48
+      },
+      {
+        "object": "Rotodyne",
+        "c02": 5
+      },
+      {
+        "object": "Portico",
+        "c02": 21
+      },
+      {
+        "object": "Quizmo",
+        "c02": 87
+      },
+      {
+        "object": "Uniworld",
+        "c02": 89
+      },
+      {
+        "object": "Nixelt",
+        "c02": 81
+      },
+      {
+        "object": "Matrixity",
+        "c02": 36
+      },
+      {
+        "object": "Enaut",
+        "c02": 19
+      },
+      {
+        "object": "Emergent",
+        "c02": 71
+      },
+      {
+        "object": "Ronbert",
         "c02": 49
       }
     ]
@@ -2028,404 +1218,404 @@
     "year": 2018,
     "data": [
       {
-        "company": "Xymonk",
-        "c02": 57
-      },
-      {
-        "company": "Omatom",
-        "c02": 28
-      },
-      {
-        "company": "Ersum",
-        "c02": 54
-      },
-      {
-        "company": "Niquent",
-        "c02": 64
-      },
-      {
-        "company": "Telepark",
-        "c02": 51
-      },
-      {
-        "company": "Snorus",
-        "c02": 80
-      },
-      {
-        "company": "Voipa",
-        "c02": 21
-      },
-      {
-        "company": "Exodoc",
-        "c02": 88
-      },
-      {
-        "company": "Zilladyne",
-        "c02": 83
-      },
-      {
-        "company": "Atomica",
-        "c02": 87
-      },
-      {
-        "company": "Limage",
-        "c02": 95
-      },
-      {
-        "company": "Portaline",
-        "c02": 26
-      },
-      {
-        "company": "Nikuda",
-        "c02": 15
-      },
-      {
-        "company": "Callflex",
-        "c02": 66
-      },
-      {
-        "company": "Infotrips",
-        "c02": 41
-      },
-      {
-        "company": "Minga",
-        "c02": 20
-      },
-      {
-        "company": "Endipin",
-        "c02": 58
-      },
-      {
-        "company": "Enjola",
-        "c02": 70
-      },
-      {
-        "company": "Codax",
-        "c02": 26
-      },
-      {
-        "company": "Progenex",
-        "c02": 53
-      },
-      {
-        "company": "Maroptic",
-        "c02": 63
-      },
-      {
-        "company": "Lotron",
-        "c02": 88
-      },
-      {
-        "company": "Darwinium",
-        "c02": 80
-      },
-      {
-        "company": "Andershun",
-        "c02": 24
-      },
-      {
-        "company": "Valreda",
-        "c02": 37
-      },
-      {
-        "company": "Orbiflex",
-        "c02": 31
-      },
-      {
-        "company": "Vantage",
-        "c02": 73
-      },
-      {
-        "company": "Animalia",
-        "c02": 14
-      },
-      {
-        "company": "Wrapture",
-        "c02": 99
-      },
-      {
-        "company": "Senmei",
-        "c02": 55
-      },
-      {
-        "company": "Cosmetex",
-        "c02": 72
-      },
-      {
-        "company": "Locazone",
-        "c02": 18
-      },
-      {
-        "company": "Interloo",
-        "c02": 82
-      },
-      {
-        "company": "Tripsch",
-        "c02": 32
-      },
-      {
-        "company": "Interodeo",
-        "c02": 86
-      },
-      {
-        "company": "Steelfab",
-        "c02": 27
-      },
-      {
-        "company": "Uncorp",
-        "c02": 56
-      },
-      {
-        "company": "Geekko",
-        "c02": 85
-      },
-      {
-        "company": "Zilidium",
-        "c02": 6
-      },
-      {
-        "company": "Manglo",
-        "c02": 53
-      },
-      {
-        "company": "Powernet",
-        "c02": 75
-      },
-      {
-        "company": "Kinetica",
-        "c02": 75
-      },
-      {
-        "company": "Genmom",
-        "c02": 40
-      },
-      {
-        "company": "Twiist",
-        "c02": 71
-      },
-      {
-        "company": "Xoggle",
-        "c02": 94
-      },
-      {
-        "company": "Skinserve",
+        "object": "Blanet",
         "c02": 3
       },
       {
-        "company": "Fangold",
-        "c02": 66
+        "object": "Plasmox",
+        "c02": 14
       },
       {
-        "company": "Kidstock",
-        "c02": 15
-      },
-      {
-        "company": "Vitricomp",
-        "c02": 84
-      },
-      {
-        "company": "Exozent",
-        "c02": 38
-      },
-      {
-        "company": "Isodrive",
-        "c02": 32
-      },
-      {
-        "company": "Flyboyz",
-        "c02": 31
-      },
-      {
-        "company": "Megall",
-        "c02": 73
-      },
-      {
-        "company": "Multron",
-        "c02": 63
-      },
-      {
-        "company": "Applideck",
-        "c02": 64
-      },
-      {
-        "company": "Mixers",
-        "c02": 6
-      },
-      {
-        "company": "Virva",
-        "c02": 90
-      },
-      {
-        "company": "Qnekt",
-        "c02": 72
-      },
-      {
-        "company": "Biospan",
-        "c02": 13
-      },
-      {
-        "company": "Phormula",
-        "c02": 38
-      },
-      {
-        "company": "Delphide",
-        "c02": 2
-      },
-      {
-        "company": "Earwax",
-        "c02": 7
-      },
-      {
-        "company": "Rodeomad",
-        "c02": 58
-      },
-      {
-        "company": "Sarasonic",
-        "c02": 84
-      },
-      {
-        "company": "Xplor",
-        "c02": 6
-      },
-      {
-        "company": "Printspan",
-        "c02": 85
-      },
-      {
-        "company": "Norsul",
-        "c02": 62
-      },
-      {
-        "company": "Digirang",
+        "object": "Kineticut",
         "c02": 95
       },
       {
-        "company": "Eternis",
-        "c02": 35
-      },
-      {
-        "company": "Idego",
-        "c02": 99
-      },
-      {
-        "company": "Enormo",
-        "c02": 43
-      },
-      {
-        "company": "Eclipsent",
-        "c02": 25
-      },
-      {
-        "company": "Combogene",
-        "c02": 42
-      },
-      {
-        "company": "Skybold",
-        "c02": 15
-      },
-      {
-        "company": "Pyramis",
-        "c02": 87
-      },
-      {
-        "company": "Cinesanct",
-        "c02": 37
-      },
-      {
-        "company": "Capscreen",
-        "c02": 69
-      },
-      {
-        "company": "Suretech",
-        "c02": 19
-      },
-      {
-        "company": "Katakana",
-        "c02": 6
-      },
-      {
-        "company": "Gallaxia",
-        "c02": 74
-      },
-      {
-        "company": "Globoil",
-        "c02": 73
-      },
-      {
-        "company": "Exoswitch",
-        "c02": 71
-      },
-      {
-        "company": "Ovation",
-        "c02": 29
-      },
-      {
-        "company": "Lumbrex",
-        "c02": 80
-      },
-      {
-        "company": "Pigzart",
-        "c02": 10
-      },
-      {
-        "company": "Circum",
-        "c02": 31
-      },
-      {
-        "company": "Goko",
+        "object": "Premiant",
         "c02": 88
       },
       {
-        "company": "Renovize",
-        "c02": 7
+        "object": "Bizmatic",
+        "c02": 24
       },
       {
-        "company": "Kiggle",
-        "c02": 28
+        "object": "Techmania",
+        "c02": 11
       },
       {
-        "company": "Lyrichord",
-        "c02": 42
+        "object": "Yurture",
+        "c02": 76
       },
       {
-        "company": "Limozen",
-        "c02": 10
+        "object": "Cipromox",
+        "c02": 45
       },
       {
-        "company": "Surelogic",
-        "c02": 58
-      },
-      {
-        "company": "Zentry",
+        "object": "Cincyr",
         "c02": 16
       },
       {
-        "company": "Insource",
-        "c02": 77
+        "object": "Rodeology",
+        "c02": 70
       },
       {
-        "company": "Ontality",
-        "c02": 7
+        "object": "Neptide",
+        "c02": 85
       },
       {
-        "company": "Ecolight",
-        "c02": 46
+        "object": "Prosure",
+        "c02": 96
       },
       {
-        "company": "Snowpoke",
-        "c02": 13
+        "object": "Exoteric",
+        "c02": 82
       },
       {
-        "company": "Geekfarm",
-        "c02": 69
+        "object": "Comtent",
+        "c02": 6
       },
       {
-        "company": "Dadabase",
+        "object": "Sloganaut",
+        "c02": 11
+      },
+      {
+        "object": "Translink",
+        "c02": 91
+      },
+      {
+        "object": "Yogasm",
+        "c02": 20
+      },
+      {
+        "object": "Futurity",
+        "c02": 90
+      },
+      {
+        "object": "Acumentor",
+        "c02": 32
+      },
+      {
+        "object": "Visualix",
+        "c02": 18
+      },
+      {
+        "object": "Digique",
+        "c02": 26
+      },
+      {
+        "object": "Quilm",
+        "c02": 17
+      },
+      {
+        "object": "Rameon",
+        "c02": 32
+      },
+      {
+        "object": "Kidgrease",
+        "c02": 3
+      },
+      {
+        "object": "Eschoir",
+        "c02": 6
+      },
+      {
+        "object": "Papricut",
+        "c02": 55
+      },
+      {
+        "object": "Kenegy",
+        "c02": 93
+      },
+      {
+        "object": "Quonata",
         "c02": 88
       },
       {
-        "company": "Zillatide",
+        "object": "Opticon",
+        "c02": 68
+      },
+      {
+        "object": "Ramjob",
+        "c02": 21
+      },
+      {
+        "object": "Zillan",
+        "c02": 90
+      },
+      {
+        "object": "Dancerity",
+        "c02": 75
+      },
+      {
+        "object": "Oatfarm",
+        "c02": 17
+      },
+      {
+        "object": "Combot",
+        "c02": 32
+      },
+      {
+        "object": "Cormoran",
+        "c02": 90
+      },
+      {
+        "object": "Zentury",
+        "c02": 63
+      },
+      {
+        "object": "Geoforma",
+        "c02": 11
+      },
+      {
+        "object": "Waterbaby",
+        "c02": 17
+      },
+      {
+        "object": "Comtours",
+        "c02": 53
+      },
+      {
+        "object": "Aquafire",
+        "c02": 44
+      },
+      {
+        "object": "Edecine",
+        "c02": 82
+      },
+      {
+        "object": "Acrodance",
+        "c02": 40
+      },
+      {
+        "object": "Freakin",
+        "c02": 15
+      },
+      {
+        "object": "Musanpoly",
+        "c02": 2
+      },
+      {
+        "object": "Miraclis",
+        "c02": 83
+      },
+      {
+        "object": "Hivedom",
+        "c02": 22
+      },
+      {
+        "object": "Assurity",
+        "c02": 87
+      },
+      {
+        "object": "Anarco",
+        "c02": 74
+      },
+      {
+        "object": "Ozean",
+        "c02": 36
+      },
+      {
+        "object": "Verton",
+        "c02": 73
+      },
+      {
+        "object": "Sultrax",
+        "c02": 16
+      },
+      {
+        "object": "Omnigog",
+        "c02": 25
+      },
+      {
+        "object": "Isoternia",
+        "c02": 82
+      },
+      {
+        "object": "Viasia",
+        "c02": 46
+      },
+      {
+        "object": "Extrawear",
+        "c02": 44
+      },
+      {
+        "object": "Flexigen",
+        "c02": 17
+      },
+      {
+        "object": "Squish",
+        "c02": 12
+      },
+      {
+        "object": "Cognicode",
+        "c02": 75
+      },
+      {
+        "object": "Naxdis",
+        "c02": 79
+      },
+      {
+        "object": "Cuizine",
         "c02": 38
+      },
+      {
+        "object": "Virxo",
+        "c02": 41
+      },
+      {
+        "object": "Zappix",
+        "c02": 47
+      },
+      {
+        "object": "Ecosys",
+        "c02": 51
+      },
+      {
+        "object": "Netility",
+        "c02": 6
+      },
+      {
+        "object": "Izzby",
+        "c02": 72
+      },
+      {
+        "object": "Vidto",
+        "c02": 66
+      },
+      {
+        "object": "Comtext",
+        "c02": 64
+      },
+      {
+        "object": "Besto",
+        "c02": 69
+      },
+      {
+        "object": "Immunics",
+        "c02": 87
+      },
+      {
+        "object": "Emtrak",
+        "c02": 35
+      },
+      {
+        "object": "Zilencio",
+        "c02": 12
+      },
+      {
+        "object": "Genmy",
+        "c02": 4
+      },
+      {
+        "object": "Techtrix",
+        "c02": 27
+      },
+      {
+        "object": "Overfork",
+        "c02": 62
+      },
+      {
+        "object": "Splinx",
+        "c02": 59
+      },
+      {
+        "object": "Genmex",
+        "c02": 21
+      },
+      {
+        "object": "Quarex",
+        "c02": 7
+      },
+      {
+        "object": "Icology",
+        "c02": 81
+      },
+      {
+        "object": "Qiao",
+        "c02": 37
+      },
+      {
+        "object": "Geoform",
+        "c02": 21
+      },
+      {
+        "object": "Quantalia",
+        "c02": 55
+      },
+      {
+        "object": "Talae",
+        "c02": 72
+      },
+      {
+        "object": "Gology",
+        "c02": 69
+      },
+      {
+        "object": "Insectus",
+        "c02": 80
+      },
+      {
+        "object": "Zenolux",
+        "c02": 66
+      },
+      {
+        "object": "Macronaut",
+        "c02": 22
+      },
+      {
+        "object": "Baluba",
+        "c02": 17
+      },
+      {
+        "object": "Comvey",
+        "c02": 13
+      },
+      {
+        "object": "Bittor",
+        "c02": 81
+      },
+      {
+        "object": "Stralum",
+        "c02": 50
+      },
+      {
+        "object": "Zoid",
+        "c02": 82
+      },
+      {
+        "object": "Idealis",
+        "c02": 92
+      },
+      {
+        "object": "Rockabye",
+        "c02": 58
+      },
+      {
+        "object": "Digifad",
+        "c02": 66
+      },
+      {
+        "object": "Photobin",
+        "c02": 21
+      },
+      {
+        "object": "Exoplode",
+        "c02": 31
+      },
+      {
+        "object": "Beadzza",
+        "c02": 56
+      },
+      {
+        "object": "Pharmex",
+        "c02": 18
+      },
+      {
+        "object": "Zanity",
+        "c02": 95
+      },
+      {
+        "object": "Zentia",
+        "c02": 61
       }
     ]
   },
@@ -2433,404 +1623,404 @@
     "year": 2019,
     "data": [
       {
-        "company": "Retrack",
-        "c02": 63
+        "object": "Vurbo",
+        "c02": 68
       },
       {
-        "company": "Primordia",
-        "c02": 87
-      },
-      {
-        "company": "Teraprene",
-        "c02": 93
-      },
-      {
-        "company": "Kyaguru",
-        "c02": 93
-      },
-      {
-        "company": "Rodeocean",
-        "c02": 100
-      },
-      {
-        "company": "Geekola",
-        "c02": 81
-      },
-      {
-        "company": "Asimiline",
-        "c02": 30
-      },
-      {
-        "company": "Retrotex",
-        "c02": 99
-      },
-      {
-        "company": "Architax",
-        "c02": 93
-      },
-      {
-        "company": "Zaya",
-        "c02": 69
-      },
-      {
-        "company": "Turnling",
-        "c02": 18
-      },
-      {
-        "company": "Webiotic",
-        "c02": 14
-      },
-      {
-        "company": "Cujo",
-        "c02": 2
-      },
-      {
-        "company": "Anacho",
-        "c02": 89
-      },
-      {
-        "company": "Datagen",
-        "c02": 33
-      },
-      {
-        "company": "Roughies",
-        "c02": 20
-      },
-      {
-        "company": "Isotrack",
-        "c02": 83
-      },
-      {
-        "company": "Concility",
-        "c02": 15
-      },
-      {
-        "company": "Iplax",
-        "c02": 4
-      },
-      {
-        "company": "Daycore",
-        "c02": 55
-      },
-      {
-        "company": "Synkgen",
-        "c02": 7
-      },
-      {
-        "company": "Zytrac",
-        "c02": 84
-      },
-      {
-        "company": "Repetwire",
-        "c02": 57
-      },
-      {
-        "company": "Peticular",
-        "c02": 82
-      },
-      {
-        "company": "Skyplex",
-        "c02": 1
-      },
-      {
-        "company": "Makingway",
-        "c02": 31
-      },
-      {
-        "company": "Noralex",
-        "c02": 90
-      },
-      {
-        "company": "Singavera",
-        "c02": 22
-      },
-      {
-        "company": "Exospeed",
-        "c02": 22
-      },
-      {
-        "company": "Tropoli",
-        "c02": 94
-      },
-      {
-        "company": "Mitroc",
-        "c02": 9
-      },
-      {
-        "company": "Isoswitch",
-        "c02": 78
-      },
-      {
-        "company": "Plasmosis",
-        "c02": 54
-      },
-      {
-        "company": "Quilk",
-        "c02": 85
-      },
-      {
-        "company": "Nitracyr",
-        "c02": 33
-      },
-      {
-        "company": "Idetica",
-        "c02": 77
-      },
-      {
-        "company": "Dognost",
+        "object": "Vetron",
         "c02": 50
       },
       {
-        "company": "Accidency",
-        "c02": 17
+        "object": "Slumberia",
+        "c02": 64
       },
       {
-        "company": "Paragonia",
-        "c02": 38
-      },
-      {
-        "company": "Aquacine",
-        "c02": 89
-      },
-      {
-        "company": "Prowaste",
-        "c02": 30
-      },
-      {
-        "company": "Spherix",
-        "c02": 8
-      },
-      {
-        "company": "Fuelton",
-        "c02": 72
-      },
-      {
-        "company": "Boink",
-        "c02": 6
-      },
-      {
-        "company": "Pearlessa",
-        "c02": 57
-      },
-      {
-        "company": "Coash",
-        "c02": 27
-      },
-      {
-        "company": "Tasmania",
-        "c02": 8
-      },
-      {
-        "company": "Kozgene",
-        "c02": 28
-      },
-      {
-        "company": "Nutralab",
-        "c02": 41
-      },
-      {
-        "company": "Grainspot",
-        "c02": 61
-      },
-      {
-        "company": "Puria",
-        "c02": 28
-      },
-      {
-        "company": "Biflex",
-        "c02": 6
-      },
-      {
-        "company": "Pyramax",
-        "c02": 100
-      },
-      {
-        "company": "Geeknet",
-        "c02": 13
-      },
-      {
-        "company": "Euron",
-        "c02": 91
-      },
-      {
-        "company": "Gaptec",
-        "c02": 45
-      },
-      {
-        "company": "Brainclip",
-        "c02": 92
-      },
-      {
-        "company": "Viocular",
-        "c02": 40
-      },
-      {
-        "company": "Hinway",
-        "c02": 97
-      },
-      {
-        "company": "Schoolio",
-        "c02": 100
-      },
-      {
-        "company": "Digitalus",
-        "c02": 74
-      },
-      {
-        "company": "Quotezart",
-        "c02": 19
-      },
-      {
-        "company": "Quailcom",
-        "c02": 84
-      },
-      {
-        "company": "Ecrater",
-        "c02": 83
-      },
-      {
-        "company": "Quintity",
-        "c02": 12
-      },
-      {
-        "company": "Proxsoft",
-        "c02": 66
-      },
-      {
-        "company": "Gorganic",
-        "c02": 23
-      },
-      {
-        "company": "Halap",
-        "c02": 69
-      },
-      {
-        "company": "Bunga",
-        "c02": 62
-      },
-      {
-        "company": "Soprano",
-        "c02": 30
-      },
-      {
-        "company": "Pathways",
-        "c02": 55
-      },
-      {
-        "company": "Myopium",
-        "c02": 88
-      },
-      {
-        "company": "Pushcart",
-        "c02": 60
-      },
-      {
-        "company": "Exiand",
-        "c02": 78
-      },
-      {
-        "company": "Strozen",
-        "c02": 52
-      },
-      {
-        "company": "Centregy",
-        "c02": 83
-      },
-      {
-        "company": "Tribalog",
-        "c02": 55
-      },
-      {
-        "company": "Flumbo",
-        "c02": 3
-      },
-      {
-        "company": "Xixan",
-        "c02": 36
-      },
-      {
-        "company": "Isosphere",
-        "c02": 63
-      },
-      {
-        "company": "Shopabout",
-        "c02": 36
-      },
-      {
-        "company": "Eclipto",
+        "object": "Corecom",
         "c02": 86
       },
       {
-        "company": "Cytrak",
-        "c02": 39
+        "object": "Neteria",
+        "c02": 16
       },
       {
-        "company": "Kraggle",
-        "c02": 72
+        "object": "Nurali",
+        "c02": 22
       },
       {
-        "company": "Miracula",
-        "c02": 46
+        "object": "Recritube",
+        "c02": 77
       },
       {
-        "company": "Mantrix",
-        "c02": 42
-      },
-      {
-        "company": "Jetsilk",
-        "c02": 1
-      },
-      {
-        "company": "Entroflex",
-        "c02": 58
-      },
-      {
-        "company": "Fleetmix",
-        "c02": 10
-      },
-      {
-        "company": "Kiosk",
-        "c02": 24
-      },
-      {
-        "company": "Slofast",
-        "c02": 2
-      },
-      {
-        "company": "Martgo",
-        "c02": 18
-      },
-      {
-        "company": "Irack",
-        "c02": 61
-      },
-      {
-        "company": "Zomboid",
-        "c02": 1
-      },
-      {
-        "company": "Amtas",
-        "c02": 11
-      },
-      {
-        "company": "Inventure",
-        "c02": 50
-      },
-      {
-        "company": "Zolar",
-        "c02": 63
-      },
-      {
-        "company": "Brainquil",
+        "object": "Viagrand",
         "c02": 84
       },
       {
-        "company": "Orbin",
-        "c02": 48
+        "object": "Anocha",
+        "c02": 42
       },
       {
-        "company": "Neocent",
-        "c02": 51
+        "object": "Zilphur",
+        "c02": 75
+      },
+      {
+        "object": "Fanfare",
+        "c02": 6
+      },
+      {
+        "object": "Hairport",
+        "c02": 43
+      },
+      {
+        "object": "Bicol",
+        "c02": 19
+      },
+      {
+        "object": "Optyk",
+        "c02": 74
+      },
+      {
+        "object": "Zaphire",
+        "c02": 82
+      },
+      {
+        "object": "Scenty",
+        "c02": 16
+      },
+      {
+        "object": "Escenta",
+        "c02": 65
+      },
+      {
+        "object": "Frosnex",
+        "c02": 18
+      },
+      {
+        "object": "Nurplex",
+        "c02": 12
+      },
+      {
+        "object": "Ziore",
+        "c02": 4
+      },
+      {
+        "object": "Bleeko",
+        "c02": 17
+      },
+      {
+        "object": "Ebidco",
+        "c02": 86
+      },
+      {
+        "object": "Cemention",
+        "c02": 39
+      },
+      {
+        "object": "Orbean",
+        "c02": 54
+      },
+      {
+        "object": "Rugstars",
+        "c02": 50
+      },
+      {
+        "object": "Unq",
+        "c02": 68
+      },
+      {
+        "object": "Qimonk",
+        "c02": 88
+      },
+      {
+        "object": "Manufact",
+        "c02": 59
+      },
+      {
+        "object": "Avenetro",
+        "c02": 15
+      },
+      {
+        "object": "Endicil",
+        "c02": 3
+      },
+      {
+        "object": "Moltonic",
+        "c02": 37
+      },
+      {
+        "object": "Krag",
+        "c02": 21
+      },
+      {
+        "object": "Dyno",
+        "c02": 77
+      },
+      {
+        "object": "Blurrybus",
+        "c02": 29
+      },
+      {
+        "object": "Enerforce",
+        "c02": 77
+      },
+      {
+        "object": "Helixo",
+        "c02": 86
+      },
+      {
+        "object": "Strezzo",
+        "c02": 16
+      },
+      {
+        "object": "Uxmox",
+        "c02": 47
+      },
+      {
+        "object": "Eventix",
+        "c02": 57
+      },
+      {
+        "object": "Viagreat",
+        "c02": 20
+      },
+      {
+        "object": "Menbrain",
+        "c02": 13
+      },
+      {
+        "object": "Snacktion",
+        "c02": 46
+      },
+      {
+        "object": "Snips",
+        "c02": 69
+      },
+      {
+        "object": "Portica",
+        "c02": 43
+      },
+      {
+        "object": "Bleendot",
+        "c02": 68
+      },
+      {
+        "object": "Opticom",
+        "c02": 44
+      },
+      {
+        "object": "Earthplex",
+        "c02": 11
+      },
+      {
+        "object": "Pholio",
+        "c02": 7
+      },
+      {
+        "object": "Elemantra",
+        "c02": 77
+      },
+      {
+        "object": "Suremax",
+        "c02": 2
+      },
+      {
+        "object": "Nipaz",
+        "c02": 100
+      },
+      {
+        "object": "Ultrimax",
+        "c02": 84
+      },
+      {
+        "object": "Marqet",
+        "c02": 79
+      },
+      {
+        "object": "Rocklogic",
+        "c02": 57
+      },
+      {
+        "object": "Fossiel",
+        "c02": 70
+      },
+      {
+        "object": "Keengen",
+        "c02": 33
+      },
+      {
+        "object": "Shepard",
+        "c02": 83
+      },
+      {
+        "object": "Quility",
+        "c02": 21
+      },
+      {
+        "object": "Deviltoe",
+        "c02": 27
+      },
+      {
+        "object": "Evidends",
+        "c02": 94
+      },
+      {
+        "object": "Rodemco",
+        "c02": 19
+      },
+      {
+        "object": "Utarian",
+        "c02": 9
+      },
+      {
+        "object": "Golistic",
+        "c02": 75
+      },
+      {
+        "object": "Klugger",
+        "c02": 100
+      },
+      {
+        "object": "Poshome",
+        "c02": 27
+      },
+      {
+        "object": "Recrisys",
+        "c02": 78
+      },
+      {
+        "object": "Jasper",
+        "c02": 25
+      },
+      {
+        "object": "Comveyor",
+        "c02": 95
+      },
+      {
+        "object": "Glasstep",
+        "c02": 67
+      },
+      {
+        "object": "Aquamate",
+        "c02": 25
+      },
+      {
+        "object": "Bitendrex",
+        "c02": 93
+      },
+      {
+        "object": "Cogentry",
+        "c02": 44
+      },
+      {
+        "object": "Rooforia",
+        "c02": 73
+      },
+      {
+        "object": "Zolarex",
+        "c02": 22
+      },
+      {
+        "object": "Poochies",
+        "c02": 61
+      },
+      {
+        "object": "Slambda",
+        "c02": 61
+      },
+      {
+        "object": "Cofine",
+        "c02": 75
+      },
+      {
+        "object": "Pawnagra",
+        "c02": 9
+      },
+      {
+        "object": "Sultraxin",
+        "c02": 85
+      },
+      {
+        "object": "Duflex",
+        "c02": 16
+      },
+      {
+        "object": "Isopop",
+        "c02": 81
+      },
+      {
+        "object": "Polaria",
+        "c02": 91
+      },
+      {
+        "object": "Zillanet",
+        "c02": 38
+      },
+      {
+        "object": "Envire",
+        "c02": 61
+      },
+      {
+        "object": "Inear",
+        "c02": 84
+      },
+      {
+        "object": "Comstruct",
+        "c02": 32
+      },
+      {
+        "object": "Cinaster",
+        "c02": 87
+      },
+      {
+        "object": "Pasturia",
+        "c02": 95
+      },
+      {
+        "object": "Medmex",
+        "c02": 22
+      },
+      {
+        "object": "Deepends",
+        "c02": 36
+      },
+      {
+        "object": "Corepan",
+        "c02": 9
+      },
+      {
+        "object": "Jumpstack",
+        "c02": 37
+      },
+      {
+        "object": "Nspire",
+        "c02": 13
+      },
+      {
+        "object": "Ovium",
+        "c02": 81
+      },
+      {
+        "object": "Uneeq",
+        "c02": 45
+      },
+      {
+        "object": "Comtrak",
+        "c02": 80
+      },
+      {
+        "object": "Geostele",
+        "c02": 84
+      },
+      {
+        "object": "Orboid",
+        "c02": 57
+      },
+      {
+        "object": "Diginetic",
+        "c02": 46
+      },
+      {
+        "object": "Signity",
+        "c02": 49
       }
     ]
   },
@@ -2838,404 +2028,404 @@
     "year": 2020,
     "data": [
       {
-        "company": "Sybixtex",
-        "c02": 16
+        "object": "Xymonk",
+        "c02": 57
       },
       {
-        "company": "Vixo",
-        "c02": 53
-      },
-      {
-        "company": "Greeker",
-        "c02": 70
-      },
-      {
-        "company": "Ohmnet",
-        "c02": 44
-      },
-      {
-        "company": "Zerbina",
-        "c02": 76
-      },
-      {
-        "company": "Quizka",
-        "c02": 32
-      },
-      {
-        "company": "Urbanshee",
-        "c02": 36
-      },
-      {
-        "company": "Qot",
-        "c02": 71
-      },
-      {
-        "company": "Extremo",
-        "c02": 12
-      },
-      {
-        "company": "Ovolo",
-        "c02": 30
-      },
-      {
-        "company": "Exoblue",
-        "c02": 33
-      },
-      {
-        "company": "Acusage",
-        "c02": 98
-      },
-      {
-        "company": "Frolix",
-        "c02": 95
-      },
-      {
-        "company": "Conferia",
-        "c02": 52
-      },
-      {
-        "company": "Columella",
-        "c02": 83
-      },
-      {
-        "company": "Franscene",
-        "c02": 4
-      },
-      {
-        "company": "Zensure",
-        "c02": 29
-      },
-      {
-        "company": "Arctiq",
-        "c02": 93
-      },
-      {
-        "company": "Honotron",
-        "c02": 19
-      },
-      {
-        "company": "Dragbot",
-        "c02": 43
-      },
-      {
-        "company": "Medicroix",
-        "c02": 25
-      },
-      {
-        "company": "Securia",
-        "c02": 87
-      },
-      {
-        "company": "Earthwax",
-        "c02": 65
-      },
-      {
-        "company": "Comverges",
-        "c02": 40
-      },
-      {
-        "company": "Everest",
-        "c02": 55
-      },
-      {
-        "company": "Comvene",
-        "c02": 11
-      },
-      {
-        "company": "Turnabout",
-        "c02": 5
-      },
-      {
-        "company": "Flum",
-        "c02": 84
-      },
-      {
-        "company": "Eplosion",
-        "c02": 55
-      },
-      {
-        "company": "Cubicide",
-        "c02": 35
-      },
-      {
-        "company": "Buzzmaker",
-        "c02": 33
-      },
-      {
-        "company": "Sunclipse",
-        "c02": 23
-      },
-      {
-        "company": "Lovepad",
-        "c02": 46
-      },
-      {
-        "company": "Exerta",
-        "c02": 80
-      },
-      {
-        "company": "Gushkool",
-        "c02": 2
-      },
-      {
-        "company": "Recognia",
-        "c02": 40
-      },
-      {
-        "company": "Ewaves",
-        "c02": 30
-      },
-      {
-        "company": "Centrexin",
-        "c02": 84
-      },
-      {
-        "company": "Sensate",
-        "c02": 49
-      },
-      {
-        "company": "Ginkogene",
-        "c02": 68
-      },
-      {
-        "company": "Songbird",
-        "c02": 63
-      },
-      {
-        "company": "Hawkster",
-        "c02": 40
-      },
-      {
-        "company": "Talkola",
-        "c02": 58
-      },
-      {
-        "company": "Accuprint",
-        "c02": 71
-      },
-      {
-        "company": "Musix",
-        "c02": 55
-      },
-      {
-        "company": "Apextri",
-        "c02": 68
-      },
-      {
-        "company": "Eplode",
-        "c02": 16
-      },
-      {
-        "company": "Utara",
-        "c02": 11
-      },
-      {
-        "company": "Grupoli",
-        "c02": 18
-      },
-      {
-        "company": "Plexia",
-        "c02": 73
-      },
-      {
-        "company": "Medifax",
-        "c02": 92
-      },
-      {
-        "company": "Flotonic",
-        "c02": 65
-      },
-      {
-        "company": "Petigems",
-        "c02": 24
-      },
-      {
-        "company": "Xyqag",
-        "c02": 95
-      },
-      {
-        "company": "Cedward",
-        "c02": 51
-      },
-      {
-        "company": "Eyewax",
-        "c02": 76
-      },
-      {
-        "company": "Norsup",
-        "c02": 95
-      },
-      {
-        "company": "Zipak",
-        "c02": 47
-      },
-      {
-        "company": "Zytrex",
-        "c02": 74
-      },
-      {
-        "company": "Orbaxter",
-        "c02": 45
-      },
-      {
-        "company": "Colaire",
-        "c02": 17
-      },
-      {
-        "company": "Magmina",
-        "c02": 1
-      },
-      {
-        "company": "Genesynk",
-        "c02": 33
-      },
-      {
-        "company": "Bitrex",
-        "c02": 17
-      },
-      {
-        "company": "Zaggle",
-        "c02": 11
-      },
-      {
-        "company": "Codact",
-        "c02": 89
-      },
-      {
-        "company": "Earthpure",
-        "c02": 19
-      },
-      {
-        "company": "Tourmania",
-        "c02": 1
-      },
-      {
-        "company": "Orbalix",
-        "c02": 38
-      },
-      {
-        "company": "Fiberox",
-        "c02": 77
-      },
-      {
-        "company": "Vertide",
-        "c02": 32
-      },
-      {
-        "company": "Zolavo",
-        "c02": 46
-      },
-      {
-        "company": "Pulze",
-        "c02": 26
-      },
-      {
-        "company": "Comcur",
-        "c02": 65
-      },
-      {
-        "company": "Netur",
-        "c02": 94
-      },
-      {
-        "company": "Multiflex",
-        "c02": 16
-      },
-      {
-        "company": "Ziggles",
-        "c02": 24
-      },
-      {
-        "company": "Gynk",
-        "c02": 2
-      },
-      {
-        "company": "Deminimum",
-        "c02": 79
-      },
-      {
-        "company": "Zizzle",
-        "c02": 31
-      },
-      {
-        "company": "Kaggle",
-        "c02": 9
-      },
-      {
-        "company": "Zanymax",
-        "c02": 63
-      },
-      {
-        "company": "Wazzu",
-        "c02": 76
-      },
-      {
-        "company": "Zaj",
-        "c02": 74
-      },
-      {
-        "company": "Enthaze",
-        "c02": 83
-      },
-      {
-        "company": "Essensia",
+        "object": "Omatom",
         "c02": 28
       },
       {
-        "company": "Syntac",
-        "c02": 17
+        "object": "Ersum",
+        "c02": 54
       },
       {
-        "company": "Geeketron",
-        "c02": 16
+        "object": "Niquent",
+        "c02": 64
       },
       {
-        "company": "Micronaut",
-        "c02": 7
+        "object": "Telepark",
+        "c02": 51
       },
       {
-        "company": "Zidant",
+        "object": "Snorus",
+        "c02": 80
+      },
+      {
+        "object": "Voipa",
+        "c02": 21
+      },
+      {
+        "object": "Exodoc",
+        "c02": 88
+      },
+      {
+        "object": "Zilladyne",
+        "c02": 83
+      },
+      {
+        "object": "Atomica",
+        "c02": 87
+      },
+      {
+        "object": "Limage",
         "c02": 95
       },
       {
-        "company": "Cablam",
-        "c02": 59
+        "object": "Portaline",
+        "c02": 26
       },
       {
-        "company": "Permadyne",
-        "c02": 56
+        "object": "Nikuda",
+        "c02": 15
       },
       {
-        "company": "Xerex",
-        "c02": 39
+        "object": "Callflex",
+        "c02": 66
       },
       {
-        "company": "Zyple",
-        "c02": 82
+        "object": "Infotrips",
+        "c02": 41
       },
       {
-        "company": "Imkan",
-        "c02": 79
-      },
-      {
-        "company": "Zedalis",
-        "c02": 40
-      },
-      {
-        "company": "Calcu",
-        "c02": 4
-      },
-      {
-        "company": "Filodyne",
-        "c02": 2
-      },
-      {
-        "company": "Zorromop",
+        "object": "Minga",
         "c02": 20
       },
       {
-        "company": "Earthmark",
+        "object": "Endipin",
+        "c02": 58
+      },
+      {
+        "object": "Enjola",
+        "c02": 70
+      },
+      {
+        "object": "Codax",
+        "c02": 26
+      },
+      {
+        "object": "Progenex",
+        "c02": 53
+      },
+      {
+        "object": "Maroptic",
+        "c02": 63
+      },
+      {
+        "object": "Lotron",
+        "c02": 88
+      },
+      {
+        "object": "Darwinium",
+        "c02": 80
+      },
+      {
+        "object": "Andershun",
+        "c02": 24
+      },
+      {
+        "object": "Valreda",
+        "c02": 37
+      },
+      {
+        "object": "Orbiflex",
+        "c02": 31
+      },
+      {
+        "object": "Vantage",
+        "c02": 73
+      },
+      {
+        "object": "Animalia",
+        "c02": 14
+      },
+      {
+        "object": "Wrapture",
+        "c02": 99
+      },
+      {
+        "object": "Senmei",
+        "c02": 55
+      },
+      {
+        "object": "Cosmetex",
+        "c02": 72
+      },
+      {
+        "object": "Locazone",
+        "c02": 18
+      },
+      {
+        "object": "Interloo",
         "c02": 82
+      },
+      {
+        "object": "Tripsch",
+        "c02": 32
+      },
+      {
+        "object": "Interodeo",
+        "c02": 86
+      },
+      {
+        "object": "Steelfab",
+        "c02": 27
+      },
+      {
+        "object": "Uncorp",
+        "c02": 56
+      },
+      {
+        "object": "Geekko",
+        "c02": 85
+      },
+      {
+        "object": "Zilidium",
+        "c02": 6
+      },
+      {
+        "object": "Manglo",
+        "c02": 53
+      },
+      {
+        "object": "Powernet",
+        "c02": 75
+      },
+      {
+        "object": "Kinetica",
+        "c02": 75
+      },
+      {
+        "object": "Genmom",
+        "c02": 40
+      },
+      {
+        "object": "Twiist",
+        "c02": 71
+      },
+      {
+        "object": "Xoggle",
+        "c02": 94
+      },
+      {
+        "object": "Skinserve",
+        "c02": 3
+      },
+      {
+        "object": "Fangold",
+        "c02": 66
+      },
+      {
+        "object": "Kidstock",
+        "c02": 15
+      },
+      {
+        "object": "Vitricomp",
+        "c02": 84
+      },
+      {
+        "object": "Exozent",
+        "c02": 38
+      },
+      {
+        "object": "Isodrive",
+        "c02": 32
+      },
+      {
+        "object": "Flyboyz",
+        "c02": 31
+      },
+      {
+        "object": "Megall",
+        "c02": 73
+      },
+      {
+        "object": "Multron",
+        "c02": 63
+      },
+      {
+        "object": "Applideck",
+        "c02": 64
+      },
+      {
+        "object": "Mixers",
+        "c02": 6
+      },
+      {
+        "object": "Virva",
+        "c02": 90
+      },
+      {
+        "object": "Qnekt",
+        "c02": 72
+      },
+      {
+        "object": "Biospan",
+        "c02": 13
+      },
+      {
+        "object": "Phormula",
+        "c02": 38
+      },
+      {
+        "object": "Delphide",
+        "c02": 2
+      },
+      {
+        "object": "Earwax",
+        "c02": 7
+      },
+      {
+        "object": "Rodeomad",
+        "c02": 58
+      },
+      {
+        "object": "Sarasonic",
+        "c02": 84
+      },
+      {
+        "object": "Xplor",
+        "c02": 6
+      },
+      {
+        "object": "Printspan",
+        "c02": 85
+      },
+      {
+        "object": "Norsul",
+        "c02": 62
+      },
+      {
+        "object": "Digirang",
+        "c02": 95
+      },
+      {
+        "object": "Eternis",
+        "c02": 35
+      },
+      {
+        "object": "Idego",
+        "c02": 99
+      },
+      {
+        "object": "Enormo",
+        "c02": 43
+      },
+      {
+        "object": "Eclipsent",
+        "c02": 25
+      },
+      {
+        "object": "Combogene",
+        "c02": 42
+      },
+      {
+        "object": "Skybold",
+        "c02": 15
+      },
+      {
+        "object": "Pyramis",
+        "c02": 87
+      },
+      {
+        "object": "Cinesanct",
+        "c02": 37
+      },
+      {
+        "object": "Capscreen",
+        "c02": 69
+      },
+      {
+        "object": "Suretech",
+        "c02": 19
+      },
+      {
+        "object": "Katakana",
+        "c02": 6
+      },
+      {
+        "object": "Gallaxia",
+        "c02": 74
+      },
+      {
+        "object": "Globoil",
+        "c02": 73
+      },
+      {
+        "object": "Exoswitch",
+        "c02": 71
+      },
+      {
+        "object": "Ovation",
+        "c02": 29
+      },
+      {
+        "object": "Lumbrex",
+        "c02": 80
+      },
+      {
+        "object": "Pigzart",
+        "c02": 10
+      },
+      {
+        "object": "Circum",
+        "c02": 31
+      },
+      {
+        "object": "Goko",
+        "c02": 88
+      },
+      {
+        "object": "Renovize",
+        "c02": 7
+      },
+      {
+        "object": "Kiggle",
+        "c02": 28
+      },
+      {
+        "object": "Lyrichord",
+        "c02": 42
+      },
+      {
+        "object": "Limozen",
+        "c02": 10
+      },
+      {
+        "object": "Surelogic",
+        "c02": 58
+      },
+      {
+        "object": "Zentry",
+        "c02": 16
+      },
+      {
+        "object": "Insource",
+        "c02": 77
+      },
+      {
+        "object": "Ontality",
+        "c02": 7
+      },
+      {
+        "object": "Ecolight",
+        "c02": 46
+      },
+      {
+        "object": "Snowpoke",
+        "c02": 13
+      },
+      {
+        "object": "Geekfarm",
+        "c02": 69
+      },
+      {
+        "object": "Dadabase",
+        "c02": 88
+      },
+      {
+        "object": "Zillatide",
+        "c02": 38
       }
     ]
   },
@@ -3243,404 +2433,404 @@
     "year": 2021,
     "data": [
       {
-        "company": "Sportan",
-        "c02": 85
+        "object": "Retrack",
+        "c02": 63
       },
       {
-        "company": "Talendula",
-        "c02": 24
-      },
-      {
-        "company": "Centree",
-        "c02": 62
-      },
-      {
-        "company": "Centuria",
-        "c02": 76
-      },
-      {
-        "company": "Magnemo",
-        "c02": 30
-      },
-      {
-        "company": "Motovate",
-        "c02": 12
-      },
-      {
-        "company": "Fortean",
-        "c02": 61
-      },
-      {
-        "company": "Tetratrex",
-        "c02": 37
-      },
-      {
-        "company": "Gleamink",
-        "c02": 4
-      },
-      {
-        "company": "Gronk",
-        "c02": 47
-      },
-      {
-        "company": "Pyramia",
-        "c02": 45
-      },
-      {
-        "company": "Xanide",
-        "c02": 62
-      },
-      {
-        "company": "Applidec",
-        "c02": 9
-      },
-      {
-        "company": "Xelegyl",
-        "c02": 31
-      },
-      {
-        "company": "Trasola",
-        "c02": 82
-      },
-      {
-        "company": "Liquidoc",
-        "c02": 57
-      },
-      {
-        "company": "Twiggery",
-        "c02": 37
-      },
-      {
-        "company": "Extro",
-        "c02": 79
-      },
-      {
-        "company": "Austech",
-        "c02": 59
-      },
-      {
-        "company": "Thredz",
-        "c02": 35
-      },
-      {
-        "company": "Zillactic",
-        "c02": 88
-      },
-      {
-        "company": "Overplex",
-        "c02": 68
-      },
-      {
-        "company": "Isoplex",
+        "object": "Primordia",
         "c02": 87
       },
       {
-        "company": "Cytrex",
-        "c02": 8
+        "object": "Teraprene",
+        "c02": 93
       },
       {
-        "company": "Polarax",
-        "c02": 88
+        "object": "Kyaguru",
+        "c02": 93
       },
       {
-        "company": "Velity",
-        "c02": 68
-      },
-      {
-        "company": "Decratex",
-        "c02": 46
-      },
-      {
-        "company": "Zinca",
-        "c02": 19
-      },
-      {
-        "company": "Comfirm",
-        "c02": 70
-      },
-      {
-        "company": "Zoxy",
-        "c02": 17
-      },
-      {
-        "company": "Obones",
-        "c02": 90
-      },
-      {
-        "company": "Exotechno",
-        "c02": 94
-      },
-      {
-        "company": "Marvane",
-        "c02": 76
-      },
-      {
-        "company": "Roboid",
-        "c02": 29
-      },
-      {
-        "company": "Anixang",
-        "c02": 35
-      },
-      {
-        "company": "Quarx",
-        "c02": 40
-      },
-      {
-        "company": "Equitax",
-        "c02": 8
-      },
-      {
-        "company": "Radiantix",
-        "c02": 57
-      },
-      {
-        "company": "Austex",
-        "c02": 6
-      },
-      {
-        "company": "Eventage",
-        "c02": 33
-      },
-      {
-        "company": "Emtrac",
-        "c02": 34
-      },
-      {
-        "company": "Cosmosis",
-        "c02": 3
-      },
-      {
-        "company": "Otherway",
-        "c02": 41
-      },
-      {
-        "company": "Buzzness",
-        "c02": 47
-      },
-      {
-        "company": "Mazuda",
-        "c02": 57
-      },
-      {
-        "company": "Vendblend",
-        "c02": 1
-      },
-      {
-        "company": "Knowlysis",
-        "c02": 7
-      },
-      {
-        "company": "Valpreal",
-        "c02": 4
-      },
-      {
-        "company": "Mangelica",
-        "c02": 44
-      },
-      {
-        "company": "Trollery",
-        "c02": 30
-      },
-      {
-        "company": "Sealoud",
-        "c02": 24
-      },
-      {
-        "company": "Biohab",
-        "c02": 49
-      },
-      {
-        "company": "Plasto",
-        "c02": 42
-      },
-      {
-        "company": "Exposa",
-        "c02": 46
-      },
-      {
-        "company": "Kyagoro",
-        "c02": 54
-      },
-      {
-        "company": "Namebox",
-        "c02": 35
-      },
-      {
-        "company": "Zogak",
-        "c02": 73
-      },
-      {
-        "company": "Digiprint",
-        "c02": 70
-      },
-      {
-        "company": "Atgen",
-        "c02": 69
-      },
-      {
-        "company": "Medesign",
-        "c02": 46
-      },
-      {
-        "company": "Bulljuice",
-        "c02": 25
-      },
-      {
-        "company": "Isostream",
-        "c02": 72
-      },
-      {
-        "company": "Zenthall",
-        "c02": 97
-      },
-      {
-        "company": "Zilodyne",
-        "c02": 11
-      },
-      {
-        "company": "Sentia",
-        "c02": 10
-      },
-      {
-        "company": "Playce",
-        "c02": 98
-      },
-      {
-        "company": "Tersanki",
-        "c02": 75
-      },
-      {
-        "company": "Isosure",
-        "c02": 42
-      },
-      {
-        "company": "Netplax",
-        "c02": 99
-      },
-      {
-        "company": "Ezentia",
-        "c02": 53
-      },
-      {
-        "company": "Glukgluk",
-        "c02": 41
-      },
-      {
-        "company": "Signidyne",
+        "object": "Rodeocean",
         "c02": 100
       },
       {
-        "company": "Gynko",
-        "c02": 52
+        "object": "Geekola",
+        "c02": 81
       },
       {
-        "company": "Keeg",
-        "c02": 47
+        "object": "Asimiline",
+        "c02": 30
       },
       {
-        "company": "Dymi",
-        "c02": 17
+        "object": "Retrotex",
+        "c02": 99
       },
       {
-        "company": "Velos",
-        "c02": 95
+        "object": "Architax",
+        "c02": 93
       },
       {
-        "company": "Dognosis",
-        "c02": 68
-      },
-      {
-        "company": "Comveyer",
-        "c02": 11
-      },
-      {
-        "company": "Xleen",
-        "c02": 52
-      },
-      {
-        "company": "Terascape",
-        "c02": 50
-      },
-      {
-        "company": "Chillium",
-        "c02": 94
-      },
-      {
-        "company": "Protodyne",
-        "c02": 83
-      },
-      {
-        "company": "Ceprene",
-        "c02": 85
-      },
-      {
-        "company": "Digigen",
+        "object": "Zaya",
         "c02": 69
       },
       {
-        "company": "Danja",
-        "c02": 58
+        "object": "Turnling",
+        "c02": 18
       },
       {
-        "company": "Reversus",
-        "c02": 34
+        "object": "Webiotic",
+        "c02": 14
       },
       {
-        "company": "Biotica",
-        "c02": 68
+        "object": "Cujo",
+        "c02": 2
       },
       {
-        "company": "Telequiet",
-        "c02": 75
-      },
-      {
-        "company": "Enomen",
-        "c02": 38
-      },
-      {
-        "company": "Unisure",
+        "object": "Anacho",
         "c02": 89
       },
       {
-        "company": "Xinware",
-        "c02": 95
+        "object": "Datagen",
+        "c02": 33
       },
       {
-        "company": "Avit",
-        "c02": 26
+        "object": "Roughies",
+        "c02": 20
       },
       {
-        "company": "Extragene",
-        "c02": 79
+        "object": "Isotrack",
+        "c02": 83
       },
       {
-        "company": "Magnafone",
-        "c02": 17
+        "object": "Concility",
+        "c02": 15
       },
       {
-        "company": "Zepitope",
-        "c02": 37
+        "object": "Iplax",
+        "c02": 4
       },
       {
-        "company": "Bedder",
-        "c02": 90
+        "object": "Daycore",
+        "c02": 55
       },
       {
-        "company": "Eventex",
+        "object": "Synkgen",
+        "c02": 7
+      },
+      {
+        "object": "Zytrac",
         "c02": 84
       },
       {
-        "company": "Cubix",
+        "object": "Repetwire",
+        "c02": 57
+      },
+      {
+        "object": "Peticular",
+        "c02": 82
+      },
+      {
+        "object": "Skyplex",
+        "c02": 1
+      },
+      {
+        "object": "Makingway",
+        "c02": 31
+      },
+      {
+        "object": "Noralex",
+        "c02": 90
+      },
+      {
+        "object": "Singavera",
+        "c02": 22
+      },
+      {
+        "object": "Exospeed",
+        "c02": 22
+      },
+      {
+        "object": "Tropoli",
+        "c02": 94
+      },
+      {
+        "object": "Mitroc",
+        "c02": 9
+      },
+      {
+        "object": "Isoswitch",
+        "c02": 78
+      },
+      {
+        "object": "Plasmosis",
+        "c02": 54
+      },
+      {
+        "object": "Quilk",
+        "c02": 85
+      },
+      {
+        "object": "Nitracyr",
+        "c02": 33
+      },
+      {
+        "object": "Idetica",
+        "c02": 77
+      },
+      {
+        "object": "Dognost",
+        "c02": 50
+      },
+      {
+        "object": "Accidency",
+        "c02": 17
+      },
+      {
+        "object": "Paragonia",
+        "c02": 38
+      },
+      {
+        "object": "Aquacine",
+        "c02": 89
+      },
+      {
+        "object": "Prowaste",
+        "c02": 30
+      },
+      {
+        "object": "Spherix",
+        "c02": 8
+      },
+      {
+        "object": "Fuelton",
+        "c02": 72
+      },
+      {
+        "object": "Boink",
+        "c02": 6
+      },
+      {
+        "object": "Pearlessa",
+        "c02": 57
+      },
+      {
+        "object": "Coash",
+        "c02": 27
+      },
+      {
+        "object": "Tasmania",
+        "c02": 8
+      },
+      {
+        "object": "Kozgene",
+        "c02": 28
+      },
+      {
+        "object": "Nutralab",
+        "c02": 41
+      },
+      {
+        "object": "Grainspot",
         "c02": 61
       },
       {
-        "company": "Straloy",
-        "c02": 64
+        "object": "Puria",
+        "c02": 28
       },
       {
-        "company": "Enersol",
-        "c02": 87
+        "object": "Biflex",
+        "c02": 6
+      },
+      {
+        "object": "Pyramax",
+        "c02": 100
+      },
+      {
+        "object": "Geeknet",
+        "c02": 13
+      },
+      {
+        "object": "Euron",
+        "c02": 91
+      },
+      {
+        "object": "Gaptec",
+        "c02": 45
+      },
+      {
+        "object": "Brainclip",
+        "c02": 92
+      },
+      {
+        "object": "Viocular",
+        "c02": 40
+      },
+      {
+        "object": "Hinway",
+        "c02": 97
+      },
+      {
+        "object": "Schoolio",
+        "c02": 100
+      },
+      {
+        "object": "Digitalus",
+        "c02": 74
+      },
+      {
+        "object": "Quotezart",
+        "c02": 19
+      },
+      {
+        "object": "Quailcom",
+        "c02": 84
+      },
+      {
+        "object": "Ecrater",
+        "c02": 83
+      },
+      {
+        "object": "Quintity",
+        "c02": 12
+      },
+      {
+        "object": "Proxsoft",
+        "c02": 66
+      },
+      {
+        "object": "Gorganic",
+        "c02": 23
+      },
+      {
+        "object": "Halap",
+        "c02": 69
+      },
+      {
+        "object": "Bunga",
+        "c02": 62
+      },
+      {
+        "object": "Soprano",
+        "c02": 30
+      },
+      {
+        "object": "Pathways",
+        "c02": 55
+      },
+      {
+        "object": "Myopium",
+        "c02": 88
+      },
+      {
+        "object": "Pushcart",
+        "c02": 60
+      },
+      {
+        "object": "Exiand",
+        "c02": 78
+      },
+      {
+        "object": "Strozen",
+        "c02": 52
+      },
+      {
+        "object": "Centregy",
+        "c02": 83
+      },
+      {
+        "object": "Tribalog",
+        "c02": 55
+      },
+      {
+        "object": "Flumbo",
+        "c02": 3
+      },
+      {
+        "object": "Xixan",
+        "c02": 36
+      },
+      {
+        "object": "Isosphere",
+        "c02": 63
+      },
+      {
+        "object": "Shopabout",
+        "c02": 36
+      },
+      {
+        "object": "Eclipto",
+        "c02": 86
+      },
+      {
+        "object": "Cytrak",
+        "c02": 39
+      },
+      {
+        "object": "Kraggle",
+        "c02": 72
+      },
+      {
+        "object": "Miracula",
+        "c02": 46
+      },
+      {
+        "object": "Mantrix",
+        "c02": 42
+      },
+      {
+        "object": "Jetsilk",
+        "c02": 1
+      },
+      {
+        "object": "Entroflex",
+        "c02": 58
+      },
+      {
+        "object": "Fleetmix",
+        "c02": 10
+      },
+      {
+        "object": "Kiosk",
+        "c02": 24
+      },
+      {
+        "object": "Slofast",
+        "c02": 2
+      },
+      {
+        "object": "Martgo",
+        "c02": 18
+      },
+      {
+        "object": "Irack",
+        "c02": 61
+      },
+      {
+        "object": "Zomboid",
+        "c02": 1
+      },
+      {
+        "object": "Amtas",
+        "c02": 11
+      },
+      {
+        "object": "Inventure",
+        "c02": 50
+      },
+      {
+        "object": "Zolar",
+        "c02": 63
+      },
+      {
+        "object": "Brainquil",
+        "c02": 84
+      },
+      {
+        "object": "Orbin",
+        "c02": 48
+      },
+      {
+        "object": "Neocent",
+        "c02": 51
       }
     ]
   },
@@ -3648,403 +2838,1213 @@
     "year": 2022,
     "data": [
       {
-        "company": "Kengen",
-        "c02": 19
+        "object": "Sybixtex",
+        "c02": 16
       },
       {
-        "company": "Zillacom",
-        "c02": 42
+        "object": "Vixo",
+        "c02": 53
       },
       {
-        "company": "Crustatia",
-        "c02": 59
+        "object": "Greeker",
+        "c02": 70
       },
       {
-        "company": "Lunchpad",
-        "c02": 78
+        "object": "Ohmnet",
+        "c02": 44
       },
       {
-        "company": "Waretel",
-        "c02": 30
+        "object": "Zerbina",
+        "c02": 76
       },
       {
-        "company": "Olucore",
-        "c02": 74
-      },
-      {
-        "company": "Entropix",
-        "c02": 89
-      },
-      {
-        "company": "Proflex",
-        "c02": 12
-      },
-      {
-        "company": "Supremia",
-        "c02": 95
-      },
-      {
-        "company": "Visalia",
-        "c02": 50
-      },
-      {
-        "company": "Furnigeer",
-        "c02": 52
-      },
-      {
-        "company": "Sustenza",
-        "c02": 69
-      },
-      {
-        "company": "Geekular",
-        "c02": 87
-      },
-      {
-        "company": "Comdom",
-        "c02": 57
-      },
-      {
-        "company": "Farmage",
-        "c02": 51
-      },
-      {
-        "company": "Joviold",
-        "c02": 75
-      },
-      {
-        "company": "Canopoly",
-        "c02": 15
-      },
-      {
-        "company": "Rockyard",
-        "c02": 18
-      },
-      {
-        "company": "Combogen",
-        "c02": 47
-      },
-      {
-        "company": "Speedbolt",
-        "c02": 36
-      },
-      {
-        "company": "Sequitur",
-        "c02": 82
-      },
-      {
-        "company": "Endipine",
-        "c02": 23
-      },
-      {
-        "company": "Emoltra",
-        "c02": 99
-      },
-      {
-        "company": "Duoflex",
-        "c02": 22
-      },
-      {
-        "company": "Venoflex",
-        "c02": 33
-      },
-      {
-        "company": "Qaboos",
-        "c02": 42
-      },
-      {
-        "company": "Bovis",
-        "c02": 1
-      },
-      {
-        "company": "Geeky",
-        "c02": 39
-      },
-      {
-        "company": "Stelaecor",
-        "c02": 97
-      },
-      {
-        "company": "Cyclonica",
-        "c02": 2
-      },
-      {
-        "company": "Firewax",
-        "c02": 21
-      },
-      {
-        "company": "Podunk",
-        "c02": 28
-      },
-      {
-        "company": "Lunchpod",
-        "c02": 95
-      },
-      {
-        "company": "Electonic",
-        "c02": 96
-      },
-      {
-        "company": "Grok",
+        "object": "Quizka",
         "c02": 32
       },
       {
-        "company": "Zillidium",
-        "c02": 37
+        "object": "Urbanshee",
+        "c02": 36
       },
       {
-        "company": "Zytrax",
-        "c02": 25
+        "object": "Qot",
+        "c02": 71
       },
       {
-        "company": "Bolax",
+        "object": "Extremo",
+        "c02": 12
+      },
+      {
+        "object": "Ovolo",
         "c02": 30
       },
       {
-        "company": "Realysis",
-        "c02": 77
+        "object": "Exoblue",
+        "c02": 33
       },
       {
-        "company": "Zboo",
-        "c02": 35
+        "object": "Acusage",
+        "c02": 98
       },
       {
-        "company": "Xylar",
-        "c02": 100
-      },
-      {
-        "company": "Lexicondo",
-        "c02": 15
-      },
-      {
-        "company": "Farmex",
-        "c02": 40
-      },
-      {
-        "company": "Qualitern",
-        "c02": 2
-      },
-      {
-        "company": "Equicom",
-        "c02": 92
-      },
-      {
-        "company": "Bytrex",
-        "c02": 59
-      },
-      {
-        "company": "Adornica",
-        "c02": 92
-      },
-      {
-        "company": "Stockpost",
-        "c02": 65
-      },
-      {
-        "company": "Supportal",
-        "c02": 49
-      },
-      {
-        "company": "Eyeris",
-        "c02": 82
-      },
-      {
-        "company": "Bristo",
-        "c02": 47
-      },
-      {
-        "company": "Updat",
-        "c02": 38
-      },
-      {
-        "company": "Amril",
-        "c02": 27
-      },
-      {
-        "company": "Confrenzy",
-        "c02": 92
-      },
-      {
-        "company": "Obliq",
-        "c02": 19
-      },
-      {
-        "company": "Comvex",
-        "c02": 8
-      },
-      {
-        "company": "Netbook",
-        "c02": 66
-      },
-      {
-        "company": "Aquazure",
-        "c02": 47
-      },
-      {
-        "company": "Polarium",
-        "c02": 41
-      },
-      {
-        "company": "Providco",
-        "c02": 42
-      },
-      {
-        "company": "Slax",
-        "c02": 54
-      },
-      {
-        "company": "Aquasure",
-        "c02": 70
-      },
-      {
-        "company": "Hatology",
-        "c02": 25
-      },
-      {
-        "company": "Remotion",
-        "c02": 69
-      },
-      {
-        "company": "Dentrex",
-        "c02": 17
-      },
-      {
-        "company": "Fitcore",
-        "c02": 6
-      },
-      {
-        "company": "Shadease",
+        "object": "Frolix",
         "c02": 95
       },
       {
-        "company": "Nebulean",
-        "c02": 21
+        "object": "Conferia",
+        "c02": 52
       },
       {
-        "company": "Geekwagon",
-        "c02": 71
-      },
-      {
-        "company": "Pheast",
-        "c02": 4
-      },
-      {
-        "company": "Realmo",
-        "c02": 47
-      },
-      {
-        "company": "Geekmosis",
-        "c02": 23
-      },
-      {
-        "company": "Artiq",
-        "c02": 31
-      },
-      {
-        "company": "Kongene",
-        "c02": 56
-      },
-      {
-        "company": "Koffee",
-        "c02": 79
-      },
-      {
-        "company": "Fishland",
-        "c02": 55
-      },
-      {
-        "company": "Caxt",
-        "c02": 54
-      },
-      {
-        "company": "Zanilla",
+        "object": "Columella",
         "c02": 83
       },
       {
-        "company": "Enervate",
-        "c02": 56
+        "object": "Franscene",
+        "c02": 4
       },
       {
-        "company": "Zolarity",
-        "c02": 71
+        "object": "Zensure",
+        "c02": 29
       },
       {
-        "company": "Volax",
-        "c02": 6
+        "object": "Arctiq",
+        "c02": 93
       },
       {
-        "company": "Accufarm",
-        "c02": 20
+        "object": "Honotron",
+        "c02": 19
       },
       {
-        "company": "Gonkle",
-        "c02": 48
+        "object": "Dragbot",
+        "c02": 43
       },
       {
-        "company": "Imaginart",
-        "c02": 5
+        "object": "Medicroix",
+        "c02": 25
       },
       {
-        "company": "Futuris",
-        "c02": 64
-      },
-      {
-        "company": "Comcubine",
-        "c02": 70
-      },
-      {
-        "company": "Dreamia",
-        "c02": 65
-      },
-      {
-        "company": "Parcoe",
-        "c02": 58
-      },
-      {
-        "company": "Paprikut",
-        "c02": 78
-      },
-      {
-        "company": "Datacator",
-        "c02": 58
-      },
-      {
-        "company": "Tubalum",
-        "c02": 56
-      },
-      {
-        "company": "Talkalot",
-        "c02": 82
-      },
-      {
-        "company": "Zaggles",
-        "c02": 11
-      },
-      {
-        "company": "Futurize",
-        "c02": 74
-      },
-      {
-        "company": "Xiix",
-        "c02": 47
-      },
-      {
-        "company": "Kindaloo",
-        "c02": 59
-      },
-      {
-        "company": "Quadeebo",
-        "c02": 21
-      },
-      {
-        "company": "Waab",
-        "c02": 67
-      },
-      {
-        "company": "Songlines",
+        "object": "Securia",
         "c02": 87
       },
       {
-        "company": "Vicon",
+        "object": "Earthwax",
+        "c02": 65
+      },
+      {
+        "object": "Comverges",
+        "c02": 40
+      },
+      {
+        "object": "Everest",
+        "c02": 55
+      },
+      {
+        "object": "Comvene",
+        "c02": 11
+      },
+      {
+        "object": "Turnabout",
+        "c02": 5
+      },
+      {
+        "object": "Flum",
+        "c02": 84
+      },
+      {
+        "object": "Eplosion",
+        "c02": 55
+      },
+      {
+        "object": "Cubicide",
+        "c02": 35
+      },
+      {
+        "object": "Buzzmaker",
+        "c02": 33
+      },
+      {
+        "object": "Sunclipse",
+        "c02": 23
+      },
+      {
+        "object": "Lovepad",
+        "c02": 46
+      },
+      {
+        "object": "Exerta",
+        "c02": 80
+      },
+      {
+        "object": "Gushkool",
+        "c02": 2
+      },
+      {
+        "object": "Recognia",
+        "c02": 40
+      },
+      {
+        "object": "Ewaves",
+        "c02": 30
+      },
+      {
+        "object": "Centrexin",
+        "c02": 84
+      },
+      {
+        "object": "Sensate",
+        "c02": 49
+      },
+      {
+        "object": "Ginkogene",
+        "c02": 68
+      },
+      {
+        "object": "Songbird",
+        "c02": 63
+      },
+      {
+        "object": "Hawkster",
+        "c02": 40
+      },
+      {
+        "object": "Talkola",
+        "c02": 58
+      },
+      {
+        "object": "Accuprint",
+        "c02": 71
+      },
+      {
+        "object": "Musix",
+        "c02": 55
+      },
+      {
+        "object": "Apextri",
+        "c02": 68
+      },
+      {
+        "object": "Eplode",
+        "c02": 16
+      },
+      {
+        "object": "Utara",
+        "c02": 11
+      },
+      {
+        "object": "Grupoli",
+        "c02": 18
+      },
+      {
+        "object": "Plexia",
+        "c02": 73
+      },
+      {
+        "object": "Medifax",
+        "c02": 92
+      },
+      {
+        "object": "Flotonic",
+        "c02": 65
+      },
+      {
+        "object": "Petigems",
+        "c02": 24
+      },
+      {
+        "object": "Xyqag",
+        "c02": 95
+      },
+      {
+        "object": "Cedward",
+        "c02": 51
+      },
+      {
+        "object": "Eyewax",
+        "c02": 76
+      },
+      {
+        "object": "Norsup",
+        "c02": 95
+      },
+      {
+        "object": "Zipak",
+        "c02": 47
+      },
+      {
+        "object": "Zytrex",
+        "c02": 74
+      },
+      {
+        "object": "Orbaxter",
+        "c02": 45
+      },
+      {
+        "object": "Colaire",
+        "c02": 17
+      },
+      {
+        "object": "Magmina",
+        "c02": 1
+      },
+      {
+        "object": "Genesynk",
+        "c02": 33
+      },
+      {
+        "object": "Bitrex",
+        "c02": 17
+      },
+      {
+        "object": "Zaggle",
+        "c02": 11
+      },
+      {
+        "object": "Codact",
+        "c02": 89
+      },
+      {
+        "object": "Earthpure",
+        "c02": 19
+      },
+      {
+        "object": "Tourmania",
+        "c02": 1
+      },
+      {
+        "object": "Orbalix",
+        "c02": 38
+      },
+      {
+        "object": "Fiberox",
+        "c02": 77
+      },
+      {
+        "object": "Vertide",
+        "c02": 32
+      },
+      {
+        "object": "Zolavo",
+        "c02": 46
+      },
+      {
+        "object": "Pulze",
+        "c02": 26
+      },
+      {
+        "object": "Comcur",
+        "c02": 65
+      },
+      {
+        "object": "Netur",
+        "c02": 94
+      },
+      {
+        "object": "Multiflex",
+        "c02": 16
+      },
+      {
+        "object": "Ziggles",
+        "c02": 24
+      },
+      {
+        "object": "Gynk",
+        "c02": 2
+      },
+      {
+        "object": "Deminimum",
+        "c02": 79
+      },
+      {
+        "object": "Zizzle",
+        "c02": 31
+      },
+      {
+        "object": "Kaggle",
+        "c02": 9
+      },
+      {
+        "object": "Zanymax",
+        "c02": 63
+      },
+      {
+        "object": "Wazzu",
+        "c02": 76
+      },
+      {
+        "object": "Zaj",
+        "c02": 74
+      },
+      {
+        "object": "Enthaze",
+        "c02": 83
+      },
+      {
+        "object": "Essensia",
+        "c02": 28
+      },
+      {
+        "object": "Syntac",
+        "c02": 17
+      },
+      {
+        "object": "Geeketron",
+        "c02": 16
+      },
+      {
+        "object": "Micronaut",
+        "c02": 7
+      },
+      {
+        "object": "Zidant",
+        "c02": 95
+      },
+      {
+        "object": "Cablam",
+        "c02": 59
+      },
+      {
+        "object": "Permadyne",
+        "c02": 56
+      },
+      {
+        "object": "Xerex",
+        "c02": 39
+      },
+      {
+        "object": "Zyple",
+        "c02": 82
+      },
+      {
+        "object": "Imkan",
+        "c02": 79
+      },
+      {
+        "object": "Zedalis",
+        "c02": 40
+      },
+      {
+        "object": "Calcu",
+        "c02": 4
+      },
+      {
+        "object": "Filodyne",
+        "c02": 2
+      },
+      {
+        "object": "Zorromop",
+        "c02": 20
+      },
+      {
+        "object": "Earthmark",
+        "c02": 82
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "data": [
+      {
+        "object": "Sportan",
+        "c02": 85
+      },
+      {
+        "object": "Talendula",
+        "c02": 24
+      },
+      {
+        "object": "Centree",
+        "c02": 62
+      },
+      {
+        "object": "Centuria",
+        "c02": 76
+      },
+      {
+        "object": "Magnemo",
+        "c02": 30
+      },
+      {
+        "object": "Motovate",
+        "c02": 12
+      },
+      {
+        "object": "Fortean",
+        "c02": 61
+      },
+      {
+        "object": "Tetratrex",
+        "c02": 37
+      },
+      {
+        "object": "Gleamink",
+        "c02": 4
+      },
+      {
+        "object": "Gronk",
+        "c02": 47
+      },
+      {
+        "object": "Pyramia",
+        "c02": 45
+      },
+      {
+        "object": "Xanide",
+        "c02": 62
+      },
+      {
+        "object": "Applidec",
+        "c02": 9
+      },
+      {
+        "object": "Xelegyl",
+        "c02": 31
+      },
+      {
+        "object": "Trasola",
+        "c02": 82
+      },
+      {
+        "object": "Liquidoc",
+        "c02": 57
+      },
+      {
+        "object": "Twiggery",
+        "c02": 37
+      },
+      {
+        "object": "Extro",
+        "c02": 79
+      },
+      {
+        "object": "Austech",
+        "c02": 59
+      },
+      {
+        "object": "Thredz",
+        "c02": 35
+      },
+      {
+        "object": "Zillactic",
+        "c02": 88
+      },
+      {
+        "object": "Overplex",
+        "c02": 68
+      },
+      {
+        "object": "Isoplex",
+        "c02": 87
+      },
+      {
+        "object": "Cytrex",
+        "c02": 8
+      },
+      {
+        "object": "Polarax",
+        "c02": 88
+      },
+      {
+        "object": "Velity",
+        "c02": 68
+      },
+      {
+        "object": "Decratex",
+        "c02": 46
+      },
+      {
+        "object": "Zinca",
+        "c02": 19
+      },
+      {
+        "object": "Comfirm",
+        "c02": 70
+      },
+      {
+        "object": "Zoxy",
+        "c02": 17
+      },
+      {
+        "object": "Obones",
+        "c02": 90
+      },
+      {
+        "object": "Exotechno",
+        "c02": 94
+      },
+      {
+        "object": "Marvane",
+        "c02": 76
+      },
+      {
+        "object": "Roboid",
+        "c02": 29
+      },
+      {
+        "object": "Anixang",
+        "c02": 35
+      },
+      {
+        "object": "Quarx",
+        "c02": 40
+      },
+      {
+        "object": "Equitax",
+        "c02": 8
+      },
+      {
+        "object": "Radiantix",
+        "c02": 57
+      },
+      {
+        "object": "Austex",
+        "c02": 6
+      },
+      {
+        "object": "Eventage",
+        "c02": 33
+      },
+      {
+        "object": "Emtrac",
+        "c02": 34
+      },
+      {
+        "object": "Cosmosis",
+        "c02": 3
+      },
+      {
+        "object": "Otherway",
+        "c02": 41
+      },
+      {
+        "object": "Buzzness",
+        "c02": 47
+      },
+      {
+        "object": "Mazuda",
+        "c02": 57
+      },
+      {
+        "object": "Vendblend",
+        "c02": 1
+      },
+      {
+        "object": "Knowlysis",
+        "c02": 7
+      },
+      {
+        "object": "Valpreal",
+        "c02": 4
+      },
+      {
+        "object": "Mangelica",
+        "c02": 44
+      },
+      {
+        "object": "Trollery",
+        "c02": 30
+      },
+      {
+        "object": "Sealoud",
+        "c02": 24
+      },
+      {
+        "object": "Biohab",
+        "c02": 49
+      },
+      {
+        "object": "Plasto",
+        "c02": 42
+      },
+      {
+        "object": "Exposa",
+        "c02": 46
+      },
+      {
+        "object": "Kyagoro",
+        "c02": 54
+      },
+      {
+        "object": "Namebox",
+        "c02": 35
+      },
+      {
+        "object": "Zogak",
+        "c02": 73
+      },
+      {
+        "object": "Digiprint",
+        "c02": 70
+      },
+      {
+        "object": "Atgen",
+        "c02": 69
+      },
+      {
+        "object": "Medesign",
+        "c02": 46
+      },
+      {
+        "object": "Bulljuice",
+        "c02": 25
+      },
+      {
+        "object": "Isostream",
+        "c02": 72
+      },
+      {
+        "object": "Zenthall",
+        "c02": 97
+      },
+      {
+        "object": "Zilodyne",
+        "c02": 11
+      },
+      {
+        "object": "Sentia",
+        "c02": 10
+      },
+      {
+        "object": "Playce",
+        "c02": 98
+      },
+      {
+        "object": "Tersanki",
+        "c02": 75
+      },
+      {
+        "object": "Isosure",
+        "c02": 42
+      },
+      {
+        "object": "Netplax",
+        "c02": 99
+      },
+      {
+        "object": "Ezentia",
+        "c02": 53
+      },
+      {
+        "object": "Glukgluk",
+        "c02": 41
+      },
+      {
+        "object": "Signidyne",
+        "c02": 100
+      },
+      {
+        "object": "Gynko",
+        "c02": 52
+      },
+      {
+        "object": "Keeg",
+        "c02": 47
+      },
+      {
+        "object": "Dymi",
+        "c02": 17
+      },
+      {
+        "object": "Velos",
+        "c02": 95
+      },
+      {
+        "object": "Dognosis",
+        "c02": 68
+      },
+      {
+        "object": "Comveyer",
+        "c02": 11
+      },
+      {
+        "object": "Xleen",
+        "c02": 52
+      },
+      {
+        "object": "Terascape",
+        "c02": 50
+      },
+      {
+        "object": "Chillium",
+        "c02": 94
+      },
+      {
+        "object": "Protodyne",
+        "c02": 83
+      },
+      {
+        "object": "Ceprene",
+        "c02": 85
+      },
+      {
+        "object": "Digigen",
+        "c02": 69
+      },
+      {
+        "object": "Danja",
+        "c02": 58
+      },
+      {
+        "object": "Reversus",
+        "c02": 34
+      },
+      {
+        "object": "Biotica",
+        "c02": 68
+      },
+      {
+        "object": "Telequiet",
+        "c02": 75
+      },
+      {
+        "object": "Enomen",
+        "c02": 38
+      },
+      {
+        "object": "Unisure",
+        "c02": 89
+      },
+      {
+        "object": "Xinware",
+        "c02": 95
+      },
+      {
+        "object": "Avit",
+        "c02": 26
+      },
+      {
+        "object": "Extragene",
+        "c02": 79
+      },
+      {
+        "object": "Magnafone",
+        "c02": 17
+      },
+      {
+        "object": "Zepitope",
+        "c02": 37
+      },
+      {
+        "object": "Bedder",
+        "c02": 90
+      },
+      {
+        "object": "Eventex",
+        "c02": 84
+      },
+      {
+        "object": "Cubix",
+        "c02": 61
+      },
+      {
+        "object": "Straloy",
+        "c02": 64
+      },
+      {
+        "object": "Enersol",
+        "c02": 87
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "data": [
+      {
+        "object": "Kengen",
+        "c02": 19
+      },
+      {
+        "object": "Zillacom",
+        "c02": 42
+      },
+      {
+        "object": "Crustatia",
+        "c02": 59
+      },
+      {
+        "object": "Lunchpad",
+        "c02": 78
+      },
+      {
+        "object": "Waretel",
+        "c02": 30
+      },
+      {
+        "object": "Olucore",
+        "c02": 74
+      },
+      {
+        "object": "Entropix",
+        "c02": 89
+      },
+      {
+        "object": "Proflex",
+        "c02": 12
+      },
+      {
+        "object": "Supremia",
+        "c02": 95
+      },
+      {
+        "object": "Visalia",
+        "c02": 50
+      },
+      {
+        "object": "Furnigeer",
+        "c02": 52
+      },
+      {
+        "object": "Sustenza",
+        "c02": 69
+      },
+      {
+        "object": "Geekular",
+        "c02": 87
+      },
+      {
+        "object": "Comdom",
+        "c02": 57
+      },
+      {
+        "object": "Farmage",
+        "c02": 51
+      },
+      {
+        "object": "Joviold",
+        "c02": 75
+      },
+      {
+        "object": "Canopoly",
+        "c02": 15
+      },
+      {
+        "object": "Rockyard",
+        "c02": 18
+      },
+      {
+        "object": "Combogen",
+        "c02": 47
+      },
+      {
+        "object": "Speedbolt",
+        "c02": 36
+      },
+      {
+        "object": "Sequitur",
+        "c02": 82
+      },
+      {
+        "object": "Endipine",
+        "c02": 23
+      },
+      {
+        "object": "Emoltra",
+        "c02": 99
+      },
+      {
+        "object": "Duoflex",
+        "c02": 22
+      },
+      {
+        "object": "Venoflex",
+        "c02": 33
+      },
+      {
+        "object": "Qaboos",
+        "c02": 42
+      },
+      {
+        "object": "Bovis",
+        "c02": 1
+      },
+      {
+        "object": "Geeky",
+        "c02": 39
+      },
+      {
+        "object": "Stelaecor",
+        "c02": 97
+      },
+      {
+        "object": "Cyclonica",
+        "c02": 2
+      },
+      {
+        "object": "Firewax",
+        "c02": 21
+      },
+      {
+        "object": "Podunk",
+        "c02": 28
+      },
+      {
+        "object": "Lunchpod",
+        "c02": 95
+      },
+      {
+        "object": "Electonic",
+        "c02": 96
+      },
+      {
+        "object": "Grok",
+        "c02": 32
+      },
+      {
+        "object": "Zillidium",
+        "c02": 37
+      },
+      {
+        "object": "Zytrax",
+        "c02": 25
+      },
+      {
+        "object": "Bolax",
+        "c02": 30
+      },
+      {
+        "object": "Realysis",
+        "c02": 77
+      },
+      {
+        "object": "Zboo",
+        "c02": 35
+      },
+      {
+        "object": "Xylar",
+        "c02": 100
+      },
+      {
+        "object": "Lexicondo",
+        "c02": 15
+      },
+      {
+        "object": "Farmex",
+        "c02": 40
+      },
+      {
+        "object": "Qualitern",
+        "c02": 2
+      },
+      {
+        "object": "Equicom",
+        "c02": 92
+      },
+      {
+        "object": "Bytrex",
+        "c02": 59
+      },
+      {
+        "object": "Adornica",
+        "c02": 92
+      },
+      {
+        "object": "Stockpost",
+        "c02": 65
+      },
+      {
+        "object": "Supportal",
+        "c02": 49
+      },
+      {
+        "object": "Eyeris",
+        "c02": 82
+      },
+      {
+        "object": "Bristo",
+        "c02": 47
+      },
+      {
+        "object": "Updat",
+        "c02": 38
+      },
+      {
+        "object": "Amril",
+        "c02": 27
+      },
+      {
+        "object": "Confrenzy",
+        "c02": 92
+      },
+      {
+        "object": "Obliq",
+        "c02": 19
+      },
+      {
+        "object": "Comvex",
+        "c02": 8
+      },
+      {
+        "object": "Netbook",
+        "c02": 66
+      },
+      {
+        "object": "Aquazure",
+        "c02": 47
+      },
+      {
+        "object": "Polarium",
+        "c02": 41
+      },
+      {
+        "object": "Providco",
+        "c02": 42
+      },
+      {
+        "object": "Slax",
+        "c02": 54
+      },
+      {
+        "object": "Aquasure",
+        "c02": 70
+      },
+      {
+        "object": "Hatology",
+        "c02": 25
+      },
+      {
+        "object": "Remotion",
+        "c02": 69
+      },
+      {
+        "object": "Dentrex",
+        "c02": 17
+      },
+      {
+        "object": "Fitcore",
+        "c02": 6
+      },
+      {
+        "object": "Shadease",
+        "c02": 95
+      },
+      {
+        "object": "Nebulean",
+        "c02": 21
+      },
+      {
+        "object": "Geekwagon",
+        "c02": 71
+      },
+      {
+        "object": "Pheast",
+        "c02": 4
+      },
+      {
+        "object": "Realmo",
+        "c02": 47
+      },
+      {
+        "object": "Geekmosis",
+        "c02": 23
+      },
+      {
+        "object": "Artiq",
+        "c02": 31
+      },
+      {
+        "object": "Kongene",
+        "c02": 56
+      },
+      {
+        "object": "Koffee",
+        "c02": 79
+      },
+      {
+        "object": "Fishland",
+        "c02": 55
+      },
+      {
+        "object": "Caxt",
+        "c02": 54
+      },
+      {
+        "object": "Zanilla",
+        "c02": 83
+      },
+      {
+        "object": "Enervate",
+        "c02": 56
+      },
+      {
+        "object": "Zolarity",
+        "c02": 71
+      },
+      {
+        "object": "Volax",
+        "c02": 6
+      },
+      {
+        "object": "Accufarm",
+        "c02": 20
+      },
+      {
+        "object": "Gonkle",
+        "c02": 48
+      },
+      {
+        "object": "Imaginart",
+        "c02": 5
+      },
+      {
+        "object": "Futuris",
+        "c02": 64
+      },
+      {
+        "object": "Comcubine",
+        "c02": 70
+      },
+      {
+        "object": "Dreamia",
+        "c02": 65
+      },
+      {
+        "object": "Parcoe",
+        "c02": 58
+      },
+      {
+        "object": "Paprikut",
+        "c02": 78
+      },
+      {
+        "object": "Datacator",
+        "c02": 58
+      },
+      {
+        "object": "Tubalum",
+        "c02": 56
+      },
+      {
+        "object": "Talkalot",
+        "c02": 82
+      },
+      {
+        "object": "Zaggles",
+        "c02": 11
+      },
+      {
+        "object": "Futurize",
+        "c02": 74
+      },
+      {
+        "object": "Xiix",
+        "c02": 47
+      },
+      {
+        "object": "Kindaloo",
+        "c02": 59
+      },
+      {
+        "object": "Quadeebo",
+        "c02": 21
+      },
+      {
+        "object": "Waab",
+        "c02": 67
+      },
+      {
+        "object": "Songlines",
+        "c02": 87
+      },
+      {
+        "object": "Vicon",
         "c02": 55
       }
     ]
