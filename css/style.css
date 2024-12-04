@@ -1,1 +1,125 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    min-height: 100%;
+    align-content: stretch;
+ 
+} 
+.top-nav {  
+
+    background-color:#fbfbfb; 
+    box-shadow: 0 4px 8px #0eac001a; 
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.side-menue {
+    background-image: linear-gradient(#0eac001a,#fff);
+}
+.side-menue ul {
+    margin: 1em;
+    list-style-type: none; 
+    padding: 0;
+} 
+.table-content p{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.table-content select, .table-content input{
+    margin: 0.5em;
+}
+.table-content table{
+    margin-top: 0.5em;
+    border-collapse: collapse;
+}
+.table-content th {
+    min-width: 25vw;
+    background-color: #a7a7a7;
+}
+.table-content td {
+    border: 1px solid #ddd;
+    background-color: #bac2ba1a;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Media Queries for Smaller Screens */ 
+@media (max-width: 768px) {
+    header.top-nav {  
+        position: fixed;
+        width: 100%;
+    } 
+    .logo img {
+        max-height: 60px;
+    }
+    .header-nav ul {
+        margin: 1em;
+        display: flex;
+        list-style-type: none;
+        padding: 0;
+        gap: 0.5em;
+    }
+    
+    .content-container {
+        display: flex;
+        flex-direction: column;
+        margin-block-start: 4em;
+        margin-block-end: 4em;
+    }
+    .side-menue ul li{
+        text-decoration: none;
+        display: inline-block;
+        margin-inline-start: 1em;
+    }
+    .table-content{
+        margin: 1em;
+        height: 80vh;
+        flex: 1;
+        min-height: min-content;
+        overflow: auto;
+    }
+}
+@media (min-width: 769px) {
+    .logo img {
+        max-height: 100px;
+    }
+    .header-nav ul {
+        margin: 2em;
+        display: flex;
+        list-style-type: none;
+        padding: 0;
+        gap: 3em;
+    }
+    
+    .content-container {
+        display: flex;
+        flex-direction: row;
+
+    }
+
+    .side-menue ul li{
+        text-decoration: none;
+        margin-top: 0.3em;
+    }
+    .table-content{
+        margin: 3em;
+        height: 80vh;
+        flex: 1;
+        min-height: min-content;
+        overflow: auto;
+    }
+
+}
 
