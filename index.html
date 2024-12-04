@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <!-- Header mit Titel und verknüpfung zum JS-Skript -->
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>C0²-Ausstoss</title>
+        <link rel="stylesheet" href ="css/style.css">
+        <script src = "js/script.js" async></script>
+    </head>
+    <body>
+        <!-- Bereich für Top-Navigation und Logo -->
+        <header class="top-nav">
+            <div class="logo">
+                <img src="logo.PNG" alt="Logo" onclick="changeDirection()">
+            </div>
+            <nav class="header-nav">
+                <ul>
+                    <a href="default.asp">Home</a>
+                    <a href="news.asp">Neuigkeiten</a>           
+                    <a href="contact.asp">Kontakt</a>
+                    <a href="about.asp">Über</a>
+                </ul>
+            </nav>    
+        </header>
+        <!-- Seitenmenü und Tabellenbereich -->
+        <main class="content-container">
+            <div class="side-menue">
+                <ul>
+                    <li><a href="#">Projekte</a></li>
+                    <li><a href="#">Team</a></li>
+                    <li><a href="#">Unterstützung</a></li>
+                </ul>
+            </div>
+            <div class="table-content">
+                <!-- Titel des Bereichs -->
+                <p>Übersicht C0² Emissionen</p>
+                <!-- Selektoren und Eingabegfeld für Filter -->         
+                <select id="year" name="Jahr" onchange="newSelection()"></select>
+                <select id="content" name="Land/Unternehmen" onchange="newSelection()">
+                    <option value="">Bitte auswählen</option>
+                    <option value="Land">Länder</option>
+                    <option value="Unternehmen">Unternehmen</option>
+                </select>
+                <input type="text" id="filter" onkeyup="readInput()" placeholder="Suche...">
+                <!-- Leere Tabelle. Inhalt wird mittels JS generiert -->
+                <table class="table" id="dataTable" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th id="headerOne" data-column="subject" onclick="sortTable(0)"></th>
+                            <th id="headerTwo" data-column="c02" onclick="sortTable(1)"></th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </main>
+        <!-- Footer mit gesetzlichen Hinweisen -->
+        <footer>
+            <p>&copy; 2024 Emission Watchdog. Alle Rechte vorbehalten.</p>
+        </footer>
+    </body>
+</html>
